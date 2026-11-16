@@ -1,0 +1,19 @@
+# Módulo l4 — Significado, sentido e referente. Acrescente questões novas sempre no fim.
+CE | C | Significado é o valor que a palavra tem no sistema da língua, enquanto sentido é o valor que ela assume em um contexto específico. | O sentido é contextual; o significado é lexical.
+CE | E | Toda palavra com significado possui um referente no mundo real. | Dragão e unicórnio têm significado, mas não têm referente real.
+CE | C | Expressões diferentes podem ter o mesmo referente e sentidos diferentes. | O clássico de Frege: estrela da manhã e estrela da tarde apontam para Vênus.
+CE | C | Chamar a Câmara dos Deputados de Casa do povo mantém o referente, mas acrescenta um valor avaliativo. | Correferência com sentidos diferentes.
+CE | E | Ao qualificar a Câmara como Casa de negócios, o autor altera o referente da expressão. | O referente é o mesmo; muda a avaliação, ou seja, a conotação.
+CE | E | Denotação é o sentido correto das palavras, ao passo que conotação é o sentido incorreto. | Nenhuma é mais correta; a conotação depende de contexto e cultura.
+CE | C | No triângulo semântico, a relação entre a palavra e a coisa é indireta, pois passa pelo conceito. | Símbolo, pensamento ou referência, e referente.
+CE | C | A frase O relator disse ao presidente que ele estava errado apresenta ambiguidade referencial. | O pronome ele pode retomar tanto o relator quanto o presidente.
+CE | E | Em textos de redação oficial, a ambiguidade é recurso estilístico desejável. | Fere a clareza e a precisão exigidas; em textos literários pode ser recurso.
+CE | C | Campo lexical reúne palavras do mesmo radical, ao passo que campo semântico reúne palavras ligadas a um mesmo tema. | Importante e importância: lexical. Relator, emenda e plenário: semântico.
+CE | E | As palavras importante e importância pertencem ao mesmo campo semântico em qualquer texto. | Compartilham campo lexical; o campo semântico depende do tema do texto.
+CE | C | Os termos invasão e ocupação, ao designarem o mesmo fato, podem revelar pontos de vista diferentes do enunciador. | São antônimos argumentativos: a escolha marca posição.
+CE | C | Em O deputado conversou com o assessor em seu gabinete, a ambiguidade é de natureza estrutural. | A organização da frase permite duas leituras para o possessivo.
+CE | C | A passagem de ministro como servo para ministro como alta autoridade ilustra melhoria semântica. | Mudança de sentido ao longo do tempo.
+CE | C | O contexto, o conhecimento de mundo e o campo semântico ajudam a eliminar leituras incompatíveis de uma expressão ambígua. | São os recursos de desambiguação.
+AB | Cadeira como cargo no Senado, em ocupa uma cadeira no Senado, é exemplo de... | sentido contextual | referente | O sentido é o valor da palavra no enunciado; o referente é a coisa do mundo.
+AB | O campo semântico de plenário, relator, emenda e votação é... | o Parlamento | o radical comum | Mesmo radical é campo lexical; aqui o critério é o tema.
+AB | Estrela da manhã e estrela da tarde, ambas apontando para Vênus, ilustram... | mesmo referente, sentidos diferentes | mesmo sentido, referentes diferentes | É o exemplo de Frege sobre sentido e referência.

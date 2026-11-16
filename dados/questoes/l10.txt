@@ -1,0 +1,19 @@
+# Módulo l10 — Implícitos: pressuposto e subentendido. Acrescente questões novas sempre no fim.
+CE | C | O pressuposto decorre de marcas linguísticas presentes no enunciado. | O subentendido decorre do contexto e da intenção do falante.
+CE | E | O subentendido é uma informação que o falante não pode negar sem se contradizer. | É o pressuposto que não pode ser negado; o subentendido pode.
+CE | C | Em O deputado deixou de faltar às sessões, pressupõe-se que o deputado faltava anteriormente. | Verbos de mudança de estado, como deixar de, criam pressuposto.
+CE | C | Em O deputado não deixou de faltar às sessões, o pressuposto de que ele faltava anteriormente se mantém. | O pressuposto sobrevive à negação.
+CE | C | O advérbio ainda, em Ele ainda não votou, pressupõe que a votação deve ocorrer. | Os advérbios ainda e já são marcas de pressuposto.
+CE | C | Em Até o relator votou contra, pressupõe-se que outros também votaram contra. | O até introduz argumento mais forte e pressupõe a escala.
+CE | C | A oração adjetiva restritiva, em Os deputados que faltaram serão multados, pressupõe que alguns deputados não faltaram. | A restritiva seleciona parte do conjunto.
+CE | E | Em Os servidores, que fizeram greve, tiveram o ponto cortado, apenas parte dos servidores fez greve. | Com vírgulas, a oração é explicativa e se refere a todos os servidores.
+CE | C | Em Está calor aqui, né?, pode haver o subentendido de que se deve abrir a janela. | O subentendido depende do contexto e pode ser negado pelo falante.
+CE | C | O futuro do pretérito em O ministro teria recebido propina indica relato sem endosso do autor. | É marca de distanciamento, comum em notícias.
+CE | E | A construção O relator sabe que o custo é alto indica que o autor se distancia da informação. | Saber é verbo factivo: pressupõe a verdade do complemento.
+CE | C | Em O relator alega que o custo é alto, o autor do texto se distancia da afirmação. | Alegar é verbo que marca distanciamento.
+CE | C | Pressupor um fato pode ser estratégia argumentativa, pois o apresenta como dado, dificultando sua contestação. | O pressuposto se esconde sob a afirmação principal.
+CE | E | O pressuposto desaparece quando o enunciado que o contém é negado. | O pressuposto resiste à negação e à pergunta.
+CE | C | Em Passou a apoiar o projeto, pressupõe-se que antes não apoiava. | Passar a é verbo de mudança de estado.
+AB | Qual informação sobrevive à negação do enunciado? | o pressuposto | o subentendido | O pressuposto resiste à negação; o subentendido some se o contexto mudar.
+AB | Quais orações adjetivas vêm sem vírgula e selecionam parte do conjunto? | as restritivas | as explicativas | As explicativas, com vírgulas, referem-se a todo o conjunto.
+AB | Qual verbo indica que o autor endossa a informação? | sabe | alega | Alegar distancia; saber endossa e pressupõe a verdade.

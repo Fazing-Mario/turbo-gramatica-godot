@@ -1,0 +1,89 @@
+=== Básico
+## O que é dito e o que não é dito
+Todo enunciado diz mais do que mostra. Além do **posto** (o que se afirma abertamente), há os **implícitos**: o **pressuposto** e o **subentendido**. A banca testa se você sabe **de onde** vem cada um e **o que sobrevive à negação**.
+
+|  | Pressuposto | Subentendido |
+|---|---|---|
+| Base | **Marcas linguísticas** no próprio enunciado | **Contexto** e intenção do falante |
+| Força | **Necessário**: não dá para negar sem incoerência | **Possível**: o falante pode negar que quis dizer |
+| Responsabilidade | Do enunciado: vale para qualquer leitor | Do **leitor**, que o infere |
+| Teste | **Sobrevive à negação** e à pergunta | Some se o contexto mudar |
+| Exemplo | "O deputado **deixou de** faltar às sessões" → antes faltava | "Está calor aqui, né?" → abra a janela |
+
+- **Posto**: o conteúdo declarado. No exemplo, "O deputado agora comparece às sessões".
+- **Pressuposto**: o que o enunciado dá como já aceito. "Antes, o deputado faltava."
+- **Subentendido**: o que o falante **insinua** e pode negar ("Eu só falei que estava calor").
+
+## O teste da negação
+- Diga o contrário e veja o que **continua valendo**: "O deputado **não** deixou de faltar às sessões" → ainda se pressupõe que **faltava antes**. Isso é pressuposto.
+- O subentendido **desaparece** ou fica em aberto: "Não está calor aqui" já não pede para abrir a janela.
+- O teste vale também para a **pergunta**: "O deputado deixou de faltar?" mantém o pressuposto de que já faltou.
+
+## Marcadores de pressuposto
+| Tipo de marca | Exemplos | Pressuposto |
+|---|---|---|
+| **Advérbios** (ainda, já, agora, sempre) | "Ele **ainda** não votou." | Vai votar |
+| **Verbos de mudança de estado** (deixar de, passar a, tornar-se, continuar, voltar a) | "Passou a apoiar o projeto." | Antes não apoiava |
+| **Palavras denotativas** (até, nem mesmo, também, só) | "**Até** o relator votou contra." | Outros votaram contra |
+| **Adjetivos e numerais ordinais** (novo, primeiro, outro) | "O **novo** presidente..." | Havia um antigo |
+| **Orações adjetivas restritivas** | "Os deputados **que faltaram** serão multados." | Alguns deputados não faltaram |
+| **Orações temporais e causais** com fato dado como certo | "**Quando** o ministro saiu..." | O ministro saiu |
+| **Perguntas com pressupostos** | "Quando você parou de faltar?" | Você faltava |
+
+=== Avançado
+## Restritiva x explicativa: a pegadinha dos dois pontos
+| | Oração adjetiva restritiva | Oração adjetiva explicativa |
+|---|---|---|
+| Pontuação | **Sem vírgula** | **Com vírgulas** |
+| Função | Restringe: seleciona **parte** do conjunto | Apenas acrescenta informação sobre **todo** o conjunto |
+| Exemplo | "Os deputados **que faltaram** serão multados." | "Os deputados, **que faltaram**, serão multados." |
+| Pressuposto | Alguns deputados **não** faltaram | **Todos** faltaram |
+
+- A vírgula **muda a quantidade** de pessoas abrangidas. Reescrever acrescentando ou retirando vírgulas altera o sentido.
+- Exemplo oficial: "Os servidores, que fizeram greve, tiveram o ponto cortado" → **todos** fizeram greve. "Os servidores que fizeram greve tiveram o ponto cortado" → **apenas parte** fez greve.
+
+## O posicionamento do autor (verbos e tempos)
+| Marca | O que revela | Exemplo |
+|---|---|---|
+| **Verbos que endossam** (sabe, mostra, comprova, revela) | O autor **adere** | "O relator **sabe** que o custo é alto" → o custo é alto |
+| **Verbos que distanciam** (alega, afirma, pensa, diz, sustenta, supõe) | O autor **se distancia** | "O relator **alega** que o custo é alto" → talvez seja, talvez não |
+| **Futuro do pretérito** | Relato **sem endosso** | "O ministro **teria** recebido propina" |
+| **Aspas** | Distanciamento, ironia, citação | "A 'transparência' do processo..." |
+| **Modalizadores** | Atitude | "Infelizmente, o projeto passou" |
+
+> Verbos **factivos** (saber, lamentar, descobrir, perceber) **pressupõem** a verdade do complemento: "Sabe que o projeto foi vetado" → o projeto foi vetado. Verbos **não factivos** (achar, supor, dizer) não pressupõem.
+
+## Subentendido: contexto e implicatura
+- O subentendido nasce do **contexto**: "Está um pouco tarde, não?" dito pelo presidente da sessão pode significar "encerre a fala".
+- Em uma conversa, o falante pode **recusar** o subentendido: "Não pedi nada; só comentei a hora". Já o pressuposto o falante **não pode** recusar sem se contradizer.
+- A noção de **implicatura conversacional** (Grice), que aparece na aula sobre atos de fala, aprofunda o subentendido: o sentido extra que o ouvinte infere quando o falante **parece** violar uma regra de cooperação.
+
+## Implícito e argumentação
+- **Pressupor** é uma **estratégia argumentativa**: o autor coloca como **dado** o que deveria ser demonstrado. "Já que a reforma beneficia todos..." pressupõe o benefício universal sem provar.
+- Por isso, ler criticamente é **separar** o que o texto prova do que ele **assume**.
+- Textos de propaganda e política usam pressupostos para dificultar a contestação: contestar o pressuposto exige contestar o **enunciado todo**.
+
+## Roteiro para itens de implícito
+1. A informação está **escrita** (posto), **pressuposta** (marca linguística) ou **subentendida** (contexto)?
+2. Qual **marcador** a sustenta (advérbio, verbo de mudança, restritiva)?
+3. Ela **sobrevive à negação**? Se sim, pressuposto.
+4. Quem **assume** o conteúdo: o autor ou um terceiro (voz atribuída)?
+5. O item exige "o texto **afirma**" (posto) ou "**infere-se**" (pressuposto ou subentendido)?
+
+=== Pegadinhas
+1. "O subentendido é uma informação que o falante não pode negar." **Errado.** Isso é o pressuposto; o subentendido pode ser negado.
+2. "Em 'Os servidores, que fizeram greve, tiveram o ponto cortado', apenas parte dos servidores fez greve." **Errado.** A oração é explicativa (com vírgulas): todos fizeram greve.
+3. "Em 'O ministro teria recebido propina', o jornal afirma que o ministro recebeu propina." **Errado.** O futuro do pretérito marca relato sem endosso.
+4. "Em 'O deputado deixou de faltar às sessões', não há informação sobre o passado." **Errado.** Pressupõe que antes faltava.
+5. "Em 'O relator sabe que o custo é alto', o autor se distancia da informação." **Errado.** 'Sabe' endossa: o custo é alto.
+6. "O pressuposto desaparece quando o enunciado é negado." **Errado.** Sobrevive à negação (e à pergunta).
+7. "Em 'Até o relator votou contra', não se pode depreender que outros votaram contra." **Errado.** O 'até' pressupõe que outros também votaram.
+8. "O subentendido decorre de marcas linguísticas do próprio enunciado." **Errado.** Decorre do contexto; as marcas linguísticas sustentam o pressuposto.
+
+=== Revisão rápida
+- **Pressuposto**: marca linguística; sobrevive à negação e à pergunta. **Subentendido**: contexto; pode ser negado.
+- Marcadores: ainda, já; deixar de, passar a, voltar a; até, também; novo, primeiro; **restritivas**.
+- **Restritiva** (sem vírgula) = parte; **explicativa** (com vírgulas) = todos.
+- **Sabe que** endossa; **alega, pensa, diz** distanciam. **Teria** = sem endosso.
+- Pressupor = tratar como dado o que deveria ser provado (estratégia argumentativa).
+- Roteiro: posto, pressuposto ou subentendido; marca; negação; quem assume.

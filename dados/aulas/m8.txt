@@ -1,0 +1,135 @@
+=== Básico
+## Coesão × coerência
+- **Coesão**: as ligações gramaticais visíveis entre as partes do texto (pronomes, conectivos, sinônimos, elipses).
+- **Coerência**: a lógica do sentido, a não contradição e a relação com o mundo e com o contexto.
+- Um texto pode ser coeso e incoerente ("Choveu muito; por isso, a seca piorou") ou coerente com pouca coesão explícita (uma lista de compras).
+
+## Coesão referencial (retomar e antecipar)
+| Mecanismo | Como funciona | Exemplo |
+|---|---|---|
+| Pronomes | retomam ou anunciam termos | O ministro chegou. **Ele** falou à imprensa. |
+| Sinônimos e expressões equivalentes | evitam repetição | A **presidente**... A **chefe do Executivo**... |
+| Hiperônimo × hipônimo | termo geral retoma o específico | Comprei **rosas**. As **flores** murcharam. |
+| Nominalização | substantivo retoma uma ação | Os preços **subiram**. O **aumento** assustou. |
+| Elipse | omissão de termo identificável | Os alunos chegaram cedo e (eles) estudaram. |
+| Repetição | reforço intencional | O Brasil precisa de educação. Educação de qualidade. |
+| Advérbios de lugar | retomam espaços | Fui a Lisboa. **Lá**, aprendi muito. |
+- **Anáfora**: retoma o que veio antes. **Catáfora**: anuncia o que virá ("Só quero **isto**: paz").
+- Itens Cebraspe: "O pronome 'ele' retoma 'o ministro'" → localize o referente e confira gênero e número.
+
+## Coesão sequencial: os conectivos e suas relações
+| Relação | Conectivos | Troca possível |
+|---|---|---|
+| Adição | e, nem, também, além disso, ademais, não só... mas também | além disso ↔ ademais |
+| Oposição | mas, porém, contudo, todavia, entretanto, no entanto | todas entre si (cuidado com a pontuação) |
+| Concessão | embora, ainda que, mesmo que, apesar de, não obstante | embora + subjuntivo; apesar de + infinitivo ou substantivo |
+| Causa | porque, pois, já que, visto que, uma vez que, como | "como" só anteposto |
+| Consequência | de modo que, de forma que, tanto que | — |
+| Conclusão | logo, portanto, por isso, assim, dessa forma, então | — |
+| Condição | se, caso, desde que, contanto que | se + futuro do subj.; caso + presente do subj. |
+| Finalidade | para que, a fim de que, para | — |
+| Conformidade | conforme, segundo, consoante, de acordo com | — |
+| Tempo | quando, enquanto, assim que, logo que | — |
+| Explicação | isto é, ou seja, quer dizer, a saber | — |
+| Exemplificação | por exemplo, como, a exemplo de | — |
+| Alternância | ou, ora... ora, seja... seja | — |
+| Comparação | como, assim como, tal qual, do mesmo modo | — |
+
+> Na reescrita, troque conectivos **da mesma relação** e ajuste o modo verbal: "Embora **estude**" → "Apesar de **estudar**" → "Mesmo **estudando**". "Se você **estudar**" → "Caso você **estude**".
+
+## Semântica: relações de sentido
+- **Sinônimos**: sentido próximo (nunca idêntico em todos os contextos).
+- **Antônimos**: sentido oposto.
+- **Homônimos**: mesma pronúncia ou grafia, sentidos diferentes. **Homógrafos** (mesma grafia: o **gosto** × eu **gosto**), **homófonos** (mesmo som: cela × sela, concerto × conserto), **perfeitos** (mesma grafia e som: o **rio** × eu **rio**).
+- **Parônimos**: parecidos, mas diferentes (eminente × iminente; ratificar × retificar).
+- **Polissemia**: uma palavra com vários sentidos relacionados (pé da mesa, pé de alface, pé da página).
+- **Hiperonímia/hiponímia**: geral × específico (veículo → carro).
+- **Denotação** (sentido literal) × **conotação** (sentido figurado).
+
+=== Avançado
+## Figuras de linguagem
+| Figura | O que é | Exemplo |
+|---|---|---|
+| Metáfora | comparação implícita, sem conectivo | Meu coração é um balde despejado. |
+| Comparação (símile) | comparação com conectivo | Ele é forte **como** um touro. |
+| Metonímia | troca por relação de proximidade: autor pela obra, continente pelo conteúdo, marca pelo produto, causa pelo efeito, concreto pelo abstrato, parte pelo todo | Li **Machado**. Bebi **um copo**. Comprei um **Gillette**. Ganha a vida com o **suor**. Tem bom **coração**. Não há **teto** para os pobres. |
+| Catacrese | metáfora desgastada, por falta de termo próprio | pé da mesa, braço da cadeira, céu da boca |
+| Antonomásia (perífrase) | troca do nome por uma qualidade marcante | o **Rei do Futebol**; a **Cidade Maravilhosa** |
+| Sinestesia | mistura de sentidos | voz **doce**; cheiro **áspero**; som **colorido** |
+| Hipérbole | exagero | Já disse **mil vezes**. |
+| Eufemismo | suaviza | Ele **partiu desta para melhor**. |
+| Ironia | diz o contrário do que pensa | Que **ótimo**: perdi o ônibus. |
+| Antítese | oposição de ideias | Riso e choro; **amor** e **ódio**. |
+| Paradoxo (oxímoro) | ideias opostas no mesmo ser, ao mesmo tempo | É **dor** que desatina **sem doer**. |
+| Prosopopeia | dá traços humanos a seres não humanos | O vento **sussurrava** segredos. |
+| Gradação | ideias em sequência crescente ou decrescente | Chorou, gritou, **desesperou-se**. |
+| Apóstrofe | invocação enfática | **Ó mar salgado**, quanto do teu sal... |
+| Pleonasmo (estilístico) | repetição intencional para reforço | **Vi com meus próprios olhos**. |
+| Elipse | omissão de termo facilmente subentendido | Na sala, apenas três alunos. |
+| Zeugma | omissão de termo já citado | Ele gosta de café; ela, **de chá**. |
+| Polissíndeto | repetição de conjunção | E ri, e chora, e grita, e canta. |
+| Assíndeto | ausência de conjunção | Vim, vi, venci. |
+| Anáfora (figura) | repetição no início de versos ou frases | **Nada** temos, **nada** pedimos, **nada** devemos. |
+| Hipérbato | inversão da ordem direta | Da janela da sala a cidade inteira eu via. |
+| Aliteração / assonância | repetição de consoantes / de vogais | O **r**ato **r**oeu a **r**oupa do **r**ei. |
+| Onomatopeia | imitação de sons | O tique-taque do relógio. |
+| Silepse | concordância com a ideia, não com a palavra (gênero, número, pessoa) | **Vossa Excelência** está **cansado**. **A turma** saiu e **voltaram** tarde. **Os brasileiros somos** otimistas. |
+
+## Vícios de linguagem
+- **Pleonasmo vicioso**: subir para cima, elo de ligação, há anos atrás, encarar de frente, planos para o futuro, surpresa inesperada.
+- **Ambiguidade (anfibologia)**: duplo sentido não intencional. "O policial prendeu o ladrão **em sua casa**" (casa de quem?). "Vendem-se roupas para senhoras **de lã**".
+- **Cacofonia**: som desagradável na junção: "por **cada**", "a **boca dela**", "**nunca ganha**".
+- **Eco**: rima involuntária na prosa: "A **solução** da **questão** exige **atenção**".
+- **Barbarismo**: erro de grafia, pronúncia ou forma: "rúbrica", "seje", "menas", "poblema".
+- **Solecismo**: erro de sintaxe (concordância, regência, colocação): "Houveram falhas", "Assisti o jogo", "Me empresta".
+- **Estrangeirismo desnecessário**: "fazer um *delivery*" quando há termo próprio.
+- **Gerundismo**: "Vou estar enviando" (prefira "vou enviar" ou "enviarei").
+- **Queísmo**: excesso de "que" ("Disse que achava que era bom que fosse").
+
+## Reescrita: o que a Cebraspe avalia
+Toda reescrita deve manter **(1) a correção gramatical** e **(2) o sentido original**. Os tipos de mudança mais cobrados:
+- **Troca de conectivos**: só entre conectivos da mesma relação, com o modo verbal certo.
+- **Mudança de voz**: ativa ↔ passiva, conferindo o tempo do verbo ser e a concordância.
+- **Deslocamento de termos**: adjunto adverbial deslocado ganha vírgula; o sentido costuma se manter.
+- **Pontuação**: tirar vírgulas de oração adjetiva muda o sentido; trocar vírgulas por travessões ou parênteses geralmente mantém.
+- **Substituição de palavras**: sinônimos devem caber no contexto ("relevante" ↔ "importante", mas não "rápido" ↔ "breve" em qualquer frase).
+- **Discurso direto ↔ indireto**: ajuste de tempos e de dêiticos.
+| Direto | Indireto |
+|---|---|
+| presente ("Estou cansado") | pretérito imperfeito (disse que estava cansado) |
+| pretérito perfeito ("Saí cedo") | mais-que-perfeito (disse que tinha saído) |
+| futuro do presente ("Sairei") | futuro do pretérito (disse que sairia) |
+| imperativo ("Saia!") | imperfeito do subjuntivo (mandou que saísse) |
+| este, isto, aqui, hoje, ontem, amanhã | aquele, aquilo, lá, naquele dia, no dia anterior, no dia seguinte |
+| eu, nós, meu | ele, eles, seu |
+
+=== Pegadinhas
+## Armadilhas clássicas
+- **Trocar "mas" por "portanto"** muda a relação (oposição → conclusão).
+- **"Embora" pede subjuntivo**: "Embora ele **estude**", nunca "embora ele estuda".
+- **"Apesar de que" + subjuntivo ou indicativo**, mas "apesar de" + infinitivo/substantivo.
+- **"Como" causal só no início**: deslocar "como" para depois da principal muda o valor.
+- **Catacrese não é metáfora criativa**: é a metáfora que virou nome comum (pé da mesa).
+- **Metonímia × metáfora**: metonímia tem relação real de proximidade (autor/obra, marca/produto); metáfora é semelhança.
+- **Paradoxo × antítese**: antítese opõe ideias em seres ou momentos diferentes; paradoxo junta os opostos no mesmo ser e momento.
+- **"Há anos atrás"** é pleonasmo vicioso: "há anos" ou "anos atrás".
+- **Silepse** não é erro: é concordância com a ideia.
+- **Ambiguidade do "seu"** é a mais cobrada: resolva com "dele" ou "dela".
+
+## Itens no estilo Cebraspe (comentados)
+- "No trecho 'O índice caiu; contudo, o governo comemorou', a substituição de 'contudo' por 'entretanto' preservaria a correção e o sentido." **CERTO**: ambos adversativos.
+- "A substituição de 'Embora os gastos tenham diminuído' por 'Apesar de os gastos terem diminuído' prejudica a correção." **ERRADO**: a reescrita está correta.
+- "Em 'Li Machado de Assis nas férias', ocorre metonímia." **CERTO**: autor pela obra.
+- "A expressão 'braço da cadeira' é exemplo de catacrese." **CERTO**.
+- "Em 'O ministro disse: Vou renunciar', a reescrita em discurso indireto seria 'O ministro disse que iria renunciar'." **CERTO**.
+- "O pronome 'ela', no segundo período, retoma 'a reforma', no primeiro." **Procedimento**: volte ao texto, confira gênero, número e lógica; a Cebraspe gosta de trocar o referente pelo termo mais próximo.
+
+=== Revisão rápida
+- Coesão = ligação gramatical; coerência = lógica do sentido.
+- Referencial: pronomes, sinônimos, hiperônimos, nominalização, elipse. Anáfora retoma; catáfora anuncia.
+- Sequencial: troque conectivos só da mesma relação (oposição, concessão, causa, conclusão...).
+- Embora + subjuntivo; apesar de + infinitivo; caso + presente do subjuntivo; se + futuro do subjuntivo.
+- Homógrafos (mesma grafia), homófonos (mesmo som), parônimos (parecidos), polissemia (vários sentidos).
+- Metáfora (semelhança), metonímia (proximidade), catacrese (metáfora gasta), sinestesia (sentidos), antítese × paradoxo, prosopopeia, eufemismo, hipérbole, ironia, silepse.
+- Vícios: pleonasmo vicioso, ambiguidade, cacofonia, eco, barbarismo (forma), solecismo (sintaxe), gerundismo.
+- Reescrita: correção + sentido. Direto → indireto: presente vira imperfeito; futuro vira futuro do pretérito; hoje vira naquele dia.

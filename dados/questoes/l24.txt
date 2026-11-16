@@ -1,0 +1,19 @@
+# Módulo l24 — Normas, oralidade, escrita e preconceito linguístico. Acrescente questões novas sempre no fim.
+CE | C | A norma-padrão é um modelo idealizado, prescrito pelas gramáticas normativas, que nenhum falante realiza em todas as situações. | Já a norma culta é o uso real de falantes escolarizados.
+CE | E | Norma culta e norma-padrão são sinônimos. | A culta é o uso real; a padrão é o modelo idealizado.
+CE | C | A norma culta pode aceitar usos já estabilizados na fala de escolarizados que a norma-padrão rejeita. | Exemplo: assistir o jogo e a próclise no início da frase.
+CE | C | As normas populares, usadas por falantes com menos escolarização, são eficientes e podem motivar mudanças na língua. | Têm regras próprias.
+CE | E | A fala é sempre informal, e a escrita é sempre formal. | Há um contínuo: existem fala formal e escrita informal.
+CE | C | Para Marcuschi, oralidade e escrita formam um contínuo de gêneros, e não polos opostos. | Conferência é fala formal e planejada; bilhete é escrita informal.
+CE | E | A oralidade caracteriza-se pela ausência de regras, sendo uma forma caótica de uso da língua. | Tem regras próprias: hesitações, repetições, marcadores conversacionais.
+CE | C | Hesitações, repetições e marcadores como né e então são marcas típicas da oralidade. | Mantêm a interação e dão tempo para o planejamento.
+CE | C | A transformação de um discurso oral em texto escrito exige retextualização, e não simples correção. | Muda-se a forma, preservando o sentido do orador.
+CE | C | O preconceito linguístico, segundo Bagno, é a discriminação de pessoas pela variedade que falam e costuma esconder outros preconceitos. | Pode ser social, regional ou racial.
+CE | E | Para Bagno, o preconceito linguístico se justifica como defesa da língua contra sua deterioração. | É discriminação, e não defesa da língua.
+CE | C | A Linguística combate o preconceito linguístico sem negar a importância do ensino da norma-padrão. | Ensinar a norma amplia o repertório do aluno.
+CE | E | Para a Linguística, as variedades populares são formas erradas do português. | São variedades com regras próprias; o critério é adequação.
+CE | C | Em documentos oficiais, a norma-padrão é a exigida. | É a adequação ao gênero oficial.
+CE | C | A variedade de prestígio é assim considerada por razões sociais, e não por superioridade linguística. | O prestígio decorre do poder dos grupos que a utilizam.
+AB | O modelo idealizado, prescrito pelas gramáticas normativas, é a norma... | padrão | culta | A culta é o uso real de falantes escolarizados.
+AB | Para Marcuschi, fala e escrita formam... | um contínuo | dois polos opostos | Há fala formal e escrita informal.
+AB | Qual é uma marca típica da oralidade? | hesitação | paragrafação | A paragrafação é recurso da escrita.

@@ -1,0 +1,19 @@
+# Módulo l16 — Retórica clássica e oratória parlamentar. Acrescente questões novas sempre no fim.
+CE | C | Ethos, pathos e logos são provas retóricas que podem coexistir no mesmo discurso. | Credibilidade do orador, emoção do auditório e razão do discurso.
+CE | C | O ethos refere-se à imagem de credibilidade que o orador constrói no próprio discurso. | O pathos refere-se às emoções do auditório.
+CE | E | O pathos diz respeito à credibilidade do orador. | Credibilidade é ethos; pathos é a emoção despertada no auditório.
+CE | C | O logos fundamenta-se na razão, no uso de dados, exemplos e raciocínios. | É a prova centrada no discurso.
+CE | C | O discurso deliberativo trata do futuro e busca aconselhar ou desaconselhar uma ação. | Opõe o útil ao nocivo; é o gênero do Parlamento.
+CE | E | O discurso de um deputado na tribuna contra um projeto de lei pertence ao gênero epidítico. | É deliberativo; epidítico é elogio ou censura, como em sessão solene.
+CE | C | O gênero judiciário refere-se ao passado e opõe o justo ao injusto. | Acusar ou defender.
+CE | C | Um discurso fúnebre ou de homenagem em sessão solene pertence ao gênero epidítico. | Elogia ou censura, no presente, opondo o belo ao feio.
+CE | C | A peroração é o fecho do discurso, no qual se recapitulam os argumentos e se apela às emoções. | O exórdio é a introdução, que conquista atenção e benevolência.
+CE | E | O exórdio é a parte final do discurso. | O exórdio é o início; a peroração é o fecho.
+CE | C | A invenção, a disposição, a elocução, a memória e a ação são as cinco etapas de produção do discurso na retórica clássica. | Achar, ordenar, escolher as palavras, fixar e pronunciar.
+CE | C | Para Perelman, convencer visa à adesão racional, ao passo que persuadir visa levar à ação um auditório particular. | A distinção entre auditório universal e particular é central.
+CE | E | Convencer e persuadir são sinônimos na Nova Retórica. | Têm alvos distintos: razão e universalidade x ação e particularidade.
+CE | C | Em O projeto é caro, mas necessário, a ênfase recai sobre a necessidade do projeto. | Com mas, prevalece o argumento posterior.
+CE | C | No plenário, o discurso se dirige formalmente ao Presidente e aos pares, mas o auditório real inclui eleitores e imprensa. | Isso explica o peso do ethos e do pathos na tribuna.
+AB | Qual prova retórica é centrada no orador? | ethos | logos | O logos é centrado na razão do discurso.
+AB | O gênero retórico do debate parlamentar sobre um projeto é o... | deliberativo | epidítico | O epidítico elogia ou censura; o deliberativo trata do futuro.
+AB | A introdução do discurso, que busca atenção e benevolência, chama-se... | exórdio | peroração | A peroração é o fecho, com recapitulação e apelo emocional.

@@ -1,0 +1,19 @@
+# Módulo l3 — Saussure x Chomsky e a linguagem humana. Acrescente questões novas sempre no fim.
+CE | C | Para Chomsky, competência é o conhecimento interno e implícito que o falante tem das regras da língua. | Desempenho é o uso concreto, sujeito a fatores como cansaço e emoção.
+CE | E | A gagueira provocada por nervosismo durante um discurso evidencia perda de competência linguística. | É queda de desempenho; a competência continua intacta.
+CE | C | O par competência e desempenho é central na teoria de Chomsky, enquanto o par língua e fala o é na de Saussure. | Cada autor tem sua dicotomia fundadora.
+CE | E | Para Saussure, a língua é um fenômeno essencialmente mental e individual. | Em Saussure a língua é social; é em Chomsky que a língua é vista como fenômeno mental.
+CE | C | Chomsky critica a ideia de que a aquisição da linguagem se dá apenas por imitação e reforço. | Crítica ao behaviorismo de Skinner: a criança cria formas que nunca ouviu.
+CE | C | A criança que diz eu sabo aplica uma regra interna, o que sugere que a aprendizagem não é mera repetição. | Ela generaliza o padrão dos verbos regulares.
+CE | C | A gramática universal, para Chomsky, é um conjunto de princípios inatos comum às línguas humanas. | Os parâmetros explicam a variação entre as línguas.
+CE | E | Uma frase gramaticalmente bem formada necessariamente faz sentido. | Gramaticalidade não é sentido: ideias verdes incolores dormem furiosamente é bem formada e anômala.
+CE | C | A frase O assessor viu o deputado com o binóculo admite duas leituras, o que ilustra ambiguidade estrutural. | A mesma sequência corresponde a duas estruturas.
+CE | E | A produtividade da linguagem humana decorre do tamanho do vocabulário do falante. | Decorre das regras de combinação, que geram infinitas frases a partir de recursos finitos.
+CE | C | A recursividade permite encaixar uma oração em outra sem limite teórico. | O limite prático é de memória, ou seja, de desempenho.
+CE | C | A capacidade de falar do passado, do futuro e do imaginário é chamada de deslocamento. | É uma das propriedades que distinguem a linguagem humana.
+CE | E | A comunicação das abelhas reúne todas as propriedades da linguagem humana. | Há deslocamento, mas o repertório é fechado, sem produtividade livre.
+CE | C | Falar de conceitos como justiça e democracia exemplifica a propriedade da abstração. | A linguagem humana trata de ideias, não só de objetos presentes.
+CE | C | Na dupla articulação, unidades sem sentido, como os sons, combinam-se para formar unidades com sentido. | Conceito de André Martinet.
+AB | A queda de memória que impede o falante de concluir uma frase longa é problema de... | desempenho | competência | A competência é o saber das regras; a memória afeta o desempenho.
+AB | A teoria que vê a língua como fenômeno mental e inato é o... | gerativismo | estruturalismo | O estruturalismo de Saussure vê a língua como sistema social de signos.
+AB | A capacidade de produzir e entender frases inéditas chama-se... | criatividade | arbitrariedade | Arbitrariedade é a relação imotivada entre significante e significado.

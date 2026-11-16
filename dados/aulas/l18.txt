@@ -1,0 +1,96 @@
+=== Básico
+## Dialogismo: todo enunciado responde a outros
+Para **Bakhtin** (e o Círculo de Bakhtin), **nenhum falante é o "Adão mítico"** que nomeia o mundo pela primeira vez. Todo enunciado **responde** a enunciados anteriores e **antecipa** respostas. A isso se chama **dialogismo**.
+
+- O **dialogismo** é **constitutivo** de toda linguagem: mesmo o texto mais "monológico" dialoga com discursos anteriores e com o leitor que imagina.
+- **Enunciado**, para Bakhtin, é a unidade **real** da comunicação, ao contrário da frase (unidade da gramática). Tem **autor**, **destinatário** e **acabamento** (conclusibilidade).
+- O sentido nasce na **interação**: a palavra é uma espécie de ponte entre quem fala e quem ouve, e só significa plenamente nessa relação.
+- Um enunciado também se **orienta** para a **resposta** do outro (compreensão responsiva).
+
+## Polifonia (dois sentidos)
+| Conceito | Autor | Ideia | Como aparece |
+|---|---|---|---|
+| **Polifonia** (romance) | Bakhtin | **Vozes plenas e independentes**, que não se fundem na voz do autor (Dostoiévski) | Texto com várias vozes **equipolentes** |
+| **Polifonia** (enunciativa) | Ducrot | O **locutor encena enunciadores** com pontos de vista diferentes | Negação, ironia, "mas", aspas, pressuposto |
+
+> A banca costuma usar "polifonia" no segundo sentido (Ducrot), mas pode pedir a distinção entre os dois.
+
+## Heterogeneidade (Authier-Revuz)
+| Conceito | Ideia | Como aparece |
+|---|---|---|
+| **Heterogeneidade mostrada** | A voz do outro aparece **marcada** | Discurso direto e indireto, aspas, "segundo X", ironia, glosas ("por assim dizer") |
+| **Heterogeneidade constitutiva** | Todo discurso é **atravessado por outros discursos**, mesmo sem marca | Ideias e fórmulas que circulam sem fonte (o já-dito) |
+
+- A **mostrada** pode ser **marcada** (aspas, itálico) ou **não marcada** (ironia, alusão, discurso indireto livre).
+- A **constitutiva** é inevitável e **não se vê**: o falante nunca é origem única de seu dizer.
+
+=== Avançado
+## Polifonia enunciativa (Ducrot)
+Ducrot distingue **três figuras** na enunciação:
+| Figura | Quem é | Exemplo |
+|---|---|---|
+| **Sujeito empírico** | Autor real, que produz o enunciado | O deputado |
+| **Locutor** | Responsável pelo enunciado, o "eu" do texto | O "eu" que fala |
+| **Enunciadores** | Pontos de vista **encenados** no enunciado | A voz que diz "o projeto aumenta impostos" |
+
+- O **locutor** pode **aderir** a um enunciador ou **se opor** a ele.
+- Exemplos de polifonia enunciativa:
+  - **Negação polêmica**: "O projeto **não** aumenta impostos" põe em cena um enunciador que diz que aumenta e o refuta.
+  - **Ironia**: o locutor encena um ponto de vista **absurdo** sem assumi-lo ("Que belo trabalho, a pauta travou de novo").
+  - **"Mas"**: "É caro, **mas** necessário" articula **dois pontos de vista** e adere ao segundo.
+  - **Pressuposto**: "O deputado deixou de faltar" encena o ponto de vista de que ele faltava.
+  - **Aspas**: "A 'reforma' foi aprovada" encena uma voz que chama aquilo de reforma.
+  - **Interrogação retórica**, **concessão** e **citação** também são polifônicas.
+
+## Negação descritiva x polêmica x metalinguística
+| Tipo | Ideia | Exemplo |
+|---|---|---|
+| **Descritiva** | Descreve um estado negativo | "Está sem chuva hoje." |
+| **Polêmica** | Rebate um enunciador pressuposto | "O projeto não aumenta impostos." |
+| **Metalinguística** | Contesta a forma do dizer | "Ele não é **bom**, é **ótimo**." |
+
+## Esferas de comunicação e gêneros do discurso (Bakhtin)
+- Cada **esfera** (jurídica, parlamentar, jornalística, científica, cotidiana) elabora seus **tipos relativamente estáveis de enunciados**: os **gêneros do discurso**.
+- Gêneros **primários** (simples): surgem na comunicação **imediata** (conversa, bilhete, carta pessoal).
+- Gêneros **secundários** (complexos): surgem em **ambientes institucionais** e culturais mais elaborados (parecer, discurso parlamentar, romance, tese) e **absorvem** os primários.
+- Cada gênero tem **conteúdo temático**, **estilo** e **construção composicional**.
+
+| Elemento do gênero | O que é | Exemplo: ofício |
+|---|---|---|
+| **Conteúdo temático** | O assunto tratado | Solicitação, comunicação |
+| **Estilo** | Escolhas lexicais e gramaticais | Formal, impessoal |
+| **Construção composicional** | Estrutura | Cabeçalho, vocativo, texto, fecho |
+
+## Dialogismo e intertextualidade
+- **Dialogismo** é mais **amplo**: constitutivo de todo discurso, inclusive sem citação.
+- **Intertextualidade** é a **relação concreta** entre textos (citação, alusão, paródia), uma das **manifestações** do dialogismo.
+- Resumo: **todo texto é dialógico; nem todo texto é explicitamente intertextual**.
+
+## Vozes no texto de opinião
+- O texto argumentativo costuma **encenar o adversário** ("Alguns dizem que... **mas**...") para refutá-lo. É **polifonia** e **contra-argumentação** juntas.
+- A **citação** de especialistas e de dados é **heterogeneidade mostrada**.
+- O leitor deve distinguir **quem fala**: o autor, o adversário encenado ou o terceiro citado.
+
+## Roteiro para itens de polifonia
+1. O texto traz **mais de um ponto de vista**, ainda que implícito?
+2. **Quem assume** cada um? O locutor adere ou rejeita?
+3. Qual **marca** revela a outra voz (negação, "mas", aspas, ironia, pressuposto)?
+4. A voz do outro é **mostrada** (marcada) ou **constitutiva**?
+
+=== Pegadinhas
+1. "Para Bakhtin, apenas textos com citações explícitas são dialógicos." **Errado.** O dialogismo é constitutivo de todo enunciado.
+2. "Na frase 'O governo não quer acabar com o serviço público', há uma única voz." **Errado.** A negação polêmica encena a voz que afirma o contrário (polifonia).
+3. "Heterogeneidade mostrada e constitutiva são a mesma coisa." **Errado.** A mostrada é marcada no texto; a constitutiva é inevitável e sem marca.
+4. "Polifonia enunciativa (Ducrot) exige a presença de vários falantes reais no texto." **Errado.** Há **enunciadores encenados** pelo locutor, ainda que o autor real seja um só.
+5. "A ironia é um caso em que o locutor assume plenamente o ponto de vista que expressa." **Errado.** Ele o encena sem assumi-lo.
+6. "Gêneros secundários são os mais simples, surgidos na comunicação imediata." **Errado.** Esses são os primários.
+7. "Dialogismo e intertextualidade são sinônimos." **Errado.** O dialogismo é mais amplo; a intertextualidade é uma de suas manifestações.
+8. "Em 'É caro, mas necessário', o locutor adere ao ponto de vista expresso antes do mas." **Errado.** Adere ao que vem depois do mas.
+
+=== Revisão rápida
+- **Dialogismo** (Bakhtin): todo enunciado responde e antecipa respostas; é constitutivo.
+- **Polifonia**: romance (Bakhtin) x enunciativa (Ducrot: locutor encena enunciadores).
+- Marcas de polifonia: negação polêmica, ironia, mas, aspas, pressuposto.
+- **Heterogeneidade mostrada** (marcada) x **constitutiva** (todo discurso é atravessado por outros).
+- **Gêneros primários** (comunicação imediata) x **secundários** (institucionais, absorvem os primários).
+- Gênero = conteúdo temático + estilo + construção composicional.

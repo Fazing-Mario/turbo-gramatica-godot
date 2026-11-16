@@ -1,0 +1,19 @@
+# Módulo l9 — Conectores e operadores argumentativos. Acrescente questões novas sempre no fim.
+CE | C | Em Estudou meses e não passou, o conectivo e estabelece relação de oposição. | O e pode ter valor adversativo, além de aditivo ou consecutivo.
+CE | C | Em Como os documentos não chegaram, a reunião foi adiada, o conectivo como introduz uma causa. | No início do período, como costuma ser causal.
+CE | E | Em Como os documentos não chegaram, a reunião foi adiada, o conectivo como expressa comparação. | Expressa causa.
+CE | E | A expressão não só aprovou o projeto, mas também o defendeu estabelece relação de oposição entre as ações. | É adição de argumentos.
+CE | C | Em O projeto é caro, mas necessário, a conclusão favorece o projeto. | Com mas, prevalece o argumento que vem depois.
+CE | E | A frase O projeto é necessário, mas caro favorece a aprovação do projeto. | Prevalece o que vem depois do mas: caro, o que favorece a conclusão contrária.
+CE | C | Em Embora seja caro, o projeto é necessário, prevalece a ideia expressa na oração principal. | Na concessão, o argumento principal prevalece.
+CE | E | Trocar embora por porque em Embora tenha estudado, não passou preserva o sentido do período. | Concessão e causa são relações lógicas diferentes.
+CE | C | O operador até, em Até o relator votou contra, introduz o argumento mais forte e pressupõe que outros também votaram contra. | Operadores de argumento mais forte carregam pressuposto de escala.
+CE | C | O conectivo pois, posposto ao verbo, tem valor conclusivo. | Estudou; fará, pois, boa prova. Antes do verbo, é explicativo ou causal.
+CE | E | Uma síntese introduzida por em suma deve acrescentar informação nova. | A síntese retoma o que já foi dito.
+CE | C | Em Quase aprovou o projeto, o texto sugere que o projeto não foi aprovado. | O advérbio quase nega a plenitude da ação.
+CE | C | O conectivo quando pode ter valor condicional ou concessivo, além de temporal. | O contexto define a relação lógica.
+CE | E | A expressão um dos mais importantes autoriza concluir que se trata do mais importante. | Um dos não equivale ao superlativo absoluto.
+CE | C | Ao reescrever um período com troca de conector, é preciso verificar se a relação lógica foi mantida. | Concessão, causa, oposição e condição são relações distintas.
+AB | Em Embora necessário, o projeto é caro, o argumento que prevalece é... | caro | necessário | Na concessão com embora, prevalece a oração principal.
+AB | Em Não só estudou, mas também treinou, a relação é de... | adição | oposição | Não só... mas também soma argumentos.
+AB | O conectivo ou seja introduz... | explicação | oposição | Ou seja reformula ou esclarece o que foi dito.

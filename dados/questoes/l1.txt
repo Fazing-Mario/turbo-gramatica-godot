@@ -1,0 +1,19 @@
+# Módulo l1 — Linguagem, língua, fala e discurso. Acrescente questões novas sempre no fim.
+CE | E | A língua é individual, pois cada falante a utiliza de maneira própria. | O uso individual é a fala. A língua é um sistema social, compartilhado pela comunidade.
+CE | C | Para Saussure, a fala é o uso concreto e individual da língua numa situação. | Fala é a execução individual; língua é o sistema social.
+CE | E | A Linguística tem por objetivo estabelecer o uso correto da língua. | Ela descreve o uso real e julga adequação; prescrever o correto é papel da gramática normativa.
+CE | C | Linguagem é um conceito mais amplo que língua, pois inclui também códigos não verbais. | Gestos, imagens e sons também são linguagem, embora não sejam língua.
+CE | E | Os termos linguagem e língua são sinônimos perfeitos no vocabulário técnico da Linguística. | Linguagem é a faculdade ampla; língua é o sistema de signos de uma comunidade.
+CE | C | Em Saussure, a língua tem caráter social e a fala tem caráter individual. | É a dicotomia língua x fala, central no Curso de Linguística Geral.
+CE | E | Para Saussure, o objeto próprio da Linguística é a fala, por ser concreta e variável. | O objeto é a língua, por ser sistemática e homogênea; a fala é heterogênea.
+CE | C | O valor linguístico de um termo depende de sua relação de oposição com os demais termos do sistema. | A língua é um sistema em que cada elemento se define por oposição aos outros.
+CE | E | A palavra discurso, na Análise do Discurso, designa apenas o conjunto de frases gramaticalmente corretas de um texto. | Discurso envolve também contexto, intenção, posição social do enunciador e efeitos.
+CE | C | Uma charge composta apenas por imagens pode ser considerada texto e objeto de leitura. | Texto não verbal ou misto também é linguagem em situação e pede interpretação.
+CE | E | Quem fala sem sotaque utiliza a variedade correta da língua. | Todos têm sotaque; ele é traço natural de qualquer variedade.
+CE | C | Em uma abordagem linguística, a expressão efetivamente usado remete à observação do uso real da língua. | A Linguística descreve o que os falantes realmente fazem.
+CE | E | A língua, por ser social, é imutável no tempo. | A língua muda, mas pelas falas que a comunidade aceita e repete.
+CE | C | O mesmo enunciado pode constituir discursos diferentes, conforme quem o diz e em que situação. | O sentido depende das condições de produção, não só das palavras.
+CE | C | A semântica e a pragmática distinguem-se porque a primeira trata do significado e a segunda, do sentido em uso, conforme intenção e contexto. | Semântica: significado. Pragmática: sentido em uso.
+AB | Segundo Saussure, a língua é... | um sistema social de signos | um ato individual de cada falante | Língua é social; o ato individual é a fala.
+AB | A atitude da gramática normativa diante da língua é... | prescritiva: indica o que se deve usar | descritiva: apenas registra o que se usa | Descrever é a atitude da Linguística; a normativa prescreve.
+AB | Dialeto é... | variedade ligada a um grupo de falantes | língua de uma nação inteira | A língua de uma nação é o idioma; o dialeto é a variedade de um grupo.

@@ -1,0 +1,19 @@
+# Módulo l13 — Intertextualidade, retextualização e reescritura. Acrescente questões novas sempre no fim.
+CE | C | A paráfrase reescreve um texto com outras palavras, mantendo o sentido original. | Paródia é que subverte o sentido.
+CE | E | A paródia mantém o sentido do texto-fonte. | Ela subverte, em geral com humor ou crítica.
+CE | C | O verso Minha terra tem Palmares, de Oswald de Andrade, em relação ao de Gonçalves Dias, é exemplo de paródia. | Reescreve subvertendo o sentido do texto-fonte.
+CE | E | Pastiche e paródia são sinônimos, pois ambos criticam o texto-fonte. | Pastiche imita o estilo, sem necessariamente criticar; paródia subverte o sentido.
+CE | C | A alusão evoca outro texto sem citá-lo explicitamente. | Depende do repertório do leitor: Constituição Cidadã remete a Ulysses Guimarães.
+CE | C | A citação é forma de intertextualidade explícita, pois reproduz literalmente o texto-fonte e indica a fonte. | Alusão e paródia são formas implícitas.
+CE | E | A intertextualidade só se verifica quando há citação entre aspas com indicação da fonte. | Pode ser implícita, como alusão, paródia e pastiche.
+CE | C | A macroestrutura de um texto é seu sentido global, o que se conserva num bom resumo. | A microestrutura é a superfície: frases e ligações locais.
+CE | E | A microestrutura corresponde ao tema geral do texto. | Tema e sentido global pertencem à macroestrutura.
+CE | C | Resumir envolve macrorregras como apagar o acessório, selecionar o essencial, generalizar e construir uma frase-síntese. | Um bom resumo não traz opinião nem informação nova.
+CE | C | A retextualização transforma um texto em outro, alterando a modalidade ou o gênero, com preservação do sentido. | Exemplo: fala do plenário que vira nota escrita.
+CE | E | Na retextualização de um discurso oral, o redator pode alterar o conteúdo para torná-lo mais claro. | Muda-se a forma, preservando o sentido do orador.
+CE | C | Eliminar hesitações e repetições é operação típica da retextualização de fala para escrita. | Também se acrescenta pontuação e paragrafação e reordena-se a sintaxe.
+CE | E | Reescrever a comissão pode rejeitar por a comissão deve rejeitar mantém o sentido. | Possibilidade e obrigação têm força modal diferente.
+CE | C | Ao transformar Os deputados que faltaram em Os deputados, que faltaram, a reescrita altera o sentido do trecho. | Restritiva e explicativa abrangem conjuntos diferentes.
+AB | Texto que reescreve outro mantendo o sentido é... | paráfrase | paródia | Paródia subverte o sentido do texto-fonte.
+AB | O sentido global de um texto corresponde à sua... | macroestrutura | microestrutura | A microestrutura é a superfície linguística.
+AB | Transformar a fala de um orador em texto escrito é... | retextualização | citação | Citação reproduz literalmente, com aspas e fonte; retextualização muda a modalidade preservando o sentido.

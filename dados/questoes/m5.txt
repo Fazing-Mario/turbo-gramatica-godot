@@ -1,0 +1,29 @@
+# Módulo 5 — Período simples: termos e vozes. Acrescente questões novas sempre no fim.
+CE | E | "Houveram muitos problemas na sessão" está de acordo com a norma-padrão. | Haver = existir é impessoal: "Houve muitos problemas".
+CE | C | Em "Deve haver soluções", o auxiliar fica no singular por causa do caráter impessoal de "haver". | A impessoalidade se transmite ao auxiliar da locução.
+CE | E | "Fazem dois anos que ele saiu" está correto. | Fazer indicando tempo é impessoal: "Faz dois anos".
+CE | C | "Existem falhas no sistema" está correto, pois "existir" concorda com o sujeito. | Existir não é impessoal; o sujeito é "falhas".
+CE | C | Em "Precisa-se de técnicos", o sujeito é indeterminado. | Verbo transitivo indireto + se: índice de indeterminação do sujeito.
+CE | E | Em "Vendem-se casas", o "se" é índice de indeterminação do sujeito. | Vender é transitivo direto: o se é partícula apassivadora e "casas" é o sujeito.
+CE | C | Em "Os candidatos estavam ansiosos", o predicado é nominal. | Verbo de ligação + predicativo do sujeito.
+CE | C | Em "Os candidatos saíram ansiosos", o predicado é verbo-nominal. | Verbo significativo (saíram) + predicativo (ansiosos).
+CE | E | Em "O júri considerou o réu culpado", "culpado" é predicativo do sujeito. | Caracteriza o objeto (o réu): predicativo do objeto.
+CE | C | Em "Tenho medo de altura", "de altura" é complemento nominal. | Completa o substantivo abstrato medo.
+CE | E | Em "A casa de Pedro foi vendida", "de Pedro" é complemento nominal. | Ligado a substantivo concreto, indicando posse: adjunto adnominal.
+CE | C | Em "A construção da ponte atrasou", "da ponte" é complemento nominal, pois a ponte sofre a ação. | Valor passivo: a ponte é construída.
+CE | E | Em "A chegada do presidente atrasou", "do presidente" é complemento nominal. | O presidente pratica a ação (chega): adjunto adnominal.
+CE | C | A passiva de "A comissão analisará o pedido" é "O pedido será analisado pela comissão". | O verbo ser fica no mesmo tempo do verbo original (futuro).
+CE | E | A passiva de "O juiz analisava o caso" é "O caso foi analisado pelo juiz". | Analisava (imperfeito) pede "era analisado".
+CE | C | Em "Senhores, sentem-se", "Senhores" é vocativo. | Chama o interlocutor e vem isolado por vírgula.
+CE | E | Em "Ela se queixou do serviço", o "se" é pronome reflexivo com função de objeto direto. | Queixar-se é verbo pronominal: o se é parte integrante do verbo.
+CE | C | Em "Os noivos se beijaram", o "se" tem valor recíproco. | Um beijou o outro.
+CE | C | Em "Brasília, a capital do país, fez aniversário", "a capital do país" é aposto. | Aposto explicativo, entre vírgulas.
+CE | E | Em "O livro, eu o li", o pronome "o" é objeto indireto pleonástico. | Ler é transitivo direto: o pronome é objeto direto pleonástico.
+AB | "___ muitas reclamações ontem": | Houve | Houveram | Haver = existir é impessoal.
+AB | "___-se casas": | Alugam | Aluga | Passiva sintética: o verbo concorda com "casas".
+AB | "___-se de vendedores": | Precisa | Precisam | VTI + se: verbo no singular.
+AB | Em "Choveu muito", o sujeito é: | inexistente | oculto | Fenômeno da natureza: oração sem sujeito.
+AB | Em "Roubaram meu carro" (sem referente no texto), o sujeito é: | indeterminado | oculto | Verbo na 3ª pessoa do plural sem referente.
+AB | Em "favorável ao projeto", "ao projeto" é: | complemento nominal | objeto indireto | Completa um adjetivo.
+AB | Passiva de "Os fiscais estavam vistoriando a obra": | A obra estava sendo vistoriada pelos fiscais | A obra foi vistoriada pelos fiscais | Estavam vistoriando → estava sendo vistoriada.
+AB | Em "Elegeram-no presidente", "presidente" é: | predicativo do objeto | aposto | Caracteriza o objeto "no".

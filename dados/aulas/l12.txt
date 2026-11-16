@@ -1,0 +1,84 @@
+=== Básico
+## Discurso relatado: quem fala no texto
+O **discurso relatado** (ou reportado) é a forma de **trazer a fala de outra pessoa** para dentro do texto. É um recurso de **polifonia**: o texto passa a ter mais de uma voz. Na prova, pede-se a **identificação do tipo** e o efeito da escolha.
+
+| Tipo | Como é | Marcas |
+|---|---|---|
+| **Direto** | Reproduz a fala **literal** | Dois-pontos, travessão ou aspas; verbo dicendi (dizer, afirmar, declarar) |
+| **Indireto** | O narrador **reformula** a fala | Oração subordinada com "que" ou "se"; ajustes de pessoa, tempo e dêiticos |
+| **Indireto livre** | Fundem-se as vozes do narrador e da personagem | **Sem marca gráfica** nem verbo dicendi |
+
+- **Direto**: O relator disse: "Votarei amanhã."
+- **Indireto**: O relator disse que votaria no dia seguinte.
+- **Indireto livre**: O relator olhou o painel. Votaria amanhã, sem dúvida. Aquele projeto não merecia mais um dia de espera.
+
+## Ajustes na passagem do direto para o indireto
+| Direto | Indireto | Regra |
+|---|---|---|
+| "**Eu** votarei" | disse que **ele** votaria | Pessoa muda (1ª → 3ª) |
+| "Votarei **amanhã**" | votaria **no dia seguinte** | Dêitico temporal muda |
+| "Estou **aqui**" | estava **ali** | Dêitico espacial muda |
+| "Votarei" (futuro do presente) | votaria (futuro do pretérito) | Tempo verbal retrocede |
+| "Voto **hoje**" | votava **naquele dia** | Presente → pretérito imperfeito |
+| "Vote!" (imperativo) | pediu que votasse | Imperativo → subjuntivo |
+
+> No **indireto livre**, o que o texto mostra é um **pensamento ou fala** da personagem sem aviso: aparecem exclamações, interrogações e marcas de **oralidade** dentro da voz do narrador.
+
+=== Avançado
+## O discurso indireto livre: por que é o mais cobrado
+- Combina características dos dois anteriores: usa a **3ª pessoa** e os **tempos do narrador** (como o indireto) e conserva **exclamações, perguntas e escolhas lexicais** da personagem (como o direto).
+- **Efeito**: aproxima o leitor da consciência da personagem e **dilui a fronteira** entre narrador e personagem. A autoridade da voz do narrador fica em dúvida.
+- Exemplo (criado para estudo): "O servidor olhou o relógio. **Já passava das seis, e que ideia a dele de pedir mais um parecer!** Ainda assim, ficaria." A exclamação carrega o ponto de vista do servidor, dentro da voz do narrador, sem aspas nem "pensou".
+- O que o **diferencia** do direto: não há dois-pontos, travessão, aspas nem verbo dicendi. E do indireto: não há "que" nem oração subordinada.
+
+## Outras formas de trazer outras vozes
+| Forma | Descrição | Exemplo |
+|---|---|---|
+| **Modalização em discurso segundo** | Atribui o conteúdo a outro e se distancia | "**Segundo o ministro**, o prazo é inviável"; "para o relator..." |
+| **Ilha textual** | Trecho literal entre aspas **encaixado** na frase do autor | O relator afirmou que a proposta é "um erro grave de cálculo" |
+| **Menção** e **citação** | Referência explícita ao autor ou obra | "Como diz Bakhtin..." |
+| **Resumo de fala** | Condensa o que foi dito | "O deputado falou por quinze minutos sobre o orçamento." |
+| **Aspas de distanciamento** | O autor **não assume** a palavra | A "transparência" do processo |
+| **Aspas de ironia** | Sugere sentido oposto | O "bom senso" do relator |
+
+- **Verbos dicendi** carregam o **posicionamento**: afirmar e declarar são neutros ou formais; **alegar, pretender, insinuar** distanciam; **confessar, reconhecer** sugerem que o falante disse contra si; **revelar, esclarecer** sugerem verdade.
+- A escolha do verbo ("assegurou" x "tentou convencer") **qualifica** a fala do outro e deixa a marca de quem relata.
+
+## Adequação ao gênero
+- A **adequação ao gênero** (item 4.2) significa que a **linguagem** deve casar com a **situação** e o **gênero**.
+  - **Parecer, ata e relatório** pedem impessoalidade, precisão e linguagem formal. A ata registra **fatos**, sem avaliar.
+  - **Discurso parlamentar** admite ênfase, vocativos, figuras e emoção.
+  - **Notícia**: objetividade e terceira pessoa. **Editorial**: argumentação em linguagem formal.
+  - **Mensagem de WhatsApp**: informal, abreviações; inadequado em ofício.
+- **Adequação** não é "correção": um texto pode ser gramaticalmente correto e **inadequado** ao gênero (uma ata em tom de manifesto).
+- Marcas de gênero oficial: **vocativo**, **fecho**, impessoalidade, ausência de gírias, norma-padrão.
+
+## Como reconhecer o gênero pelo contexto
+| Pergunta | O que revela |
+|---|---|
+| Quem escreve e para quem? | Esfera e relação entre os interlocutores |
+| Com que finalidade? | Informar, convencer, registrar, orientar |
+| Onde circula? | Suporte (jornal, Diário Oficial, rede social) |
+| Que marcas formais tem? | Cabeçalho, assinatura, numeração, fecho |
+| Que linguagem predomina? | Formal ou informal, técnica ou comum |
+
+## Por que o relato importa na discursiva
+- Em **textos de opinião**, quem cita um especialista usa o **discurso relatado** como **argumento de autoridade**; a forma de citar (direto ou indireto) afeta a força do argumento.
+- Em **notícias e pareceres**, o relato fiel evita **deturpar** a fala do outro. O indireto permite **interpretar**, e por isso pode distorcer.
+
+=== Pegadinhas
+1. "No discurso indireto livre, a fala da personagem é introduzida por verbo dicendi e dois-pontos." **Errado.** Isso é o direto; o indireto livre não tem marcas formais.
+2. "No discurso indireto, mantêm-se os dêiticos do discurso direto." **Errado.** Os dêiticos se ajustam: amanhã → no dia seguinte; aqui → ali.
+3. "O discurso direto reformula a fala do outro, adaptando-a à voz do narrador." **Errado.** O direto reproduz literalmente; o que reformula é o indireto.
+4. "'Segundo o ministro, o prazo é inviável' indica que o autor endossa a opinião do ministro." **Errado.** Atribui a opinião a outro e se distancia.
+5. "As aspas em 'A "transparência" do processo' servem para destacar a palavra como positiva." **Errado,** no contexto: são aspas de distanciamento ou ironia.
+6. "Se o texto está gramaticalmente correto, está adequado a qualquer gênero." **Errado.** Correção não é adequação.
+7. "Uma ata deve registrar a avaliação do secretário sobre os debates." **Errado.** A ata registra fatos, sem opinião.
+8. "O verbo 'alegar' é neutro e equivale a 'afirmar' em qualquer contexto." **Errado.** 'Alegar' costuma sugerir distanciamento do autor.
+
+=== Revisão rápida
+- **Direto**: literal, com dois-pontos, travessão, aspas. **Indireto**: oração com "que"; ajusta pessoa, tempo e dêiticos. **Indireto livre**: sem marca, fusão de vozes.
+- Ajustes: amanhã → no dia seguinte; aqui → ali; futuro do presente → futuro do pretérito.
+- **Ilha textual**: trecho literal entre aspas encaixado na frase.
+- **Verbos dicendi** qualificam a fala: alegar (distancia), reconhecer (contra si), esclarecer (verdade).
+- **Adequação ao gênero** ≠ correção. Ata, parecer e relatório: impessoalidade e fatos.

@@ -1,0 +1,19 @@
+# Módulo l22 — Funções da linguagem no Parlamento. Acrescente questões novas sempre no fim.
+CE | C | Em Sr. Presidente, Sras. e Srs. Deputados, peço o voto sim!, predomina a função conativa. | Vocativo e apelo ao voto centram a mensagem no receptor.
+CE | C | A pergunta Está funcionando o microfone? Posso começar? tem função predominantemente fática. | Testa o canal de comunicação.
+CE | C | O relatório de comissão, a ata e a nota técnica têm função referencial predominante. | Informam com objetividade, centrados no assunto.
+CE | C | Em um discurso de pesar pela morte de um colega, em primeira pessoa, predomina a função emotiva. | O foco é o sentimento do orador.
+CE | E | Um discurso de pesar, por ser formal, tem função referencial predominante. | Predomina a emotiva, pois o foco é o sentimento do orador.
+CE | C | No trecho Para os fins deste Regimento, considera-se líder..., há função metalinguística, pois o texto define o código que utiliza. | O texto como um todo, porém, é predominantemente referencial.
+CE | E | O Regimento Interno, por conter formas como deve e é proibido, tem função conativa predominante. | Sem imperativo nem vocativo dirigidos ao leitor, tende-se a classificá-lo como referencial.
+CE | C | O slogan de campanha com rima combina forma poética e intenção conativa, predominando a conativa. | A forma trabalhada serve ao apelo.
+CE | C | O imperativo é a marca mais evidente da função conativa, mas pedidos e convites também a manifestam. | Peço que considerem e Vamos votar juntos são apelos ao receptor.
+CE | C | Em Informo que o prazo foi prorrogado, predomina a função referencial; em Solicito a prorrogação do prazo, a conativa. | O verbo inicial indica o foco: informar ou pedir.
+CE | E | Um discurso parlamentar com muitos dados tem sempre função referencial predominante. | Se os dados servem para convencer, a conativa pode predominar.
+CE | C | O ofício pode apresentar função referencial ou conativa, dependendo de seu propósito. | Informar ou solicitar.
+CE | E | Na redação oficial, predominam as funções emotiva e poética. | Predominam a referencial e a conativa; a emotiva e a poética são evitadas.
+CE | C | Uma definição legal, como Para os efeitos desta Lei, considera-se..., exemplifica a função metalinguística. | O texto fala do próprio código.
+CE | C | A função da linguagem acompanha o gênero, mas não se confunde com ele: uma carta pode ser emotiva ou referencial. | A função depende do foco, não só do gênero.
+AB | Qual função predomina em uma ata de reunião? | referencial | emotiva | A ata informa com objetividade.
+AB | Em Por quórum entende-se o número mínimo de presentes, a função predominante é a... | metalinguística | conativa | O texto define um termo do próprio código.
+AB | O trecho Pela ordem, Sr. Presidente! apresenta predomínio da função... | conativa | referencial | Chama o interlocutor e busca sua atenção para o pedido.

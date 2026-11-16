@@ -1,0 +1,19 @@
+# Módulo l15 — Modalizadores e falácias. Acrescente questões novas sempre no fim.
+CE | C | Os modalizadores revelam a atitude do enunciador diante do que diz, como certeza, dúvida, obrigação ou avaliação. | Modalizar é marcar a posição do falante.
+CE | C | Evidentemente e sem dúvida são modalizadores epistêmicos asseverativos, que expressam certeza. | Talvez e possivelmente expressam possibilidade.
+CE | C | Talvez e provavelmente exprimem possibilidade, e não certeza. | São modalizadores quase-asseverativos.
+CE | C | Em O projeto deve ser votado amanhã, segundo o calendário, o verbo dever indica probabilidade, e não obrigação. | O valor depende do contexto: epistêmico ou deôntico.
+CE | C | Em Você deve chegar às 8h, o verbo dever tem valor deôntico, de obrigação. | Em Ele deve chegar às 8h, indica probabilidade.
+CE | E | Certamente e talvez expressam o mesmo grau de comprometimento do autor com o que afirma. | A escala de força distingue os dois: certamente é mais forte.
+CE | C | O delimitador quanto à constitucionalidade restringe o domínio da afirmação, sem autorizar conclusão sobre o mérito do projeto. | Constitucional não equivale a bom ou conveniente.
+CE | C | Felizmente e infelizmente são modalizadores afetivos, pois avaliam o fato relatado. | Exprimem juízo de valor do enunciador.
+CE | C | Atacar a pessoa que defende a tese, e não a tese, caracteriza a falácia ad hominem. | Exemplo: Não ouçam o relator, ele já foi multado.
+CE | C | O espantalho consiste em distorcer a tese do adversário e atacar a versão distorcida. | Exemplo: Querem regular as redes, ou seja, querem censura.
+CE | E | A frase Ou aprovamos a reforma, ou o país quebra exemplifica um silogismo. | É falso dilema: ignora opções intermediárias.
+CE | C | Concluir que a lei provocou o desemprego só porque o desemprego subiu depois dela é falsa causa. | Post hoc: sequência não prova causa.
+CE | E | A citação de um especialista da própria área, para sustentar um argumento, é sempre falácia de apelo à autoridade. | A autoridade pertinente é argumento legítimo; a falácia é a autoridade inadequada.
+CE | C | O apelo ao ad populum toma a popularidade de uma ideia como prova de sua verdade. | Milhões compartilharam, logo é verdade.
+CE | C | Na petição de princípio, a conclusão já está embutida nas premissas. | A lei é justa porque é correta.
+AB | A frase Gerir o país é como gerir a casa exemplifica... | falsa analogia | silogismo | Compara situações ignorando diferenças essenciais.
+AB | O modalizador que restringe o domínio da afirmação é o... | delimitador | afetivo | O afetivo expressa avaliação e emoção.
+AB | Ninguém provou que é seguro, logo é perigoso é falácia de... | apelo à ignorância | espantalho | A ausência de prova é tratada como prova do contrário.

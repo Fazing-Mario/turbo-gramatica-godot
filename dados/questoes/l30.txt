@@ -1,0 +1,19 @@
+# Módulo l30 — Tratamento, vocativo, endereçamento e fecho. Acrescente questões novas sempre no fim.
+CE | C | Os pronomes de tratamento levam o verbo e os possessivos na terceira pessoa. | Exemplo: Vossa Excelência sabe que seu projeto foi aprovado.
+CE | E | Em Vossa Excelência receberá vosso relatório, a concordância está correta. | O possessivo deve estar na 3ª pessoa: seu relatório.
+CE | C | O adjetivo que se refere a Vossa Excelência concorda com o sexo da pessoa tratada. | Vossa Excelência está atento (homem) ou atenta (mulher).
+CE | C | Vossa é usado ao se falar com a autoridade, e Sua, ao se falar sobre ela. | No endereçamento, fala-se sobre o destinatário: Sua Excelência.
+CE | E | No endereçamento, usa-se A Vossa Excelência o Senhor. | No endereçamento se fala sobre a autoridade: A Sua Excelência o Senhor.
+CE | C | Excelentíssimo, no vocativo, é exclusivo dos chefes de Poder. | Para as demais autoridades, usa-se Senhor + cargo.
+CE | E | O vocativo adequado para um senador é Excelentíssimo Senhor Senador. | O adequado é Senhor Senador, com vírgula.
+CE | C | Vossa Senhoria é o tratamento para demais autoridades e particulares. | Vossa Excelência é para chefes de Poder e demais autoridades de maior nível.
+CE | C | O Manual de Redação da Presidência declara abolidos os termos Digníssimo e Ilustríssimo. | Também recomenda evitar o uso indiscriminado de doutor.
+CE | E | O vocativo pode ser abreviado, assim como o tratamento no corpo do texto. | O vocativo não se abrevia; o tratamento no corpo do texto pode, como V. Exa.
+CE | C | O fecho Respeitosamente, é adequado para autoridade de hierarquia superior, inclusive o Presidente da República. | Atenciosamente, é para igual, inferior ou sem hierarquia.
+CE | E | O fecho Atenciosamente, é adequado em ofício dirigido por um ministro ao Presidente da República. | Para superior hierárquico, usa-se Respeitosamente,.
+CE | C | O Decreto nº 9.758/2019 vale apenas para o Poder Executivo federal. | Não se aplica ao Legislativo, ao Judiciário, a estados e municípios.
+CE | E | O Decreto nº 9.758/2019 aboliu o tratamento Vossa Excelência também na Câmara dos Deputados. | O decreto não alcança o Legislativo.
+CE | C | O Decreto nº 9.758/2019 proíbe recusar documento em razão de forma de tratamento incorreta. | Mesmo no Executivo federal, isso não é motivo para recusa.
+AB | No endereçamento, a forma correta é... | A Sua Excelência o Senhor | A Vossa Excelência o Senhor | No endereçamento se fala sobre o destinatário.
+AB | O fecho para autoridade hierarquicamente superior é... | Respeitosamente, | Atenciosamente, | Atenciosamente, é para igual, inferior ou sem hierarquia.
+AB | O vocativo para um deputado é... | Senhor Deputado, | Excelentíssimo Senhor Deputado, | Excelentíssimo é exclusivo dos chefes de Poder.

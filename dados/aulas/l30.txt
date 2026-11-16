@@ -1,0 +1,101 @@
+=== Básico
+## Pronomes de tratamento: concordância
+- Os pronomes de tratamento levam **verbo e possessivos na 3ª pessoa**: "Vossa Excelência **sabe** que **seu** projeto..."
+- O **adjetivo** concorda com o **sexo da pessoa** tratada: "Vossa Excelência está **atento**" (a um homem); "Vossa Excelência está **atenta**" (a uma mulher). É a **silepse de gênero**.
+- **Vossa** = falando **com** a autoridade (no corpo do texto). **Sua** = falando **sobre** ela (no endereçamento ou ao mencioná-la a terceiros).
+
+| Uso | Forma | Exemplo |
+|---|---|---|
+| **Falar com** a autoridade | **Vossa** Excelência | "Vossa Excelência decidiu..." |
+| **Falar sobre** a autoridade | **Sua** Excelência | "Sua Excelência, o Senhor Ministro, decidiu..." |
+| **Endereçamento** (envelope, cabeçalho) | **A Sua** Excelência o Senhor... | "A Sua Excelência o Senhor Fulano de Tal" |
+
+## Quem recebe cada tratamento
+| Destinatário | Tratamento | Vocativo | Endereçamento |
+|---|---|---|---|
+| **Presidente da República, Presidente do Congresso Nacional, Presidente do STF** (chefes de Poder) | Vossa Excelência | **Excelentíssimo** Senhor Presidente da República, | A Sua Excelência o Senhor + nome + cargo |
+| **Demais autoridades** (ministros, deputados, senadores, governadores, prefeitos, ministros dos tribunais superiores, oficiais-generais) | Vossa Excelência | Senhor + cargo (Senhor Deputado, Senhor Ministro,) | A Sua Excelência o Senhor + nome + cargo |
+| **Demais autoridades e particulares** | Vossa Senhoria | Senhor + cargo, ou Senhor + nome | Ao Senhor + nome + cargo |
+| **Reitores de universidade** | Vossa Magnificência | Magnífico Reitor, | — |
+| **Papa / cardeais** | Vossa Santidade / Vossa Eminência | Santíssimo Padre, / Eminentíssimo Senhor Cardeal, | — |
+
+=== Avançado
+## Regras do vocativo
+- **"Excelentíssimo"** no vocativo é **exclusivo** dos **chefes de Poder** (Presidente da República, do Congresso Nacional, do STF).
+- Para **demais autoridades** (deputados, senadores, ministros): "**Senhor Deputado,**", "**Senhor Senador,**", "**Senhor Ministro,**".
+- O Manual declara **abolidos** "**Digníssimo**" (DD) e "**Ilustríssimo**" (Ilmo.) e manda **evitar** o uso indiscriminado de "**doutor**": "**Senhor**" já confere a formalidade necessária.
+- As formas para **reitor, Papa e cardeais** são **tradicionais** e **não constam** da tabela do Manual de 2018.
+- **O vocativo não se abrevia**; o tratamento **no corpo do texto** pode (**V. Exa.**, **V. Sa.**).
+- O vocativo é **seguido de vírgula**.
+
+## O endereçamento
+- É o **bloco** que identifica o **destinatário**: tratamento + nome + cargo + endereço.
+- Usa-se a **terceira pessoa** (**Sua**), pois se fala **sobre** o destinatário.
+- Estrutura: "**A Sua Excelência o Senhor** / **Fulano de Tal** / **Ministro de Estado da Fazenda** / **Esplanada dos Ministérios**..."
+- Para **Vossa Senhoria**: "**Ao Senhor** / **Fulano de Tal**".
+- Para chefes de Poder e para as demais autoridades de **Vossa Excelência**: o endereçamento começa com "**A Sua Excelência o Senhor**".
+
+## Fechos
+Só **dois** fechos são adotados pelo Manual (3ª edição):
+| Fecho | Quando | Exemplo |
+|---|---|---|
+| **Respeitosamente,** | Para **autoridade de hierarquia superior**, **inclusive o Presidente da República** | Ofício de um ministro ao Presidente |
+| **Atenciosamente,** | Para **mesma hierarquia, inferior ou sem hierarquia** | Ofício entre ministérios, para particulares |
+
+- A **vírgula** faz parte do fecho.
+- Os fechos antigos ("Cordialmente", "Cordiais saudações", "Subscrevo-me", "Com protestos de estima") **não** são adotados.
+- Comunicações com **autoridades estrangeiras** seguem o rito do **Itamaraty**.
+
+## Decreto nº 9.758/2019
+- **Vale só para o Poder Executivo federal**: manda usar **apenas "senhor"** e **"senhora"** e **veda** Vossa Excelência, Excelentíssimo, Vossa Senhoria, Vossa Magnificência, doutor, ilustre/ilustríssimo, digno/digníssimo e respeitável.
+- **Não se aplica** ao **Legislativo**, ao **Judiciário**, a **estados** e **municípios** nem a **autoridades estrangeiras**.
+- **Proíbe recusar** um documento por **forma de tratamento errada**.
+- O **Manual de 2018** é **anterior** ao decreto; o **vocativo** e o **fecho** **continuam** como no Manual.
+- Na **Câmara dos Deputados**, portanto, o **tratamento tradicional** permanece (o decreto **não** a alcança).
+
+## Quadro-resumo
+| Item | Regra |
+|---|---|
+| Vossa Excelência | Chefes de Poder e demais autoridades (deputados, senadores, ministros, governadores, prefeitos...) |
+| Excelentíssimo (vocativo) | **Só** chefes de Poder |
+| Vossa Senhoria | Demais autoridades e particulares |
+| Vossa **Magnificência** | Reitores |
+| Concordância | **3ª pessoa**; adjetivo concorda com o **sexo** |
+| **Vossa** | Falando **com** |
+| **Sua** | Falando **sobre** |
+| **Respeitosamente** | Superior hierárquico |
+| **Atenciosamente** | Igual, inferior, sem hierarquia |
+
+## Exemplos de aplicação
+- Ofício ao **Presidente da República**: vocativo "**Excelentíssimo Senhor Presidente da República,**"; tratamento "**Vossa Excelência**"; fecho "**Respeitosamente,**".
+- Ofício ao **Presidente da Câmara dos Deputados**: o resumo do curso registra a tradição da Casa de usar "**Excelentíssimo Senhor Presidente da Câmara dos Deputados,**"; se o item não disser qual manual vale, responda pelo da Presidência.
+- Ofício a **Deputado**: vocativo "**Senhor Deputado,**"; no texto, "**Vossa Excelência**" e "**seu** gabinete".
+- Ofício a **particular**: vocativo "**Senhor Fulano,**"; tratamento "**Vossa Senhoria**"; fecho "**Atenciosamente,**".
+
+## Erros clássicos
+| Frase | Erro | Correção |
+|---|---|---|
+| "Vossa Excelência receberá **vosso** relatório" | Possessivo na 2ª pessoa | "**seu** relatório" |
+| "**A Vossa Excelência** o Senhor" (endereçamento) | **Vossa** no endereçamento | "**A Sua Excelência** o Senhor" |
+| "**Excelentíssimo** Senhor Senador" | Excelentíssimo só para chefes de Poder | "Senhor Senador," |
+| "**Atenciosamente**" a superior hierárquico | Fecho incorreto | "**Respeitosamente**" |
+| "Ilustríssimo Senhor..." | Forma abolida | "Senhor..." |
+| "Digníssimo Deputado" | Forma abolida | "Senhor Deputado," |
+
+=== Pegadinhas
+1. "O vocativo adequado para um senador é 'Excelentíssimo Senhor Senador'." **Errado.** 'Excelentíssimo' é só para chefes de Poder; use 'Senhor Senador,'.
+2. "Em 'Vossa Excelência receberá vosso relatório', a concordância está correta." **Errado.** Possessivo na 3ª pessoa: 'seu relatório'.
+3. "No endereçamento, usa-se 'A Vossa Excelência o Senhor'." **Errado.** No endereçamento se fala sobre a autoridade: 'A Sua Excelência o Senhor'.
+4. "O fecho 'Atenciosamente,' é adequado em ofício dirigido ao Presidente da República por um ministro." **Errado.** Para superior hierárquico, 'Respeitosamente,'.
+5. "O Decreto nº 9.758/2019 aboliu 'Vossa Excelência' em toda a administração pública brasileira, inclusive na Câmara dos Deputados." **Errado.** Vale só para o Executivo federal.
+6. "'Ilustríssimo' e 'Digníssimo' continuam recomendados pelo Manual." **Errado.** O Manual os declara abolidos.
+7. "O vocativo, assim como o tratamento no corpo do texto, pode ser abreviado." **Errado.** O vocativo não se abrevia; o tratamento no corpo do texto (V. Exa.) pode.
+8. "O Decreto nº 9.758/2019 permite recusar documentos com forma de tratamento errada." **Errado.** Proíbe recusar documento por forma de tratamento errada.
+
+=== Revisão rápida
+- **Vossa** = falando **com**; **Sua** = falando **sobre** (endereçamento).
+- **3ª pessoa** com possessivos ("seu"); adjetivo concorda com o **sexo** da pessoa.
+- **Excelentíssimo** só para **chefes de Poder**. Demais: "Senhor + cargo,".
+- **Respeitosamente,** (superior) e **Atenciosamente,** (igual, inferior, sem hierarquia).
+- **Digníssimo** e **Ilustríssimo**: abolidos. Evitar "doutor".
+- **Decreto nº 9.758/2019**: só Executivo federal; não atinge a Câmara.

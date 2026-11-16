@@ -1,0 +1,111 @@
+=== Básico
+## O padrão ofício (3ª edição do Manual, 2018)
+O **ofício** passou a cobrir as **três hipóteses** antes separadas: **ofício** (comunicação externa), **memorando** (interna) e **aviso** (entre ministros). **Memorando** e **aviso** deixaram de existir no Manual, embora órgãos e editais ainda os usem.
+
+> Pegadinha: "Desde 2018, o memorando é o expediente próprio para comunicações internas, segundo o Manual." **Errado.** O Manual unificou tudo no **padrão ofício**.
+
+## A estrutura, em ordem
+1. **Cabeçalho**: brasão e **nome do órgão**, **centralizado**.
+2. **Identificação do expediente**: **tipo, número, ano e siglas**, alinhado à **esquerda** ("OFÍCIO Nº 652/2018/SAA/SE/MT").
+3. **Local e data**, à **direita**, **por extenso**, **sem zero à esquerda** e **com ponto final**: "Brasília, 2 de fevereiro de 2018." **Dia 1 = "1º"**. **Sem sigla da UF**.
+4. **Endereçamento**: tratamento, nome, cargo, endereço.
+5. **Assunto**: em **negrito**, com **maiúscula após os dois-pontos** e **ponto final** ("**Assunto: Encaminhamento do relatório.**").
+6. **Vocativo**, seguido de **vírgula**.
+7. **Texto**: **introdução, desenvolvimento, conclusão**. Com **três ou mais parágrafos**, eles são **numerados** a partir do **primeiro**; **vocativo e fecho** **não** se numeram. Se **apenas encaminha** documento, o **1º parágrafo cita** o documento encaminhado.
+8. **Fecho**.
+9. **Identificação do signatário**: **nome e cargo** (exceto quando assina o Presidente da República).
+
+## Formatação
+| Item | Padrão |
+|---|---|
+| **Papel** | **A4** |
+| **Fonte** | **Calibri ou Carlito**, corpo **12** |
+| **Citações recuadas** | corpo **11** |
+| **Notas de rodapé** | corpo **10** |
+| **Margens** | esquerda **3 cm**, direita **1,5 cm**, superior e inferior **2 cm** |
+| **Recuo do parágrafo** | **2,5 cm** |
+| **Espaçamento** | **simples** |
+| **Alinhamento** | **justificado** |
+| **Numeração de páginas** | a partir da **segunda** página |
+
+=== Avançado
+## Cada elemento em detalhe
+### Cabeçalho
+- **Brasão** da República e **nome do órgão**, **centralizados** no topo.
+
+### Identificação do expediente
+- Tipo do documento + número + ano + siglas das unidades: "**OFÍCIO Nº 652/2018/SAA/SE/MT**".
+- **Alinhada à esquerda**.
+
+### Local e data
+- **À direita**, **por extenso**: "Brasília, 2 de fevereiro de 2018."
+- **Sem zero** à esquerda ("2", não "02"). **Dia 1º** com ordinal.
+- **Sem sigla da UF** ("Brasília", não "Brasília/DF").
+- **Ponto final**.
+
+### Assunto
+- **Resumo** do conteúdo, em **negrito**.
+- **Maiúscula** inicial após os dois-pontos; **ponto final**.
+- **Exemplo**: "**Assunto: Convocação de reunião.**"
+- Em **exposição de motivos** e **mensagem**, **não** há assunto (veja a aula seguinte).
+
+### Texto
+- **Estrutura**: introdução (apresenta o assunto), desenvolvimento (detalha), conclusão (fecha, pede ou informa a providência).
+- **Parágrafos numerados** quando houver **três ou mais**; o **fecho** e o **vocativo** **não** entram na numeração.
+- Se o ofício **apenas encaminha** um documento, o **primeiro parágrafo** cita o documento encaminhado.
+
+### Fecho e signatário
+- **Respeitosamente,** ou **Atenciosamente,**.
+- **Nome** e **cargo** do signatário abaixo (assinatura **sobre** o nome). **Exceção**: o **Presidente da República** assina **sem** nome e cargo digitados.
+
+## Formatação: erros comuns
+| Item | Correto | Errado |
+|---|---|---|
+| Data | "Brasília, 2 de fevereiro de 2018." | "Brasília/DF, 02/02/2018" |
+| Dia 1 | "1º de março de 2018" | "01 de março de 2018" |
+| Assunto | "**Assunto: Pedido de informação.**" | "Assunto: pedido de informação" (sem negrito nem ponto final) |
+| Fonte | Calibri 12 | Times New Roman 12 |
+| Margens | 3 / 1,5 / 2 / 2 cm | 2,5 cm em todas |
+| Recuo | 2,5 cm | tabulação padrão |
+
+## Como memorizar os números
+- **Calibri 12** (corpo), **11** (citação), **10** (rodapé).
+- **Margens**: **3 – 1,5 – 2 – 2** (esquerda, direita, superior, inferior).
+- **Recuo**: **2,5 cm**.
+- **Parágrafos numerados**: **3 ou mais**.
+- **Páginas numeradas** a partir da **2ª**.
+
+## Correio eletrônico (e-mail)
+- **Formatação livre**, **linguagem oficial**.
+- É **documento oficial**; para valer como **original**, precisa de **certificação digital ICP-Brasil**.
+- O **assunto** deve ser **claro** e **específico**.
+
+## Como a banca cobra
+- "O **local e a data** vêm à **direita**, **por extenso**, **sem zero à esquerda**."
+- "O assunto vem em **negrito**, com **ponto final**."
+- "Os **parágrafos** são numerados quando houver **três ou mais**."
+- "O **fecho** e o **vocativo** **não** são numerados."
+- "A fonte padrão é **Calibri** ou **Carlito**, corpo 12."
+- "O **memorando** foi **mantido** pelo Manual": **Errado**.
+
+## Padrão ofício e redação oficial
+- **Padronização** é atributo da redação oficial: o formato **uniforme** facilita a **leitura** e o **controle** dos documentos.
+
+=== Pegadinhas
+1. "Desde 2018, o memorando é o expediente próprio para comunicações internas, segundo o Manual." **Errado.** O Manual unificou tudo no padrão ofício.
+2. "A data é escrita 'Brasília/DF, 02/02/2018'." **Errado.** Por extenso, sem zero à esquerda e sem sigla da UF: 'Brasília, 2 de fevereiro de 2018.'
+3. "O dia 1 é escrito '01'." **Errado.** É '1º'.
+4. "O assunto vem sem destaque e sem ponto final." **Errado.** Em negrito, com maiúscula após os dois-pontos e ponto final.
+5. "Os parágrafos de um ofício com dois parágrafos devem ser numerados." **Errado.** A numeração vale para três ou mais.
+6. "O vocativo e o fecho são numerados junto com os parágrafos." **Errado.** Não se numeram.
+7. "A fonte padrão do ofício é Times New Roman 12." **Errado.** É Calibri ou Carlito, corpo 12.
+8. "O e-mail, por si só, tem valor de documento original." **Errado.** Precisa de certificação digital ICP-Brasil.
+
+=== Revisão rápida
+- **Padrão ofício** unificou ofício, memorando e aviso.
+- Ordem: cabeçalho, identificação, local e data, endereçamento, assunto, vocativo, texto, fecho, signatário.
+- Data: "Brasília, 2 de fevereiro de 2018." (direita, por extenso, sem zero, sem UF, ponto final; 1º).
+- Assunto: negrito, maiúscula após os dois-pontos, ponto final.
+- **Calibri/Carlito 12**; citações 11; rodapé 10; margens **3/1,5/2/2**; recuo **2,5 cm**; páginas numeradas a partir da 2ª.
+- **Três ou mais** parágrafos: numerados.
+- **E-mail** original: certificação ICP-Brasil.

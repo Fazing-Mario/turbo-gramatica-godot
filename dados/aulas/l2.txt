@@ -1,0 +1,77 @@
+=== Básico
+## O signo linguístico segundo Saussure
+- O signo é a união de **duas faces**, ambas **psíquicas** (mentais), e inseparáveis como os dois lados de uma folha de papel.
+- **Significante**: a **imagem acústica**, a marca psíquica do som. Não é o som físico (que é fenômeno da fala) e **não é a escrita** (a escrita é uma representação secundária da língua).
+- **Significado**: o **conceito** evocado pelo significante.
+- O signo **não é a coisa**. A coisa do mundo é o **referente**, que fica **fora** do signo saussuriano.
+
+| Elemento | O que é | Exemplo: "cadeira" |
+|---|---|---|
+| Significante | Imagem acústica | A sequência de sons /ka.dei.ra/ guardada na mente |
+| Significado | Conceito | A ideia de "móvel com assento e encosto" |
+| Referente | Objeto do mundo | Uma cadeira concreta que está na sala |
+
+> Pegadinha clássica: "o signo une um nome a uma coisa". **Errado.** Une um **conceito** a uma **imagem acústica**. A coisa é o referente.
+
+## Os princípios do signo
+1. **Arbitrariedade**: não existe laço natural, necessário, entre o significante e o significado. A prova está nas línguas: o mesmo conceito tem formas diferentes (casa, house, maison, Haus).
+2. **Linearidade do significante**: ele se desenvolve no **tempo**, um elemento depois do outro, formando uma cadeia (não se pronunciam dois sons ao mesmo tempo).
+
+## Arbitrário não é "livre"
+- Arbitrário quer dizer **imotivado**: nada na ideia de "irmão" obriga que ela seja ligada à sequência de sons "irmão".
+- Mas o falante **não pode trocar** o signo por vontade própria. Se alguém passar a chamar a cadeira de "mesa", ninguém o entenderá. A ligação é **imposta pela convenção social**.
+- Por isso Saussure fala de **imutabilidade** (a comunidade impõe o signo) e, ao mesmo tempo, de **mutabilidade** (com o tempo, a relação entre significante e significado se desloca).
+
+=== Avançado
+## Imutabilidade e mutabilidade
+| | Imutabilidade | Mutabilidade |
+|---|---|---|
+| Ideia | No presente, a comunidade impõe o signo; ninguém o troca de uma hora para outra | No tempo, o signo se altera: muda o som, muda o sentido, muda a relação entre eles |
+| Por que | O signo é arbitrário (não há razão para mudá-lo), há muitíssimos signos, o sistema é complexo e a língua é herdada coletivamente | O tempo desloca a relação entre significante e significado |
+| Exemplo | Ninguém decide sozinho chamar o "livro" de outro nome | Do latim "mulier" ao português "mulher"; "pharmacia" virou "farmácia" |
+
+- **Sincronia x diacronia**: o estudo da língua **num momento** (sincrônico) e o estudo da **evolução no tempo** (diacrônico). Saussure considera a sincronia o ponto de vista primordial para descrever o sistema.
+
+## Motivação: onomatopeias, interjeições e motivação relativa
+- **Onomatopeias e interjeições** parecem motivadas, mas são poucas e também convencionais: o latido é "au-au" em português e "woof" em inglês.
+- **Motivação relativa**: há signos **parcialmente motivados** porque se constroem de outros signos. "Dezenove" é relativamente motivado (lembra "dez" e "nove"), enquanto "vinte" é imotivado. Quanto mais um signo se apoia em outros do sistema, mais motivado ele é. A **arbitrariedade absoluta** é a de signos simples, sem relação visível com outros.
+- Em palavras compostas e derivadas, a motivação relativa é a regra: "pereira" se explica por "pera" + sufixo; "pera" é imotivada.
+
+## Símbolo e signo
+- Saussure lembra que o **símbolo** não é totalmente arbitrário: há um resto de relação natural entre o significante e o significado. A balança, símbolo da justiça, não poderia ser trocada por um carro.
+- O signo linguístico, por oposição, é plenamente arbitrário.
+- Para completar a comparação, na semiótica de **Peirce** os signos se dividem em **ícone** (semelhança com o objeto: uma foto, um mapa), **índice** (ligação real com o objeto: fumaça indica fogo, pegada indica passagem) e **símbolo** (convenção: a palavra "fogo"). A palavra, nessa classificação, é **símbolo** por ser convencional.
+
+## Sintagma e paradigma
+| Relação | Onde ocorre | Exemplo na frase "O deputado votou a favor" |
+|---|---|---|
+| **Sintagmática** (em presença) | Na cadeia, entre termos que aparecem lado a lado | "deputado" se liga a "o" e a "votou" |
+| **Paradigmática** (em ausência) | Entre os termos que poderiam ocupar o mesmo lugar | "deputado" poderia ser "senador", "relator", "vereador" |
+
+- Escolher é operar no **eixo paradigmático** (qual palavra entre as possíveis); combinar é operar no **eixo sintagmático** (como se organiza a frase).
+- Por isso, quando a banca pergunta o efeito de **trocar** uma palavra por outra, está tratando do eixo paradigmático.
+
+## Valor linguístico
+- O significado de uma palavra não é uma "etiqueta" fixa: vem do **valor**, isto é, do lugar da palavra no sistema e das relações com as vizinhas.
+- O exemplo clássico: o francês "mouton" e o inglês "sheep" referem-se ao mesmo animal, mas "mouton" cobre também a carne, enquanto o inglês tem "mutton" para a carne. O **valor** dos signos difere entre as duas línguas, ainda que o conceito pareça igual.
+- Em português, "pescoço" e "cangote" se opõem pelo registro; "cara" e "rosto" pelo grau de formalidade. O que muda é o valor, não só a referência.
+
+=== Pegadinhas
+1. "O significante corresponde à forma escrita da palavra." **Errado.** É a imagem acústica; a escrita é secundária.
+2. "O signo linguístico une um nome a uma coisa." **Errado.** Une conceito e imagem acústica; a coisa é o referente.
+3. "Arbitrariedade significa que cada falante pode escolher livremente o nome das coisas." **Errado.** A ligação é imotivada, mas imposta pela convenção social.
+4. "As onomatopeias provam que o signo linguístico é motivado." **Errado.** São poucas e também convencionais ("au-au" x "woof").
+5. "A linearidade do significante quer dizer que as palavras seguem a ordem direta (sujeito, verbo, objeto)." **Errado.** Significa que o significante se desenvolve no tempo, um elemento após o outro.
+6. "Sintagma é a relação entre termos ausentes, que poderiam ocupar o mesmo lugar." **Errado.** Essa é a relação **paradigmática**; a sintagmática é em presença.
+7. "Para Saussure, a escrita é a forma primária da língua." **Errado.** A escrita é secundária; o significante é imagem acústica.
+8. "A mudança de 'pharmacia' para 'farmácia' ilustra a mutabilidade do signo." **Certo.** O tempo altera a forma; é fenômeno diacrônico.
+
+=== Revisão rápida
+- Signo = **significante** (imagem acústica) + **significado** (conceito). Referente = coisa do mundo, fora do signo.
+- Princípios: **arbitrariedade** (imotivado, mas imposto pela convenção) e **linearidade** do significante (no tempo).
+- **Imutabilidade** (a comunidade impõe) e **mutabilidade** (o tempo desloca).
+- **Motivação relativa**: dezenove (relativamente motivado) x vinte (imotivado). Onomatopeia também é convencional.
+- **Sintagma** = em presença (cadeia). **Paradigma** = em ausência (troca possível).
+- **Sincronia** = momento. **Diacronia** = evolução no tempo.
+- **Valor** = lugar do signo no sistema, por oposição aos demais.
+- Peirce: ícone (semelhança), índice (ligação real), símbolo (convenção).

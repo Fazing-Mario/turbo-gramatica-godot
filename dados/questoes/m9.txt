@@ -1,0 +1,26 @@
+# Módulo 9 — Tipologias e gêneros textuais. Acrescente questões novas sempre no fim.
+CE | E | A narração é um gênero textual. | Narração é tipo textual; conto, crônica e notícia são gêneros.
+CE | C | O editorial expressa a opinião do veículo e normalmente não é assinado. | O artigo de opinião é que é assinado pelo autor.
+CE | C | O lide da notícia responde às perguntas o quê, quem, quando, onde, como e por quê. | É o primeiro parágrafo, na estrutura de pirâmide invertida.
+CE | E | A reportagem limita-se a relatar o fato de forma breve, sem aprofundamento. | A reportagem aprofunda o tema com entrevistas, dados e contexto.
+CE | C | A resenha, diferentemente do resumo, inclui avaliação crítica da obra. | O resumo condensa as ideias sem opinião.
+CE | C | Textos com predomínio de verbos no imperativo e sequência de passos são injuntivos. | Manuais, receitas, editais e regulamentos.
+CE | E | A descrição caracteriza-se pela progressão temporal dos fatos. | A descrição apresenta simultaneidade; a progressão temporal é da narração.
+CE | C | Um mesmo gênero textual pode apresentar diferentes tipos textuais. | É a heterogeneidade tipológica; classifica-se pelo predomínio.
+CE | C | O narrador onisciente conhece pensamentos e sentimentos das personagens. | O observador só relata o que se vê.
+CE | E | O discurso indireto livre é sempre marcado por travessão. | Ele mistura a voz da personagem à do narrador sem marca gráfica.
+CE | C | O argumento de autoridade recorre à opinião de especialista ou instituição reconhecida. | É um dos tipos de argumento mais comuns.
+CE | C | A função conativa centra-se no receptor e usa imperativo e vocativo. | Típica da propaganda.
+CE | E | A função metalinguística está centrada no emissor. | Está centrada no código; a centrada no emissor é a emotiva.
+CE | C | A função fática visa testar ou manter o canal de comunicação. | "Alô?", "Entendeu?", "Né?".
+CE | C | Na 3ª edição do Manual de Redação da Presidência, aviso e memorando foram unificados no padrão ofício. | O documento passou a se chamar ofício.
+CE | E | O fecho "Atenciosamente" é o indicado para autoridades de hierarquia superior. | Para superiores: Respeitosamente. Atenciosamente: mesma hierarquia ou inferior.
+CE | E | O tratamento "Ilustríssimo Senhor" continua recomendado na correspondência oficial. | Ilustríssimo e Digníssimo foram abolidos.
+CE | C | A crônica costuma partir de fatos do cotidiano, com linguagem leve e olhar pessoal. | Pode ter humor ou lirismo e é publicada em jornais e revistas.
+AB | "Compre já!" — função predominante: | conativa | referencial | Centrada no receptor, com imperativo.
+AB | Dicionário — função predominante: | metalinguística | fática | A linguagem explica a própria linguagem.
+AB | Texto que defende uma tese: | dissertativo-argumentativo | expositivo | O expositivo informa sem defender opinião.
+AB | Gênero com a opinião do jornal, sem assinatura: | editorial | artigo de opinião | O artigo de opinião é assinado.
+AB | Gênero que condensa ideias sem opinião: | resumo | resenha | A resenha avalia a obra.
+AB | Fecho para autoridade superior: | Respeitosamente | Atenciosamente | Manual de Redação da Presidência.
+AB | Tipo textual de uma receita: | injuntivo | narrativo | Instrui com sequência de passos.

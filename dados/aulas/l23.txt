@@ -1,0 +1,103 @@
+=== Básico
+## Toda língua varia, e variar não é errar
+A **variação linguística** é a propriedade que toda língua viva tem de se manifestar de modos diferentes, conforme o tempo, o lugar, o grupo social, a situação e o meio. O critério da Linguística é a **adequação** ao contexto, ao interlocutor e ao gênero.
+
+> Reconhecer a variação **não anula** a norma-padrão: ela continua exigida em textos oficiais, leis e na sua discursiva.
+
+## Os tipos de variação
+| Variação | Fator | Exemplo | Macete |
+|---|---|---|---|
+| **Diatópica** (geográfica) | **Região** | mandioca / aipim / macaxeira; o "r" caipira; "tu" no Sul | topos = lugar |
+| **Diastrática** (social) | **Grupo social**: classe, escolaridade, idade, profissão | Gíria jovem, jargão jurídico, "nós foi" | estrato = camada social |
+| **Diafásica** (estilística, situacional) | **Situação** e grau de monitoramento | "Me dá uma água?" x "Poderia fornecer-me um copo d'água?" | situação, registro |
+| **Diacrônica** (histórica) | **Tempo** | Vossa Mercê → vosmecê → você → cê; "pharmacia" → farmácia | cronos = tempo |
+| **Diamésica** (de meio) | **Modalidade**: fala, escrita, digital | "vc", "pq" no WhatsApp | meio, canal |
+
+## Dialeto, registro e idioleto
+| Termo | Ligado a... | Exemplo |
+|---|---|---|
+| **Dialeto** | **Grupo de falantes** (região, grupo social) | Dialeto nordestino, dialeto de comunidades de pescadores |
+| **Registro** | **Situação de uso** (formal, informal) | A mesma pessoa troca de registro ao longo do dia |
+| **Idioleto** | **Indivíduo**: o jeito pessoal de falar | Muletas ("tipo", "né"), vocabulário preferido |
+| **Variedade** | Termo geral: qualquer forma de a língua se realizar | Variedade urbana, rural, padrão |
+| **Socioleto** | Variedade de um **grupo social** | Gíria, jargão de profissão |
+| **Cronoleto** | Variedade de uma **faixa etária** ou época | Fala de idosos, fala de adolescentes |
+
+=== Avançado
+## Mais detalhes de cada variação
+### Diatópica
+- Diferenças de **léxico** (macaxeira, aipim, mandioca), **fonética** (o "s" chiado carioca, o "r" retroflexo do interior paulista), **morfossintaxe** (uso de "tu" com ou sem concordância).
+- Exemplos de **regionalismos**: "bolacha" x "biscoito", "pão francês" x "cacetinho" x "pão de sal".
+- Variação diatópica **não implica** inferioridade de nenhuma região.
+
+### Diastrática
+- Diferenças entre **classes sociais**, **escolaridade**, **idade**, **profissão**, **gênero**, **grupo**.
+- **Gíria** é variação de grupo (jovens, skatistas, grupos de rap); **jargão** é variação **profissional** (juridiquês, economês, "parlamentarês").
+- Variações **estigmatizadas** ("nós vai", "os menino") têm regras próprias; a estigmatização é **social**, não linguística.
+
+### Diafásica
+- Variação conforme a **situação** e o **grau de monitoramento**: mais formal em audiência; mais descontraída em casa.
+- **Registro formal** (cuidado, planejado), **informal** (espontâneo), **familiar** e **técnico**.
+- É a variação **mais exigida** em redação oficial: o registro deve ser **formal e impessoal**.
+
+### Diacrônica
+- Mudanças ao longo do **tempo**: fonética, léxico, sintaxe, ortografia.
+- Exemplos: **Vossa Mercê → vosmecê → você → cê**; "pharmacia" → "farmácia"; "idéia" → "ideia" (Acordo Ortográfico).
+- Também envolve **arcaísmos** (palavras antigas), **neologismos** (novas) e **mudança semântica**.
+
+### Diamésica
+- Diferenças entre **fala**, **escrita** e **meio digital**.
+- Na **escrita digital**, abreviações ("vc", "pq"), emojis, ausência de pontuação.
+- **Gêneros digitais** criam variedades próprias (internetês, memes).
+
+## Tabela de identificação rápida
+| Exemplo | Variação |
+|---|---|
+| "Mandioca, aipim e macaxeira" | Diatópica |
+| "Gíria de adolescentes" | Diastrática |
+| "Mesma pessoa fala diferente com chefe e amigo" | Diafásica |
+| "'Vossa Mercê' → 'você'" | Diacrônica |
+| "'vc' e 'pq' no WhatsApp" | Diamésica |
+| "Jargão jurídico" | Diastrática (profissional) |
+| "'Nós vai' em comunidades rurais" | Diastrática (e possivelmente diatópica) |
+| "'Tu' no Rio Grande do Sul" | Diatópica |
+| "Fala formal em audiência e informal em casa" | Diafásica |
+
+## Variação e prestígio
+- Algumas variedades têm **maior prestígio** social por serem as **dos grupos de poder**; **não** são linguisticamente **melhores**.
+- A norma-padrão é **uma variedade de prestígio** codificada nas gramáticas.
+- A **variedade estigmatizada** é alvo de **preconceito** (aula seguinte).
+
+## Variação interna: variável e variante
+- **Variável linguística**: o ponto em que há variação (a concordância do verbo com o sujeito).
+- **Variantes**: as formas concorrentes ("os alunos chegaram" x "os aluno chegou").
+- A Sociolinguística correlaciona as variantes com **fatores** sociais (idade, escolaridade, região) e linguísticos.
+
+## Mudança e variação
+- **A variação** de hoje pode ser a **mudança** de amanhã: "você" nasceu da variação "Vossa Mercê".
+- **Mudanças em curso**: perda do "tu" em várias regiões; uso de "a gente" por "nós".
+- A **mudança** acontece quando a variante é **adotada** pela comunidade.
+
+## Como a banca cobra
+- "O texto ilustra variação diastrática, pois..." (identificar o fator).
+- "A mudança de registro mostra variação diafásica."
+- "As diferenças entre os termos regionais exemplificam variação diatópica."
+- "A variação revela preconceito"? (cuidado: a **Linguística** reconhece a variação e combate o preconceito).
+- Em redação oficial, o **registro** é **formal**: a banca cobra a **adequação**.
+
+=== Pegadinhas
+1. "Gírias de adolescentes são exemplo de variação diatópica." **Errado.** É diastrática (grupo social); diatópica é região.
+2. "A mudança de 'Vossa Mercê' para 'você' ilustra variação diafásica." **Errado.** É diacrônica (tempo).
+3. "A mesma pessoa que fala de modo diferente com o chefe e com os amigos ilustra variação diatópica." **Errado.** É diafásica (situação).
+4. "Dialeto e registro são sinônimos." **Errado.** Dialeto liga-se ao grupo de falantes; registro, à situação de uso.
+5. "As abreviações 'vc' e 'pq' em mensagens são variação diacrônica." **Errado.** São diamésicas (meio digital).
+6. "A variedade de prestígio é linguisticamente superior às demais." **Errado.** O prestígio é social, não linguístico.
+7. "Reconhecer a variação linguística autoriza o uso de qualquer variedade em documentos oficiais." **Errado.** A adequação ao gênero oficial exige a norma-padrão.
+8. "Só as variedades populares variam." **Errado.** Toda variedade, inclusive a culta e a padrão ao longo do tempo, está sujeita a variação.
+
+=== Revisão rápida
+- **Diatópica** = região. **Diastrática** = grupo social. **Diafásica** = situação (registro). **Diacrônica** = tempo. **Diamésica** = meio (fala, escrita, digital).
+- **Dialeto** = grupo; **registro** = situação; **idioleto** = indivíduo.
+- Gíria = grupo; jargão = profissão.
+- Variar não é errar; critério = **adequação**.
+- A norma-padrão continua exigida nos textos oficiais.

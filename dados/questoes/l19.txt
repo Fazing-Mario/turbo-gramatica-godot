@@ -1,0 +1,19 @@
+# Módulo l19 — Atos de fala: Austin e Searle. Acrescente questões novas sempre no fim.
+CE | C | Para Austin, enunciados performativos realizam uma ação pelo próprio ato de dizer. | Exemplos: Prometo, Declaro aberta a sessão.
+CE | E | Em Declaro aberta a sessão, dito pelo Presidente da Câmara no plenário, há enunciado constativo. | É performativo, declarativo para Searle: dizer é realizar.
+CE | C | Os enunciados constativos descrevem o mundo e podem ser verdadeiros ou falsos. | Os performativos são avaliados como felizes ou infelizes.
+CE | E | Os enunciados performativos são avaliados como verdadeiros ou falsos. | São felizes ou infelizes, conforme as condições de felicidade.
+CE | C | Para que Declaro aberta a sessão produza efeito, é necessário que seja dito por pessoa autorizada, no contexto e rito adequados. | São as condições de felicidade do performativo.
+CE | C | O ato locucionário é o ato de dizer algo com sentido; o ilocucionário é o que se faz ao dizer; o perlocucionário, o efeito no ouvinte. | A tríade de Austin.
+CE | E | O ato perlocucionário corresponde à intenção do falante ao proferir o enunciado. | A intenção, ou força, é ilocucionária; o perlocucionário é o efeito no ouvinte.
+CE | C | Alertar o plenário sobre as falhas de um relatório é ato ilocucionário; a preocupação que isso gera nos parlamentares é efeito perlocucionário. | A força está no dizer; o efeito, no ouvinte.
+CE | C | Para Searle, prometer, jurar e garantir são atos compromissivos. | Comprometem o falante com uma ação futura.
+CE | C | Agradecer, desculpar-se e felicitar pertencem à classe dos atos expressivos. | Exprimem sentimentos e atitudes.
+CE | E | Prometer é um ato declarativo, pois modifica a realidade institucional. | Prometer é compromissivo; declarativos são como nomear e declarar aberta a sessão.
+CE | C | Declarativos, como nomear e promulgar, só são eficazes se o falante tiver competência institucional. | Dependem de autoridade e rito.
+CE | C | Você pode me passar o processo? é, no uso, um ato de fala indireto de pedido. | A forma é de pergunta; a função é diretiva.
+CE | C | Está frio aqui pode funcionar como pedido para fechar a janela, o que caracteriza ato de fala indireto. | Forma assertiva, função diretiva.
+CE | E | Ele declara aberta a sessão é enunciado performativo com o mesmo valor de Declaro aberta a sessão. | Em terceira pessoa é descrição: constativo.
+AB | Pedir, ordenar e aconselhar são atos... | diretivos | assertivos | Assertivos afirmam ou informam.
+AB | O efeito de um enunciado sobre o ouvinte é o ato... | perlocucionário | ilocucionário | O ilocucionário é a força do que se faz ao dizer.
+AB | Nomear alguém para um cargo é ato... | declarativo | expressivo | Os expressivos exprimem sentimentos.

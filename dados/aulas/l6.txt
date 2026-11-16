@@ -1,0 +1,95 @@
+=== Básico
+## O que são "categorias semânticas"
+O edital cita "categorias semânticas" sem detalhar. A literatura reúne sob esse nome os **componentes de sentido** das palavras e as **categorias gramaticais com valor de sentido**. Os tópicos que podem ser cobrados:
+
+| Categoria | Ideia | Exemplo |
+|---|---|---|
+| **Traços semânticos (semas)** | Componentes mínimos de sentido | "Deputado": humano, cargo eletivo, Legislativo federal |
+| **Seleção semântica** | O verbo escolhe o tipo de sujeito e de objeto que combinam com ele | "O projeto sorriu" soa estranho: "sorrir" pede sujeito humano |
+| **Papéis semânticos** | A função de sentido de cada participante da ação | Agente, paciente, experienciador, beneficiário, instrumento |
+| **Tempo** | Quando ocorre | votou (passado), votará (futuro) |
+| **Aspecto** | Como a ação se desenvolve | "votou" (acabada), "vinha votando" (em curso), "voltou a votar" (repetida) |
+| **Modalidade** | Atitude do falante: certeza, obrigação, possibilidade | "deve", "talvez", "é preciso" |
+| **Dêixis** | Referência ao momento e ao lugar da fala | eu, aqui, agora, este |
+
+## Traços semânticos (semas)
+- A análise componencial decompõe o sentido em **traços**: `solteiro` = humano, adulto, não casado. Trocar um traço muda a palavra: acrescentar o traço "feminino" a "ator" gera "atriz".
+- Os traços explicam por que palavras se **opõem** (viúvo x casado: o traço "cônjuge vivo") e por que entram em **relações** de hiponímia (o hipônimo tem **todos** os traços do hiperônimo e mais um).
+- **Seleção semântica**: "O deputado leu o projeto" é natural; "O projeto leu o deputado" viola a seleção (leitor humano). O desvio é aceito em **sentido figurado** (personificação) e vira recurso expressivo.
+
+## Papéis semânticos
+| Papel | Quem é | Exemplo |
+|---|---|---|
+| **Agente** | Quem faz a ação voluntariamente | **O relator** apresentou o parecer |
+| **Paciente** | Quem sofre a ação | O parecer foi **apresentado** pelo relator |
+| **Experienciador** | Quem sente ou percebe | **O deputado** temia a derrota |
+| **Beneficiário** | Quem recebe o proveito | Entregou o ofício **ao presidente** |
+| **Instrumento** | O meio da ação | Escreveu o relatório **com o computador** |
+| **Causa** | Fator que provoca o efeito | A **greve** paralisou a votação |
+
+> Na **voz passiva**, o **sujeito gramatical** é o **paciente** da ação: "O projeto foi aprovado pelo plenário". O agente vem na agente da passiva.
+
+=== Avançado
+## Aspecto verbal e modalidade
+- **Aspecto** não é tempo. O tempo situa o fato no eixo do passado, presente e futuro; o aspecto descreve **o desenvolvimento interno** do fato.
+  - **Perfectivo** (acabado): "O plenário votou o projeto."
+  - **Imperfectivo** (em curso ou habitual): "O plenário votava o projeto" / "Ele sempre votava com a bancada."
+  - **Incoativo** (início): "O debate começou a esquentar."
+  - **Durativo** (continuidade): "Continuou falando por duas horas."
+  - **Iterativo** (repetição): "Voltou a insistir."
+- **Modalidade** é a atitude do falante: **epistêmica** (certeza e possibilidade: "deve ter votado", "talvez vote") e **deôntica** (obrigação e permissão: "deve votar", "pode votar"). A aula de modalizadores aprofunda o tema.
+
+## Formação de palavras: o que importa é o efeito de sentido
+Vocabulário novo se forma por **derivação**, **composição** e outros processos. Em Cebraspe, o item costuma pedir o **processo** ou o **efeito** (por exemplo, o sufixo muda a classe? Acrescenta valor de lugar, qualidade, agente?).
+
+| Processo | Como forma | Exemplo |
+|---|---|---|
+| **Derivação prefixal** | Prefixo ao radical | **in**constitucional, **re**formular |
+| **Derivação sufixal** | Sufixo ao radical | regiment**al**, vota**ção** |
+| **Derivação parassintética** | Prefixo e sufixo **ao mesmo tempo** (sem um deles a palavra não existe) | **en**gaveta**r**, **a**noite**cer** |
+| **Derivação regressiva** | Redução, em geral verbo → substantivo | debater → debate; votar → voto |
+| **Derivação imprópria** | Mudança de classe sem alterar a forma | "o **sim** venceu", "o **porquê**" |
+| **Composição por justaposição** | Radicais unidos sem perda | guarda-chuva, passatempo |
+| **Composição por aglutinação** | Radicais unidos com perda de fonema | planalto (plano + alto), embora (em + boa + hora) |
+| **Hibridismo** | Elementos de línguas diferentes | automóvel (grego + latim), sociologia |
+| **Abreviação** | Redução da palavra | moto, foto, extra |
+| **Sigla** | Letras iniciais, soletradas | STF, CPI |
+| **Acrônimo** | Sigla pronunciada como palavra | Petrobras, Anvisa |
+| **Onomatopeia** | Imitação de som | tique-taque |
+| **Neologismo** | Palavra nova | uberização, "lacrar" |
+| **Empréstimo (estrangeirismo)** | Palavra de outra língua | mouse, deletar |
+
+## Sufixos e valor semântico
+| Sufixo | Valor | Exemplos |
+|---|---|---|
+| -eiro, -dor, -ista | Agente ou profissão | porteiro, legislador, parlamentarista |
+| -ção, -mento, -agem | Ação ou resultado | votação, julgamento, fiscalização |
+| -dade, -eza, -ência | Qualidade ou estado | legalidade, clareza, transparência |
+| -al, -ário, -eiro | Lugar ou coleção | plenário, bancada |
+| -ecer, -izar, -ificar | Tornar-se ou fazer ficar | anoitecer, legalizar, simplificar |
+| -mente | Modo (advérbio) | efetivamente |
+| -inho, -ão | Diminutivo e aumentativo, com valor afetivo ou pejorativo | "um projetinho" |
+
+## Como identificar parassíntese
+- Teste: retire o prefixo. Se a palavra restante **não existe**, e retirando o sufixo também **não existe**, a derivação é parassintética.
+- "Engavetar": "gavetar" não existe e "engaveta" não existe → parassíntese. "Infelizmente": "infeliz" existe sem o advérbio → derivação sufixal sobre derivada prefixal, **não** parassíntese.
+- Outro exemplo: "amanhecer" (a + manhã + ecer), "emudecer", "avermelhado" (a + vermelho + ado).
+
+=== Pegadinhas
+1. "'Engavetar' é formada por derivação prefixal e sufixal." **Errado.** É parassintética: nem 'engaveta' nem 'gavetar' existem como etapas intermediárias.
+2. "Na voz passiva, o sujeito é o agente da ação." **Errado.** O sujeito da passiva é o **paciente**; o agente aparece no agente da passiva.
+3. "'Votou' e 'vinha votando' expressam tempos diferentes e apenas isso." **Errado.** Diferem também no aspecto (acabado x em curso).
+4. "'Debate', formada de 'debater', é derivação sufixal." **Errado.** É derivação regressiva.
+5. "'Petrobras' é uma sigla." **Errado.** É um acrônimo (sigla pronunciada como palavra); sigla soletrada é STF.
+6. "'Planalto' é formado por justaposição." **Errado.** Por aglutinação (plano + alto, com perda de fonemas).
+7. "'O sim venceu' é um caso de derivação sufixal." **Errado.** É derivação imprópria (mudança de classe sem alterar a forma).
+8. "'O projeto sorriu' viola a seleção semântica e por isso é sempre um erro." **Errado.** Pode ser personificação, recurso expressivo.
+
+=== Revisão rápida
+- **Semas**: traços mínimos de sentido; **seleção semântica**: o verbo escolhe sujeito e objeto compatíveis.
+- **Papéis**: agente, paciente (sujeito da passiva), experienciador, beneficiário, instrumento, causa.
+- **Tempo** (quando) x **aspecto** (como a ação se desenvolve) x **modalidade** (atitude).
+- **Parassíntese**: prefixo e sufixo simultâneos (engavetar, anoitecer). **Regressiva**: debater, debate. **Imprópria**: o sim.
+- **Justaposição** (guarda-chuva) x **aglutinação** (planalto).
+- **Sigla** (STF) x **acrônimo** (Petrobras). **Neologismo**, **empréstimo**, **abreviação**, **hibridismo**.
+- Sufixos: -dor (agente), -ção (ação), -dade (qualidade), -ecer e -izar (processo).

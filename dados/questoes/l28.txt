@@ -1,0 +1,19 @@
+# Módulo l28 — Figuras de construção e de som. Acrescente questões novas sempre no fim.
+CE | C | A elipse consiste na omissão de um termo facilmente recuperável pelo contexto. | Exemplo: No plenário, silêncio.
+CE | C | O zeugma é a elipse de um termo que já foi mencionado anteriormente. | Exemplo: Ele votou sim; eu, não.
+CE | E | Em Eu votei a favor; ele, contra, há elipse de termo não mencionado antes. | Há zeugma: o verbo votei já foi dito.
+CE | C | O pleonasmo enfático é recurso estilístico, ao passo que o pleonasmo vicioso é falha de redação. | Exemplo de vicioso: subir para cima.
+CE | C | Expressões como elo de ligação e há anos atrás são pleonasmos viciosos, contrários à concisão exigida na redação oficial. | O Manual de Redação da Presidência pede concisão.
+CE | C | O polissíndeto, repetição de conectivos, tende a produzir lentidão e ênfase. | Exemplo: E gritou, e correu, e caiu.
+CE | C | O assíndeto, ausência de conectivos, confere rapidez e dinamismo ao enunciado. | Exemplo: Chegou, discursou, venceu.
+CE | E | O assíndeto caracteriza-se pela repetição de conectivos para dar lentidão. | Essa é a descrição do polissíndeto.
+CE | C | A repetição da palavra Queremos no início de várias frases de um discurso é um caso de anáfora como figura retórica. | Dá ritmo e ênfase; não compromete a coesão.
+CE | E | A repetição de Queremos no início das frases deve ser evitada, pois compromete a coesão do discurso. | É recurso retórico legítimo.
+CE | C | O hipérbato é a alteração da ordem direta dos termos da oração. | Exemplo: Ouviram do Ipiranga as margens plácidas.
+CE | C | O anacoluto consiste na quebra da estrutura sintática, deixando um termo solto. | Exemplo: Esses deputados, ninguém confia neles.
+CE | C | Em Os brasileiros somos pacientes, há silepse de pessoa. | O falante se inclui no grupo.
+CE | E | Em A gente somos responsáveis, há silepse de pessoa aceita pela norma-padrão. | A gente pede verbo na 3ª pessoa do singular.
+CE | C | A aliteração é a repetição de sons consonantais, e a assonância, de sons vocálicos. | Exemplo de aliteração: O rato roeu a roupa do rei de Roma.
+AB | A figura que consiste na ruptura da estrutura sintática da frase é o... | anacoluto | hipérbato | O hipérbato é a inversão da ordem direta.
+AB | A ausência de conectivos entre elementos de uma enumeração caracteriza o... | assíndeto | polissíndeto | O polissíndeto repete conectivos.
+AB | Quem casa quer casa exemplifica... | paronomásia | aliteração | Jogo com palavras de forma parecida.

@@ -1,0 +1,93 @@
+=== Básico
+## Intertextualidade
+**Intertextualidade** é o diálogo de um texto com outros. Todo texto responde a textos anteriores e abre caminho a outros. Pode ser **explícita** ou **implícita**.
+
+| Tipo | Como aparece | Exemplo |
+|---|---|---|
+| **Explícita** | O texto-fonte é **nomeado** ou facilmente identificado: citação, referência, resumo, resenha, tradução | Trecho do Regimento entre aspas, com a fonte |
+| **Implícita** | O texto-fonte **não é nomeado**: o leitor o reconhece pelo repertório (alusão, paródia, paráfrase, pastiche) | "Constituição Cidadã" remete a Ulysses Guimarães |
+
+## As formas de intertextualidade
+| Forma | Relação com o texto-fonte | Exemplo |
+|---|---|---|
+| **Citação** | Reproduz **literalmente**, com aspas e fonte | Trecho do Regimento entre aspas |
+| **Alusão** | **Evoca** sem citar: referência breve | "O dia D da reforma" |
+| **Paráfrase** | Reescreve **mantendo o sentido** | Resumo fiel de um parecer |
+| **Paródia** | Reescreve **subvertendo** o sentido, em geral com humor ou crítica | "Minha terra tem Palmares" (Oswald de Andrade, sobre Gonçalves Dias) |
+| **Pastiche** | **Imita o estilo** de um autor, sem crítica | Texto "à maneira de" Machado |
+| **Epígrafe** | Citação curta que **abre** o texto | — |
+| **Tradução** | Passa o texto de uma língua a outra | — |
+
+> **Paráfrase** mantém o sentido; **paródia** subverte. É a pegadinha mais comum do tema.
+
+## Paráfrase e paródia: diferença decisiva
+- **Paráfrase** é "dizer com outras palavras" **o mesmo**: o autor concorda com o texto-fonte e o retoma. Texto "parafraseado" tem sentido equivalente.
+- **Paródia** é "dizer **outra coisa** com as palavras do outro": inverte, critica ou ironiza. Mantém a forma reconhecível e muda o conteúdo.
+- **Paródia** x **pastiche**: a paródia tem efeito crítico ou cômico; o pastiche é imitação de estilo, sem necessariamente criticar.
+- Exemplo de paródia: "Minha terra tem Palmares, onde gorjeia o mar" — reescreve "Minha terra tem palmeiras, onde canta o sabiá" (Gonçalves Dias) para reivindicar a memória do quilombo.
+
+=== Avançado
+## Macroestrutura e microestrutura (van Dijk)
+| Nível | O que é | Exemplo |
+|---|---|---|
+| **Macroestrutura** | O **sentido global**, o tema, o que sobra num bom resumo | "A necessidade de regular o uso de aplicativos de transporte" |
+| **Microestrutura** | A **superfície**: frases e suas ligações locais | A sequência de frases e conectores |
+
+- **Resumir** é aplicar **macrorregras**:
+  1. **Apagar** (suprimir) o acessório.
+  2. **Selecionar** o essencial.
+  3. **Generalizar** (um nome mais geral para vários casos).
+  4. **Construir** (uma frase-síntese que englobe a sequência de fatos).
+- Um **bom resumo** mantém a macroestrutura e **não** traz opinião nem informação nova.
+
+## Retextualização (Marcuschi)
+**Retextualização** é a transformação de um texto em outro, **mudando a modalidade ou o gênero**, com compreensão do texto-fonte e preservação do sentido.
+
+| Do texto | Para o texto | Exemplo |
+|---|---|---|
+| Fala | Escrita | Discurso no plenário → notas taquigráficas → texto revisado |
+| Entrevista | Notícia | Fala do ministro vira lide e citações |
+| Sessão | Ata | A discussão vira registro de fatos |
+| Texto técnico | Texto de divulgação | Parecer vira nota explicativa para o cidadão |
+
+- **Operações típicas** na passagem **fala → escrita**: eliminar marcas interacionais e hesitações ("é...", "né"), **eliminar repetições**, **introduzir pontuação e paragrafação**, **reordenar a sintaxe**, **condensar ideias**, reformular trechos truncados, substituir termos coloquiais.
+- A retextualização **não é "passar a limpo"**: exige compreender o texto-fonte, respeitar o **sentido** e a **voz** do orador e escolher a **forma adequada** ao novo gênero.
+- **Isso é o coração do cargo** de Registro e Redação (taquigrafia, revisão, notas, atas).
+- Antes de reescrever, o redator **compreende** o texto-fonte; só depois elimina marcas da oralidade, reorganiza a sintaxe e revisa o resultado.
+
+## Reescritura: o que a banca mais faz
+O item propõe **reescrever um trecho** e pergunta se o novo texto mantém a **correção gramatical** e o **sentido original**. Checklist:
+1. A **relação lógica** do conector se manteve (concessão continua concessão)?
+2. A **força modal** mudou ("pode" → "deve")?
+3. O **escopo** mudou ("apenas", "inclusive" deslocados)?
+4. A oração adjetiva passou de **restritiva** para **explicativa** (ou vice-versa)?
+5. **Concordância, regência e pontuação** continuam corretas?
+6. Houve **acréscimo ou perda de informação**?
+7. A **ordem** das informações altera a ênfase?
+
+### Exemplos comentados
+- Original: "Embora o prazo seja curto, o relator pediu vista." Reescrita: "O prazo é curto, mas o relator pediu vista." **Mantém**: concessão equivale a oposição, com ênfase na segunda ideia.
+- Original: "Os deputados que faltaram serão multados." Reescrita: "Os deputados, que faltaram, serão multados." **Não mantém**: restritiva virou explicativa.
+- Original: "A comissão pode rejeitar o projeto." Reescrita: "A comissão deve rejeitar o projeto." **Não mantém**: possibilidade virou obrigação.
+
+## Referências e citações: ABNT e adequação
+- A **citação direta curta** (até três linhas) vai entre aspas; a **longa** é destacada com recuo.
+- A **citação indireta** (paráfrase) deve indicar a fonte, sem aspas.
+- Sem a indicação da fonte, a paráfrase vira **plágio**.
+
+=== Pegadinhas
+1. "A paródia mantém o sentido do texto-fonte." **Errado.** Quem mantém é a paráfrase; a paródia subverte.
+2. "Intertextualidade só ocorre quando há citação com aspas e fonte." **Errado.** Há também a implícita (alusão, paródia, pastiche).
+3. "Na retextualização de um discurso para a forma escrita, o redator pode alterar o conteúdo para torná-lo mais claro." **Errado.** Muda-se a forma (marcas da oralidade, pontuação, sintaxe), preservando o sentido do orador.
+4. "Resumir é cortar frases sem alterar o texto restante." **Errado.** Envolve macrorregras: apagar, selecionar, generalizar e construir.
+5. "A retextualização consiste em passar um texto a limpo, corrigindo erros." **Errado.** Exige compreensão e reformulação, mudando a modalidade ou o gênero.
+6. "Reescrever 'pode' por 'deve' mantém o sentido." **Errado.** Possibilidade e obrigação são valores diferentes.
+7. "Pastiche e paródia são sinônimos." **Errado.** Pastiche imita o estilo; paródia subverte o conteúdo, em geral com crítica.
+8. "A macroestrutura de um texto corresponde à sua superfície, às frases e aos conectores." **Errado.** Essa é a microestrutura; a macro é o sentido global.
+
+=== Revisão rápida
+- **Intertextualidade**: explícita (citação, referência) e implícita (alusão, paródia, pastiche, paráfrase).
+- **Paráfrase** = mesmo sentido. **Paródia** = sentido subvertido. **Pastiche** = imitação de estilo.
+- **Macroestrutura** = sentido global; **microestrutura** = superfície. Resumo: apagar, selecionar, generalizar, construir.
+- **Retextualização**: fala → escrita; muda a forma, **preserva o sentido**. Elimina hesitações, repetições; pontua, paragrafa, reordena.
+- Reescritura: conector, força modal, escopo, restritiva x explicativa, concordância, perda ou acréscimo de informação.

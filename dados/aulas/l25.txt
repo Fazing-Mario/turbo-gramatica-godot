@@ -1,0 +1,89 @@
+=== Básico
+## As concepções de gramática
+A palavra "gramática" tem vários sentidos. O edital pede a distinção entre as **concepções** (item 8).
+
+| Gramática | Pergunta que responde | Atitude |
+|---|---|---|
+| **Normativa** (prescritiva) | Como se **deve** falar e escrever? | **Prescreve** um padrão e condena desvios |
+| **Descritiva** | Como a língua **é** usada? | **Descreve** as regras de uma variedade, sem julgar |
+| **Internalizada** | O que o falante **sabe** sem ter estudado? | **Conhecimento intuitivo** que todo falante nativo tem (aproxima-se da **competência** de Chomsky) |
+| **Reflexiva** (Travaglia) | O que posso fazer com os recursos da língua? | Atividade de **refletir** sobre os recursos e seus **efeitos de sentido** |
+
+- **Normativa**: é a da **escola**, dos manuais e dos concursos (norma-padrão). Usa "correto" e "errado".
+- **Descritiva**: é a dos **linguistas**. Descreve o uso (do português culto, popular, de uma região) com termos como "ocorre", "é frequente".
+- **Internalizada**: **todos** a possuem, é anterior à escola. Explica por que todo falante estranha uma frase como "Votou o projeto o deputado o" sem saber enunciar a regra violada.
+- **Reflexiva**: base do ensino **"de uso"**: o aluno observa **como** a língua funciona e **por que** uma escolha produz certo efeito.
+
+## As três concepções de linguagem (Geraldi; Travaglia)
+| Concepção | A linguagem é... | Associada a |
+|---|---|---|
+| **1. Expressão do pensamento** | Quem fala bem pensa bem; erro de língua = erro de pensamento | Gramática **normativa** |
+| **2. Instrumento de comunicação** | Código que transmite mensagens de um emissor a um receptor | Jakobson; **estruturalismo** |
+| **3. Forma de interação** | **Lugar de interação humana**: pelos enunciados, os sujeitos **agem** uns sobre os outros | **Bakhtin**; atos de fala; é a adotada pelos documentos oficiais de ensino |
+
+> Cada concepção gera uma **prática de ensino**: (1) decorar regras; (2) treinar emissão e recepção de mensagens; (3) trabalhar com **textos em situação real**.
+
+=== Avançado
+## Correção x propriedade (adequação)
+| | Correção | Propriedade |
+|---|---|---|
+| Critério | **Conformidade com a norma-padrão** | **Adequação** à situação, ao gênero e ao sentido pretendido |
+| Vem de | Gramática **normativa** | Linguística, **pragmática** |
+| Pergunta | "Está de acordo com a norma?" | "Serve a esta situação e a este leitor?" |
+| Exemplo | "Assisti **ao** filme" | "Vocabulário próprio" (palavra **exata** para aquele contexto) |
+
+- Um texto pode ser **correto e impróprio**: uma **ata** escrita em linguagem rebuscada e opinativa.
+- Um texto pode ser **próprio e incorreto** segundo a padrão: uma **fala coloquial eficaz** numa conversa.
+- Na **redação oficial**, exigem-se **as duas**.
+
+### Propriedade vocabular
+- É o emprego da **palavra exata**: "ratificar" x "retificar"; "infringir" x "infligir"; "comprimento" x "cumprimento".
+- **Impropriedade** é o uso inadequado do termo: "O relatório **descriminou** os gastos da comissão" (quis dizer **discriminou**, isto é, detalhou; "descriminar" é tirar o caráter de crime).
+- **Registro** e **vocabulário** devem **casar com o gênero**.
+
+## Como a escola e a banca usam "erro"
+- A **normativa** classifica como **erro** o que foge à norma-padrão.
+- A **Linguística** classifica como **inadequado** o que não serve à situação; **não** há "erro" em variedades.
+- Nos **concursos**, o item "correto segundo a norma-padrão" aplica a **normativa**; o item "adequado ao gênero" aplica a **propriedade**.
+
+## Reconhecer a concepção no enunciado
+| Trecho | Concepção |
+|---|---|
+| "O professor deve corrigir todos os desvios da fala dos alunos." | Normativa; linguagem como expressão do pensamento |
+| "Cabe ao professor observar como os alunos usam a língua em diferentes situações." | Descritiva e linguagem como interação |
+| "O falante nativo conhece regras que nunca estudou." | Internalizada |
+| "Ao reescrever o texto, o aluno reflete sobre os efeitos de cada escolha." | Reflexiva |
+| "A língua é um código; falar é codificar e decodificar." | Concepção 2 (instrumento) |
+
+## Ensino de gramática: as propostas
+- **Ensino prescritivo**: foco na **nomenclatura** e na **correção**.
+- **Ensino descritivo**: apresenta o **funcionamento** da língua.
+- **Ensino produtivo** (Travaglia): amplia o **repertório** do aluno com **variedades** e **registros**.
+- **Ensino de uso**: parte de **textos** e **situações** reais.
+- Os **documentos oficiais** de ensino (PCNs, BNCC) adotam a **língua como interação**, com ensino de **gramática contextualizada**.
+
+## Relação entre gramática e texto
+- A **gramática contextualizada** analisa **cada recurso** (pontuação, concordância, conectivos) em **função do sentido** e do **gênero**.
+- Exemplo: a **vírgula** em "Os servidores, que fizeram greve..." muda o **sentido**; análise **textual** do fenômeno gramatical.
+
+## Concepções de gramática e prova: resumo
+- "A gramática normativa **descreve** a língua": **Errado** (prescreve).
+- "A gramática descritiva **julga** a língua": **Errado** (descreve).
+- "A gramática internalizada é aprendida na **escola**": **Errado** (é intuitiva).
+- "A **correção** é a única qualidade de um texto oficial": **Errado** (também **propriedade**).
+
+=== Pegadinhas
+1. "A gramática internalizada é aquela ensinada na escola." **Errado.** É o conhecimento intuitivo do falante; a da escola é a normativa.
+2. "A gramática normativa descreve a língua sem julgar." **Errado.** Prescreve e julga.
+3. "Para a concepção de linguagem como expressão do pensamento, erros de língua são sinal de erros de pensamento." **Certo.**
+4. "A concepção de linguagem como forma de interação é a do código transmissor de mensagens." **Errado.** Essa é a concepção instrumental; a interacionista vê a linguagem como lugar de ação entre os sujeitos.
+5. "Correção e propriedade são sinônimos." **Errado.** Correção é conformidade com a norma; propriedade é adequação à situação.
+6. "Um texto correto está sempre adequado ao gênero." **Errado.** Pode ser correto e impróprio.
+7. "Na redação oficial basta a correção gramatical." **Errado.** Exigem-se correção e propriedade.
+8. "A gramática reflexiva é a lista de regras de uso correto." **Errado.** É a atividade de refletir sobre os recursos da língua e seus efeitos de sentido.
+
+=== Revisão rápida
+- **Normativa** (prescreve), **descritiva** (descreve), **internalizada** (conhecimento intuitivo), **reflexiva** (reflete sobre efeitos de sentido).
+- Concepções de linguagem: **expressão do pensamento** (normativa), **instrumento de comunicação** (Jakobson), **forma de interação** (Bakhtin; adotada pelos documentos oficiais).
+- **Correção** = conformidade com a norma-padrão. **Propriedade** = adequação à situação e à palavra exata.
+- Redação oficial: **ambas**.

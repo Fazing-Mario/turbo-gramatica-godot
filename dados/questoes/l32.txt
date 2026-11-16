@@ -1,0 +1,19 @@
+# Módulo l32 — Exposição de motivos, mensagem e e-mail. Acrescente questões novas sempre no fim.
+CE | C | A exposição de motivos é dirigida por ministro de Estado ao Presidente da República. | Serve para propor medida, submeter projeto de ato normativo ou informar.
+CE | E | A exposição de motivos é dirigida pelo Presidente da República ao Congresso Nacional. | Isso é a mensagem; a EM vai do ministro ao Presidente.
+CE | C | A exposição de motivos não apresenta endereçamento nem assunto, indo direto ao vocativo. | Diferença em relação ao ofício.
+CE | E | A exposição de motivos é redigida com endereçamento e assunto, como o ofício. | Vai direto ao vocativo.
+CE | C | A exposição de motivos interministerial é assinada por todos os ministros envolvidos. | Não só pelo ministro principal.
+CE | C | A mensagem é o expediente pelo qual o Presidente da República se comunica com o Congresso Nacional. | Serve para encaminhar projeto, comunicar veto, indicar autoridades, entre outras finalidades.
+CE | E | A mensagem é assinada pelo ministro da pasta proponente. | É assinada pelo Presidente da República.
+CE | C | A mensagem é assinada pelo Presidente da República sem nome e cargo digitados. | O Presidente é exceção à identificação do signatário.
+CE | C | O veto a projeto de lei é comunicado ao Congresso por meio de mensagem. | A mensagem também encaminha projetos e indica autoridades ao Senado.
+CE | C | A mensagem anual na abertura da sessão legislativa é feita pelo Presidente da República. | É um dos usos do expediente.
+CE | E | O correio eletrônico oficial dispensa linguagem formal, tendo formatação livre. | A formatação é livre, mas a linguagem deve ser oficial.
+CE | E | O e-mail, por si só, tem valor de documento original. | Para valer como original, precisa de certificação digital ICP-Brasil.
+CE | C | O e-mail é documento oficial, mas só vale como original se tiver certificação digital ICP-Brasil. | A certificação é o que lhe dá valor de original.
+CE | C | O projeto de lei do Executivo chega ao Congresso por mensagem, em geral acompanhado de exposição de motivos. | A EM justifica a proposta.
+CE | C | A exposição de motivos que submete projeto de ato normativo à decisão do Presidente tem fecho Respeitosamente,. | Fecho para superior hierárquico.
+AB | O expediente que o Presidente da República envia ao Congresso é a... | mensagem | exposição de motivos | A EM é do ministro ao Presidente.
+AB | Qual expediente não tem endereçamento nem assunto? | exposição de motivos | ofício | O ofício tem endereçamento e assunto.
+AB | O e-mail, para valer como original, precisa de... | certificação ICP-Brasil | assinatura a mão | A certificação digital é o requisito do Manual.

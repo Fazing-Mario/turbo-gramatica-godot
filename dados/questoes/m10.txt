@@ -1,0 +1,25 @@
+# Módulo 10 — Compreensão e interpretação. Acrescente questões novas sempre no fim.
+CE | C | Itens que acrescentam informações ausentes do texto cometem extrapolação. | Vão além do que o texto diz ou autoriza concluir.
+CE | E | A presença de "somente" ou "exclusivamente" em um item garante que ele esteja certo. | Palavras absolutas costumam tornar o item errado; confira se o texto também é categórico.
+CE | C | Em "Pedro deixou de fumar", pressupõe-se que Pedro fumava. | "Deixar de" dispara o pressuposto.
+CE | C | Em "Ela voltou a estudar", pressupõe-se que ela já estudou antes. | "Voltar a" indica repetição.
+CE | E | Subentendidos são marcados por palavras específicas e não podem ser negados pelo falante. | Isso descreve o pressuposto. O subentendido depende do contexto e pode ser negado.
+CE | C | Em "Segundo especialistas, a medida reduzirá a inflação", a previsão é atribuída aos especialistas, não necessariamente ao autor. | Discurso relatado marca a voz de outra fonte.
+CE | E | Substituir "pode reduzir" por "reduz" mantém o sentido original do texto. | Retira a modalização: o que era possibilidade vira certeza.
+CE | C | O futuro do pretérito em "o réu teria fugido" indica que o autor não se compromete com a informação. | Marca incerteza ou distanciamento.
+CE | C | A paródia retoma outro texto com intenção crítica ou humorística. | Diferente da paráfrase, que mantém o sentido.
+CE | E | A paráfrase altera o sentido do texto original. | A paráfrase reescreve com outras palavras, mantendo o sentido.
+CE | C | Tema é o assunto do texto; tese é a posição defendida sobre ele. | Ex.: tema "educação"; tese "a educação depende da formação docente".
+CE | E | Na prova, um conhecimento de mundo verdadeiro valida o item mesmo que não esteja no texto. | A prova cobra o texto, não o conhecimento externo.
+CE | C | Pronomes como "isso" podem retomar uma ideia inteira de um parágrafo anterior. | Retomada de porção textual, não só de uma palavra.
+CE | C | Em "Até o diretor errou", pressupõe-se que não se esperava erro do diretor. | "Até" indica inclusão inesperada.
+CE | E | Inverter causa e consequência é exemplo de redução. | É contradição; a redução restringe o que o texto generaliza.
+CE | C | O comando "infere-se do texto" admite conclusões que o texto autoriza, mesmo não explícitas. | Diferente de "segundo o texto", que exige informação escrita.
+CE | C | Aspas podem indicar ironia ou distanciamento do autor em relação a uma palavra. | Ex.: o "progresso" que destruiu o rio.
+AB | Item que restringe o que o texto generaliza comete: | redução | extrapolação | Toma a parte pelo todo.
+AB | Item que afirma o contrário do texto comete: | contradição | extrapolação | Inverte o que foi dito.
+AB | "Ainda há vagas" pressupõe que: | as vagas podem acabar | as vagas acabaram | "Ainda" indica continuidade com possível fim.
+AB | Comando que exige informação explícita: | segundo o texto | infere-se | "Infere-se" admite dedução.
+AB | Reprodução literal com aspas e fonte é: | citação | alusão | A alusão é referência indireta.
+AB | "Talvez" e "provavelmente" são: | modalizadores de dúvida | conectivos conclusivos | Atenuam o grau de certeza.
+AB | Ideia central defendida pelo autor: | tese | tema | O tema é só o assunto.

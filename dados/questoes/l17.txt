@@ -1,0 +1,19 @@
+# Módulo l17 — Enunciação e dêixis. Acrescente questões novas sempre no fim.
+CE | C | Enunciado é o produto verbal, ao passo que enunciação é o ato de produzi-lo em uma situação. | Quem fala, para quem, onde e quando pertencem à enunciação.
+CE | E | Enunciado e enunciação são termos sinônimos na Linguística da enunciação. | Enunciado é o produto; enunciação, o ato que o produz.
+CE | C | Para Benveniste, a enunciação instala na língua um eu, um tu, um aqui e um agora. | É na linguagem que o homem se constitui como sujeito.
+CE | E | Em Benveniste, a terceira pessoa é uma das pessoas do discurso, ao lado do eu e do tu. | A terceira pessoa é a não pessoa: aquele de quem se fala, fora da interlocução.
+CE | C | Dêiticos são palavras cujo referente só se identifica pela situação de enunciação. | Eu, aqui, agora e hoje são exemplos.
+CE | E | Os dêiticos, como hoje e aqui, têm referente fixo, independentemente de quem fala. | Mudam de referente conforme a situação de enunciação.
+CE | C | Em Amanhã votaremos aqui, os termos amanhã e aqui só são interpretáveis pelo contexto da fala. | São dêiticos temporal e espacial.
+CE | C | No discurso indireto, o dêitico hoje costuma ser substituído por naquele dia. | Os dêiticos se ajustam à situação do narrador.
+CE | E | O texto jornalístico, por empregar a terceira pessoa, é totalmente neutro. | A terceira pessoa cria efeito de objetividade; a seleção de fatos e palavras revela posição.
+CE | C | A voz passiva sem agente, como em Foram cometidos erros, oculta o responsável pela ação. | Dilui a responsabilidade.
+CE | C | A indeterminação do sujeito, em Dizem que o projeto será vetado, esvazia a responsabilidade por quem diz. | O agente não é identificado.
+CE | C | A seleção de fatos, a escolha de adjetivos e de modalizadores são marcas de subjetividade do enunciador. | Neutralidade absoluta não existe.
+CE | E | A impessoalidade da redação oficial implica a ausência de qualquer enunciador. | Há enunciador institucional; o que se busca é o apagamento da pessoa individual.
+CE | C | A dêixis remete à situação de enunciação, ao passo que a anáfora remete a elementos do próprio texto. | Um pronome como isso pode ter os dois usos.
+CE | C | O ethos é a imagem de si que o enunciador constrói na própria enunciação. | O pathos, por sua vez, refere-se às emoções do auditório.
+AB | O ato de produzir o enunciado em uma situação chama-se... | enunciação | enunciado | Enunciado é o produto.
+AB | A terceira pessoa, para Benveniste, é a... | não pessoa | pessoa do discurso | As pessoas do discurso são eu e tu.
+AB | Em Foram cometidos erros, o efeito da voz passiva sem agente é... | ocultar o responsável | assumir a responsabilidade | A passiva sem agente dilui a responsabilidade.

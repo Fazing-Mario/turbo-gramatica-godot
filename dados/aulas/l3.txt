@@ -1,0 +1,76 @@
+=== Básico
+## Duas grandes visões da língua
+|  | Saussure (estruturalismo) | Chomsky (gerativismo) |
+|---|---|---|
+| A língua é... | Fenômeno **social**, sistema de signos | Fenômeno **mental**, cognitivo |
+| Par central | Língua x fala | **Competência** x **desempenho** |
+| Foco | A estrutura do sistema | A capacidade inata de gerar frases |
+| Aquisição | Não é o foco | Faculdade **inata** (gramática universal), não apenas imitação |
+
+- **Estruturalismo** (Saussure e seguidores): a língua é uma estrutura em que cada elemento vale pelas relações que mantém com os outros. A descrição é do sistema, não do indivíduo.
+- **Gerativismo** (Noam Chomsky, a partir de 1957): a língua é um **conhecimento** na mente do falante. A tarefa da teoria é explicar como esse conhecimento permite produzir e entender um número infinito de frases.
+
+## Competência e desempenho
+- **Competência**: o conhecimento **interno e implícito** das regras da língua. Todo falante nativo "sabe" que "O deputado votou a lei" é possível e que "Votou a lei o deputado o" não é, sem nunca ter estudado a regra.
+- **Desempenho**: o uso concreto, que sofre interferência de cansaço, emoção, distração e memória.
+- **Exemplo da banca:** gaguejar de nervoso na tribuna é **queda de desempenho**, não perda de competência. O falante continua sabendo a língua.
+
+## Contra o behaviorismo
+- Para o behaviorista Skinner, aprender a língua é formar hábitos por **estímulo, resposta e reforço**, isto é, por imitação e correção.
+- Chomsky responde que a criança **cria formas que nunca ouviu** ("eu sabo", "fazeu", "ponhei"). Isso mostra que ela aplica **regras internas** (generaliza o padrão do verbo regular), em vez de apenas repetir.
+- Esse é o argumento da **pobreza de estímulo**: o que a criança ouve é pouco, incompleto e cheio de erros, e mesmo assim ela chega a uma gramática complexa. Logo, há algo **inato** que a guia.
+
+=== Avançado
+## Ideias centrais do gerativismo
+| Conceito | Ideia |
+|---|---|
+| **Gramática universal** | Conjunto de princípios inatos, comum a todas as línguas humanas, que limita as gramáticas possíveis |
+| **Parâmetros** | Pontos em que as línguas podem variar (por exemplo, se admitem ou não sujeito oculto); a criança "fixa" os parâmetros da sua língua pela experiência |
+| **Gramaticalidade** | Julgamento intuitivo do falante: a frase é bem formada ou não, independentemente de fazer sentido |
+| **Estrutura profunda e superficial** (primeiras versões) | A mesma estrutura de base pode ter várias formas de superfície (ativa e passiva) |
+| **Criatividade** | Capacidade de produzir e compreender frases inéditas |
+
+- Exemplo de **gramaticalidade sem sentido** (Chomsky, em inglês): "ideias verdes incolores dormem furiosamente". A frase é gramatical (estrutura correta) e semanticamente absurda. Em português: "A democracia comeu o regimento azul" é bem formada, mas sem sentido literal.
+- Exemplo de **ambiguidade estrutural**: "O assessor viu o deputado com o binóculo" tem **duas estruturas** (o assessor usou o binóculo, ou o deputado o carregava). Uma só sequência de palavras, dois significados: a gramática gera as duas.
+
+## Saussure x Chomsky: como a banca compara
+- Língua (Saussure) e competência (Chomsky) **não são o mesmo conceito**: a língua é social e abstrata, **de uma comunidade**; a competência é **individual** e mental, **de cada falante**. Aproximam-se porque ambas são o "saber" por trás do uso, mas a banca pode cobrar a diferença.
+- Fala (Saussure) e desempenho (Chomsky) aproximam-se como o uso concreto.
+- Saussure parte do **social** e Chomsky, do **mental**. Saussure descreve o **sistema**; Chomsky explica a **capacidade** de produzir o sistema.
+
+## As propriedades da linguagem humana
+| Propriedade | Ideia | Exemplo |
+|---|---|---|
+| **Criatividade** | Produzir e entender frases inéditas | Uma frase que você nunca ouviu antes |
+| **Produtividade** | Infinitas frases com recursos finitos | O mesmo vocabulário gera textos sem fim |
+| **Recursividade** | Encaixar estruturas dentro de estruturas | "O projeto que o deputado que presidiu a comissão apresentou..." |
+| **Abstração** | Falar de ideias, não só de coisas | Justiça, democracia, regimento |
+| **Deslocamento** | Falar do que não está presente no tempo ou no espaço | O passado, o futuro, o imaginário |
+| **Arbitrariedade** | Relação convencional entre forma e sentido | Casa, house, maison |
+| **Dupla articulação** (Martinet) | Duas camadas: unidades sem sentido (sons) combinam-se em unidades com sentido (palavras e frases) | /p/, /a/, /t/, /o/ formam "pato" |
+
+- Os animais se comunicam (abelhas dançam para indicar o local do alimento; golfinhos e primatas usam sinais), mas não reúnem **todas** essas propriedades ao mesmo tempo. A dança da abelha tem deslocamento (fala de um alimento ausente), porém é um repertório **fechado**: não há produtividade livre.
+- **Recursividade** é a propriedade que permite o período composto sem fim: "Disse que acha que sabe que..." O limite é a memória do falante (desempenho), não a gramática (competência).
+
+## Léxico finito, frases infinitas
+- A produtividade não vem de um vocabulário **extenso**: com poucas centenas de palavras, o falante gera frases ilimitadas. Vem das **regras de combinação** (sintaxe) aplicadas de forma recursiva.
+- Um dicionário é uma lista finita; a gramática é um **mecanismo gerador**. É por isso que o falante entende a frase **inédita** do relator, que nunca ouviu antes.
+
+=== Pegadinhas
+1. "Para Chomsky, a queda de desempenho por nervosismo revela perda de competência." **Errado.** Competência é o saber interno e estável.
+2. "Competência é o uso concreto da língua em situações reais." **Errado.** Isso é desempenho.
+3. "Ter vocabulário extenso é o que define a produtividade da linguagem." **Errado.** Produtividade é gerar infinitas combinações a partir de repertório finito.
+4. "Para Chomsky, a linguagem é adquirida apenas por imitação e reforço." **Errado.** É visão behaviorista; Chomsky defende a faculdade inata.
+5. "A frase 'ideias verdes incolores dormem furiosamente' é agramatical." **Errado.** É gramatical e semanticamente anômala; gramaticalidade não é o mesmo que sentido.
+6. "Saussure e Chomsky concebem a língua como fenômeno essencialmente mental e individual." **Errado.** Saussure a vê como social; Chomsky, como mental.
+7. "A comunicação das abelhas reúne todas as propriedades da linguagem humana." **Errado.** Há deslocamento, mas faltam produtividade e abstração.
+8. "A recursividade é o limite de tamanho de uma frase, imposto pela gramática." **Errado.** A gramática permite encaixes ilimitados; o limite é da memória (desempenho).
+
+=== Revisão rápida
+- **Saussure**: língua = fato **social**; par língua x fala. **Chomsky**: língua = fato **mental**; par competência x desempenho.
+- **Competência** = saber interno e implícito. **Desempenho** = uso, sujeito a cansaço, emoção e memória.
+- **Gramática universal** (inata) e **parâmetros**; argumento da **pobreza de estímulo**; criança cria "eu sabo".
+- Contra o behaviorismo de Skinner (estímulo, resposta, reforço).
+- **Gramatical** não é o mesmo que **com sentido**.
+- Propriedades: criatividade, produtividade, recursividade, abstração, deslocamento (e arbitrariedade, dupla articulação).
+- Produtividade = **combinar** recursos finitos; não depende de vocabulário extenso.

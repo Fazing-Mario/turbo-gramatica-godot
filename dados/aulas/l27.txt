@@ -1,0 +1,100 @@
+=== Básico
+## Figuras de pensamento: jogam com as ideias
+As figuras de pensamento **não mudam o sentido de uma palavra isolada**; trabalham a **ideia**, a **atitude** e o **efeito** do enunciado como um todo.
+
+| Figura | Mecanismo | Exemplo |
+|---|---|---|
+| **Antítese** | **Aproximação de ideias opostas** | "Uns choram, outros riem" |
+| **Paradoxo (oximoro)** | Ideias opostas atribuídas ao **mesmo** ser, ao mesmo tempo | "É dor que desatina sem doer" (Camões) |
+| **Ironia** | Diz o **contrário** do que se pensa, com intenção crítica | "Que eficiência: o ofício levou só dois anos" |
+| **Eufemismo** | **Suaviza** o desagradável | "faltou com a verdade" (mentiu) |
+| **Hipérbole** | **Exagero** intencional | "Já disse isso mil vezes" |
+| **Litótes** | **Afirma negando o contrário** (atenuação) | "Não é pouco o que se gastou" |
+| **Gradação (clímax)** | Sequência em **escala** crescente ou decrescente | "Investigou, apurou, provou" |
+| **Prosopopeia (personificação)** | Atributos **humanos** a seres inanimados | "A Constituição chora" |
+| **Apóstrofe** | **Interpelação enfática** a alguém ou algo | "Ó pátria amada!" |
+
+## Antítese x paradoxo
+| | Antítese | Paradoxo (oximoro) |
+|---|---|---|
+| O que faz | **Contrapõe** ideias opostas | Atribui ideias opostas ao **mesmo** ser |
+| Efeito | Contraste | **Aparente absurdo**, que revela uma verdade |
+| Exemplo | "Eu vivo, ele morre" | "Amor é fogo que arde sem se ver" (Camões) |
+
+- **Oximoro** é um **paradoxo concentrado em duas palavras** de sentidos opostos juntas: "silêncio ensurdecedor", "luz escura", "doce amargura".
+- **Antítese**: os opostos em **termos diferentes** ("a vida **e** a morte").
+- **Paradoxo**: os opostos **no mesmo ser** ("viver para morrer").
+
+## Ironia, eufemismo, hipérbole, litótes
+- **Ironia**: o **contexto** revela o sentido oposto ao literal. Para identificar, observe a **incongruência** entre o que se diz e a realidade. "Que belo trabalho!" (diante de um trabalho ruim).
+- **Eufemismo**: **suaviza**: "partiu" (morreu), "ficou desempregado" (foi demitido), "faltou com a verdade" (mentiu).
+- **Hipérbole**: **exagera** para enfatizar: "Morri de rir", "Já disse mil vezes".
+- **Litótes**: **atenua** negando o contrário: "Não é feio" (é bonito); "Não foi pouco" (foi muito); "Não me desagrada" (me agrada).
+
+=== Avançado
+## As demais figuras de pensamento
+| Figura | Mecanismo | Exemplo | Efeito |
+|---|---|---|---|
+| **Gradação (clímax)** | Elementos em **escala** (crescente: clímax; decrescente: anticlímax) | "Investigou, apurou, provou" | Intensifica, dá ritmo |
+| **Prosopopeia** | Seres inanimados ou abstratos **agem como humanos** | "A economia respira aliviada" | Vivacidade |
+| **Apóstrofe** | **Chamamento** direto a alguém ou algo | "Ó Senhor!", "Pátria, minha pátria!" | Ênfase, emoção |
+| **Antífrase** (ironia) | Uso de um termo com o **sentido oposto** | "Que sábio, o rapaz!" | Crítica |
+| **Perífrase** (de pensamento) | Rodeio expressivo | "O astro-rei" (Sol) | Solenidade |
+| **Pergunta retórica** | Pergunta sem esperar resposta | "Quem aceitaria isso?" | Provoca, persuade |
+| **Preterição** | Diz que **não vai dizer**, dizendo | "Não vou falar das falhas do relatório, que são graves." | Ênfase, insinuação |
+| **Reticência** | Interrupção intencional do pensamento | "Se eu dissesse tudo..." | Sugestão |
+| **Sarcasmo** | Ironia **mordaz**, ofensiva | "Parabéns, gênio." | Zombaria |
+
+## Distinções que a banca cobra
+- **Ironia x sarcasmo**: o **sarcasmo** é uma **ironia agressiva**, com intenção de ferir.
+- **Eufemismo x litótes**: o **eufemismo** suaviza algo **desagradável**; a **litótes** **atenua** por **negar o contrário** (forma negativa).
+  - "Faltou com a verdade" → eufemismo. "Não é bonito" (= é feio) → litótes.
+- **Antítese x paradoxo**: antítese **contrapõe**; paradoxo **une** opostos no mesmo ser.
+- **Hipérbole x gradação**: a hipérbole é o **exagero**; a gradação é a **escala**.
+- **Prosopopeia x metáfora**: prosopopeia atribui **qualidades humanas** a seres não humanos.
+- **Apóstrofe x vocativo**: a **apóstrofe** é o **chamamento enfático**, geralmente com tom emotivo; o **vocativo** é um termo da oração que chama o interlocutor, sem necessariamente enfatizar.
+
+## Figuras no discurso político
+| Figura | Uso típico |
+|---|---|
+| **Hipérbole** | "Este governo é o pior da história" |
+| **Antítese** | "Uns querem consertar; outros, destruir" |
+| **Ironia** | "Brilhante a estratégia de aumentar o imposto para estimular o consumo" |
+| **Eufemismo** | "Ajuste fiscal" (corte) |
+| **Pergunta retórica** | "Até quando vamos aceitar isso?" |
+| **Prosopopeia** | "A Constituição clama por justiça" |
+| **Preterição** | "Não vou me referir ao escândalo..." |
+| **Gradação** | "Ouviu, estudou, decidiu" |
+| **Apóstrofe** | "Ó Casa, que és templo da democracia!" |
+
+- **Eufemismos** são frequentes em **linguagem política e burocrática**: "ajuste", "reestruturação", "realinhamento" (cortes e demissões).
+- A banca pode pedir o **efeito** do eufemismo: **atenuar** a **responsabilidade**.
+
+## Efeito x identificação
+- Em itens de estilística, o foco é o **efeito**: ironia → **crítica**; eufemismo → **suavização**; hipérbole → **ênfase**; antítese → **contraste**; gradação → **intensificação**; apóstrofe → **emoção**.
+- O item pode pedir se uma **reescrita** mantém a figura: "Não é pouco" → "É muito" **mantém o sentido**, mas **perde** a litótes (atenuação).
+
+## Exemplos comentados
+- "O relator, com sua **proverbial** pontualidade, chegou uma hora depois" → **ironia** (o adjetivo contraria o fato).
+- "**Silêncio ensurdecedor** no plenário" → **oximoro**.
+- "A cidade **dorme**" → **prosopopeia**.
+- "**Ó** Câmara, que fazes com a esperança do povo?" → **apóstrofe**.
+- "Chegou, viu, **venceu**" → **gradação** (clímax) e **assíndeto** (veja próxima aula).
+- "Não vou citar o prejuízo de três bilhões" → **preterição**.
+
+=== Pegadinhas
+1. "Antítese e paradoxo são sinônimos." **Errado.** Na antítese, os opostos se contrapõem; no paradoxo, são atribuídos ao mesmo ser, gerando aparente absurdo.
+2. "'Faltou com a verdade' é exemplo de hipérbole." **Errado.** É eufemismo.
+3. "'Não é pouco o que se gastou' é eufemismo." **Errado,** em rigor: é litótes (afirma negando o contrário).
+4. "Em 'A economia respira aliviada', há metonímia." **Errado.** É prosopopeia.
+5. "A ironia consiste em dizer exatamente o que se pensa." **Errado.** Diz o contrário do que se pensa, com intenção crítica.
+6. "A hipérbole tem por efeito atenuar o que se diz." **Errado.** Exagera para enfatizar; quem atenua é a litótes ou o eufemismo.
+7. "'Silêncio ensurdecedor' é exemplo de antítese." **Errado.** É oximoro (paradoxo concentrado).
+8. "A apóstrofe é a figura que atribui qualidades humanas a seres inanimados." **Errado.** Isso é prosopopeia; a apóstrofe é a interpelação enfática.
+
+=== Revisão rápida
+- **Antítese**: opostos contrapostos. **Paradoxo/oximoro**: opostos no mesmo ser ("silêncio ensurdecedor").
+- **Ironia**: diz o contrário, com crítica. **Eufemismo**: suaviza. **Hipérbole**: exagera. **Litótes**: afirma negando o contrário.
+- **Gradação**: escala. **Prosopopeia**: humaniza. **Apóstrofe**: interpela.
+- **Preterição**: diz que não vai dizer.
+- Efeitos: ironia → crítica; eufemismo → suavização; hipérbole → ênfase.

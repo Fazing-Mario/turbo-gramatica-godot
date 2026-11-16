@@ -1,0 +1,90 @@
+=== Básico
+## Exposição de motivos, mensagem e e-mail
+| Documento | Quem envia → quem recebe | Finalidade e marcas |
+|---|---|---|
+| **Exposição de motivos (EM)** | **Ministro** (ou equiparado) → **Presidente** (ou Vice) | Propor medida, submeter projeto de ato normativo, informar. **Sem endereçamento nem assunto**; vai **direto ao vocativo**. **Interministerial** = assinada por **todos** os ministros envolvidos |
+| **Mensagem** | **Presidente da República** → **Congresso Nacional** (ou uma das Casas) | Encaminhar projeto, comunicar veto, indicar autoridades ao Senado, mensagem anual na abertura da sessão legislativa. Assinada pelo Presidente **sem nome e cargo digitados** |
+| **Correio eletrônico** | Qualquer | **Formatação livre**, linguagem oficial. É **documento oficial**; para valer como **original** precisa de **certificação digital ICP-Brasil** |
+
+> A **exposição de motivos** e a **mensagem** **não** se confundem: a **EM** sobe (ministro → Presidente); a **mensagem** vai ao Legislativo (Presidente → Congresso).
+
+## Para memorizar
+- **EM**: de baixo para cima (Ministro → Presidente).
+- **Mensagem**: do Executivo para o Legislativo (Presidente → Congresso).
+- **Ofício**: padrão geral.
+- **E-mail**: formato livre; original só com ICP-Brasil.
+
+=== Avançado
+## Exposição de motivos (EM)
+- **Remetente**: **ministro de Estado** (ou autoridade equiparada). **Destinatário**: **Presidente da República** (ou Vice-Presidente, quando for o caso).
+- **Finalidades** (o Manual distingue):
+  - **Informar** algum assunto.
+  - **Propor** alguma medida.
+  - **Submeter** projeto de ato normativo à sanção ou promulgação.
+- **Formato**: **sem endereçamento** e **sem assunto**; **vai direto ao vocativo**.
+- **Interministerial**: **assinada por todos** os ministros envolvidos.
+- **Fecho**: **Respeitosamente,** (o destinatário é superior hierárquico).
+- **Papel**: ao tratar de **projeto de lei**, a EM **justifica** a proposta e acompanha a **mensagem** ao Congresso.
+
+## Mensagem
+- **Remetente**: **Presidente da República**. **Destinatário**: **Congresso Nacional** (ou uma das Casas).
+- **Finalidades**:
+  - **Encaminhar projeto de lei**.
+  - **Comunicar veto**.
+  - **Indicar autoridades** ao Senado (ministros do STF, embaixadores).
+  - **Mensagem anual** na abertura da sessão legislativa.
+- **Assinatura**: o Presidente assina **sem** nome e cargo digitados.
+- A **justificativa** de um projeto de lei costuma vir na **exposição de motivos** do ministro, que acompanha a mensagem.
+
+## Correio eletrônico
+- **Formatação livre**, **linguagem oficial** (impessoal, formal, norma-padrão).
+- **Assunto**: **claro**, **específico**.
+- **Valor**: é **documento oficial**; **só vale como original** com **certificação digital ICP-Brasil**.
+
+## Comparativo EM x mensagem x ofício
+| | EM | Mensagem | Ofício |
+|---|---|---|---|
+| **Quem envia** | Ministro | Presidente da República | Qualquer órgão |
+| **Quem recebe** | Presidente (ou Vice) | Congresso Nacional | Órgãos, autoridades, particulares |
+| **Assunto** | Não | Não | **Sim** |
+| **Endereçamento** | Não | Não | **Sim** |
+| **Assinatura** | Ministro (nome e cargo) | Presidente **sem** nome e cargo | Signatário (nome e cargo) |
+| **Fecho** | Respeitosamente (ao Presidente, superior) | — | Respeitosamente ou Atenciosamente, conforme a hierarquia |
+
+## Mensagem e processo legislativo
+- A **iniciativa** de **projeto de lei do Executivo** chega ao Congresso por **mensagem** do Presidente, acompanhada da **exposição de motivos** do ministro proponente.
+- O **veto** é **comunicado** por **mensagem** ao Presidente do Senado (que preside o Congresso).
+- **Indicação de autoridades** (STF, embaixadores) também é por **mensagem**.
+- Para o **cargo 11** (Câmara), a **mensagem** é documento **recebido** da Presidência: reconhecer **suas marcas** é útil na **prova**.
+
+## Quadro de erros
+| Afirmação | Veredito |
+|---|---|
+| "A EM é dirigida pelo Presidente ao Congresso." | **Errado** (isso é a mensagem) |
+| "A mensagem é assinada pelo ministro." | **Errado** (pelo Presidente) |
+| "A EM interministerial é assinada só pelo ministro principal." | **Errado** (por todos os ministros envolvidos) |
+| "O e-mail é original por si só." | **Errado** (precisa de ICP-Brasil) |
+| "A EM tem assunto e endereçamento." | **Errado** (vai direto ao vocativo) |
+| "A mensagem traz nome e cargo do Presidente digitados." | **Errado** (sem nome e cargo digitados) |
+
+## Como a banca cobra
+- "A exposição de motivos é o expediente pelo qual..."
+- "A mensagem é o instrumento de **comunicação** do **Presidente** com o **Congresso**."
+- "**Quem assina**": identificar o **signatário**.
+- "**Estrutura**": a EM **não** tem **endereçamento** nem **assunto**.
+- "O **e-mail** ... **ICP-Brasil**."
+
+=== Pegadinhas
+1. "A exposição de motivos é dirigida pelo Presidente da República ao Congresso Nacional." **Errado.** Isso é a mensagem; a EM vai do ministro ao Presidente.
+2. "A mensagem é assinada pelo ministro proponente." **Errado.** É assinada pelo Presidente, sem nome e cargo digitados.
+3. "A exposição de motivos traz endereçamento e assunto, como o ofício." **Errado.** Vai direto ao vocativo.
+4. "A EM interministerial é assinada apenas pelo ministro da pasta principal." **Errado.** É assinada por todos os ministros envolvidos.
+5. "O e-mail, por si só, tem valor de documento original." **Errado.** Precisa de certificação digital ICP-Brasil.
+6. "A mensagem é utilizada para comunicar veto ao Congresso." **Certo.**
+7. "O e-mail oficial dispensa linguagem formal." **Errado.** Tem formatação livre, mas linguagem oficial.
+8. "A mensagem anual na abertura da sessão legislativa é expediente da EM." **Errado.** É mensagem do Presidente ao Congresso.
+
+=== Revisão rápida
+- **EM**: **ministro → Presidente**; propõe, informa, submete projeto; **sem endereçamento nem assunto**; interministerial = todos assinam.
+- **Mensagem**: **Presidente → Congresso**; projeto, veto, indicação de autoridades, mensagem anual; assinada **sem nome e cargo**.
+- **E-mail**: formatação livre; **original só com ICP-Brasil**.

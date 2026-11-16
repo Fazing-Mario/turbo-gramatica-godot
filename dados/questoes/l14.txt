@@ -1,0 +1,19 @@
+# Módulo l14 — Tese, argumentos e raciocínios. Acrescente questões novas sempre no fim.
+CE | C | Tema é o assunto de que o texto trata, e tese é a posição defendida sobre esse assunto. | Exemplo: tema, regulação das redes; tese, as redes devem ser reguladas.
+CE | E | A tese de um texto argumentativo deve aparecer obrigatoriamente no primeiro parágrafo. | Pode vir no fim, depois dos argumentos, ou ser diluída no conjunto.
+CE | C | A tese costuma vir modalizada, com expressões como é fundamental ou deve-se. | O argumento costuma ser o dado, o exemplo ou a citação.
+CE | E | Ao citar um cantor famoso sobre política monetária, o autor emprega um argumento de autoridade válido. | Autoridade sem expertise no tema é falácia.
+CE | C | Tomar um caso isolado como regra geral configura generalização apressada. | A exemplificação precisa ser representativa.
+CE | C | Considerar que a lei causou o desemprego apenas porque este aumentou depois da lei é falsa causa. | Sequência temporal não prova causalidade.
+CE | C | O raciocínio dedutivo parte de uma regra geral para chegar a um caso particular. | Indução parte dos casos para a regra.
+CE | E | O raciocínio indutivo produz conclusões necessariamente verdadeiras. | Produz conclusões prováveis.
+CE | C | O silogismo é uma forma de dedução composta de premissa maior, premissa menor e conclusão. | Exemplo clássico da subsunção jurídica.
+CE | E | Um silogismo válido tem sempre conclusão verdadeira. | Pode ser válido com premissa falsa.
+CE | C | A pergunta retórica não busca obter informação, pois a resposta já está implícita na própria pergunta. | Serve para provocar o leitor e induzir adesão.
+CE | C | A contra-argumentação, ao reconhecer a posição contrária para refutá-la, fortalece o texto argumentativo. | Mostra que o autor pesou os dois lados.
+CE | C | O método dialético envolve tese, antítese e síntese. | A síntese concilia ou supera a oposição.
+CE | E | Dados estatísticos constituem sempre argumento irrefutável, independentemente de fonte e amostra. | A qualidade do dado depende da fonte, da amostra, do período e da interpretação.
+CE | C | A analogia produz conclusão provável, desde que as semelhanças entre os casos sejam relevantes. | Ignorar diferenças essenciais gera falsa analogia.
+AB | Qual raciocínio vai do geral ao particular? | dedução | indução | A indução parte dos casos para a regra.
+AB | A posição do autor sobre o assunto é a... | tese | tema | O tema é o assunto em geral.
+AB | A pergunta retórica serve para... | induzir a resposta implícita | obter informação nova | O autor já tem a resposta e quer levar o leitor a ela.

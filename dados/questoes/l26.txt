@@ -1,0 +1,19 @@
+# Módulo l26 — Figuras de palavra. Acrescente questões novas sempre no fim.
+CE | C | A metáfora estabelece uma comparação implícita, sem conectivo, com base na semelhança. | Exemplo: O plenário é um campo de batalha.
+CE | E | Em Ele é forte como um touro, há metáfora. | Há comparação, pois existe o conectivo como.
+CE | C | A comparação, ou símile, explicita a semelhança por meio de conectivos como como e tal qual. | Discursou como um general.
+CE | C | Em O Planalto vetou o projeto, ocorre metonímia, pois o lugar é tomado pela instituição. | A relação é de contiguidade, e não de semelhança.
+CE | E | Em O Planalto vetou o projeto, ocorre metáfora. | É metonímia: relação real, de contiguidade.
+CE | C | Em Li Machado, há metonímia, pois o autor é tomado pela obra. | Autor pela obra é uma das relações metonímicas.
+CE | C | A metonímia baseia-se na contiguidade entre os termos, e a metáfora, na semelhança. | Diferença central entre as duas figuras.
+CE | C | Pé da mesa é um exemplo de catacrese, metáfora desgastada pelo uso e adotada por falta de termo próprio. | Também: braço do sofá e boca do fogão.
+CE | C | Voz áspera exemplifica sinestesia, por misturar sensações auditiva e tátil. | Sinestesia é a mistura de sentidos.
+CE | E | Voz áspera é exemplo de antítese. | Antítese opõe ideias contrárias; aqui há mistura de sentidos.
+CE | C | A Casa do Povo, designando a Câmara dos Deputados, é uma perífrase. | Designa a Câmara por um de seus atributos.
+CE | C | A antonomásia substitui um nome próprio por um epíteto conhecido, como o Rei do Futebol. | É um tipo de perífrase.
+CE | C | O emprego de metonímia, como em O Congresso decidiu, pode produzir efeito de impessoalidade. | Oculta quem exatamente decidiu.
+CE | E | A metonímia sempre decorre de uma relação de semelhança entre os termos. | Decorre de contiguidade, relação real entre os termos.
+CE | C | A perífrase pode funcionar como recurso coesivo de retomada, evitando a repetição. | Exemplo: o presidente da Câmara... o chefe da Casa.
+AB | Em A Esplanada discutiu o orçamento, a figura é... | metonímia | comparação | A comparação exige conectivo explícito.
+AB | A figura que mistura sensações de sentidos diferentes é a... | sinestesia | catacrese | Catacrese é metáfora desgastada pelo uso.
+AB | Ele é um leão na tribuna exemplifica... | metáfora | comparação | Não há conectivo; a semelhança é implícita.

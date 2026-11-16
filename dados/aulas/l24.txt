@@ -1,0 +1,103 @@
+=== Básico
+## As normas da língua
+| Norma | O que é | Onde se exige |
+|---|---|---|
+| **Norma-padrão** | **Modelo idealizado**, prescrito pelas gramáticas normativas; ninguém a realiza 100% do tempo | Textos oficiais, leis, provas, documentos da Câmara |
+| **Norma culta** | **Uso real** de falantes urbanos escolarizados; aceita usos já estabilizados que a padrão rejeita ("assistir o jogo", próclise no início da frase na fala) | Situações monitoradas reais |
+| **Normas populares** | Usos de falantes com **menos escolarização**; eficientes e motores de mudança | Comunicação cotidiana |
+
+- **Norma-padrão** é um **ideal**: uma abstração que serve de referência. **Norma culta** é uma **realidade**: o que falantes escolarizados efetivamente usam.
+- A **norma-padrão** pode **divergir** da culta: por exemplo, "Vi ela" é comum entre falantes cultos, mas a padrão pede "Vi-a".
+- Uma **norma** é um **conjunto de usos** de um grupo. Há norma **culta**, **popular**, **regional**, **jovem**, **técnica**.
+
+## Oralidade e escrita (Marcuschi)
+- **Oralidade** e **escrita** **não** são polos opostos, mas um **contínuo** de gêneros.
+- Há **fala muito formal e planejada** (conferência, discurso na tribuna lido) e **escrita muito informal** (bilhete, mensagem).
+- A **oralidade** não é "caótica" nem "errada": tem **regras próprias** (hesitações, repetições, marcadores conversacionais como "é", "né", "então", correções em tempo real).
+- Para o cargo: **transformar o discurso falado em texto escrito** exige **retextualização** (veja a aula própria), não "correção".
+
+| | Fala | Escrita |
+|---|---|---|
+| Planejamento | Em tempo real (muitas vezes) | Pode ser revisada |
+| Interação | Presença do interlocutor, turnos | Interlocutor ausente |
+| Recursos | Entonação, gestos, pausas | Pontuação, paragrafação, layout |
+| Marcas | Hesitações, repetições, marcadores | Elaboração sintática |
+
+> **Cuidado:** "A fala é sempre informal e a escrita, sempre formal" é **errado**. O que há é um **contínuo**.
+
+=== Avançado
+## O contínuo tipológico (Marcuschi)
+- Os **gêneros** se distribuem em um contínuo de **fala a escrita**:
+  - **Fala informal** (conversa espontânea) → **fala formal** (conferência, discurso na tribuna) → **escrita formal** (lei, parecer) → **escrita informal** (bilhete, mensagem).
+- Os **gêneros** não se definem por modalidade, mas por **função e esfera**.
+- **Textos orais** e **escritos** têm **estratégias de coesão** diferentes: a fala usa **repetição, paráfrase, marcadores**; a escrita, **conectores e anáfora**.
+
+## Marcas da oralidade
+| Marca | Exemplo | Função |
+|---|---|---|
+| **Hesitação** | "é... então..." | Ganha tempo para planejar |
+| **Repetição** | "O projeto, o projeto..." | Ênfase, ganho de tempo |
+| **Marcador conversacional** | "né?", "então", "bom", "aí" | Mantém a interação |
+| **Correção em tempo real** | "A comissão, quer dizer, o plenário..." | Reformula |
+| **Truncamento** | "Eu queria dizer que..." | Frase interrompida |
+| **Paráfrase** | "A Casa, ou seja, a Câmara..." | Esclarece |
+| **Dêiticos** | "aqui", "agora" | Apoio na situação |
+
+- **Cargo 11**: em **notas taquigráficas**, o redator **mantém o que é relevante** e elimina **hesitações e repetições** sem **alterar o sentido**.
+- A **fala parlamentar** tem **dupla natureza**: oral na produção, e escrita na **fixação** (diário da Câmara).
+
+## Preconceito linguístico (Bagno)
+- **Preconceito linguístico** é a **discriminação** de pessoas pela **variedade** que falam. Costuma esconder **preconceito social, regional ou racial**.
+- Mitos desmontados por **Marcos Bagno**:
+  1. "O português do Brasil é uniforme."
+  2. "Brasileiro não sabe português."
+  3. "Português é muito difícil."
+  4. "As pessoas sem instrução falam tudo errado."
+  5. "O lugar onde melhor se fala português é o Maranhão." (outro mito, o do "melhor sotaque").
+  6. "O certo é falar como se escreve."
+  7. "É preciso saber gramática para falar bem."
+  8. "O domínio da norma culta é um instrumento de ascensão social." (apresentado como crítica: a ascensão depende de outros fatores).
+- **Preconceito** **não** é "defesa da língua": é **exclusão social** em torno da língua.
+- A **Linguística** **combate** o preconceito sem negar a **importância** da norma-padrão: ensinar a norma amplia as **possibilidades** do aluno.
+
+## Prestígio, estigma e adequação
+| Conceito | Ideia |
+|---|---|
+| **Variedade de prestígio** | Associada a grupos de poder; valorizada |
+| **Estigma** | Variedade desvalorizada socialmente |
+| **Adequação** | O uso certo para a situação, não a "variedade certa" |
+
+- A **escola** deve **ampliar o repertório** do falante: ensinar a norma-padrão **sem** desqualificar a variedade materna.
+- No **serviço público**, a **norma-padrão** é **obrigatória** em documentos oficiais; **não** quer dizer que outras formas sejam "feias".
+
+## Norma culta: atenção ao que a banca pede
+- A banca usa **norma-padrão** quando pede o **"correto" pela gramática normativa**.
+- Quando fala de **norma culta**, o **referente** é o **uso real** dos falantes escolarizados.
+- Itens que dizem "o uso é aceito na **fala** em situações **informais**" podem estar **certos** sem que isso signifique aceitação pela norma-padrão.
+
+## Registros e adequação
+| Registro | Características | Onde |
+|---|---|---|
+| **Formal** (monitorado) | Vocabulário cuidado, norma-padrão | Ofício, ata, parecer |
+| **Informal** (coloquial) | Espontâneo, gírias, contrações | Conversas |
+| **Técnico** | Termos de uma área | Parecer jurídico |
+| **Literário** | Escolhas estéticas | Obra literária |
+
+- **Registro adequado** ao **contexto** garante **eficácia**.
+
+=== Pegadinhas
+1. "Norma culta e norma-padrão são sinônimos." **Errado.** A culta é o uso real de falantes escolarizados; a padrão é o modelo idealizado.
+2. "A fala é sempre informal e a escrita, sempre formal." **Errado.** Há um contínuo; existem fala formal e escrita informal.
+3. "Para a Linguística, as variedades populares são formas erradas do português." **Errado.** São variedades com regras próprias; o critério é adequação.
+4. "A oralidade é caótica e sem regras." **Errado.** Tem regras próprias.
+5. "Preconceito linguístico é a defesa da língua contra a deterioração." **Errado.** É a discriminação de pessoas pela variedade que falam.
+6. "Para Bagno, o domínio da norma-padrão deve ser abandonado pela escola." **Errado.** Defende ampliar o repertório sem desqualificar a variedade materna.
+7. "A retextualização consiste em corrigir a fala do orador." **Errado.** Muda-se a forma preservando o sentido.
+8. "A norma-padrão é a que a maioria dos brasileiros fala em casa." **Errado.** É um modelo idealizado, que ninguém realiza integralmente.
+
+=== Revisão rápida
+- **Norma-padrão**: modelo idealizado, prescrito; **norma culta**: uso real dos escolarizados; **normas populares**: usos de menor escolarização.
+- **Oralidade x escrita** (Marcuschi) = **contínuo**; fala formal e escrita informal existem.
+- **Marcas da oralidade**: hesitações, repetições, marcadores, correções.
+- **Preconceito linguístico** (Bagno): discriminação por variedade; esconde preconceito social, regional, racial.
+- A **adequação** é o critério; a norma-padrão é **obrigatória** em documentos oficiais.

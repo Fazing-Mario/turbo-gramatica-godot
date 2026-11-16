@@ -1,0 +1,20 @@
+# Módulo l6 — Categorias semânticas e formação de palavras. Acrescente questões novas sempre no fim.
+CE | C | Traços semânticos são componentes mínimos de sentido, como humano e cargo eletivo em deputado. | A análise componencial decompõe o significado em traços.
+CE | C | A frase O projeto leu o deputado viola a seleção semântica do verbo ler, que pede sujeito humano. | O desvio só é aceitável em sentido figurado, como a personificação.
+CE | C | Na voz passiva, o sujeito gramatical exerce o papel semântico de paciente. | O projeto foi aprovado pelo plenário: o projeto sofre a ação.
+CE | E | Na oração O parecer foi apresentado pelo relator, o parecer é o agente da ação. | O parecer é o paciente; o relator, o agente.
+CE | C | Em O deputado temia a derrota, o sujeito exerce o papel de experienciador. | Quem sente ou percebe é o experienciador.
+CE | C | Votou e vinha votando diferem quanto ao aspecto: a primeira expressa ação acabada e a segunda, ação em curso. | Aspecto é o desenvolvimento interno do fato, distinto do tempo.
+CE | E | Aspecto verbal e tempo verbal são sinônimos. | O tempo situa o fato na linha do tempo; o aspecto trata de seu desenvolvimento.
+CE | C | Engavetar é palavra formada por parassíntese. | Nem engaveta nem gavetar existem como etapas intermediárias.
+CE | E | Infelizmente é formada por parassíntese. | Infeliz existe sem o advérbio: há derivação prefixal seguida de sufixal, não parassíntese.
+CE | C | Debate, a partir do verbo debater, é exemplo de derivação regressiva. | Redução do verbo para formar o substantivo.
+CE | C | Em O sim venceu a votação, há derivação imprópria. | A palavra muda de classe sem alterar a forma.
+CE | E | Planalto, de plano mais alto, é composição por justaposição. | Há perda de fonemas: composição por aglutinação.
+CE | C | Guarda-chuva é exemplo de composição por justaposição. | Os radicais se unem sem perder fonemas.
+CE | E | Petrobras é uma sigla, e não um acrônimo. | Pronunciada como palavra, é acrônimo; sigla é a soletrada, como STF.
+CE | C | O sufixo -dade, como em legalidade, forma substantivos que indicam qualidade ou estado. | Os sufixos acrescentam valor semântico.
+CE | C | Os verbos formados com o sufixo -izar, como legalizar, costumam indicar o processo de tornar algo. | O sufixo traz o valor de fazer ficar legal.
+AB | O verbo anoitecer foi formado por... | derivação parassintética | derivação regressiva | Prefixo a- e sufixo -ecer ao mesmo tempo sobre noite.
+AB | O papel semântico de quem sofre a ação é... | paciente | agente | O agente é quem realiza a ação.
+AB | O termo STF, lido letra por letra, é exemplo de... | sigla | acrônimo | Acrônimo é a sigla pronunciada como palavra, como Petrobras.

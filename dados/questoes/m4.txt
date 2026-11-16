@@ -1,0 +1,32 @@
+# Módulo 4 — Classes II: verbo, tempos e modos, conectivos. Acrescente questões novas sempre no fim.
+CE | E | Em "Se ele vir amanhã, conversaremos", a forma verbal está correta para o verbo "vir". | O futuro do subjuntivo de vir é vier: "Se ele vier amanhã".
+CE | C | Em "Quando eu vir o resultado, avisarei", "vir" é forma do verbo "ver". | Futuro do subjuntivo de ver: quando eu vir, quando eles virem.
+CE | E | "O juiz interviu na disputa" está de acordo com a norma-padrão. | Intervir se conjuga como vir: o juiz interveio.
+CE | C | "Se ele repusesse o material, tudo se resolveria" apresenta correlação verbal adequada. | Imperfeito do subjuntivo (repusesse) com futuro do pretérito (resolveria).
+CE | E | "Reavejo" é a 1ª pessoa do singular do presente do indicativo de "reaver". | Reaver é defectivo: só tem as formas em que haver tem v (reavemos, reaveis, reouve).
+CE | C | O pretérito perfeito de "requerer" é "requereu", e não "requis". | Requerer é irregular só no presente (requeiro); no pretérito é regular.
+CE | E | Em "O candidato foi elegido", o particípio está corretamente empregado. | Com ser e estar, usa-se o particípio irregular: foi eleito.
+CE | C | Em "Ela tinha aceitado a proposta", emprega-se o particípio regular com o auxiliar "ter". | Ter e haver pedem o particípio regular (aceitado); ser e estar, o irregular (aceito).
+CE | E | A forma "tinha chego" é aceita pela norma-padrão. | Chegar só tem o particípio chegado: "tinha chegado".
+CE | C | Em "O ministro teria recebido propina", o futuro do pretérito indica que o autor não se compromete com a informação. | É o futuro do pretérito de incerteza ou distanciamento.
+CE | C | Em "Se você estudasse, passaria", há correlação entre imperfeito do subjuntivo e futuro do pretérito. | Condição hipotética.
+CE | E | "Eu medio as negociações" está de acordo com a norma-padrão. | Mediar se conjuga como odiar: eu medeio (MARIO: mediar, ansiar, remediar, incendiar, odiar).
+CE | C | No imperativo negativo, todas as formas vêm do presente do subjuntivo: "não faças", "não façam". | O imperativo negativo é todo tirado do presente do subjuntivo.
+CE | E | "Vem cá e me diga" mantém a uniformidade de tratamento. | Mistura tu (vem) e você (diga). Correto: "Vem cá e dize-me" ou "Venha cá e diga-me".
+CE | C | Em "Devemos sair cedo", o infinitivo não se flexiona por fazer parte de locução verbal. | Em locução verbal só o auxiliar se flexiona.
+CE | C | Em "Ela está meio cansada", "meio" é advérbio e, por isso, invariável. | Advérbio não varia. Como numeral, varia: meia hora.
+CE | E | Em "Os alunos estavam bastantes cansados", a concordância está correta. | Modificando adjetivo, bastante é advérbio e não varia: bastante cansados.
+CE | C | A locução "posto que" tem valor concessivo, equivalente a "embora". | Posto que = embora (não é causal).
+CE | E | "Porém", "contudo" e "todavia" não podem ser deslocados para o meio da oração. | Só "mas" fica fixo no início; as demais adversativas podem se deslocar.
+CE | C | Em "Como estava cansado, dormiu cedo", "como" tem valor causal. | Como anteposto à oração principal tem valor causal.
+CE | E | Em "Desde que estude, passará", "desde que" tem valor temporal. | Com subjuntivo, desde que é condicional (= contanto que); com indicativo, temporal ou causal.
+CE | C | Em "Mal chegou, saiu", "mal" equivale a "assim que". | Conjunção temporal.
+CE | E | Em "Penso, logo existo", "logo" é conjunção explicativa. | É conclusiva (= portanto).
+AB | "Quando eles ___ (vir) aqui": | vierem | virem | Futuro do subjuntivo de vir: vierem. Virem é de ver.
+AB | "Se ele ___ (manter) a calma, venceria": | mantivesse | mantesse | Manter se conjuga como ter: tivesse → mantivesse.
+AB | Pretérito perfeito de "intervir" (ele): | interveio | interviu | Intervir segue vir: ele veio → interveio.
+AB | "O réu foi ___": | preso | prendido | Com ser: particípio irregular.
+AB | "Os documentos já tinham sido ___": | entregues | entregados | Com ser (sido): particípio irregular entregue(s).
+AB | Presente de "odiar" (eu): | odeio | odio | Verbos do grupo MARIO ganham "ei" nas formas rizotônicas.
+AB | Valor de "embora": | concessão | causa | Embora = ainda que, mesmo que.
+AB | Valor de "à medida que": | proporção | causa | "Na medida em que" é que tem valor causal.

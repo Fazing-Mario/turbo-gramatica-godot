@@ -1,0 +1,20 @@
+# Módulo l27 — Figuras de pensamento. Acrescente questões novas sempre no fim.
+CE | C | A antítese aproxima ideias opostas, contrapondo-as. | Exemplo: Uns choram, outros riem.
+CE | C | No paradoxo, ideias opostas são atribuídas a um mesmo ser, produzindo aparente absurdo. | Exemplo de Camões: dor que desatina sem doer.
+CE | E | Antítese e paradoxo são termos sinônimos. | A antítese contrapõe opostos; o paradoxo os une no mesmo ser.
+CE | C | Silêncio ensurdecedor é um exemplo de oximoro, forma concentrada de paradoxo. | Dois termos de sentidos opostos unidos.
+CE | C | A ironia consiste em dizer o contrário do que se pensa, com intenção crítica. | Exemplo: Que eficiência: o ofício levou só dois anos.
+CE | E | A ironia consiste em expressar exatamente o que o falante pensa. | Expressa o contrário do que se pensa, e o contexto revela a intenção.
+CE | C | Faltou com a verdade, no lugar de mentiu, é um eufemismo. | Suaviza o desagradável.
+CE | E | Faltou com a verdade é um exemplo de hipérbole. | A hipérbole exagera; aqui há suavização, portanto eufemismo.
+CE | C | A hipérbole exagera intencionalmente para dar ênfase. | Exemplo: Já disse isso mil vezes.
+CE | C | Não é pouco o que se gastou, no sentido de que se gastou muito, é exemplo de litótes. | A litótes afirma negando o contrário.
+CE | C | A gradação apresenta elementos em escala crescente ou decrescente, como em Investigou, apurou, provou. | Quando crescente, também se chama clímax.
+CE | C | A economia respira aliviada exemplifica prosopopeia. | Atribui característica humana a algo abstrato.
+CE | C | A apóstrofe é a interpelação enfática a alguém ou a algo, como em Ó pátria amada!. | Costuma ter tom emotivo.
+CE | E | A apóstrofe é a figura que atribui qualidades humanas a seres inanimados. | Essa é a prosopopeia.
+CE | C | A preterição consiste em dizer que não se vai falar de algo, mencionando-o. | Exemplo: Não vou citar o prejuízo de três bilhões.
+CE | C | O eufemismo é frequente na linguagem política e burocrática, em termos como ajuste fiscal. | Atenua a responsabilidade pelo ato.
+AB | Ideias opostas atribuídas ao mesmo ser caracterizam o... | paradoxo | pleonasmo | O pleonasmo é redundância, figura de construção.
+AB | Suavizar um fato desagradável é... | eufemismo | hipérbole | A hipérbole exagera.
+AB | Atribuir ações humanas a um ser inanimado é... | prosopopeia | apóstrofe | A apóstrofe interpela enfaticamente.

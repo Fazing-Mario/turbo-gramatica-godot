@@ -1,0 +1,33 @@
+# Módulo 3 — Classes I: nome e pronome. Acrescente questões novas sempre no fim.
+CE | E | O substantivo "beijo" classifica-se como concreto. | Beijo nomeia uma ação; nomes de ações, estados, qualidades e sentimentos são abstratos.
+CE | C | "Deus" e "fada" são substantivos concretos. | Concreto é o ser com existência própria, real ou imaginária.
+CE | C | "A testemunha" é substantivo sobrecomum. | Um só gênero para homem ou mulher: a testemunha, a criança, o cônjuge.
+CE | E | "A cobra" é substantivo comum de dois gêneros. | É epiceno: o gênero não muda; distingue-se com macho/fêmea (a cobra macho).
+CE | C | "O estudante" e "a estudante" exemplificam substantivo comum de dois gêneros. | A forma é a mesma; só o determinante indica o gênero.
+CE | E | Em "Comprou duzentas gramas de queijo", o gênero do substantivo está correto. | Grama (unidade de peso) é masculino: duzentos gramas.
+CE | C | "Alface" e "cal" são substantivos femininos. | A alface, a cal.
+CE | E | O plural de "cidadão" é "cidadões". | O plural é cidadãos.
+CE | C | O plural de "pãozinho" é "pãezinhos". | Plural do primitivo sem o s (pães) + zinhos.
+CE | E | O plural de "guarda-chuva" é "guardas-chuvas". | Verbo + substantivo: só o segundo varia: guarda-chuvas.
+CE | C | "Segundas-feiras" e "amores-perfeitos" têm os dois elementos flexionados. | Numeral + substantivo e substantivo + adjetivo: ambos variam.
+CE | E | O plural de "pé de moleque" é "pés de moleques". | Composto com preposição: só o primeiro varia: pés de moleque.
+CE | C | "Paupérrimo" é superlativo absoluto sintético de "pobre". | Forma erudita; "pobríssimo" é a forma popular.
+CE | E | A frase "Ele é mais bom que inteligente" é gramaticalmente incorreta. | Comparando duas qualidades do mesmo ser, usa-se "mais bom".
+CE | C | Em "Trouxe o relatório para eu revisar", o pronome "eu" é sujeito de "revisar". | Antes de infinitivo, quando o pronome é sujeito, usa-se a forma reta.
+CE | E | "Isso fica entre eu e você" está de acordo com a norma-padrão. | Depois de preposição, pronome oblíquo tônico: entre mim e você.
+CE | E | Em "Eu lhe vi ontem", o pronome está de acordo com a norma-padrão. | Ver é transitivo direto: "Eu o vi".
+CE | C | Em "Beijou-lhe a mão", o pronome "lhe" tem valor possessivo. | Equivale a "beijou a sua mão".
+CE | E | O pronome "Vossa Excelência" exige o verbo na 2ª pessoa do plural. | Pronomes de tratamento levam o verbo à 3ª pessoa: "Vossa Excelência decidiu".
+CE | C | Usa-se "Sua Excelência" ao falar sobre a autoridade e "Vossa Excelência" ao falar com ela. | Vossa = interlocutor; Sua = a pessoa de quem se fala.
+CE | C | Em "Meu lema é este: nunca desistir", o demonstrativo "este" anuncia o que vem a seguir. | Este tem valor catafórico; esse retoma o que já foi dito.
+CE | E | Em "O autor cujo o livro li", o artigo depois de "cujo" está correto. | Depois de cujo não se usa artigo: cujo livro.
+CE | C | Em "A cidade onde nasci", "onde" pode ser substituído por "em que". | Onde se refere a lugar físico e equivale a "em que".
+CE | E | Em "Livro algum foi devolvido", o pronome "algum" tem valor afirmativo. | Posposto ao substantivo, algum tem valor negativo (= nenhum).
+AB | "Isso fica entre ___ e você": | mim | eu | Depois de preposição: oblíquo tônico.
+AB | "Ele pediu para ___ sair": | eu | mim | O pronome é sujeito do infinitivo.
+AB | Plural de "capitão": | capitães | capitões | Um dos plurais em -ães, como pães e alemães.
+AB | Plural de "réptil": | répteis | reptis | Paroxítona em -il faz o plural em -eis.
+AB | Adjetivo equivalente a "de chuva": | pluvial | fluvial | Fluvial é "de rio".
+AB | Adjetivo equivalente a "de ouro": | áureo | argênteo | Argênteo é "de prata".
+AB | "O filme ___ assisti": | a que | que | Assistir (ver) pede a preposição "a" antes do relativo.
+AB | Superlativo erudito de "fiel": | fidelíssimo | fielíssimo | Forma erudita a partir do latim fidelis.

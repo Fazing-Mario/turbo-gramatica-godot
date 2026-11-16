@@ -1,0 +1,29 @@
+# Módulo 8 — Coesão, coerência, semântica e reescrita. Acrescente questões novas sempre no fim.
+CE | C | Em "Comprei rosas. As flores murcharam", "flores" é hiperônimo de "rosas" e garante a coesão. | O termo geral retoma o específico.
+CE | E | Em "O índice caiu; contudo, o governo comemorou", a troca de "contudo" por "portanto" preserva o sentido. | Contudo indica oposição; portanto, conclusão.
+CE | C | "Embora os gastos tenham caído" pode ser reescrito como "Apesar de os gastos terem caído" sem prejuízo da correção. | Embora + subjuntivo equivale a apesar de + infinitivo.
+CE | E | "Embora o índice cai, o governo comemorou" está correto. | Embora exige subjuntivo: "Embora o índice caia" (ou "tenha caído").
+CE | C | Em "Li Machado de Assis nas férias", ocorre metonímia. | O autor está no lugar da obra.
+CE | C | "Pé da mesa" é exemplo de catacrese. | Metáfora desgastada, usada por falta de termo próprio.
+CE | E | Em "Ele é forte como um touro", ocorre metáfora. | Há conectivo comparativo (como): é comparação, ou símile.
+CE | C | Em "voz doce", ocorre sinestesia. | Mistura audição (voz) e paladar (doce).
+CE | E | Antítese e paradoxo são a mesma figura de linguagem. | A antítese opõe ideias; o paradoxo junta ideias opostas no mesmo ser e momento.
+CE | C | Em "Vossa Excelência está cansado", a concordância com o sexo da pessoa é silepse de gênero. | Concordância com a ideia, não com a forma gramatical.
+CE | C | "Há anos atrás" constitui pleonasmo vicioso. | "Há" já indica tempo passado: use "há anos" ou "anos atrás".
+CE | E | Barbarismo é o erro de sintaxe, como os de concordância e regência. | Erro de sintaxe é solecismo; barbarismo é erro de forma (grafia, pronúncia, flexão).
+CE | C | Em "O policial prendeu o ladrão em sua casa", há ambiguidade. | Não se sabe de quem é a casa.
+CE | C | No discurso indireto, a fala "Estou cansado", dita no passado, torna-se "disse que estava cansado". | Presente vira pretérito imperfeito.
+CE | E | Na passagem para o discurso indireto, "amanhã" mantém-se como "amanhã". | Os dêiticos se ajustam: amanhã vira "no dia seguinte".
+CE | C | "Cela" e "sela" são homófonos. | Mesmo som, grafias e sentidos diferentes.
+CE | E | "Eminente" e "iminente" são homônimos perfeitos. | São parônimos: semelhantes, mas diferentes na forma e no sentido.
+CE | C | Em "Os preços subiram. O aumento assustou", há coesão por nominalização. | O substantivo "aumento" retoma a ação de subir.
+CE | C | "Vou estar enviando o relatório" exemplifica o gerundismo. | Prefira "vou enviar" ou "enviarei".
+CE | E | Coesão e coerência são a mesma propriedade textual. | Coesão é a ligação gramatical; coerência é a lógica do sentido.
+AB | Relação expressa por "contudo": | oposição | conclusão | Adversativa, como mas, porém, todavia.
+AB | Relação expressa por "portanto": | conclusão | causa | Conclusiva, como logo, por isso.
+AB | "Ele partiu desta para melhor" é: | eufemismo | hipérbole | Suaviza a ideia de morte.
+AB | "Já falei mil vezes" é: | hipérbole | ironia | Exagero intencional.
+AB | "O vento sussurrava" é: | prosopopeia | metonímia | Atribui ação humana a um ser inanimado.
+AB | Figura em "Bebi um copo de água": | metonímia | metáfora | O continente (copo) pelo conteúdo.
+AB | Discurso indireto de "Sairei cedo": | disse que sairia cedo | disse que sairá cedo | Futuro do presente vira futuro do pretérito.
+AB | "A solução da questão exige atenção" apresenta: | eco | cacofonia | Repetição de terminações iguais (-ão).

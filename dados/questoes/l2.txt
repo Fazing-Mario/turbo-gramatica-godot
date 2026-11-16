@@ -1,0 +1,19 @@
+# Módulo l2 — O signo linguístico de Saussure. Acrescente questões novas sempre no fim.
+CE | E | Para Saussure, o significante é a forma escrita da palavra. | É a imagem acústica; a escrita é representação secundária.
+CE | C | O significante é uma imagem acústica, e o significado é um conceito. | São as duas faces psíquicas do signo.
+CE | E | O signo linguístico une um nome a um objeto do mundo. | Une conceito e imagem acústica; o objeto é o referente, que fica fora do signo.
+CE | C | O referente não faz parte do signo linguístico saussuriano. | O signo é psíquico; o referente é a coisa do mundo.
+CE | C | A arbitrariedade do signo se evidencia no fato de o mesmo conceito ter formas diferentes em línguas diferentes. | Casa, house, maison: nada obriga a ligação natural.
+CE | E | Arbitrariedade significa que o falante pode escolher livremente qual palavra usar para cada coisa. | Arbitrário é imotivado, mas o falante não pode alterar o signo: a convenção é social.
+CE | C | A linearidade do significante significa que ele se desenvolve no tempo, um elemento após o outro. | Não se pronunciam dois elementos do significante ao mesmo tempo.
+CE | E | As onomatopeias demonstram que o signo linguístico é sempre motivado. | São poucas e convencionais: o latido é au-au em português e woof em inglês.
+CE | C | Dezenove é um exemplo de motivação relativa, pois remete a dez e a nove. | Já vinte é imotivado.
+CE | C | A relação sintagmática ocorre em presença, na cadeia da frase. | A paradigmática é em ausência: termos que poderiam ocupar o mesmo lugar.
+CE | E | A relação entre uma palavra presente na frase e as que poderiam ocupar seu lugar é sintagmática. | Essa é a relação paradigmática.
+CE | C | O estudo da língua em um determinado momento do tempo é denominado sincrônico. | Diacrônico é o estudo da evolução no tempo.
+CE | C | A mudança de pharmacia para farmácia ilustra a mutabilidade do signo no tempo. | A diacronia mostra que a relação entre forma e sentido se desloca.
+CE | E | Para Saussure, o símbolo é tão arbitrário quanto o signo linguístico. | No símbolo resta um laço natural: a balança como símbolo da justiça.
+CE | C | O valor linguístico de um signo decorre de sua relação com os demais signos do sistema. | A língua é sistema de valores definidos por oposição.
+AB | A ligação entre significante e significado é... | arbitrária, mas imposta pela convenção social | natural, determinada pela coisa nomeada | A arbitrariedade exclui laço natural, mas a convenção impede a troca individual.
+AB | A relação paradigmática é aquela entre... | termos que poderiam ocupar o mesmo lugar | termos que aparecem lado a lado na frase | A lado a lado é a sintagmática (em presença).
+AB | Na classificação de Peirce, a palavra convencional é um... | símbolo | índice | O índice liga-se realmente ao objeto, como fumaça e fogo.

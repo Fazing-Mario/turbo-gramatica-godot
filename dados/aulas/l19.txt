@@ -1,0 +1,94 @@
+=== Básico
+## Dizer é fazer (Austin)
+Para **Austin**, falar é **agir**. Nem todo enunciado serve só para **descrever** o mundo; muitos **realizam** uma ação.
+
+| Tipo | O que faz | Teste | Exemplo |
+|---|---|---|---|
+| **Constativo** | **Descreve**, afirma algo sobre o mundo | Pode ser **verdadeiro ou falso** | "O plenário tem 513 lugares." |
+| **Performativo** | **Realiza** a ação ao ser dito | Não é verdadeiro nem falso; é **feliz ou infeliz** (bem ou malsucedido) | "Declaro aberta a sessão", "Prometo", "Voto com o relator" |
+
+- **Condições de felicidade** (para o performativo "funcionar"): pessoa **autorizada**, **procedimento** adequado e **contexto** apropriado. "Declaro aberta a sessão" só vale se dito pelo presidente, no plenário, no horário e segundo o rito.
+- Um performativo **infeliz** não é "falso", é **falho**: "Declaro-os marido e mulher", dito por quem não tem autoridade, não casa ninguém.
+
+## Os três atos de um enunciado
+| Ato | O que é | Exemplo: "O relatório tem falhas graves" |
+|---|---|---|
+| **Locucionário** | **Dizer algo** com sentido: o conteúdo | A frase em si |
+| **Ilocucionário** | O que se **faz ao dizer**: a **força** | Alertar, pedir a rejeição |
+| **Perlocucionário** | O **efeito** produzido no ouvinte | O plenário fica preocupado e rejeita |
+
+> A **intenção** do falante (a força) é **ilocucionária**; o **efeito** no ouvinte é **perlocucionário**. A banca troca os dois.
+
+## Searle: os cinco atos ilocucionários
+| Classe | O que faz | Exemplos |
+|---|---|---|
+| **Assertivos** (representativos) | **Afirmam** ou informam como as coisas são | afirmar, informar, concluir, relatar |
+| **Diretivos** | Tentam levar o ouvinte a **fazer algo** | pedir, ordenar, perguntar, aconselhar, convidar |
+| **Compromissivos** | **Comprometem** o falante com uma ação futura | prometer, jurar, garantir, ameaçar |
+| **Expressivos** | Exprimem **sentimentos** e atitudes | agradecer, desculpar-se, felicitar, lamentar |
+| **Declarativos** | **Mudam a realidade institucional** ao serem ditos | nomear, declarar aberta a sessão, promulgar, absolver |
+
+=== Avançado
+## Ato de fala indireto
+- Em um **ato de fala indireto**, a **forma** do enunciado indica uma classe e a **função** realiza outra.
+- "**Está frio aqui**" (assertivo na forma) pode ser um **pedido para fechar a janela** (diretivo na função).
+- "**Você pode me passar o processo?**" tem forma de **pergunta** sobre a capacidade do interlocutor, mas **funciona** como **pedido** (diretivo).
+- O ouvinte infere o ato indireto pelo **contexto** e pela **convenção social** (polidez). Pedir de modo indireto costuma ser **mais polido** que ordenar.
+- Isso é **pragmática**: o sentido **em uso**, além do literal (semântica).
+
+## Verbos performativos explícitos e implícitos
+- **Explícito**: usa verbo performativo na 1ª pessoa do presente: "**Declaro** aberta a sessão"; "**Prometo** votar com o relator"; "**Nomeio** o Sr. X".
+- **Implícito (primário)**: a força é inferida do contexto: "Voto sim" (declaração de voto) ou "Votarei sim" (assertivo ou compromissivo, dependendo do contexto).
+- Teste do advérbio **"por meio deste ato"** (ou "hereby"): "Declaro, por meio deste ato, aberta a sessão". Se a fórmula funciona, o verbo é performativo.
+- **Não** são performativos: "Ele declara aberta a sessão" (3ª pessoa: constativo, descreve o que ele faz); "Declarei aberta a sessão" (passado).
+
+## Declarativos na vida legislativa
+| Ato | Quem faz | Efeito |
+|---|---|---|
+| "Declaro aberta a sessão" | Presidente da Casa | Cria a sessão |
+| "Está aprovado" (anúncio do resultado) | Presidente | Torna o projeto aprovado |
+| "Promulgo a lei" | Autoridade competente | Confere vigência à lei |
+| "Concedo a palavra" | Presidente | Autoriza o uso da palavra |
+| "Voto não" | Parlamentar | Registra o voto |
+| "Decreto" / "Nomeio" | Autoridade | Cria ato jurídico |
+
+- A **eficácia** depende da **competência** e do **rito**: o ato é **institucional**.
+
+## Atos de fala e gêneros oficiais
+- **Ofício** de solicitação: **diretivo** ("Solicito...").
+- **Ofício** de comunicação: **assertivo** ("Informo que...").
+- **Requerimento**: diretivo.
+- **Moção de aplauso**: expressivo.
+- **Lei** e **decreto**: declarativos.
+- **Compromisso** (termo de posse): compromissivo.
+- O **verbo** inicial do documento indica o ato: **informo, solicito, encaminho, comunico, requeiro, designo, convoco**.
+
+## Perlocucionário: efeito pretendido e efeito real
+- O **efeito perlocucionário** pode **coincidir** com o pretendido ou **divergir**: o discurso para convencer pode irritar.
+- **Perlocução** envolve verbos como convencer, persuadir, assustar, tranquilizar, irritar, divertir.
+- Quem **ameaça** realiza ato **compromissivo** (ilocucionário); se o ouvinte **se assusta**, é o efeito **perlocucionário**.
+
+## Como a banca cobra
+- "O verbo **declarar**, em 'Declaro aberta a sessão', constitui ato **performativo**."
+- "'Você poderia fechar a janela?' é um ato **diretivo indireto**."
+- "O efeito da fala sobre o ouvinte é o ato **perlocucionário**."
+- "Prometer, jurar e garantir são atos **compromissivos**."
+- "O performativo é **verdadeiro ou falso**" → **Errado** (ele é feliz ou infeliz).
+
+=== Pegadinhas
+1. "Em 'Declaro aberta a sessão', dito pelo Presidente da Câmara no plenário, há enunciado constativo." **Errado.** É performativo (declarativo para Searle): dizer é realizar.
+2. "O ato perlocucionário corresponde à intenção do falante." **Errado.** A intenção (força) é ilocucionária; o perlocucionário é o efeito no ouvinte.
+3. "'Você pode me passar o processo?' é uma pergunta sobre a capacidade do interlocutor." **Errado,** no uso: é ato de fala indireto, um pedido (diretivo).
+4. "Enunciados performativos são avaliados como verdadeiros ou falsos." **Errado.** São felizes ou infelizes, conforme as condições.
+5. "Prometer é ato declarativo." **Errado.** É compromissivo; declarativo muda a realidade institucional.
+6. "Agradecer e felicitar são atos diretivos." **Errado.** São expressivos.
+7. "'Ele declara aberta a sessão' é performativo na mesma medida de 'Declaro aberta a sessão'." **Errado.** Na 3ª pessoa é um relato (constativo).
+8. "O mesmo enunciado tem sempre a mesma força ilocucionária." **Errado.** Depende do contexto: 'Está frio' pode ser asserção ou pedido.
+
+=== Revisão rápida
+- **Constativo** (verdadeiro/falso) x **performativo** (feliz/infeliz; realiza a ação).
+- **Locucionário** (conteúdo), **ilocucionário** (força, o que se faz ao dizer), **perlocucionário** (efeito no ouvinte).
+- **Searle**: assertivos, diretivos, compromissivos, expressivos, declarativos.
+- **Ato indireto**: forma ≠ função ("Está frio aqui" = pedido).
+- Declarativos exigem **competência** e **rito**.
+- **Pragmática** = sentido em uso.

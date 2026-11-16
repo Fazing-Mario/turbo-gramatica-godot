@@ -1,0 +1,154 @@
+=== Básico
+## Frase, oração e período
+- **Frase**: enunciado com sentido completo, com ou sem verbo ("Silêncio!").
+- **Oração**: enunciado organizado em torno de um verbo (ou locução verbal).
+- **Período**: frase com uma ou mais orações. Simples (uma oração) ou composto (duas ou mais).
+
+## Termos essenciais: sujeito
+| Tipo | Como é | Exemplo |
+|---|---|---|
+| Simples | um núcleo | **O diretor** saiu. |
+| Composto | dois ou mais núcleos | **Pedro e Ana** saíram. |
+| Oculto (desinencial) | não aparece, mas a desinência mostra | Saímos cedo. (nós) |
+| Indeterminado | existe, mas não se pode ou não se quer identificar | **Roubaram** meu carro. **Precisa-se** de vendedores. |
+| Oração sem sujeito | o verbo é impessoal | **Houve** problemas. **Choveu** muito. |
+
+**Sujeito indeterminado** aparece de dois jeitos:
+- verbo na 3ª pessoa do plural sem referente no texto: "Falaram mal de você".
+- verbo intransitivo, transitivo indireto ou de ligação + se (índice de indeterminação): "Vive-se bem aqui", "Precisa-se de técnicos", "Era-se feliz".
+
+**Orações sem sujeito** (verbos impessoais, sempre na 3ª pessoa do singular):
+- **haver** no sentido de existir ou de tempo decorrido: "Houve muitas reclamações", "Há dez anos não o vejo".
+- **fazer, estar, ser** indicando tempo ou clima: "Faz dois anos", "Está frio", "É cedo".
+- **fenômenos da natureza**: chover, ventar, nevar, amanhecer (em sentido próprio).
+- **bastar** e **chegar** com "de": "Basta de mentiras!", "Chega de briga!".
+
+## Termos essenciais: predicado
+| Tipo | Núcleo | Exemplo |
+|---|---|---|
+| Verbal | verbo significativo (indica ação) | Os alunos **estudaram** a matéria. |
+| Nominal | predicativo do sujeito, com verbo de ligação | Os alunos **estavam cansados**. |
+| Verbo-nominal | verbo significativo + predicativo | Os alunos **saíram cansados**. |
+
+- **Verbos de ligação**: ser, estar, parecer, permanecer, ficar, continuar, andar (= estar), tornar-se, virar (= tornar-se). Ligam o sujeito a uma característica.
+- O mesmo verbo pode mudar: "Ele **anda** triste" (ligação) × "Ele **anda** rápido" (intransitivo).
+
+## Transitividade verbal
+- **Intransitivo (VI)**: sentido completo: "O bebê dormiu", "Ele chegou cedo" (cedo é adjunto adverbial).
+- **Transitivo direto (VTD)**: complemento sem preposição obrigatória (objeto direto): "Comprei **um livro**".
+- **Transitivo indireto (VTI)**: complemento com preposição obrigatória (objeto indireto): "Gosto **de música**".
+- **Transitivo direto e indireto (VTDI)**: dois complementos: "Entreguei **o relatório** **ao chefe**".
+- A transitividade depende do contexto: "Ele **assiste** ao jogo" (VTI, ver) × "O médico **assiste** o paciente" (VTD, ajudar).
+
+## Termos integrantes
+- **Objeto direto**: completa VTD sem preposição. Pronomes: o, a, os, as. Pode ser **preposicionado** por clareza ou ênfase: "Amar **a Deus**", "Ele feriu **a mim**", "Venceu **ao Brasil** a Argentina" (evita ambiguidade).
+- **Objeto indireto**: completa VTI com preposição exigida pelo verbo. Pronome: lhe, lhes.
+- **Objeto pleonástico**: repete o objeto já dito: "O livro, eu **o** li". "Aos amigos, dei-**lhes** tudo".
+- **Complemento nominal**: completa um nome (substantivo abstrato, adjetivo ou advérbio) que tem sentido incompleto, **sempre com preposição**: "Tenho **medo de altura**", "Ele é **favorável ao projeto**", "Agiu **contrariamente às normas**".
+- **Agente da passiva**: quem pratica a ação na voz passiva, com por ou de: "O projeto foi aprovado **pelo Senado**".
+
+## Termos acessórios
+- **Adjunto adnominal**: caracteriza ou determina o substantivo: artigo, adjetivo, numeral, pronome adjetivo, locução adjetiva ("**Os dois novos** livros **de história**").
+- **Adjunto adverbial**: circunstância (tempo, lugar, modo, causa, finalidade, instrumento, companhia, intensidade, negação...).
+- **Aposto**: explica, especifica, enumera ou resume outro termo: "Brasília, **a capital**, faz aniversário", "O rio **Amazonas**", "Trouxe tudo: **livros, cadernos e canetas**", "Livros, cadernos, canetas, **tudo** ficou".
+- **Vocativo**: chama o interlocutor; é isolado por vírgula e não faz parte da oração: "**Senhores**, sentem-se".
+
+## Predicativo do objeto
+Caracteriza o objeto e aparece com verbos como julgar, considerar, achar, eleger, nomear, chamar, tornar:
+- "O júri considerou **o réu** **culpado**." (culpado = predicativo do objeto)
+- "Elegeram-**no** **presidente**."
+- Teste: transforme em "o réu é culpado" — se fizer sentido, é predicativo.
+
+=== Avançado
+## Complemento nominal × adjunto adnominal (o mais cobrado)
+Os dois podem vir com preposição depois de substantivo. Use este roteiro:
+| Situação | Classificação | Exemplo |
+|---|---|---|
+| o termo completa um **adjetivo** ou **advérbio** | complemento nominal | útil **à população**; favoravelmente **ao réu** |
+| o termo se liga a **substantivo concreto** | adjunto adnominal | a casa **de Pedro**; o livro **de capa dura** |
+| substantivo abstrato e o termo **sofre** a ação (sentido passivo) | complemento nominal | a construção **da ponte** (a ponte é construída); o respeito **às leis** |
+| substantivo abstrato e o termo **pratica** a ação ou é **possuidor** | adjunto adnominal | a resposta **do aluno** (o aluno responde); a chegada **do presidente** |
+| preposição diferente de "de" depois de substantivo abstrato | quase sempre complemento nominal | obediência **aos pais**; amor **à pátria** |
+
+> "A crítica do professor" é ambígua: o professor criticou (adjunto) ou foi criticado (complemento). A prova costuma pedir que você perceba isso.
+
+## Vozes verbais
+| Voz | Estrutura | Exemplo |
+|---|---|---|
+| Ativa | sujeito pratica a ação | Os técnicos analisaram os dados. |
+| Passiva analítica | ser + particípio + agente | Os dados foram analisados pelos técnicos. |
+| Passiva sintética | VTD (ou VTDI) + se (partícula apassivadora) | Analisaram-se os dados. Vendem-se casas. |
+| Reflexiva | sujeito pratica e sofre a ação | O menino se feriu. Os noivos se beijaram (recíproca). |
+
+## Transposição da ativa para a passiva
+- O **objeto direto** da ativa vira **sujeito** da passiva.
+- O **sujeito** da ativa vira **agente da passiva**.
+- O verbo **ser** fica no **mesmo tempo e modo** do verbo original:
+| Ativa | Passiva |
+|---|---|
+| O juiz **analisa** o caso. | O caso **é analisado** pelo juiz. |
+| O juiz **analisou** o caso. | O caso **foi analisado** pelo juiz. |
+| O juiz **analisava** o caso. | O caso **era analisado** pelo juiz. |
+| O juiz **analisará** o caso. | O caso **será analisado** pelo juiz. |
+| O juiz **tinha analisado** o caso. | O caso **tinha sido analisado** pelo juiz. |
+| O juiz **estava analisando** o caso. | O caso **estava sendo analisado** pelo juiz. |
+| O juiz **deve analisar** o caso. | O caso **deve ser analisado** pelo juiz. |
+- Só verbos **transitivos diretos** (ou diretos e indiretos) vão para a passiva. Exceções tradicionais: obedecer, pagar e perdoar admitem passiva ("Os pais são obedecidos").
+
+## Passiva sintética × índice de indeterminação
+| Construção | Classificação do "se" | Concordância |
+|---|---|---|
+| VTD + se: "Alugam-se salas" | partícula apassivadora | verbo concorda com o sujeito: salas → alugam |
+| VTI + se: "Precisa-se de técnicos" | índice de indeterminação do sujeito | verbo fica no singular |
+| VI + se: "Vive-se bem aqui" | índice de indeterminação | singular |
+| VL + se: "Era-se feliz" | índice de indeterminação | singular |
+> Teste da passiva sintética: transforme em analítica. "Alugam-se salas" → "Salas são alugadas". Se der certo, o "se" é apassivador e o verbo concorda.
+
+## As funções do "se"
+| Função | Exemplo |
+|---|---|
+| Partícula apassivadora | Vendem-se apartamentos. |
+| Índice de indeterminação do sujeito | Trata-se de questões sérias. Obedeceu-se às regras. |
+| Pronome reflexivo (objeto direto ou indireto) | Ela se penteou. Ele se deu um presente. |
+| Pronome recíproco | Os rivais se cumprimentaram. |
+| Parte integrante do verbo (pronominal) | Ele se queixou. Arrependeu-se. Suicidou-se. |
+| Partícula expletiva (de realce, pode sair) | Foi-se embora. Vão-se os anéis. |
+| Conjunção integrante | Não sei se ele vem. |
+| Conjunção condicional | Se chover, não vou. |
+
+## Funções sintáticas dos pronomes oblíquos
+- **o, a, os, as**: objeto direto (ou sujeito de infinitivo: "Deixe-**o** sair").
+- **lhe, lhes**: objeto indireto, adjunto adnominal (posse: "Pisou-lhe o pé") ou complemento nominal ("Isso lhe é útil").
+- **me, te, se, nos, vos**: objeto direto ou indireto, conforme o verbo ("Ele **me** viu" OD; "Ele **me** obedeceu" OI).
+
+=== Pegadinhas
+## Armadilhas clássicas
+- **"Houveram problemas" está errado**: haver = existir é impessoal: "Houve problemas". E contamina o auxiliar: "Deve haver soluções" (nunca "devem haver").
+- **"Fazem dois anos" está errado**: "Faz dois anos".
+- **"Aluga-se casas" está errado**: passiva sintética concorda: "Alugam-se casas".
+- **"Precisam-se de técnicos" está errado**: VTI + se fica no singular: "Precisa-se de técnicos".
+- **"Trata-se de" fica sempre no singular**: "Trata-se de casos graves".
+- **Vocativo nunca é sujeito**: "Maria, venha cá" (sujeito = você, oculto).
+- **"Existir" não é impessoal**: "Existem problemas" (concorda com o sujeito).
+- **Complemento nominal sempre tem preposição; objeto direto não** (salvo o preposicionado).
+- **Aposto especificativo não tem vírgula**: "o poeta Drummond", "a cidade de Brasília".
+- **"Considero-o capaz"**: "o" é objeto direto e "capaz" é predicativo do objeto.
+
+## Itens no estilo Cebraspe (comentados)
+- "Em 'Precisa-se de profissionais qualificados', o sujeito é indeterminado." **CERTO**: VTI + se.
+- "Em 'Divulgaram-se os resultados', o 'se' é índice de indeterminação do sujeito." **ERRADO**: é partícula apassivadora; "os resultados" é o sujeito.
+- "A forma verbal 'houve', em 'Houve muitas críticas', poderia ser substituída por 'houveram' sem prejuízo gramatical." **ERRADO**.
+- "Em 'A obediência às normas é dever de todos', o termo 'às normas' é complemento nominal." **CERTO**.
+- "Em 'A chegada dos ministros atrasou', 'dos ministros' é complemento nominal." **ERRADO**: os ministros praticam a ação (chegam): adjunto adnominal.
+- "A passiva de 'A comissão estava analisando as propostas' é 'As propostas estavam sendo analisadas pela comissão'." **CERTO**.
+
+=== Revisão rápida
+- Sujeito: simples, composto, oculto, indeterminado (3ª plural ou verbo não-VTD + se), inexistente.
+- Impessoais: haver (existir, tempo), fazer (tempo), fenômenos da natureza. Singular sempre, inclusive no auxiliar.
+- Predicado verbal (ação), nominal (VL + predicativo), verbo-nominal (ação + predicativo).
+- VL: ser, estar, parecer, permanecer, ficar, continuar, andar, tornar-se, virar.
+- OD sem preposição (o, a); OI com preposição (lhe); CN completa nome, sempre com preposição.
+- CN × adjunto: termo sofre a ação → CN; pratica ou possui → adjunto; ligado a adjetivo/advérbio → CN.
+- Passiva: OD vira sujeito; ser no mesmo tempo do verbo original.
+- VTD + se = passiva sintética (concorda); VTI/VI/VL + se = indeterminação (singular).
+- Funções do se: apassivadora, indeterminação, reflexivo, recíproco, integrante do verbo, expletivo, conjunção integrante, condicional.

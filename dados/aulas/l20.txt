@@ -1,0 +1,95 @@
+=== Básico
+## Implicatura conversacional (Grice)
+Os falantes seguem, sem perceber, um **Princípio da Cooperação**: "faça sua contribuição para a conversa conforme exigido, no momento em que ocorre, pelo propósito da troca". Esse princípio se desdobra em **quatro máximas**.
+
+| Máxima | Regra | Exemplo de cumprimento |
+|---|---|---|
+| **Quantidade** | Informe **o necessário**, nem mais, nem menos | Resposta direta, sem rodeios |
+| **Qualidade** | Não diga o que julga **falso** ou **sem prova** | Só afirma o que sabe |
+| **Relação** (relevância) | Seja **pertinente** | A resposta responde à pergunta |
+| **Modo** | Seja **claro**, ordenado, sem ambiguidade | Linguagem inteligível |
+
+- Quando alguém **parece violar** uma máxima, o ouvinte **supõe que a cooperação continua** e **infere** um sentido extra: a **implicatura**.
+- **Exemplo (Quantidade)**: perguntam ao deputado se o assessor é competente. Ele responde: "Ele é muito pontual." A resposta é **insuficiente** (não fala da competência), e o ouvinte infere uma **avaliação negativa**.
+- **Exemplo (Relação)**: "O presidente da comissão está de bom humor hoje?" — "Ele acabou de receber o parecer." O ouvinte infere uma resposta (pode ser sarcástica) pela **relevância** suposta.
+- **Exemplo (Qualidade, ironia)**: "Que belo trabalho!" diante de um trabalho ruim viola a qualidade e produz **ironia**.
+
+## Implicatura x pressuposto
+| | Pressuposto | Implicatura conversacional |
+|---|---|---|
+| Origem | **Marcas linguísticas** do enunciado | **Contexto** e cooperação entre os falantes |
+| Cancelamento | **Não** se cancela sem contradição | **Pode ser cancelada**: "Ele é pontual; aliás, é muito competente" |
+| Negação | **Sobrevive** à negação | **Some** com a negação ou com o contexto |
+| Exemplo | "**Deixou de** faltar" → faltava | "Ele é muito pontual" → não é competente |
+
+> **Pressuposto resiste**; **implicatura pode ser cancelada**. Exemplo: "Ele **não** parou de defender o projeto" mantém o pressuposto de que defendia.
+
+=== Avançado
+## Violação e outros efeitos
+- **Violar uma máxima** de propósito gera **implicatura** (ironia, eufemismo, sarcasmo). Quando a violação é **dissimulada**, ocorre **mentira** (qualidade), **evasão** (relação) ou **prolixidade** (quantidade).
+- **Tipos de implicatura**:
+  - **Generalizada**: independe do contexto específico. "Alguns deputados votaram a favor" implica **"não todos"** (escala).
+  - **Particularizada**: depende do contexto. "Ele é muito pontual" como resposta sobre a competência.
+  - **Convencional**: ligada ao **significado** de uma palavra (mas implica contraste; até implica surpresa).
+- **Implicaturas escalares**: "Alguns" implica "não todos"; "pode" implica "não é obrigatório"; "ou" implica "não ambos".
+
+## Discurso e ideologia (Análise do Discurso)
+Na **Análise do Discurso** (Foucault, Pêcheux), o **sentido** depende da **posição** de quem fala e das **instituições** que legitimam o dizer (Parlamento, tribunal, imprensa, universidade).
+
+| Conceito | Ideia |
+|---|---|
+| **Condições de produção** | Quem fala, a quem, de que lugar social, em que momento histórico |
+| **Formação discursiva** (Foucault; Pêcheux) | Conjunto de enunciados que determina **o que pode e deve ser dito** a partir de uma posição |
+| **Formação ideológica** | Conjunto de atitudes e representações ligado a uma posição de classe ou grupo |
+| **Interdiscurso** | Conjunto de discursos anteriores que sustentam cada dizer (o "já-dito") |
+| **Memória discursiva** | O que retorna de discursos anteriores |
+| **Silenciamento** | O que **não se pode dizer** é parte do sentido |
+| **Hegemonia** | O discurso dominante define o que parece **natural** |
+
+- **Ideologia** é o sistema de valores que orienta a leitura da realidade. **Não** é "mentira" nem apenas "política partidária": está presente em todo discurso.
+- A **escolha lexical** revela a posição: "invasão" x "ocupação"; "modernização" x "retirada de direitos"; "protesto" x "baderna"; "reforma" x "desmonte".
+- Quem controla o discurso dominante define o que parece **natural** e **neutro**.
+
+## Sentido e posição: exemplos
+| Termo | Posição que revela |
+|---|---|
+| "Terroristas" x "combatentes" | Posição em um conflito |
+| "Tributos" x "extorsão" | Posição sobre carga tributária |
+| "Servidores" x "funcionalismo" x "marajás" | Atitude diante do servidor |
+| "Reajuste" x "aumento" x "correção" | Enquadramento da medida |
+
+- **Enquadramento (framing)**: o modo de apresentar um fato orienta a interpretação.
+- A **mesma notícia** pode ter **manchetes** com enquadramentos diferentes.
+
+## Pragmática, semântica e análise do discurso: panorama
+| Área | Objeto | Exemplo |
+|---|---|---|
+| **Semântica** | Significado, condições de verdade | "O deputado votou" é verdadeira ou falsa? |
+| **Pragmática** | Sentido em uso, intenção, implicaturas, atos de fala | "Você pode me passar o processo?" |
+| **Análise do Discurso** | Condições de produção, ideologia, formações discursivas | De que posição o relator fala? |
+| **Linguística textual** | Texto, coesão, coerência | Por que o parágrafo faz sentido? |
+
+## Roteiro para itens de implicatura e discurso
+1. **Que máxima** parece violada (quantidade, qualidade, relação, modo)?
+2. Que **inferência** o ouvinte faz? Ela **pode ser cancelada**?
+3. A informação extra vem de **marca linguística** (pressuposto) ou do **contexto** (implicatura)?
+4. Qual **posição** o termo escolhido revela? Que **alternativas** de rótulo existiam?
+5. Quem **fala**, de que **lugar** e para que **auditório**?
+
+=== Pegadinhas
+1. "A implicatura conversacional é sempre produto de marcas linguísticas, como o advérbio 'já'." **Errado.** Isso é pressuposto; a implicatura vem do contexto e da suposição de cooperação.
+2. "Diferentemente do pressuposto, a implicatura pode ser cancelada." **Certo.**
+3. "A máxima da relação exige que o falante seja claro e organizado." **Errado.** Isso é a máxima do modo; relação é pertinência.
+4. "Ideologia é sinônimo de mentira." **Errado.** É o sistema de valores que orienta a leitura da realidade, presente em todo discurso.
+5. "Os termos 'invasão' e 'ocupação', por terem o mesmo referente, são neutros e intercambiáveis." **Errado.** O referente pode ser o mesmo, mas a escolha marca posição ideológica.
+6. "A ironia respeita a máxima da qualidade, pois o falante diz o que acredita." **Errado.** Ela a viola: diz o que não pensa, para ser entendida ao contrário.
+7. "'Alguns deputados votaram a favor' implica logicamente que nenhum votou contra." **Errado.** Implica, por implicatura escalar, 'não todos'.
+8. "A Análise do Discurso considera o sentido independente da posição de quem fala." **Errado.** O sentido depende da posição do falante e das condições de produção.
+
+=== Revisão rápida
+- **Grice**: Princípio da Cooperação; máximas de **quantidade**, **qualidade**, **relação**, **modo**.
+- **Implicatura**: sentido inferido quando uma máxima parece violada; **pode ser cancelada**.
+- **Pressuposto** resiste à negação; **implicatura** não.
+- Escalar: "alguns" implica "não todos".
+- **Ideologia** = sistema de valores; **formação discursiva**, **interdiscurso**, **condições de produção**.
+- Escolha lexical (invasão x ocupação) marca **posição**.

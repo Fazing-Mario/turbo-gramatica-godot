@@ -1,0 +1,33 @@
+# Módulo 1 — Fonética, acentuação e ortografia. Acrescente questões novas sempre no fim.
+CE | E | A palavra "paranoico" deve receber acento agudo no "o", por apresentar ditongo aberto. | Ditongo aberto ói em paroxítona perdeu o acento com o Acordo de 1990: paranoico, heroico, jiboia.
+CE | C | "Destróier" mantém o acento gráfico por ser paroxítona terminada em "r", e não por causa do ditongo aberto. | Paroxítonas terminadas em r são acentuadas (caráter, destróier). A regra do ditongo aberto não se aplica aqui.
+CE | E | As formas "creem" e "leem" devem receber acento circunflexo no primeiro "e". | O Acordo eliminou o acento nos hiatos ee: creem, leem, deem, veem.
+CE | C | Em "Eles contêm os gastos", o acento circunflexo marca a 3ª pessoa do plural do verbo "conter". | Ter, vir e derivados: ele contém (agudo), eles contêm (circunflexo).
+CE | E | A palavra "hifens" deve ser acentuada, assim como o singular "hífen". | Hífen é paroxítona terminada em n (acentuada). Hifens termina em ens, terminação que não leva acento.
+CE | C | "Juízes" é acentuada porque o "i" tônico forma sílaba sozinho, o que não ocorre em "juiz". | Ju-í-zes × ju-iz: no singular o i forma sílaba com z e não se acentua.
+CE | E | Em "rainha", o "i" tônico do hiato deve ser acentuado. | i tônico de hiato seguido de nh não leva acento: rainha, moinho, tainha.
+CE | C | "Piauí" mantém o acento no "i" mesmo depois de ditongo, por ser oxítona. | Depois de ditongo, só as paroxítonas perdem o acento (feiura); as oxítonas mantêm (Piauí, tuiuiú).
+CE | E | Após o Acordo de 1990, a forma verbal "pôde" (pretérito) perdeu o acento diferencial. | Pôde × pode continua com acento diferencial obrigatório, assim como pôr × por.
+CE | C | O acento circunflexo em "fôrma" (recipiente) é facultativo. | O Acordo tornou facultativo o acento de fôrma para diferenciar de forma.
+CE | E | A grafia "anti-social" está de acordo com a norma vigente. | Prefixo terminado em vogal + palavra iniciada por s: dobra-se o s, sem hífen: antissocial.
+CE | C | Em "micro-ondas" e "contra-ataque", o hífen se deve ao encontro de vogais iguais. | Prefixo que termina com a mesma vogal que inicia a palavra seguinte pede hífen.
+CE | E | A palavra "coordenar" deveria ser escrita com hífen, por haver encontro de vogais iguais. | O prefixo co se junta sempre, mesmo diante de o: coordenar, cooperar, coobrigação.
+CE | C | "Pé de moleque" e "fim de semana" escrevem-se sem hífen por terem elemento de ligação. | Compostos com elemento de ligação não têm hífen, salvo espécies e expressões consagradas (cor-de-rosa).
+CE | E | "Pára-quedas" é a grafia correta após o Acordo Ortográfico. | Perdeu a noção de composição e se escreve junto, sem acento: paraquedas.
+CE | C | Em "Ninguém sabe por que ele faltou", a expressão "por que" equivale a "por qual motivo". | Pergunta indireta: por que, separado e sem acento.
+CE | E | Em "Você faltou por quê?", a forma correta seria "porquê", por estar no fim da frase. | No fim da frase usa-se por quê (separado e acentuado). Porquê é substantivo (o porquê).
+CE | C | "Acerca de" significa "a respeito de", e "há cerca de" indica tempo decorrido aproximado. | Falou acerca do tema; saiu há cerca de dois anos.
+CE | E | "Ratificar" e "retificar" são sinônimos e podem ser trocados sem alterar o sentido. | Ratificar = confirmar; retificar = corrigir. São parônimos.
+CE | C | Em "A sessão do Senado foi encerrada", "sessão" significa reunião. | Sessão = reunião; seção = divisão; cessão = ato de ceder.
+CE | E | A palavra "rubrica" é proparoxítona e deveria ser acentuada. | Ru-BRI-ca é paroxítona terminada em a: sem acento.
+CE | C | Na palavra "guerra", há dois dígrafos: "gu" e "rr". | O u de gu não soa e rr representa um só som: 6 letras e 4 fonemas.
+AB | Grafia correta: | anti-inflamatório | antiinflamatório | Vogais iguais no encontro do prefixo com a palavra: hífen.
+AB | Grafia correta: | autoescola | auto-escola | Vogais diferentes: escreve-se junto.
+AB | Grafia correta: | contrarregra | contra-regra | Prefixo em vogal + r: dobra-se o r, sem hífen.
+AB | Grafia correta: | feiura | feiúra | Paroxítona com u tônico depois de ditongo não leva acento.
+AB | Plural de "ele vem": | eles vêm | eles veem | Vir: vêm. Ver: veem.
+AB | Grafia correta: | analisar | analizar | Análise tem s; o verbo mantém o s: analisar.
+AB | Grafia correta: | paralisar | paralizar | De paralisia: paralisar.
+AB | Grafia correta: | rapidez | rapidês | -ez forma substantivos abstratos a partir de adjetivos (rápido → rapidez).
+AB | "O motorista é ___": | mau | mal | Mau é o contrário de bom (adjetivo).
+AB | Grafia correta: | mexer | mecher | Depois de "me" inicial usa-se x (exceção: mecha).

@@ -1,0 +1,41 @@
+# Módulo 7 — Concordância, regência, crase, colocação e pontuação. Acrescente questões novas sempre no fim.
+CE | C | Em "Mais de um candidato faltou", o verbo no singular está correto. | "Mais de um" leva o verbo ao singular (salvo ideia de reciprocidade).
+CE | C | Em "A maioria dos servidores votou", o verbo poderia ir para o plural sem prejuízo gramatical. | Coletivo partitivo + plural admite singular ou plural.
+CE | E | Em "Fui eu que fez o relatório", a concordância está correta. | Com o relativo "que", o verbo concorda com o antecedente: "Fui eu que fiz".
+CE | C | Em "Fui eu quem fez o relatório", a concordância está correta. | Com "quem", o verbo pode ficar na 3ª pessoa do singular (ou concordar com eu: quem fiz).
+CE | C | Em "Tudo são flores", o verbo "ser" concorda com o predicativo. | Com sujeito tudo, isso, aquilo, o que, ser concorda com o predicativo plural.
+CE | C | "São duas horas" e "É uma hora" estão corretas quanto à concordância. | Indicando horas, ser concorda com o numeral.
+CE | E | "Dois quilos são pouco" é a única concordância aceita. | Com ideia de quantidade (pouco, muito, suficiente), ser fica no singular: "Dois quilos é pouco".
+CE | C | Em "Seguem anexas as cópias", o adjetivo concorda com o substantivo. | Anexo é adjetivo e varia.
+CE | E | Em "Seguem em anexo as cópias", a expressão "em anexo" deveria ir para o plural. | "Em anexo" é locução invariável.
+CE | E | "É proibido a entrada de pessoas estranhas" está de acordo com a norma-padrão. | Com determinante, concorda: "É proibida a entrada". Sem ele: "É proibido entrada".
+CE | C | Em "Elas mesmas resolveram o problema", "mesmas" concorda com o pronome. | Mesmo, próprio e só (= sozinho) variam.
+CE | E | Em "Havia menas pessoas na sala", a palavra "menas" está correta. | Menos é invariável.
+CE | E | Em "Assisti o filme ontem", o verbo "assistir" segue a norma-padrão. | Assistir no sentido de ver é transitivo indireto: "Assisti ao filme".
+CE | C | Em "O médico assistiu o paciente", "assistir" significa ajudar e é transitivo direto. | Nesse sentido, não pede preposição.
+CE | E | "Prefiro mais cinema do que teatro" está de acordo com a norma-padrão. | Preferir algo a algo, sem "mais" e sem "do que": "Prefiro cinema a teatro".
+CE | C | Em "Aspira ao cargo de diretor", "aspirar" significa desejar e é transitivo indireto. | Aspirar (desejar) pede "a".
+CE | E | "Esqueci do nome dele" está de acordo com a norma-padrão. | Sem pronome, esquecer é transitivo direto (Esqueci o nome); com pronome, indireto (Esqueci-me do nome).
+CE | C | Em "Obedeça às normas", o acento grave é obrigatório. | Obedecer a + as normas.
+CE | E | Em "Ele começou à estudar", o acento grave está correto. | Não há crase antes de verbo.
+CE | C | Em "Pediu bife à milanesa", ocorre crase pela ideia de "à moda". | "À moda (de)" admite crase mesmo oculta.
+CE | E | Em "Vou à Brasília amanhã", o acento grave está correto. | Cidade sem determinante não admite artigo: vou a Brasília, volto de Brasília.
+CE | C | Em "Vou à Bahia", o acento grave está correto. | Vou a, volto da: há artigo, logo há crase.
+CE | C | Em "Refiro-me àquele caso", o acento grave é obrigatório. | Referir-se a + aquele.
+CE | C | O acento grave em "Fui até à praia" é facultativo. | Depois de "até", a crase é facultativa.
+CE | E | Em "Nunca disseram-me a verdade", a colocação pronominal está correta. | "Nunca" atrai o pronome: "Nunca me disseram".
+CE | C | Em "Far-lhe-ei o pedido", a mesóclise está correta. | Futuro do presente sem palavra atrativa: mesóclise.
+CE | E | "Me disseram que haveria prova" segue a norma-padrão quanto à colocação pronominal. | Na norma-padrão não se inicia frase com pronome átono: "Disseram-me".
+CE | E | Em "Os servidores aprovados no concurso, tomarão posse amanhã", a vírgula está correta. | Não se separa o sujeito do verbo por vírgula.
+CE | C | Em "Eu prefiro café; ela, chá", a vírgula marca a omissão do verbo. | É a zeugma, elipse de termo já citado.
+CE | C | "À medida que" indica proporção, e "na medida em que" indica causa. | Não são intercambiáveis.
+AB | "___ haver soluções": | Deve | Devem | Haver impessoal deixa o auxiliar no singular.
+AB | "Seguem ___ os documentos": | anexos | anexo | Anexo é adjetivo e concorda.
+AB | "Ela está ___ preocupada": | meio | meia | Advérbio não varia.
+AB | "Refiro-me ___ pessoas": | a | à | "A" no singular antes de palavra no plural não leva crase.
+AB | "Chegou ___ 10h": | às | as | Horas determinadas: crase.
+AB | "Andou ___ cavalo": | a | à | Antes de palavra masculina não há crase.
+AB | "Prefiro estudar ___ trabalhar": | a | do que | Preferir algo a algo.
+AB | Colocação correta: | Não me disse nada | Não disse-me nada | Palavra negativa atrai o pronome.
+AB | Regência correta: | Simpatizo com ela | Me simpatizo com ela | Simpatizar não é pronominal.
+AB | "Faz dois anos" ou "Fazem dois anos"? | Faz dois anos | Fazem dois anos | Fazer indicando tempo é impessoal.

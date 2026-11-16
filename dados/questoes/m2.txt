@@ -1,0 +1,29 @@
+# Módulo 2 — Estrutura e formação de palavras. Acrescente questões novas sempre no fim.
+CE | C | Em "entardecer", ocorre derivação parassintética, pois não existem "entarde" nem "tardecer". | Parassíntese: prefixo e sufixo entram ao mesmo tempo; sem um deles a palavra não existe.
+CE | E | A palavra "infelizmente" é formada por parassíntese. | "Infeliz" existe sozinho; o advérbio se forma pelo acréscimo do sufixo -mente (derivação sufixal).
+CE | C | "Deslealdade" exemplifica derivação prefixal e sufixal. | Existem "desleal" e "lealdade"; prefixo e sufixo não são simultâneos.
+CE | E | "Girassol" é formado por aglutinação, pois houve perda de fonema. | Gira + sol se juntam sem perda de fonema (o s dobra só na escrita): justaposição.
+CE | C | "Planalto" e "aguardente" são exemplos de composição por aglutinação. | Plano + alto e água + ardente perdem fonemas ao se juntar.
+CE | C | O substantivo "ataque" é formado por derivação regressiva do verbo "atacar". | Substantivo que indica ação, tirado do verbo pela redução do final.
+CE | E | O verbo "ancorar" deu origem ao substantivo "âncora" por derivação regressiva. | Âncora nomeia objeto e é a palavra primitiva; o verbo é que deriva dela.
+CE | C | Em "O jantar estava ótimo", "jantar" é substantivo formado por derivação imprópria. | Um verbo passou a substantivo sem mudar a forma (conversão).
+CE | C | "Automóvel" é hibridismo, pois une elemento grego e elemento latino. | Auto (grego) + móvel (latim).
+CE | E | Em "mesa", o "a" final é desinência de gênero feminino. | Não existe "meso": o a é vogal temática. Em "menina", sim, é desinência de gênero.
+CE | C | Em "cantássemos", o segmento "-sse-" é desinência modo-temporal do pretérito imperfeito do subjuntivo. | Cant (radical) + a (vogal temática) + sse (modo-temporal) + mos (número-pessoal).
+CE | E | Os prefixos de "imigrar" e "emigrar" têm o mesmo sentido. | in- indica movimento para dentro (entrar no país); e- indica para fora (sair do país).
+CE | C | "Ilegal", "impossível" e "infeliz" têm o mesmo prefixo de negação, em formas diferentes. | São alomorfes do prefixo in-.
+CE | C | O sufixo "-ecer", em "amanhecer" e "envelhecer", indica início de ação ou de estado. | É o sufixo incoativo.
+CE | E | "Embora" é formada por justaposição de "em" + "boa" + "hora". | Houve perda de fonemas: aglutinação.
+CE | C | Os radicais de "xenofobia" e "bibliofilia" exprimem, respectivamente, aversão e afinidade. | -fobia = aversão; -filia = afinidade.
+CE | E | Em "fidalgo", ocorre derivação sufixal. | Fidalgo vem de filho + de + algo, com perda de fonemas: aglutinação.
+CE | C | "Pernalta" resulta de composição por aglutinação de "perna" e "alta". | Há perda de fonema na junção.
+CE | C | Em "cafeteira", o "t" funciona como consoante de ligação. | Facilita a pronúncia entre café e -eira.
+CE | E | Siglas não podem originar novas palavras por derivação. | Petista (de PT) e celetista (de CLT) mostram o contrário.
+AB | Processo de formação de "esfriar": | parassíntese | derivação sufixal | Es- e -ar entram juntos: não existe "friar", nem "esfrio" como palavra de base.
+AB | Processo de formação de "pontapé": | justaposição | aglutinação | Ponta + pé sem perda de fonema.
+AB | Processo de formação de "vinagre": | aglutinação | justaposição | Vinho + acre, com perda de fonemas.
+AB | Em "o choro do bebê", "choro" se forma por derivação: | regressiva | imprópria | Substantivo de ação tirado do verbo chorar.
+AB | Sentido do prefixo "hipo-" em "hipotensão": | posição inferior, escassez | excesso | Hiper- é que indica excesso.
+AB | Sentido de "-cida" em "inseticida": | que mata | que come | -voro é que significa "que come".
+AB | Sentido de "peri-" em "perímetro": | em volta | através | Per- e trans- indicam "através".
+AB | Formação de "televisão": | hibridismo | aglutinação | Tele (grego) + visão (latim).

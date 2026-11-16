@@ -1,0 +1,161 @@
+=== Básico
+## Verbo: o que ele carrega
+- **Pessoa e número**: eu, tu, ele, nós, vós, eles.
+- **Modo**: indicativo (certeza), subjuntivo (hipótese, desejo, dúvida), imperativo (ordem, pedido, conselho).
+- **Tempo**: presente, pretérito (perfeito, imperfeito, mais-que-perfeito), futuro (do presente e do pretérito).
+- **Voz**: ativa, passiva e reflexiva (detalhada no Módulo 5).
+- **Conjugações**: 1ª -ar, 2ª -er (pôr e derivados também: o antigo "poer"), 3ª -ir.
+
+## Tempos do indicativo e seus valores
+| Tempo | Valor principal | Outros valores cobrados |
+|---|---|---|
+| Presente | fato atual | verdade universal ("A Terra gira"), hábito, presente histórico (narra o passado: "Em 1500, Cabral chega ao Brasil"), futuro próximo ("Amanhã eu viajo") |
+| Pretérito perfeito | ação concluída | — |
+| Pretérito imperfeito | ação passada contínua, habitual ou em curso | descrição no passado, cortesia ("Eu queria um café"), fatos simultâneos |
+| Pretérito mais-que-perfeito | passado anterior a outro passado | forma simples (cantara) é mais formal que a composta (tinha cantado) |
+| Futuro do presente | fato posterior ao momento da fala | ordem ("Não matarás"), dúvida sobre o presente ("Serão dez horas agora?") |
+| Futuro do pretérito | fato posterior a um passado; condição | polidez ("Você poderia me ajudar?"), incerteza ou distanciamento ("O ministro teria recebido propina") |
+
+> O futuro do pretérito "teria recebido" indica que o autor não se compromete com a informação. A Cebraspe adora perguntar se a troca por "recebeu" mantém o sentido: não mantém (passa a ser afirmação categórica).
+
+## Subjuntivo
+- **Presente**: que eu cante, que ele faça (desejo, dúvida, ordem indireta).
+- **Pretérito imperfeito**: se eu cantasse (hipótese).
+- **Futuro**: quando/se eu cantar (fato futuro eventual).
+
+## Formas nominais
+- **Infinitivo**: impessoal (cantar) ou pessoal, flexionado (cantarmos, cantarem).
+- **Gerúndio**: ação em curso (cantando). Evite o gerundismo: "vou estar enviando" → "vou enviar" ou "enviarei".
+- **Particípio**: ação concluída (cantado). Pode ter valor de adjetivo: "Os documentos assinados".
+
+## Particípios duplos (abundantes)
+- **Regular (-ado, -ido)** com ter e haver: "Tinha aceitado", "Haviam elegido".
+- **Irregular** com ser e estar: "Foi aceito", "Foi eleito", "Está preso".
+| Verbo | Com ter/haver | Com ser/estar |
+|---|---|---|
+| aceitar | aceitado | aceito |
+| eleger | elegido | eleito |
+| entregar | entregado | entregue |
+| expressar | expressado | expresso |
+| imprimir (estampar) | imprimido | impresso |
+| matar | matado | morto |
+| prender | prendido | preso |
+| salvar | salvado | salvo |
+| suspender | suspendido | suspenso |
+- **Ganhar, gastar, pagar**: hoje se usam ganho, gasto, pago também com ter e haver ("Tinha pago").
+- **Só irregulares**: dizer (dito), fazer (feito), escrever (escrito), abrir (aberto), pôr (posto), ver (visto), vir (vindo). "Chego" e "trago" como particípio estão errados: "tinha chegado", "tinha trazido".
+
+## Advérbio
+- Modifica verbo, adjetivo ou outro advérbio; indica circunstância: tempo, lugar, modo, intensidade, afirmação, negação, dúvida.
+- **Locução adverbial**: às pressas, de repente, sem dúvida, à noite.
+- **"Meio" advérbio não varia**: "Ela está meio cansada". Como numeral varia: "meia hora".
+- **"Bastante"**: varia quando é adjetivo ou pronome ("bastantes alunos"); não varia quando é advérbio ("alunos bastante dedicados").
+- **"Mais bem" × "melhor" antes de particípio**: "os mais bem preparados" (preferível a "os melhor preparados").
+- **Palavras denotativas** (não são advérbios): inclusão (até, inclusive, mesmo, também), exclusão (só, apenas, salvo, exceto, senão), designação (eis), retificação (aliás, ou melhor, isto é), realce (é que, cá, lá), situação (afinal, então, agora).
+
+=== Avançado
+## Correlação verbal (combinações corretas)
+| Estrutura | Correlação | Exemplo |
+|---|---|---|
+| condição possível | se + futuro do subjuntivo → futuro do presente | Se você estudar, passará. |
+| condição hipotética | se + imperfeito do subjuntivo → futuro do pretérito | Se você estudasse, passaria. |
+| condição irreal no passado | se + mais-que-perfeito do subjuntivo → futuro do pretérito composto | Se tivesse estudado, teria passado. |
+| tempo futuro | quando + futuro do subjuntivo → futuro do presente | Quando ele chegar, sairemos. |
+| desejo | presente do indicativo → presente do subjuntivo | Espero que ele venha. |
+| desejo no passado | pretérito → imperfeito do subjuntivo | Esperava que ele viesse. |
+
+> Erro comum: "Se ele vir amanhã" (de vir) → correto: "Se ele vier amanhã". "Vir" é o futuro do subjuntivo de **ver**: "Quando eu vir o resultado".
+
+## Verbos que mais caem
+| Verbo | Formas cobradas |
+|---|---|
+| ver | quando eu vir, se eles virem, se ele visse |
+| vir | quando eu vier, se eles vierem, se ele viesse; eles vêm |
+| intervir (como vir) | ele interveio, eles intervieram, se ele interviesse, quando intervier |
+| pôr (e repor, compor, depor, propor, supor) | ele pôs, eles puseram, se ele repusesse, quando compuser, supuséssemos |
+| ter (e manter, conter, deter, obter, reter) | se ele detivesse, quando obtiverem, eles mantêm |
+| haver | houve, houvesse, houver; impessoal (sentido de existir e de tempo decorrido) |
+| reaver | defectivo: só onde haver tem v (reavemos, reouve, reouvesse); nunca "reavejo" |
+| precaver | defectivo como reaver: nós nos precavemos; não existe "eu me precavejo" (use "eu me previno") |
+| requerer | requeiro, requer, requereu (regular no pretérito, não "requis") |
+| prover | provejo, proveu (regular no pretérito, não "proveio") |
+| crer, ler, dar, ver | creem, leem, deem, veem |
+| caber, valer, saber | caibo, valho, saiba |
+| mediar, ansiar, remediar, incendiar, odiar | medeio, anseio, remedeio, incendeio, odeio (o "MARIO") |
+| verbos em -ear | passeio, nomeio, receio |
+| falir, abolir, colorir | defectivos: não têm a 1ª pessoa do singular do presente |
+
+## Imperativo
+- **Afirmativo**: tu e vós vêm do presente do indicativo sem o s (canta tu, cantai vós); as demais pessoas vêm do presente do subjuntivo (cante você, cantemos nós, cantem vocês).
+- **Negativo**: todo do presente do subjuntivo (não cantes tu, não canteis vós, não cante você).
+- **Uniformidade de tratamento**: não misture tu e você. "Vem cá e me diga" mistura; correto: "Vem cá e dize-me" (tu) ou "Venha cá e diga-me" (você).
+
+## Infinitivo: flexionar ou não
+- **Não flexiona**: em locução verbal ("Devemos sair cedo"), com sentido genérico ("Viver é lutar"), quando o sujeito é o mesmo do verbo principal e o infinitivo vem logo depois ("Queremos viajar"), depois de preposição com valor de complemento de adjetivo ("Exercícios fáceis de resolver").
+- **Flexiona**: quando tem sujeito próprio diferente ("Pedi para eles saírem"), para evitar ambiguidade, quando o sujeito vem expresso ("É hora de os alunos entrarem").
+- **"De os alunos" sem contração**: o sujeito do infinitivo não se contrai com preposição na norma culta.
+
+## Preposições e o sentido que criam
+- **Essenciais**: a, ante, após, até, com, contra, de, desde, em, entre, para, perante, por, sem, sob, sobre, trás.
+- **Acidentais** (palavras de outras classes): conforme, segundo, consoante, mediante, durante, exceto, salvo, visto, como.
+- **Relações**: de (posse, matéria, origem, causa: "morrer de fome"), com (companhia, instrumento), por (causa, meio, agente da passiva), sem (ausência), sob (posição inferior), sobre (posição superior, assunto), entre (posição intermediária), para (finalidade, direção), em (lugar, tempo, modo).
+- **Combinação × contração**: combinação não perde fonema (a + o = ao); contração perde (de + a = da; em + este = neste; a + a = à).
+
+## Conjunções coordenativas
+| Tipo | Conjunções | Observação |
+|---|---|---|
+| Aditivas | e, nem, não só... mas também | "nem" já é negativo: evite "e nem" (salvo ênfase) |
+| Adversativas | mas, porém, contudo, todavia, entretanto, no entanto | só "mas" fica obrigatoriamente no início da oração; as outras podem se deslocar ("Ele estudou; não passou, porém") |
+| Alternativas | ou... ou, ora... ora, quer... quer, seja... seja | — |
+| Conclusivas | logo, portanto, por isso, então, assim, pois (depois do verbo) | "Estudou; terá, pois, sucesso" |
+| Explicativas | que, porque, pois (antes do verbo) | justificam uma afirmação ou ordem: "Volte cedo, que vai chover" |
+
+## Conjunções subordinativas
+| Tipo | Conjunções | Exemplo |
+|---|---|---|
+| Integrantes | que, se | Sei que virá. Não sei se virá. |
+| Causais | porque, como (anteposta), já que, visto que, uma vez que, porquanto | Como choveu, ficamos. |
+| Concessivas | embora, conquanto, ainda que, mesmo que, posto que, se bem que, apesar de que, nem que | Embora estude, não passa. |
+| Condicionais | se, caso, desde que (+ subjuntivo), contanto que, a menos que, salvo se, exceto se | Caso chova, não vou. |
+| Conformativas | conforme, consoante, segundo, como | Fiz conforme pediram. |
+| Comparativas | como, que (mais/menos que), tal qual, assim como | Ele é mais alto que eu. |
+| Consecutivas | que (depois de tão, tanto, tal), de modo que, de sorte que | Falou tanto que ficou rouco. |
+| Finais | para que, a fim de que, porque (= para que) | Estudo para que passe. |
+| Proporcionais | à medida que, à proporção que, ao passo que, quanto mais... (tanto) mais | À medida que treina, melhora. |
+| Temporais | quando, enquanto, logo que, assim que, desde que (+ indicativo), mal (= assim que) | Mal chegou, saiu. |
+
+> "Posto que" é **concessiva** (= embora), não causal. "Desde que" + subjuntivo = condição; + indicativo = tempo ou causa. "Como" pode ser causal (anteposto), comparativo ou conformativo: leia o contexto.
+
+=== Pegadinhas
+## Armadilhas clássicas
+- **"Se ele vir" × "se ele vier"**: vir (de ver) × vier (de vir).
+- **"Interviu" está errado**: o certo é "interveio" (intervir se conjuga como vir).
+- **"Reavejo" e "precavejo" não existem**: verbos defectivos.
+- **"Requis" está errado**: "requereu". "Proveio" (de provir) não é passado de prover: "proveu".
+- **"Tinha chego" e "tinha trago" estão errados**: "tinha chegado", "tinha trazido".
+- **"Foi elegido" está errado**: com ser, use o irregular: "foi eleito".
+- **"Teria" exprime incerteza**: trocar por "teve" muda o sentido.
+- **"Posto que" = embora**.
+- **"Porém" pode ir para o meio da oração; "mas" não**.
+- **"Meio cansada" (advérbio, invariável)**.
+- **"Vem cá e me diga" mistura tu e você**.
+
+## Itens no estilo Cebraspe (comentados)
+- "Em 'Se os técnicos intervirem a tempo', a forma verbal está correta." **ERRADO**: "intervierem".
+- "A substituição de 'teria provocado' por 'provocou' manteria o sentido original do texto." **ERRADO**: o futuro do pretérito marca incerteza.
+- "Em 'Embora tenha estudado, não foi aprovado', a conjunção pode ser substituída por 'posto que' sem prejuízo do sentido." **CERTO**: ambas concessivas.
+- "No período 'Como estava cansado, dormiu cedo', 'como' tem valor conformativo." **ERRADO**: valor causal.
+- "Em 'Eles todos, porém, saíram', o deslocamento de 'porém' para o início da oração preservaria a correção." **CERTO**.
+- "Em 'Quero que ele venha', o verbo 'venha' está no presente do subjuntivo." **CERTO**.
+
+=== Revisão rápida
+- Indicativo = certeza; subjuntivo = hipótese; imperativo = ordem.
+- Futuro do pretérito ("teria") = condição, polidez ou incerteza/distanciamento.
+- Se + futuro do subjuntivo → futuro do presente; se + imperfeito do subjuntivo → futuro do pretérito.
+- Ver: quando eu vir. Vir: quando eu vier. Intervir: interveio. Pôr: se ele repusesse.
+- Reaver e precaver: defectivos. Requerer: requereu. Prover: proveu. MARIO: medeio, anseio, remedeio, incendeio, odeio.
+- Ter/haver + particípio regular (aceitado); ser/estar + irregular (aceito). Tinha chegado (nunca "chego").
+- Imperativo afirmativo: tu/vós do indicativo sem s; o resto do subjuntivo. Negativo: todo do subjuntivo.
+- Infinitivo flexiona com sujeito próprio; não flexiona em locução verbal.
+- Adversativas: só "mas" fica no início. Conclusiva "pois" depois do verbo; explicativa "pois" antes.
+- Posto que = embora. Desde que + subjuntivo = condição. Mal = assim que.

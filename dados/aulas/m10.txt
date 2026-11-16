@@ -1,0 +1,111 @@
+=== Básico
+## Compreender × interpretar
+- **Compreensão**: o que o texto **diz** explicitamente. A resposta está escrita, talvez com outras palavras (paráfrase). Comandos: "de acordo com o texto", "segundo o autor", "o texto informa que".
+- **Interpretação**: o que se **conclui** a partir do texto. A resposta é uma dedução autorizada pelo texto. Comandos: "infere-se", "depreende-se", "conclui-se", "o texto sugere", "o autor dá a entender".
+- Na Cebraspe, a maior parte dos itens mistura as duas coisas: localize o trecho e veja se o item **diz o mesmo**, **conclui legitimamente** ou **vai além** do texto.
+
+## Os três erros clássicos dos itens
+| Erro | O que o item faz | Sinal de alerta |
+|---|---|---|
+| Extrapolação | vai além do texto, acrescenta informação ou opinião não autorizada | o item fala de algo que o texto não menciona |
+| Redução | toma uma parte pelo todo, restringe o que o texto generaliza | "apenas", "somente", "exclusivamente" |
+| Contradição | afirma o contrário do texto | troca de causa por consequência, de sim por não, de aumento por redução |
+
+> Palavras absolutas (sempre, nunca, todos, nenhum, somente, exclusivamente, totalmente) costumam tornar o item errado, porque os textos raramente são tão categóricos. Confira se o texto também é absoluto.
+
+## Ideia principal e ideias secundárias
+- **Tema**: o assunto ("a educação no Brasil").
+- **Tese**: o que o autor afirma sobre o tema ("a educação depende de investimento na formação de professores").
+- **Tópico frasal**: a frase que resume o parágrafo, geralmente no início.
+- **Ideias secundárias**: exemplos, dados, explicações que sustentam o tópico.
+- O **título** costuma antecipar o tema ou a tese; o **último parágrafo** costuma retomar a tese.
+
+## Método de leitura para a prova
+- Leia o texto inteiro uma vez, marcando a tese, os conectivos fortes (mas, portanto, embora) e as palavras de opinião.
+- Leia o item e **sublinhe o que ele afirma**: quem, o quê, relação lógica.
+- Volte ao trecho exato do texto que trata daquilo.
+- Compare: o item diz o mesmo (certo), conclui o que o texto autoriza (certo), acrescenta, restringe ou inverte (errado).
+- Desconfie do item que "parece verdade no mundo" mas não está no texto: a prova cobra o texto, não o seu conhecimento.
+
+## Pressupostos e subentendidos
+- **Pressuposto**: informação **implícita**, mas **marcada por palavras** do texto; não pode ser negada sem contradição.
+  - "Pedro **deixou de** fumar" → pressupõe que Pedro fumava.
+  - "Ele **ainda** mora com os pais" → pressupõe que morava antes.
+  - "Ela **voltou a** estudar" → pressupõe que já estudou.
+  - "**Também** fui aprovado" → pressupõe que outra pessoa foi.
+  - "**Lamento que** ele tenha saído" → pressupõe que ele saiu.
+  - "**Até** o diretor errou" → pressupõe que não se esperava erro do diretor.
+- **Subentendido**: insinuação que **depende do contexto**, pode ser negada pelo falante.
+  - "Está frio aqui, não?" → pode sugerir "feche a janela".
+- Itens Cebraspe: "O emprego de 'ainda' pressupõe que..." Procure a palavra que dispara o pressuposto.
+
+=== Avançado
+## Intertextualidade
+- **Citação**: reprodução literal, com aspas e fonte.
+- **Paráfrase**: reescrita com outras palavras, mantendo o sentido.
+- **Paródia**: retoma um texto com intenção crítica ou humorística, subvertendo-o.
+- **Alusão**: referência indireta a outro texto, fato ou personagem.
+- **Epígrafe**: citação no início da obra ou capítulo.
+- **Pastiche**: imitação de estilo.
+
+## Polifonia e vozes do texto
+- O texto pode trazer várias vozes: a do autor, a de especialistas, a do senso comum, a de opositores.
+- **Aspas** podem marcar citação, ironia ou distanciamento ("o 'progresso' que destruiu o rio").
+- **Discurso relatado**: "Segundo o ministro...", "Para os especialistas...", "Conforme o relatório..." indicam que a ideia **não é do autor**. Item que atribui ao autor a opinião de uma fonte citada costuma estar errado.
+
+## Modalização: o grau de certeza do autor
+| Recurso | Efeito | Exemplo |
+|---|---|---|
+| Advérbios de dúvida e possibilidade | atenuam | **talvez**, **provavelmente**, **possivelmente** |
+| Verbos auxiliares modais | possibilidade ou obrigação | **pode** ocorrer; **deve** ser feito |
+| Futuro do pretérito | incerteza, distanciamento | o réu **teria** fugido |
+| Expressões de certeza | reforçam | **é evidente que**, **sem dúvida**, **certamente** |
+| Verbos de opinião | marcam subjetividade | **acredito que**, **parece que** |
+> Trocar "pode causar" por "causa" ou "teria fugido" por "fugiu" altera o grau de certeza, ou seja, **muda o sentido**.
+
+## Referenciação nos itens
+- "O termo X retoma Y": confira gênero, número e lógica. Leia a frase substituindo X por Y; se o sentido se mantiver, provavelmente está certo.
+- "A expressão X refere-se a todo o parágrafo anterior": pronomes como "isso", "tal fato", "essa situação" muitas vezes retomam ideias inteiras, não uma palavra.
+
+## Sentido de palavras e expressões no contexto
+- A prova pergunta o sentido **no texto**, não no dicionário. Uma palavra pode ter sentido figurado, irônico ou técnico.
+- Para testar a substituição: troque e releia a frase inteira; observe se mantém a correção (regência, concordância) e o sentido.
+
+## Tipos de leitura que a prova exige
+- **Leitura literal**: o que está escrito.
+- **Leitura inferencial**: o que se deduz.
+- **Leitura crítica**: a intenção, o ponto de vista, os recursos de persuasão.
+- **Leitura da estrutura**: como o texto se organiza (introdução, desenvolvimento, conclusão; relação entre parágrafos).
+
+## Relações entre parágrafos
+- O segundo parágrafo pode **exemplificar**, **contrapor**, **explicar a causa**, **apresentar consequências** ou **concluir** o primeiro. Os conectivos de abertura dos parágrafos (Além disso, No entanto, Dessa forma, Por isso) indicam a relação.
+
+=== Pegadinhas
+## Armadilhas clássicas
+- **"Segundo o texto" × "infere-se"**: o primeiro exige que a informação esteja escrita; o segundo aceita dedução autorizada.
+- **Generalização indevida**: o texto diz "muitos brasileiros"; o item diz "os brasileiros". Redução ao contrário (extrapolação).
+- **Restrição indevida**: o texto cita vários fatores; o item diz que é "o único" fator.
+- **Inversão de causa e consequência**: o texto diz que A causa B; o item diz que B causa A.
+- **Opinião de fonte atribuída ao autor**: "Para os ambientalistas, X" não significa que o autor concorda.
+- **Conhecimento de mundo**: o item verdadeiro no mundo, mas ausente do texto, está errado.
+- **Pressuposto ignorado**: "deixou de", "ainda", "voltou a", "também" disparam pressupostos cobrados.
+- **Mudança de modalização**: tirar o "pode", o "talvez" ou o futuro do pretérito muda o sentido.
+- **Ironia**: a palavra elogiosa pode estar criticando; leia o tom do texto inteiro.
+
+## Itens no estilo Cebraspe (comentados)
+- Texto: "Muitos especialistas acreditam que a medida pode reduzir a inflação." Item: "Segundo o texto, a medida reduzirá a inflação." **ERRADO**: o texto modaliza (acreditam, pode).
+- Texto: "O deputado deixou de apoiar o projeto." Item: "Infere-se que o deputado já apoiou o projeto." **CERTO**: pressuposto de "deixou de".
+- Texto: "Entre as causas do desmatamento está a expansão agrícola." Item: "A expansão agrícola é a única causa do desmatamento." **ERRADO**: redução ("entre as causas").
+- Texto: "Para o economista, o desemprego cairá." Item: "O autor do texto prevê a queda do desemprego." **ERRADO**: a previsão é do economista.
+- Texto: "Ainda há vagas." Item: "O emprego de 'ainda' sugere que as vagas podem acabar." **CERTO**.
+
+=== Revisão rápida
+- Compreensão = está escrito; interpretação = se conclui a partir do texto.
+- Erros dos itens: extrapolação (vai além), redução (restringe), contradição (inverte).
+- Palavras absolutas (sempre, nunca, só, todos) são sinal de alerta.
+- Tema (assunto) × tese (posição do autor). Tópico frasal resume o parágrafo.
+- Pressuposto é marcado por palavras (deixou de, ainda, voltou a, também, lamentar que); subentendido depende do contexto.
+- Intertextualidade: citação, paráfrase, paródia, alusão, epígrafe.
+- Voz de fonte citada ("segundo X") não é a voz do autor.
+- Modalizadores (pode, talvez, teria) marcam incerteza; tirá-los muda o sentido.
+- A prova cobra o texto, não o conhecimento de mundo.

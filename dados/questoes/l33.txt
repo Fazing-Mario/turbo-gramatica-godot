@@ -1,0 +1,19 @@
+# Módulo l33 — Ata, relatório, parecer e certidão. Acrescente questões novas sempre no fim.
+CE | C | A ata é um registro de reunião sem destinatário, redigido em bloco contínuo, sem parágrafos e sem rasuras. | Evita acréscimos e adulterações posteriores.
+CE | E | A ata deve ser redigida em parágrafos numerados, como o ofício. | A ata é em bloco contínuo, sem parágrafos.
+CE | C | Na ata, os números devem ser escritos por extenso. | Isso evita fraude e adulteração.
+CE | E | Na ata, as quantidades e datas devem ser expressas em algarismos para facilitar a leitura. | O Manual pede números por extenso.
+CE | C | Os erros na ata são corrigidos por meio de expressões como digo ou em tempo, e não por rasuras. | Digo: correção imediata. Em tempo: correção ou acréscimo posterior.
+CE | E | A ata pode registrar a avaliação do secretário sobre a qualidade dos debates. | A ata registra fatos, sem opinião.
+CE | C | A ata registra os fatos ocorridos na reunião, sem emissão de juízo de valor. | Linguagem impessoal e objetiva.
+CE | C | O relatório narra atividades concluídas e pode ser meramente informativo ou analítico, com recomendações. | O analítico acrescenta análise e recomendações.
+CE | E | O relatório é, por natureza, resposta técnica provocada por consulta. | Essa é a marca do parecer.
+CE | C | O parecer é resposta técnica provocada, que instrui a decisão sem decidir. | A autoridade pode acolher ou afastar suas conclusões.
+CE | E | O parecer vincula a autoridade, que deve decidir conforme suas conclusões. | Como regra do gênero, o parecer instrui, mas não decide.
+CE | C | O parecer pode apresentar ementa, relatório, análise e conclusão. | São as partes do gênero.
+CE | C | A certidão atesta fato já registrado, com fórmulas como certifico que. | Reproduz o que consta de registro.
+CE | E | Certidão e certificado são termos sinônimos. | A certidão atesta fato já registrado; o certificado atesta algo para criar o registro.
+CE | C | A certidão é emitida por autoridade competente, a pedido do interessado. | Não cria fato novo; reproduz o que já consta.
+AB | A expressão que corrige, dentro da ata, um erro percebido logo após escrito é... | digo | em tempo | Em tempo acrescenta ou corrige depois de concluída a ata.
+AB | O documento que instrui a decisão sem decidir é o... | parecer | relatório | O relatório narra atividades concluídas.
+AB | O documento que atesta fato já registrado é a... | certidão | ata | A ata registra a reunião.

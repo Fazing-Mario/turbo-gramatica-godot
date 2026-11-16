@@ -1,0 +1,87 @@
+=== Básico
+## As relações entre as palavras
+O item mais comum de semântica no Cebraspe é a **troca**: "a substituição de X por Y mantém a correção e o sentido?". Para responder, é preciso saber que **relação** existe entre as duas palavras.
+
+| Relação | Definição | Exemplo |
+|---|---|---|
+| **Sinonímia** | Sentidos próximos | parecer / opinião técnica |
+| **Antonímia** | Sentidos opostos | aprovar / rejeitar |
+| **Hiperonímia** | Termo mais geral (hiperônimo) | documento |
+| **Hiponímia** | Termo mais específico (hipônimo) | relatório, parecer, ofício |
+| **Meronímia** | Parte e todo | artigo, lei; comissão, Câmara |
+| **Polissemia** | Uma forma com vários sentidos **aparentados** | "casa": imóvel; "esta Casa" (a Câmara) |
+| **Homonímia** | Formas iguais com sentidos **sem relação** | banco (assento) e banco (instituição) |
+| **Paronímia** | Formas **parecidas** com sentidos diferentes | descrição / discrição |
+
+## Sinonímia: não existe sinônimo perfeito
+- Duas palavras quase nunca se equivalem em **todos** os contextos. A troca vale só num contexto e pode mudar a **força**, o **registro**, a **conotação** ou o **valor jurídico**.
+- Exemplos: "recomendação" não é "determinação"; "obrigatório" não é "recomendável"; "revogar" não é "alterar".
+- **Teste da banca:** se o item afirma que a troca "mantém o sentido" mas a palavra nova é mais forte, mais fraca ou de outra natureza, o item está errado.
+
+## Antonímia: três tipos
+| Tipo | Como funciona | Exemplo | Teste |
+|---|---|---|---|
+| **Gradual** | Polos com meio-termo | quente / morno / frio | Negar um **não** afirma o outro |
+| **Complementar** | Um exclui o outro, sem meio-termo | vivo / morto; aprovado / reprovado | Negar um **afirma** o outro |
+| **Relacional** (recíproca) | Papéis simétricos | credor / devedor; comprador / vendedor | Um implica o outro |
+
+> Os resumos do curso registram que o Cebraspe tende a chamar a antonímia relacional de **contraposição**.
+
+=== Avançado
+## Hiperonímia e hiponímia na coesão
+- **Hiperônimo** abrange (veículo); **hipônimo** é abrangido (carro, ônibus, moto). Entre irmãos de um mesmo hiperônimo, a relação é de **co-hiponímia** (carro e moto).
+- Na coesão referencial, retomar com o hiperônimo **mantém a ligação** do texto, mas **perde precisão**: "o parecer" retomado por "o documento" não diz mais de que documento se trata.
+- A retomada com o **hipônimo** ao contrário costuma **acrescentar** informação, mas pode introduzir uma informação nova que o texto-fonte não trazia.
+- **Substituição de um hipônimo por outro** muda o sentido: "O ofício foi enviado" não equivale a "O parecer foi enviado".
+
+## Meronímia: não confundir com hiponímia
+| Relação | Pergunta | Exemplo certo | Exemplo errado |
+|---|---|---|---|
+| **Hiponímia** | "X é **um tipo de** Y"? | Relatório é um tipo de documento | — |
+| **Meronímia** | "X é **parte de** Y"? | Artigo é parte da lei | "Artigo é um tipo de lei" |
+
+- Parte e todo: comissão (parte) e Câmara (todo); inciso e artigo; dedo e mão. Falhar nessa distinção é erro frequente.
+
+## Polissemia x homonímia: o critério é a relação de sentidos
+| | Polissemia | Homonímia |
+|---|---|---|
+| Sentidos | **Relacionados** por extensão ou metáfora | **Sem relação** (origens diferentes) |
+| Exemplo | "pé" da pessoa, "pé" da mesa, "pé" de alface | manga (fruta) e manga (da camisa) |
+| No dicionário | Uma entrada com várias acepções | Entradas diferentes |
+
+- **Homônimos** se subdividem em **homógrafos** (mesma escrita, "sede" de sede e "sede" do órgão), **homófonos** (mesmo som, "sessão", "seção" e "cessão") e **perfeitos** (mesma escrita e mesmo som, "banco").
+- **Parônimos** causam o erro de **troca**: eminente (notável) e iminente (prestes a acontecer); ratificar (confirmar) e retificar (corrigir); descrição (relato) e discrição (reserva); infração e infligir/infringir.
+- No Parlamento: "sessão" (reunião), "seção" (divisão), "cessão" (ato de ceder). O erro de troca fere a norma e o sentido.
+
+## Outros fenômenos de sentido
+- **Eufemismo e disfemismo**: suavizar ou agravar ("faltou com a verdade" por "mentiu"; "criatura" por "pessoa").
+- **Hipocorístico**: forma afetiva reduzida ("Zé", "Dudu").
+- **Palavras de sentido relacional ou dêitico**: "aqui", "agora", "este", cujo sentido muda com o contexto (veja a aula de enunciação).
+- **Colocação**: certas palavras tendem a andar juntas ("fazer uma pergunta", "tomar uma decisão"). Trocar o verbo, mesmo com sinônimo, pode soar estranho ("fazer uma decisão").
+- **Locuções fixas** e **expressões idiomáticas** têm sentido global que não se obtém somando as palavras ("pôr a mão na massa").
+
+## Como resolver itens de troca (roteiro)
+1. Qual é a **relação** entre as duas palavras (sinônimos, hiperônimo e hipônimo, parônimos)?
+2. A **força** é a mesma ("pode" x "deve", "sugere" x "determina")?
+3. O **registro** e o **valor jurídico** se mantêm?
+4. A **classe** gramatical e a regência permitem a troca sem alterar a estrutura?
+5. A troca mantém a **coesão** (retomada) e a **informação** (nada acrescentado, nada perdido)?
+
+=== Pegadinhas
+1. "Existem sinônimos perfeitos, intercambiáveis em qualquer contexto." **Errado.** A troca vale no contexto e pode mudar força, registro e valor jurídico.
+2. "'Vivo' e 'morto' são antônimos graduais." **Errado.** São complementares: não há meio-termo.
+3. "'Manga' (fruta) e 'manga' (da camisa) são casos de polissemia." **Errado.** São homônimos: sentidos sem relação.
+4. "Substituir 'parecer' por 'documento' preserva integralmente o sentido." **Errado.** É hiperonímia: mantém a coesão e perde precisão.
+5. "'Artigo' é hipônimo de 'lei'." **Errado.** É merônimo (parte do todo); artigo não é um tipo de lei.
+6. "'Eminente' e 'iminente' são sinônimos e podem ser trocados." **Errado.** São parônimos: notável x prestes a acontecer.
+7. "'Ratificar' significa corrigir." **Errado.** Ratificar é confirmar; corrigir é retificar.
+8. "'Sessão', 'seção' e 'cessão' são parônimos." **Errado,** em rigor: são homófonos (mesmo som, grafias e sentidos diferentes).
+
+=== Revisão rápida
+- **Sinonímia**: não há perfeita; verifique força, registro, valor jurídico.
+- **Antonímia**: gradual (meio-termo), complementar (sem meio-termo), relacional (credor x devedor; "contraposição").
+- **Hiperônimo** (geral) x **hipônimo** (específico): trocar mantém a coesão e perde precisão.
+- **Meronímia** = parte e todo (artigo, lei). Não é "tipo de".
+- **Polissemia** = sentidos aparentados. **Homonímia** = sentidos sem relação (banco, manga).
+- **Homógrafos**, **homófonos**, **perfeitos**. **Parônimos**: eminente/iminente, ratificar/retificar, descrição/discrição.
+- Roteiro de troca: relação, força, registro, classe e regência, coesão e informação.

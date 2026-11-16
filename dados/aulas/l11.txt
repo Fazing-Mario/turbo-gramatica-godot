@@ -1,0 +1,83 @@
+=== Básico
+## Tipo textual x gênero textual
+**Tipologia é a organização interna do texto; gênero é a forma social que ele assume.** Trocar um pelo outro é a pegadinha nº 1 do assunto.
+
+|  | Tipo textual (sequência) | Gênero textual |
+|---|---|---|
+| O que é | Modo de organização linguística | Texto concreto com função social reconhecida |
+| Quantos | **Poucos**: narrativo, descritivo, expositivo, argumentativo, injuntivo (e dialogal) | **Ilimitados** e históricos |
+| Como se reconhece | **Lendo**: marcas linguísticas | "**Batendo o olho**": suporte, finalidade, esfera |
+| Exemplos | Narração, descrição, exposição, argumentação, injunção | Ofício, parecer, ata, notícia, edital, tuíte, discurso parlamentar |
+
+- Os **gêneros** são "tipos relativamente estáveis de enunciados" (Bakhtin): estáveis o bastante para serem reconhecidos, **flexíveis** a ponto de mudar com a sociedade. Surgem gêneros novos (tuíte, podcast, e-mail) o tempo todo.
+- Marcuschi: os gêneros são **práticas sociais** e **formas de ação**, não "moldes fixos".
+- Um gênero **combina tipos**: o parecer tem relatório (narrativo/expositivo), voto (argumentativo) e conclusão. A banca pede a sequência **predominante**, e predominância não é exclusividade (**heterogeneidade tipológica**).
+
+## Como identificar cada tipo
+| Tipo | Finalidade | Marcas | Armadilha |
+|---|---|---|---|
+| **Narrativo** | Contar fatos em sequência | Personagens, ações, progressão temporal, pretérito perfeito, marcadores de tempo | Verbo no passado não basta: texto histórico que **explica causas** é expositivo |
+| **Descritivo** | Caracterizar | Adjetivos, verbos de estado, pretérito imperfeito, "pausa" na ação | Dois adjetivos não fazem texto descritivo |
+| **Expositivo** | Informar, explicar | Objetividade, definições, dados, presente atemporal | Muitos dados não garantem exposição: se levam a uma tese, é argumentativo |
+| **Argumentativo** | Convencer | Tese, argumentos, modalizadores, causa e consequência, conectores conclusivos | O recorte da banca pode não mostrar introdução nem conclusão e continuar argumentativo |
+| **Injuntivo** | Levar a agir | Imperativo, infinitivo, "deve-se", "recomenda-se" | Imperativo pode ser **conselho**, não só ordem |
+| **Dialogal** | Interagir por turnos | Travessões, marcas de oralidade, turnos de fala | Citação entre aspas no meio de uma frase não é diálogo |
+
+> Macete: o autor quer que eu **saiba** algo (expositivo), **acredite** em algo (argumentativo) ou **faça** algo (injuntivo)?
+
+=== Avançado
+## Os gêneros mais cobrados e suas marcas
+| Gênero | Tipo predominante | Esfera e marcas |
+|---|---|---|
+| **Notícia** | Expositivo | Fato recente; lide (o quê, quem, quando, onde, como, por quê); pirâmide invertida |
+| **Reportagem** | Expositivo | Aprofundamento, fontes, contexto |
+| **Editorial** | Argumentativo | Opinião do veículo; **sem assinatura** |
+| **Artigo de opinião** | Argumentativo | Autor **assina**; tese |
+| **Crônica** | Narrativo, com reflexão | Cotidiano com olhar pessoal; humor ou lirismo |
+| **Resenha** | Expositivo e argumentativo | Resume e **avalia** uma obra |
+| **Resumo** | Expositivo | Condensa **sem opinião** |
+| **Carta do leitor** | Argumentativo | Reação do leitor a uma publicação |
+| **Edital, regulamento, lei** | Injuntivo ou expositivo | Normas, prazos, obrigações |
+| **Parecer** | Expositivo + argumentativo | Resposta técnica, com relatório, voto e conclusão |
+| **Ata** | Expositivo | Registro de fatos, **sem opinião** |
+| **Discurso parlamentar** | Argumentativo | Tese, ethos e pathos, auditório formal |
+| **Propaganda** | Argumentativo / injuntivo | Apelo ao consumo |
+
+## Mesmo assunto, tipos diferentes
+- **Narrativo**: "Em 1988, a Assembleia Constituinte promulgou a Constituição. Os deputados aprovaram o texto em outubro, sob aplausos."
+- **Expositivo**: "A Constituição de 1988 é a sétima do Brasil e fixa direitos sociais e políticos."
+- **Argumentativo**: "A Constituição de 1988 representou o maior avanço democrático do país, pois ampliou direitos."
+- **Injuntivo**: "Consulte o texto da Constituição antes de redigir o parecer."
+
+## Texto, discurso e esfera
+- Cada **esfera** (jurídica, jornalística, parlamentar, científica) tem **gêneros próprios**, com forma e linguagem adequadas.
+- A mesma informação muda de gênero e de forma conforme a esfera: o mesmo fato aparece como **notícia** no jornal, **ata** na Câmara e **tuíte** na rede social.
+- Na discursiva, entregar outro gênero que não o pedido **quebra o contrato comunicativo**: peça de 50 linhas é parecer, nota técnica ou outra peça específica; não é redação escolar.
+
+## Intercalação de tipos e "sequências"
+- **Sequência dominante**: a que organiza o texto. Sequências **encaixadas** aparecem dentro: uma narrativa curta como **exemplo** dentro de um artigo argumentativo.
+- Texto é **heterogêneo**: o item pode pedir a **função** de um trecho (por exemplo, "o trecho narrativo serve de exemplo ao argumento").
+- **Crônica**: narrativa curta que **parte do cotidiano** para uma reflexão; também é comum o tom irônico.
+
+## Marcas de gênero versus marcas de tipo
+- **Marca de tipo**: verbos no pretérito, adjetivos, imperativo, conectores de causa.
+- **Marca de gênero**: título e subtítulo, lide, assinatura, número do documento, data e local, vocativo, fecho.
+- Dois textos com o **mesmo tipo** podem ser de gêneros diferentes (notícia e verbete, ambos expositivos); dois textos de **gêneros diferentes** podem combinar os mesmos tipos.
+
+=== Pegadinhas
+1. "A narração e a dissertação são gêneros textuais." **Errado.** São tipos (sequências).
+2. "Os gêneros textuais são formas fixas e imutáveis." **Errado.** São relativamente estáveis e históricos (Bakhtin).
+3. "Por narrar fatos de 1964 no pretérito, o texto é predominantemente narrativo." **Errado.** Se o foco é explicar causas e efeitos, sem enredo nem personagens, é expositivo.
+4. "Por apresentar dados estatísticos, o texto é expositivo." **Errado.** Se os dados sustentam uma tese, é argumentativo.
+5. "Edital e postagem em rede social, por informarem, pertencem ao mesmo gênero." **Errado.** Podem ter tipologia parecida, mas são gêneros diferentes.
+6. "O editorial é assinado pelo autor." **Errado.** O editorial expressa a opinião do veículo e não é assinado; o artigo de opinião é que é assinado.
+7. "Um texto não pode conter mais de um tipo textual." **Errado.** Há heterogeneidade tipológica; classifica-se pelo predominante.
+8. "O imperativo caracteriza sempre ordem." **Errado.** Pode ser conselho, sugestão ou convite.
+
+=== Revisão rápida
+- **Tipo** = poucos, estáveis, reconhecidos pela leitura. **Gênero** = ilimitados, sociais, históricos, reconhecidos "batendo o olho".
+- Tipos: narrativo, descritivo, expositivo, argumentativo, injuntivo, dialogal.
+- Gênero **combina tipos**: classifique pelo **predominante**.
+- **Saber** (expositivo), **acreditar** (argumentativo), **fazer** (injuntivo).
+- Editorial: sem assinatura. Artigo de opinião: assinado. Resenha avalia; resumo não opina. Ata só registra fatos.
+- Dados estatísticos a serviço de uma tese = argumentativo.

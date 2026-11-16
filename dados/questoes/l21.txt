@@ -1,0 +1,19 @@
+# Módulo l21 — As seis funções da linguagem. Acrescente questões novas sempre no fim.
+CE | C | A função da linguagem predominante é definida pelo elemento da comunicação que está em foco. | Todo texto mobiliza várias funções; pergunta-se pela predominante.
+CE | C | A função referencial centra-se no contexto, ou seja, no assunto de que se fala. | Marcas: 3ª pessoa, objetividade e dados.
+CE | C | A função emotiva centra-se no emissor e costuma apresentar primeira pessoa, interjeições e exclamações. | Exemplo: desabafo, diário.
+CE | C | A função conativa centra-se no receptor e se manifesta pelo uso de imperativo e vocativo. | Típica da publicidade e do discurso de campanha.
+CE | E | O vocativo é marca da função fática. | O vocativo é marca da conativa; a fática testa ou mantém o canal.
+CE | C | A função fática busca estabelecer, testar ou manter o contato entre os interlocutores. | Exemplos: Alô?, Estão me ouvindo?.
+CE | C | A função poética centra-se na mensagem, valendo-se de recursos como rima, ritmo e aliteração. | O trabalho com a forma é o foco.
+CE | C | A função metalinguística ocorre quando o código é utilizado para falar do próprio código. | Exemplos: o dicionário e a gramática.
+CE | E | Um texto informativo sobre o número de falantes do português tem função metalinguística predominante. | Informa sobre o mundo; é predominantemente referencial.
+CE | E | Todo poema apresenta função emotiva predominante. | Se o foco é o trabalho com a forma, a função poética predomina.
+CE | C | Uma propaganda com rimas e trocadilhos tende a ter função conativa predominante, pois a intenção central é levar o leitor ao consumo. | A forma poética serve ao apelo.
+CE | C | Segundo os resumos do curso, o Cebraspe tende a considerar referencial o texto legal sem imperativo nem vocativo. | Textos normativos informam e regulam.
+CE | E | Um texto apresenta apenas uma função da linguagem. | As funções coexistem; busca-se a predominante.
+CE | C | Em um poema que fala sobre o próprio ato de fazer poesia, há predomínio da função metalinguística. | O código falando do código.
+CE | E | A função referencial volta-se para o emissor da mensagem. | Volta-se para o contexto; a emotiva é voltada para o emissor.
+AB | A função centrada no canal é a... | fática | referencial | A referencial é centrada no contexto.
+AB | Um relatório de comissão apresenta função predominantemente... | referencial | conativa | O foco é a informação objetiva.
+AB | A função da linguagem em que o código fala do próprio código é a... | metalinguística | poética | A poética é centrada na forma da mensagem.

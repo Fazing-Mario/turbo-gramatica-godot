@@ -1,0 +1,93 @@
+=== Básico
+## Argumentar é sustentar uma tese
+**Argumentar** é defender uma **tese** com **argumentos**. Opinião sem justificativa não é argumento. Para Ducrot, "a língua é fundamentalmente argumentativa": até a escolha de uma palavra orienta o leitor para uma conclusão.
+
+## Tema x tese
+- **Tema** é o assunto ("regulação das redes sociais").
+- **Tese** é a **posição** sobre o tema ("as redes devem ser reguladas").
+- Local da tese: no **início** (tópico frasal), **depois** dos argumentos ou **diluída** no texto, dedutível do conjunto.
+- A tese costuma vir **modalizada** ("é fundamental", "deve-se", "é inaceitável"); o argumento costuma ser o **dado**, o **exemplo** ou a **citação**.
+- **Estrutura clássica**: introdução (tema e tese) → desenvolvimento (argumentos) → conclusão (retomada ou proposta).
+
+## Tipos de argumento
+| Argumento | Como funciona | Quando vira problema |
+|---|---|---|
+| **De autoridade** | Cita quem tem competência no tema (IBGE para dados, STF para a Constituição) | Autoridade fora da área, ou famosa sem expertise = **falácia** |
+| **Exemplificação** | Caso concreto que confirma a tese | Um caso isolado tomado como regra = **generalização apressada** |
+| **Dados e estatísticas** | Fonte, amostra, período | "100%" de uma amostra mínima |
+| **Causa e consequência** | Encadeia fatores e efeitos | Ordem temporal tomada como causa = **falsa causa** |
+| **Comparação, analogia** | Aproxima situações com semelhanças relevantes | Diferenças essenciais ignoradas = **falsa analogia** |
+| **Referência histórica** | Direta (nomeia o fato) ou alusão (sugere) | Anacronismo |
+| **Pergunta retórica** | A resposta já está implícita; provoca o leitor | O trecho seguinte não "responde": desenvolve a ideia |
+| **Contra-argumentação** | Antecipa a objeção e a refuta (concessão: "embora...") | Esquecer de refutar |
+| **De consenso** | Parte de ideia aceita por todos | "Todo mundo sabe" |
+| **Por contraste** | Opõe situações | — |
+
+## Raciocínios
+- **Dedução**: do **geral** ao **particular** (regra → caso). "Todo servidor deve obediência à lei; Maria é servidora; logo, Maria deve obediência à lei."
+- **Indução**: dos **casos** à **regra**. "Os três últimos projetos foram aprovados sem emendas; provavelmente o próximo também será." (conclusão provável, não certa).
+- **Silogismo**: dedução com **premissa maior**, **premissa menor** e **conclusão**.
+- **Analogia**: comparação por semelhança; produz conclusão **provável**.
+- **Método dialético**: **tese → antítese → síntese**.
+
+=== Avançado
+## Qualidade do argumento
+Um argumento é **forte** quando:
+1. A **premissa** é verdadeira ou aceita pelo auditório.
+2. O **nexo** entre a premissa e a conclusão é lógico.
+3. É **relevante** para a tese.
+4. A **fonte** é confiável e pertinente ao tema.
+5. Os **exemplos** são representativos, e não excepcionais.
+
+## Contra-argumentação e concessão
+- **Contra-argumentar** é reconhecer a posição contrária para **refutá-la**: "É verdade que o projeto aumenta custos; **contudo**, os benefícios a longo prazo superam o gasto."
+- Na **concessão** ("embora", "ainda que"), o autor **cede** um ponto sem abandonar a tese; prevalece a oração principal.
+- Contra-argumentar **fortalece** o texto, porque mostra que o autor pesou os dois lados.
+- **Refutação**: demonstrar que a premissa é falsa, que o nexo é frágil ou que a conclusão não decorre.
+
+## Tipos de tese e de texto argumentativo
+| Tipo | Característica | Exemplo |
+|---|---|---|
+| **Tese explícita** | Declarada | "É necessário regular as redes." |
+| **Tese implícita** | Dedutível dos argumentos | Só dados favoráveis e adjetivos positivos |
+| **Tese-resposta** | Responde a uma pergunta do início | "Devemos votar agora?" → "Sim" |
+| **Tese-síntese** | Concilia opostos | "Nem liberdade total, nem controle estrito" |
+
+- O **editorial**, o **artigo de opinião**, a **resenha crítica** e o **discurso parlamentar** são gêneros argumentativos típicos.
+
+## O raciocínio dedutivo na prática jurídica
+- A **subsunção** é a aplicação da norma geral (premissa maior) ao caso concreto (premissa menor) para chegar à conclusão. É dedução.
+- Exemplo: "É proibido fumar em recinto fechado (norma). Este plenário é recinto fechado (fato). Logo, é proibido fumar aqui (conclusão)."
+- O **silogismo** é **válido** quando a conclusão decorre das premissas; é **verdadeiro** quando as premissas também são verdadeiras. Pode haver silogismo válido com premissa falsa.
+
+## Estratégias de convencimento no texto
+- **Pergunta retórica**: "Quem, em sã consciência, aceitaria isso?" Prende o leitor e sugere a resposta.
+- **Exemplificação por contraste**: opõe dois casos para reforçar o contraste.
+- **Dados com fonte**: aumenta a credibilidade (ethos do texto).
+- **Referência histórica**: dá peso ao argumento ao ligá-lo a um precedente.
+- **Citação de autoridade**: o ethos do citado empresta credibilidade.
+- **Concessão**: mostra equilíbrio.
+
+## Como a banca cobra
+- "O argumento de autoridade empregado no segundo parágrafo é..."
+- "O trecho X tem a função de **exemplo**/ **contra-argumento** / **conclusão**".
+- "A estrutura argumentativa do texto é: **tese → argumentos → conclusão**".
+- "Qual a **tese** defendida?" (muitas vezes diluída).
+- "A pergunta retórica serve para..." (induzir a resposta, e não para obter informação).
+
+=== Pegadinhas
+1. "Ao citar um cantor famoso sobre a reforma tributária, o autor emprega argumento de autoridade válido." **Errado.** Autoridade sem expertise no tema é falácia.
+2. "O tema e a tese são sinônimos." **Errado.** Tema é o assunto; tese é a posição defendida.
+3. "A tese sempre aparece no primeiro parágrafo." **Errado.** Pode vir no final ou ser diluída no texto.
+4. "Indução leva a conclusões certas e necessárias." **Errado.** Leva a conclusões prováveis; a dedução, quando válida, produz conclusões necessárias.
+5. "A pergunta retórica busca obter uma informação nova do leitor." **Errado.** A resposta já está implícita; busca induzir ou provocar.
+6. "A contra-argumentação enfraquece o texto, pois mostra a posição contrária." **Errado.** Fortalece, pois antecipa e refuta a objeção.
+7. "Dados estatísticos, por serem números, são sempre argumento irrefutável." **Errado.** Dependem de fonte, amostra, período e uso.
+8. "Um silogismo válido tem sempre conclusão verdadeira." **Errado.** Pode ser válido com premissa falsa e, então, conduzir a conclusão falsa.
+
+=== Revisão rápida
+- **Tema** = assunto. **Tese** = posição. A tese pode ser explícita ou diluída.
+- Argumentos: autoridade, exemplificação, dados, causa e consequência, analogia, referência histórica, pergunta retórica, contra-argumentação.
+- **Dedução**: geral → particular. **Indução**: casos → regra (provável). **Silogismo**: premissa maior, menor, conclusão. **Dialética**: tese, antítese, síntese.
+- **Contra-argumentar** (concessão) fortalece o texto.
+- Autoridade fora da área = falácia; **um caso** não é regra; **sequência** não é causa.

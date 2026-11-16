@@ -1,0 +1,59 @@
+extends SceneTree
+# Rodar (com janela): Godot_v4.7.2-stable_win64_console.exe --path <projeto> -s testes/regressao.gd --quit-after 6000
+# Passou = aparece "REG FIM" e nenhuma linha "SCRIPT ERROR". Não grava o save (Game.teste).
+# Regressão depois da otimização: telas abrem, corrida roda nos dois modos, conteúdo carrega, tempo de carga.
+
+func _init() -> void:
+	await process_frame
+	var G = root.get_node("Game")
+	var Q = root.get_node("QuizManager")
+	var S = root.get_node("Som")
+	G.teste = true
+	var t := Time.get_ticks_msec()
+	Q.perguntas = []
+	Q.carregar_perguntas()
+	print("REG carga do conteudo: ", Time.get_ticks_msec() - t, " ms; perguntas=", Q.perguntas.size(), " modulos=", Q.modulos.size())
+	print("REG leve auto=", G.leve(), " nucleos=", OS.get_processor_count(), " SR=", S.SR)
+	for qual in ["alta", "leve"]:
+		G.s.qual = qual
+		for caso in [["gt", 0], ["stock", 3], ["rali", 7], ["formula", 11]]:
+			G.s.cat = caso[0]
+			G.gp = caso[1]
+			G.grid = 12
+			var r = load("res://Race.tscn").instantiate()
+			root.add_child(r)
+			for i in 20:
+				await process_frame
+			r.est = "corrida"
+			Input.action_press("accelerate")
+			for i in 200:
+				await process_frame
+			Input.action_release("accelerate")
+			print("REG corrida ", qual, " ", caso, " DRAW=", r.DRAW, " quads=", r._rp.size() / 4, " vel=", snappedf(r.speed, 1.0), " pos=", r._posicao())
+			r.queue_free()
+			await process_frame
+	G.s.qual = "auto"
+	for caso in [["stock", 0], ["formula", 11], ["gt", 11]]:
+		G.s.cat = caso[0]
+		G.gp = caso[1]
+		var st = load("res://Study.tscn").instantiate()
+		root.add_child(st)
+		await process_frame
+		await process_frame
+		print("REG estudo ", caso, " abas=", st.abas.size())
+		st.queue_free()
+		await process_frame
+	var m = load("res://Main.tscn").instantiate()
+	root.add_child(m)
+	await process_frame
+	for f in ["opcoes", "treino", "campeonato", "equipes"]:
+		m.call(f)
+		await process_frame
+		print("REG main.", f, " ok")
+	var sh = load("res://Shop.tscn").instantiate()
+	root.add_child(sh)
+	await process_frame
+	await process_frame
+	print("REG garagem ok")
+	print("REG FIM")
+	quit()

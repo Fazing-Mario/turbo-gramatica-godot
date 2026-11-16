@@ -1,0 +1,214 @@
+=== Básico
+## Concordância verbal: regra geral
+O verbo concorda com o núcleo do sujeito em número e pessoa, **esteja onde estiver**: "Chegaram, enfim, **os resultados**". Ache o sujeito perguntando "quem/o que" ao verbo; cuidado com o sujeito posposto e com termos intercalados ("A lista **de candidatos** aprovados **saiu**": núcleo = lista).
+
+## Sujeito composto
+| Situação | Concordância | Exemplo |
+|---|---|---|
+| antes do verbo | plural | O diretor e o secretário **saíram**. |
+| depois do verbo | plural ou com o mais próximo | **Saíram** (ou **Saiu**) o diretor e o secretário. |
+| pessoas diferentes | prevalece a 1ª, depois a 2ª | Eu e você **iremos**. Tu e ele **ireis** (ou irão). |
+| núcleos sinônimos ou em gradação | singular ou plural | O medo e o pavor **dominou** (dominaram) a cidade. |
+| resumido por tudo, nada, ninguém | singular | Livros, roupas, móveis, **tudo** se **perdeu**. |
+| ligados por "ou" com exclusão | singular | Pedro ou Paulo **será** eleito. |
+| ligados por "ou" sem exclusão | plural | O calor ou o frio **incomodam**. |
+| ligados por "com" | plural (ou singular, se destacar o primeiro) | O pai com os filhos **saíram**. |
+| "nem... nem" | plural (preferível) | Nem ele nem ela **vieram**. |
+| "um e outro", "nem um nem outro" | singular ou plural | Um e outro **veio** (vieram). |
+
+## Casos especiais de sujeito simples
+| Caso | Concordância | Exemplo |
+|---|---|---|
+| coletivo | singular | A multidão **gritava**. |
+| coletivo partitivo + plural (a maioria de, grande parte de, metade de) | singular ou plural | A maioria dos alunos **votou** (votaram). |
+| "cerca de", "mais de", "menos de" + número | com o número | **Mais de** um aluno **faltou**; **Cerca de** dez pessoas **saíram**. |
+| porcentagem | com o numeral ou com o termo partitivo | **30%** dos eleitores **votaram**; **1%** da população **votou**. |
+| "um dos que" | plural (preferível) | Ele foi um dos que mais **estudaram**. |
+| "qual de nós", "quais de vós" | interrogativo no singular → verbo na 3ª singular; no plural → concorda com nós/vós ou 3ª pl. | Qual de nós **irá**? Quais de nós **iremos** (irão)? |
+| pronome relativo "que" | com o antecedente | Fui **eu que fiz**. Foram **eles que fizeram**. |
+| pronome relativo "quem" | 3ª singular ou com o antecedente | Fui eu **quem fez** (ou **quem fiz**). |
+| nome próprio no plural | com artigo no plural, verbo no plural | **Os Estados Unidos** são uma potência. "Minas Gerais" (sem artigo) **é**. |
+
+## Verbos impessoais e o verbo ser
+- **Haver** (existir, tempo decorrido) e **fazer** (tempo): singular, inclusive o auxiliar. "Houve falhas", "**Deve** haver falhas", "**Vai** fazer dois anos".
+- **Existir, ocorrer, acontecer** não são impessoais: "**Existem** falhas", "**Ocorreram** erros".
+- **Ser** concorda com o predicativo quando o sujeito é tudo, isto, isso, aquilo, o que: "**Tudo são** flores", "O que me preocupa **são** as provas".
+- **Ser** com horas, datas e distâncias concorda com o numeral: "**São** duas horas", "**É** uma hora", "Hoje **são** 15 de novembro" (ou "Hoje **é** dia 15").
+- **Ser** com quantidade, peso, medida (ideia de "muito, pouco, suficiente"): singular: "Dois quilos **é** pouco", "Cem reais **é** muito".
+- **Ser** com pessoa: concorda com o pronome pessoal: "O responsável **sou** eu".
+
+## Concordância com "se"
+- **Partícula apassivadora** (VTD + se): concorda. "**Vendem**-se casas", "**Analisaram**-se os recursos", "**Devem**-se analisar os pedidos" (= os pedidos devem ser analisados).
+- **Índice de indeterminação** (VTI, VI, VL + se): singular. "**Precisa**-se de técnicos", "**Trata**-se de casos graves", "**Assistiu**-se a bons filmes".
+
+## Infinitivo
+- **Não flexiona** em locução verbal ("Eles **devem sair**") e com sentido genérico.
+- **Flexiona** com sujeito próprio diferente: "Pedi para **eles saírem**".
+- Com verbos causativos e sensitivos (deixar, mandar, fazer, ver, ouvir, sentir) + pronome oblíquo: não flexiona ("Deixe-**os sair**"); com substantivo: facultativo ("Deixe os alunos sair/saírem").
+
+=== Avançado
+## Concordância nominal
+| Caso | Regra | Exemplo |
+|---|---|---|
+| adjetivo depois de dois ou mais substantivos | concorda com o mais próximo ou vai ao plural (masculino prevalece) | língua e literatura **portuguesa** (portuguesas); terno e gravata **escura** (escuros) |
+| adjetivo antes de dois substantivos | concorda com o mais próximo | **bela** casa e jardim |
+| adjetivo antes de nomes próprios ou de parentesco | plural | os **simpáticos** Pedro e Paulo |
+| anexo, incluso, obrigado, mesmo, próprio, quite, leso | variam | Seguem **anexas** as cópias. Elas **mesmas** disseram. **Obrigada**, disse ela. Estamos **quites**. |
+| em anexo | invariável | Seguem **em anexo** as cópias. |
+| meio | numeral/adjetivo varia; advérbio não | **meia** hora; ela está **meio** cansada |
+| bastante | adjetivo/pronome varia; advérbio não | **bastantes** provas; provas **bastante** difíceis |
+| menos, alerta | invariáveis | **menos** pessoas; os soldados estão **alerta** |
+| é proibido, é necessário, é bom | sem determinante: invariável; com determinante: concorda | É **proibido** entrada. É **proibida a** entrada. Cerveja **é bom**. A cerveja **é boa**. |
+| possível, com "o mais", "o menos" | concorda com o artigo | o mais alto **possível**; os mais altos **possíveis** |
+| só | = sozinho: varia; = apenas: não varia | Elas estão **sós**. **Só** elas vieram. |
+| caro, barato | adjetivo varia; advérbio (com verbo) não | As frutas estão **caras**. As frutas custam **caro**. |
+
+## Regência verbal (verbos campeões)
+| Verbo | Sentido | Regência | Exemplo |
+|---|---|---|---|
+| assistir | ver | VTI (a), não aceita "lhe" | Assisti **ao** jogo; assisti **a ele**. |
+| assistir | ajudar | VTD | O médico assistiu **o** paciente. |
+| assistir | caber, pertencer | VTI (a) | Assiste **ao** réu o direito... |
+| aspirar | desejar | VTI (a) | Aspira **ao** cargo. |
+| aspirar | inspirar, cheirar | VTD | Aspirou **o** perfume. |
+| visar | mirar, dar visto | VTD | Visou **o** alvo; visou **o** cheque. |
+| visar | objetivar | VTI (a); hoje também VTD | Visa **ao** lucro (ou visa o lucro). |
+| obedecer, desobedecer | — | VTI (a) | Obedeça **às** normas. |
+| preferir | — | VTDI: algo **a** algo; sem "mais" e sem "do que" | Prefiro cinema **a** teatro. |
+| implicar | acarretar | VTD (a norma tradicional rejeita "implicar em") | A decisão implica **riscos**. |
+| chegar, ir, voltar | movimento | com "a" (não "em") | Cheguei **a** Brasília; fui **ao** banco. |
+| morar, residir, situar-se | — | com "em" | Mora **na** rua X. |
+| esquecer, lembrar | sem pronome | VTD | Esqueci **o** nome. |
+| esquecer-se, lembrar-se | com pronome | VTI (de) | Esqueci-**me do** nome. |
+| namorar | — | VTD | Ela namora **o** vizinho (não "com o"). |
+| simpatizar, antipatizar | — | VTI (com), não pronominal | Simpatizo **com** ela (não "me simpatizo"). |
+| proceder | realizar | VTI (a) | Procedeu-se **à** leitura. |
+| pagar, perdoar | — | coisa = OD; pessoa = OI | Pagou **a conta ao** garçom; perdoou-**lhe** a dívida. |
+| informar, avisar, certificar, notificar | — | algo a alguém ou alguém de algo | Informei-**o do** fato; informei o fato **a ele**. |
+| custar | ser difícil | sujeito é a coisa; pessoa é OI | Custou-**me** entender. (não "Eu custei a entender", na norma estrita) |
+| agradecer | — | algo (OD) a alguém (OI) | Agradeci **o** presente **ao** amigo. |
+| querer | desejar / estimar | VTD / VTI (a) | Quero **um** café. / Quero-**lhe** muito bem. |
+| responder | — | VTI (a) | Respondeu **ao** questionário. |
+| atender | — | VTD ou VTI | Atendeu **o** (ao) pedido. |
+
+## Regência nominal
+acessível **a** · afável **com** · alheio **a** · ansioso **por, para** · apto **a, para** · atento **a, em** · aversão **a, por** · compatível **com** · constituído **de, por** · contíguo **a** · devoto **a, de** · imune **a, de** · inerente **a** · preferível **a** · propenso **a** · residente **em** · situado **em** · suspeito **de** · favorável **a** · contrário **a** · obediência **a** · necessidade **de**.
+> "Preferível a": "É preferível estudar **a** trabalhar", nunca "preferível do que".
+
+## Crase
+Crase é a fusão de duas vogais "a": a preposição a + o artigo a (ou + o "a" de aquele, aquela, aquilo, a qual).
+**Regra de ouro**: o termo regente exige "a" **e** o termo seguinte, feminino, admite artigo "a".
+**Testes rápidos**:
+- Troque por um masculino: se virar "ao", há crase. "Fui **à** escola" → "Fui **ao** colégio".
+- Para lugares: "vou a, volto da → crase; vou a, volto de → sem crase". "Vou **à** Bahia" (volto da Bahia); "Vou **a** Brasília" (volto de Brasília).
+
+| Crase obrigatória | Exemplo |
+|---|---|
+| locuções femininas adverbiais, prepositivas e conjuntivas | às pressas, à noite, às vezes, à toa, à medida que, à custa de, à procura de, à exceção de, à beira de |
+| horas determinadas | às 10h; das 8h às 18h; à meia-noite |
+| "à moda de" (expressa ou oculta), mesmo antes de masculino | bife **à** milanesa; gol **à** Pelé; sapatos **à** Luís XV |
+| aquele, aquela, aquilo depois de termo que exige "a" | Refiro-me **àquele** caso. |
+| a qual, as quais com verbo que exige "a" | A lei **à qual** obedecemos. |
+
+| Crase proibida | Exemplo |
+|---|---|
+| antes de palavra masculina (salvo "à moda") | andar **a** cavalo, pagar **a** prazo |
+| antes de verbo | começou **a** chover |
+| antes de pronomes pessoais e da maioria dos de tratamento | entreguei **a** ela; **a** Vossa Excelência |
+| antes de artigo indefinido e de "esta, essa, cada, toda" | **a** uma pessoa; **a** esta altura; **a** cada um |
+| "a" singular antes de palavra no plural | refiro-me **a** pessoas |
+| entre palavras repetidas | cara **a** cara, gota **a** gota, frente **a** frente |
+| cidade sem determinante | vou **a** Brasília (mas **à** Brasília dos anos 60) |
+| "casa" (lar) e "terra" (oposta a bordo) sem determinante | voltei **a** casa; desceram **a** terra (mas **à** casa dos pais) |
+| "distância" indeterminada | fiquei **a** distância (mas **à** distância de 5 metros) |
+
+| Crase facultativa | Exemplo |
+|---|---|
+| antes de nome próprio feminino de pessoa | Entreguei a (à) Maria. |
+| antes de possessivo feminino singular | Refiro-me a (à) minha mãe. |
+| depois de "até" | Fui até a (à) praia. |
+
+> "Senhora" e "senhorita" admitem artigo, então levam crase quando o verbo pede "a": "Entreguei **à** senhora". Já "dona" costuma dispensar o artigo: "Entreguei **a** dona Maria".
+
+## Colocação pronominal (pronomes átonos: me, te, se, o, a, lhe, nos, vos...)
+**Próclise (antes do verbo)**, obrigatória com palavras atrativas:
+- palavras negativas: **não**, nunca, jamais, ninguém, nada ("Não **me** disse");
+- advérbios sem vírgula depois ("Aqui **se** trabalha"; mas "Aqui, trabalha-se");
+- pronomes relativos, indefinidos e demonstrativos neutros ("O livro que **me** deu"; "Tudo **se** resolve"; "Isso **me** preocupa");
+- conjunções subordinativas ("Quando **o** vi...", "Embora **se** esforce...");
+- frases interrogativas, exclamativas e optativas ("Quem **te** contou?"; "Deus **o** abençoe!");
+- preposição "em" + gerúndio ("Em **se** tratando de...").
+**Ênclise (depois do verbo)**:
+- no início da frase ("Disseram-**me**"; nunca "Me disseram" na norma culta);
+- depois de vírgula ou pausa sem atrativo;
+- com imperativo afirmativo ("Sente-**se**");
+- com gerúndio sem atrativo ("Saiu, deixando-**nos**");
+- com infinitivo impessoal ("Convém avisá-**lo**").
+**Mesóclise (no meio do verbo)**: só com futuro do presente e do pretérito, sem atrativo: "Dir-**se**-ia", "Far-**lhe**-ei", "Entregá-**lo**-emos". Com atrativo, próclise: "Não **lhe** farei".
+**Nunca**: ênclise com futuro ("Farei-lhe") nem com particípio ("Tinha feito-o"). Com particípio, o pronome vai no auxiliar: "Tinha-**o** feito" ou "**O** tinha feito".
+**Locuções verbais**: "Vou-**lhe** dizer", "Vou dizer-**lhe**", "Não **lhe** vou dizer", "Não vou dizer-**lhe**" (todas aceitas).
+
+## Pontuação: vírgula
+**Proibida** entre termos ligados diretamente:
+- sujeito e verbo ("Os candidatos aprovados**,** serão convocados" está errado);
+- verbo e complemento; nome e complemento nominal; nome e adjunto adnominal.
+**Obrigatória** (ou recomendada):
+- isolar vocativo ("**Senhores,** atenção");
+- isolar aposto explicativo ("Brasília**, a capital,** faz anos");
+- isolar adjunto adverbial deslocado, sobretudo o longo ("No último dia do mês**,** o prazo vence"; o curto é facultativo: "Hoje saímos");
+- isolar orações adjetivas explicativas;
+- isolar expressões explicativas e corretivas (isto é, ou seja, por exemplo, aliás, ou melhor);
+- isolar conjunções intercaladas ("Ele**, porém,** saiu");
+- marcar a elipse do verbo, a zeugma ("Eu prefiro café; ela**,** chá");
+- separar orações coordenadas assindéticas e as adversativas, conclusivas e explicativas;
+- antes de "e" com sujeitos diferentes ou com valor adversativo;
+- separar local e data ("Brasília**,** 15 de novembro de 2026");
+- isolar orações adverbiais antepostas ou intercaladas.
+
+## Outros sinais
+- **Ponto e vírgula**: separa orações coordenadas longas ou que já têm vírgulas internas; separa itens de enumerações (incisos de lei).
+- **Dois-pontos**: anunciam enumeração, citação, explicação, esclarecimento ou consequência ("Só restou uma saída: desistir").
+- **Travessão duplo**: isola intercalações, como as vírgulas, mas com mais destaque; também marca falas.
+- **Parênteses**: isolam informações acessórias; a pontuação da frase fica fora deles.
+- **Aspas**: citações, ironia, estrangeirismos, títulos.
+- **Reticências**: interrupção, hesitação, suspensão.
+
+=== Pegadinhas
+## Armadilhas clássicas
+- **"Houveram" e "fazem dois anos"**: errados. "Houve", "faz".
+- **"Aluga-se salas"**: errado; "alugam-se salas". **"Precisam-se de"**: errado; "precisa-se de".
+- **"Seguem anexo os documentos"**: errado; "seguem anexos" (ou "em anexo").
+- **"Meia cansada"**: errado; "meio cansada".
+- **"É proibido a entrada"**: errado; "é proibida a entrada" (ou "é proibido entrada").
+- **"Assisti o filme"**: errado na norma; "assisti ao filme". E "assisti-lhe" também está errado: "assisti a ele".
+- **"Prefiro mais isso do que aquilo"**: errado; "prefiro isso a aquilo".
+- **"Implica em"**: a norma tradicional prefere "implica" (VTD).
+- **"Cheguei em casa"**: coloquial; a norma pede "cheguei a casa".
+- **Crase antes de masculino só com "à moda"**: "bife à milanesa", "gol à Pelé".
+- **"Refiro-me à pessoas"**: errado; "a pessoas" (a singular antes de plural) ou "às pessoas".
+- **"Vou à Brasília"**: errado sem determinante; "vou a Brasília".
+- **Próclise com "não"**: "Não me disse", nunca "Não disse-me".
+- **Vírgula entre sujeito e verbo**: sempre errada, mesmo com sujeito longo.
+
+## Itens no estilo Cebraspe (comentados)
+- "Em 'Devem haver soluções', a concordância está correta." **ERRADO**: "Deve haver soluções".
+- "Em 'Vendem-se terrenos', o verbo poderia ficar no singular sem prejuízo gramatical." **ERRADO**: "terrenos" é o sujeito.
+- "O emprego do acento grave em 'Ele se dirigiu àquela sala' é obrigatório." **CERTO**: dirigir-se a + aquela.
+- "Em 'Entregou o prêmio à vencedora', a retirada do acento grave manteria a correção." **ERRADO**: há preposição e artigo.
+- "Em 'O funcionário assistiu o diretor na reunião', o verbo tem sentido de ajudar e está corretamente empregado como transitivo direto." **CERTO**.
+- "A colocação pronominal em 'Nunca disseram-me a verdade' está correta." **ERRADO**: "Nunca me disseram".
+- "Em 'Os servidores que faltaram à reunião, serão advertidos', a vírgula está correta." **ERRADO**: separa sujeito e verbo.
+- "A substituição de 'à medida que' por 'na medida em que' mantém o sentido de proporção." **ERRADO**: "na medida em que" tem valor causal.
+
+=== Revisão rápida
+- Verbo concorda com o núcleo do sujeito, mesmo posposto.
+- Haver (existir/tempo) e fazer (tempo): singular, até no auxiliar (deve haver, vai fazer).
+- VTD + se: concorda (vendem-se casas). VTI/VI/VL + se: singular (precisa-se de).
+- Ser: concorda com o predicativo após tudo/isso/o que; horas e datas com o numeral; quantidade = singular.
+- Mais de um: singular. Um dos que: plural. Porcentagem: com o numeral ou com o partitivo.
+- Anexo, mesmo, obrigado, quite variam; em anexo, menos, alerta não. Meio advérbio não varia.
+- Assistir a (ver), aspirar a (desejar), obedecer a, preferir algo a algo, chegar a, morar em, simpatizar com.
+- Crase: exige "a" + admite "a". Masculino só com "à moda". Nunca antes de verbo, pronome pessoal, artigo indefinido, palavras repetidas.
+- Facultativa: nome de mulher, possessivo feminino singular, depois de "até".
+- Próclise com atrativos (não, que, quando, tudo, isso...); ênclise no início da frase; mesóclise com futuro sem atrativo.
+- Vírgula nunca entre sujeito e verbo nem entre verbo e complemento.

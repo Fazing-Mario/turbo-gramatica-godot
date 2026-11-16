@@ -1,0 +1,85 @@
+=== Básico
+## Conectores: o valor depende do contexto
+Conectores (conjunções, locuções conjuntivas, advérbios e preposições) ligam orações e trechos e **estabelecem a relação lógica**. Na prova, a pergunta é: "que relação o conector estabelece?" e "a troca por outro mantém o sentido?".
+
+| Relação | Conectores | Exemplo |
+|---|---|---|
+| **Adição** | e, nem, também, além disso, não só... mas também | Votou e defendeu o projeto |
+| **Oposição (adversativa)** | mas, porém, contudo, todavia, no entanto | O projeto é caro, mas necessário |
+| **Concessão** | embora, ainda que, mesmo que, apesar de, conquanto | Embora seja caro, o projeto é necessário |
+| **Causa** | porque, pois, já que, visto que, como, uma vez que | Como faltou quórum, a sessão foi encerrada |
+| **Consequência** | de modo que, tanto que, logo, portanto, por isso | Faltou quórum; portanto, a sessão foi encerrada |
+| **Condição** | se, caso, desde que, contanto que, a menos que | Se houver quórum, votaremos |
+| **Finalidade** | para que, a fim de que | Convocou a sessão para que se votasse |
+| **Tempo** | quando, enquanto, assim que, depois que | Quando chegou, a sessão já havia começado |
+| **Comparação** | como, tal qual, mais... que | Falou como um mestre |
+| **Conformidade** | conforme, segundo, de acordo com | Votou conforme o regimento |
+| **Explicação** | isto é, ou seja, pois | O prazo, ou seja, trinta dias |
+| **Conclusão** | logo, portanto, então, por fim | Logo, o projeto foi aprovado |
+
+## Armadilhas de valor
+- **"E"** pode ser adversativo ("Estudou meses **e** não passou") ou consecutivo ("Caiu **e** quebrou a perna"), além de aditivo.
+- **"Como"** no início do período costuma ser **causal**: "**Como** os documentos não chegaram, a reunião foi adiada". Na comparação, vem depois: "Votou **como** o líder orientou" (conformidade).
+- **"Quando"** pode ser **condicional** (= se) ou **concessivo** (= embora).
+- **"Se"** pode ser **temporal** em fatos cíclicos ("Se chove, a sessão é suspensa") e **causal** ("Se você já decidiu, por que perguntar?").
+- **"Pois"** antes do verbo = causa/explicação; **depois** do verbo = conclusão ("Estudou; fará, pois, boa prova").
+- **"Que"** pode ser causal ("Vote logo, que o tempo acaba"), consecutivo ("Tão cansado que desmaiou") ou integrante.
+
+=== Avançado
+## Operadores argumentativos (Ducrot; Koch)
+Operadores **orientam o leitor para uma conclusão**, e não apenas ligam. A troca de operador pode inverter o sentido.
+
+| Função | Operadores | Cuidado |
+|---|---|---|
+| **Argumento mais forte** | até, mesmo, inclusive, sobretudo | "**Até** o relator votou contra" pressupõe que outros também votaram contra e que isso não se esperava dele |
+| **Soma de argumentos** | e, também, além disso, não só... mas também | "Não só... mas também" é **adição**, não oposição |
+| **Oposição** | mas, porém, contudo, embora | Com **mas**, prevalece o argumento que vem **depois**; com **embora**, prevalece o da **oração principal** |
+| **Contraposição** | de um lado... de outro | Ideias que coexistem; uma não nega a outra |
+| **Esclarecimento / retificação** | isto é, ou seja / ou melhor, aliás | "Ou melhor" pode **corrigir** e acrescentar informação |
+| **Conclusão / síntese** | logo, portanto / em suma, em resumo | A síntese **não** traz ideia nova |
+| **Escala** | pelo menos, no mínimo, no máximo / um dos mais x o mais | "Um dos mais" não autoriza concluir "o mais" |
+| **Exclusão ou restrição** | só, apenas, somente | Exigem que o texto exclua o resto |
+| **Delimitação** | quase, apenas, só | "Quase" nega a plenitude: "Quase aprovou" = não aprovou |
+
+## Qual argumento prevalece
+| Frase | Argumento que prevalece | Conclusão |
+|---|---|---|
+| "O projeto é caro, **mas** necessário." | O que vem depois do mas: necessário | A favor |
+| "O projeto é necessário, **mas** caro." | Caro | Contra |
+| "**Embora** caro, o projeto é necessário." | A principal: necessário | A favor |
+| "**Embora** necessário, o projeto é caro." | A principal: caro | Contra |
+| "O projeto é caro. **No entanto**, é necessário." | O que vem depois: necessário | A favor |
+
+## Reescrever com troca de conector
+O roteiro para decidir se a troca **mantém o sentido**:
+1. A **relação lógica** continua a mesma? Concessão não pode virar causa, nem oposição virar adição.
+2. O **modo** e o **tempo** verbais ainda combinam? Concessivas com "embora" pedem subjuntivo; com "mesmo que" também; com "apesar de" vêm com infinitivo ou substantivo.
+3. A **pontuação** acompanha? Vírgula antes de "mas", "porém", "pois" (explicação) etc.
+4. A **ordem** das orações foi invertida? Inverter altera a ênfase quando há oposição.
+5. O **sujeito** das orações continua claro?
+- Exemplo: "Embora tenha estudado, não passou" → "Tendo estudado, não passou" **muda** o valor (concessão passa a ficar apenas implícita) e pode soar causal.
+
+## Escala argumentativa
+- Os operadores **até**, **mesmo**, **inclusive** e **sobretudo** indicam o argumento **mais forte** numa escala orientada a uma conclusão.
+- "O projeto agrada à oposição e **até** à base do governo": a base seria o público mais difícil; o argumento mais forte vem por último.
+- **"Pelo menos"** e **"no mínimo"** marcam um piso; **"no máximo"**, um teto.
+- Fique atento às **negações** em escala: "não só... mas até" mantém adição.
+
+=== Pegadinhas
+1. "Em 'Estudou meses e não passou', o 'e' tem valor aditivo." **Errado.** Tem valor adversativo (oposição).
+2. "Em 'Como os documentos não chegaram, a reunião foi adiada', 'como' expressa comparação." **Errado.** Expressa causa.
+3. "'Não só aprovou o projeto, mas também o defendeu' expressa oposição." **Errado.** Expressa adição.
+4. "Em 'O projeto é necessário, mas caro', a ênfase recai sobre a necessidade." **Errado.** Recai sobre o que vem depois do mas (caro).
+5. "A troca de 'embora' por 'porque' preserva o sentido de 'Embora tenha estudado, não passou'." **Errado.** Concessão não equivale a causa.
+6. "'Até' em 'Até o relator votou contra' indica exclusão." **Errado.** Introduz o argumento mais forte (e pressupõe que outros também votaram contra).
+7. "Uma síntese introduzida por 'em suma' pode trazer informação nova." **Errado.** Sintetiza o que já foi dito.
+8. "Em 'Quase aprovou', o texto afirma que a aprovação ocorreu." **Errado.** 'Quase' implica que não aprovou.
+
+=== Revisão rápida
+- **Valor depende do contexto**: "e" adversativo; "como" causal; "quando" condicional ou concessivo; "pois" antes do verbo é causa e depois, conclusão.
+- **Mas**: prevalece o que vem **depois**. **Embora**: prevalece a **principal**.
+- **Não só... mas também** = adição.
+- **Até, mesmo, inclusive, sobretudo** = argumento mais forte; "até" pressupõe que o fato era improvável.
+- **Em suma, em resumo** = síntese, sem ideia nova. **Ou melhor** = retifica.
+- Reescrita: relação lógica, modo e tempo, pontuação, ordem, sujeito.
+- "Um dos mais" ≠ "o mais". "Quase" nega a plenitude.

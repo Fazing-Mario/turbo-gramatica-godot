@@ -1,0 +1,110 @@
+=== Básico
+## Estilística: o efeito expressivo
+**Recurso estilístico é toda escolha de som, palavra ou construção que produz um efeito expressivo além do sentido literal.** No Cebraspe, o item quase nunca pede só o **nome** da figura: pede o **efeito** (ênfase, ironia, suavização, crítica) ou se a reescrita o **preserva**.
+
+As figuras de linguagem se organizam em grupos:
+| Grupo | O que altera | Figuras |
+|---|---|---|
+| **Figuras de palavra** (semânticas) | O **sentido** da palavra | Metáfora, comparação, metonímia, catacrese, sinestesia, perífrase, antonomásia |
+| **Figuras de pensamento** | A **ideia** | Antítese, paradoxo, ironia, eufemismo, hipérbole, litótes, gradação, prosopopeia, apóstrofe |
+| **Figuras de construção** (sintaxe) | A **estrutura** da frase | Elipse, zeugma, pleonasmo, polissíndeto, assíndeto, anáfora, hipérbato, anacoluto, silepse |
+| **Figuras de som** | Os **sons** | Aliteração, assonância, onomatopeia, paronomásia |
+
+Esta aula trata das **figuras de palavra**.
+
+## As figuras de palavra
+| Figura | Mecanismo | Exemplo |
+|---|---|---|
+| **Metáfora** | **Comparação implícita**, sem conectivo, por **semelhança** | "O plenário é um campo de batalha" |
+| **Comparação (símile)** | Comparação **explícita**, com "como", "tal qual", "feito" | "Discursou como um general" |
+| **Metonímia** | Troca por **contiguidade** (relação **real**): autor pela obra, lugar pela instituição, parte pelo todo, símbolo pelo simbolizado | "**Brasília** decidiu" (o governo); "O **Planalto** vetou"; "Ler **Machado**" |
+| **Catacrese** | Metáfora **gasta**, usada por falta de termo próprio | "pé da mesa", "braço do sofá", "boca do fogão" |
+| **Sinestesia** | **Mistura de sentidos** (sensações) | "voz áspera", "cheiro doce", "silêncio gelado" |
+| **Perífrase / antonomásia** | Expressão que designa um ser por um **atributo** | "a **Casa do Povo**" (Câmara); "o **Bruxo do Cosme Velho**" (Machado) |
+
+## Metáfora x comparação x metonímia
+- **Metáfora**: relação por **semelhança**, **sem** conectivo. "Ele é um **leão** na tribuna" (a coragem do leão).
+- **Comparação**: igual à metáfora, mas **com** conectivo. "Ele é **como** um leão na tribuna."
+- **Metonímia**: relação por **contiguidade** (real, de proximidade ou pertença): "O **Planalto** vetou" (a sede pelo governo).
+
+> Macete: **semelhança** → metáfora; **proximidade real** → metonímia; **conectivo** → comparação.
+
+## Tipos de metonímia
+| Relação | Exemplo |
+|---|---|
+| **Autor pela obra** | "Li **Machado**" |
+| **Continente pelo conteúdo** | "Tomei um **copo**" (a bebida) |
+| **Lugar pela instituição ou povo** | "**Brasília** decidiu"; "A **Casa** aprovou" |
+| **Parte pelo todo** (sinédoque) | "Há **mil braços** na obra" |
+| **Marca pelo produto** | "Usa **Gillette**" |
+| **Símbolo pelo simbolizado** | "O **cetro** caiu" |
+| **Efeito pela causa** | "Vivem do seu **suor**" |
+| **Singular pelo plural** (sinédoque) | "O **brasileiro** é solidário" |
+
+=== Avançado
+## Metáfora: quando é boa, quando é gasta
+- A metáfora **viva** cria sentido novo: "O tempo é um rio".
+- A metáfora **gasta** vira **catacrese**: já não se percebe como figura ("pé da mesa", "braço da cadeira", "dente de alho", "asa da xícara").
+- Metáfora **conceitual**: "Discussão é guerra" ("atacar um argumento", "defender uma posição").
+- **Metáfora** e **alegoria**: a alegoria é **metáfora estendida**, com vários elementos (A Fábula "A Cigarra e a Formiga").
+
+## Efeito de sentido das figuras
+| Figura | Efeito típico |
+|---|---|
+| **Metáfora** | Aproxima, intensifica, cria imagem |
+| **Comparação** | Explicita a semelhança |
+| **Metonímia** | Concisão, impessoalidade ("O Planalto decidiu" esconde quem decidiu) |
+| **Sinestesia** | Sensorialidade, poeticidade |
+| **Perífrase** | Solenidade, variedade lexical, **retomada coesiva** |
+| **Antonomásia** | Substitui o nome próprio; evoca atributo |
+
+- Em **textos oficiais** e **jornalísticos**, a **metonímia** é comum ("O Planalto", "O Congresso", "Brasília").
+- Em **textos jurídicos**, o uso de figuras é **limitado**: a **precisão** é prioritária.
+
+## Perífrase e antonomásia na coesão
+- A **perífrase** serve de **retomada**: "O presidente da Câmara... **o chefe da Casa**... **o parlamentar mineiro**...".
+- **Antonomásia** (tipo de perífrase): troca o nome próprio por um **epíteto** consagrado: "**O Rei do Futebol**" (Pelé), "**O Poeta dos Escravos**" (Castro Alves), "**A Cidade Maravilhosa**" (Rio de Janeiro), "**A Casa do Povo**" (Câmara).
+- Funciona como **recurso coesivo** e como **avaliação**: o epíteto **qualifica**.
+
+## Como a banca cobra figuras de palavra
+- "A expressão 'O Planalto vetou' exemplifica **metonímia**" (lugar pela instituição).
+- "'Ele é forte como um touro' é **comparação**" (conectivo "como").
+- "'A Casa do Povo' é **perífrase**" (designa a Câmara por atributo).
+- "'Voz áspera' é **sinestesia**" (tato e audição).
+- "O **efeito** da metonímia é a **impessoalidade**" (esconde o agente).
+
+## Armadilhas
+1. **Comparação vs metáfora**: se há "como", "feito", "tal qual", "igual a", é comparação.
+2. **Metonímia vs metáfora**: se a relação é de **semelhança**, é metáfora; se é de **proximidade real**, metonímia.
+3. **Catacrese vs metáfora viva**: se não há outro termo para designar a coisa (pé da mesa), é catacrese.
+4. **Antonomásia** é só para **nomes**: "o Poeta dos Escravos" (nome próprio).
+5. **Sinestesia**: mistura de **sentidos diferentes** ("voz doce": audição e paladar). "Cheiro agradável" não é sinestesia (só olfato).
+
+## Exemplos comentados
+- "A **Esplanada** discutiu o orçamento" → **metonímia** (lugar pelos ministérios).
+- "O deputado é **uma raposa**" → **metáfora** (astúcia).
+- "A economia **respira** aliviada" → **personificação** (figura de pensamento; veja a próxima aula).
+- "A **frieza** do relator" → **metáfora** (ausência de emoção; "frio" tem sentido figurado de insensível).
+- "**Doce** voz" → **sinestesia** (audição + paladar).
+
+## Quadro: palavra x pensamento x construção
+- **Palavra**: troca de **sentido** (metáfora, metonímia).
+- **Pensamento**: **ideias** em jogo (antítese, ironia).
+- **Construção**: **estrutura** da frase (elipse, zeugma).
+- **Som**: **repetição** de sons (aliteração).
+
+=== Pegadinhas
+1. "Em 'O Planalto vetou o projeto', há metáfora." **Errado.** É metonímia (o lugar pela instituição; relação real, não semelhança).
+2. "Em 'Ele é forte como um touro', há metáfora." **Errado.** Há comparação (símile), por causa do "como".
+3. "'Pé da mesa' é metáfora viva, criada pelo autor." **Errado.** É catacrese: metáfora gasta, pela falta de outro termo.
+4. "'Voz áspera' é um exemplo de antítese." **Errado.** É sinestesia (audição e tato).
+5. "'A Casa do Povo' é um exemplo de comparação." **Errado.** É perífrase (antonomásia): designa a Câmara por um atributo.
+6. "A metonímia sempre se baseia em semelhança entre os termos." **Errado.** Baseia-se em contiguidade (relação real).
+7. "A comparação dispensa conectivo." **Errado.** A comparação explícita usa conectivo; sem ele, é metáfora.
+8. "Ler Machado é um caso de metáfora." **Errado.** É metonímia (autor pela obra).
+
+=== Revisão rápida
+- **Metáfora** = semelhança sem conectivo. **Comparação** = com conectivo. **Metonímia** = contiguidade real.
+- **Metonímia**: autor pela obra, lugar pela instituição, parte pelo todo, continente pelo conteúdo.
+- **Catacrese** = metáfora gasta (pé da mesa). **Sinestesia** = mistura de sentidos. **Perífrase/antonomásia** = designação por atributo (Casa do Povo).
+- Efeito da **metonímia**: concisão e impessoalidade.

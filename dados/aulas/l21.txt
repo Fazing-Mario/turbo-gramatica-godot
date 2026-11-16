@@ -1,0 +1,95 @@
+=== Básico
+## As funções da linguagem (Jakobson)
+**A função predominante é definida pelo elemento da comunicação que está em foco.** Todo texto mobiliza várias funções; a banca pergunta pela que **domina a intenção central**.
+
+## Os seis elementos da comunicação
+| Elemento | Quem ou o quê |
+|---|---|
+| **Emissor** (remetente) | Quem produz a mensagem |
+| **Receptor** (destinatário) | Quem a recebe |
+| **Mensagem** | O conteúdo, na sua forma |
+| **Contexto** (referente) | O assunto, a realidade a que a mensagem se refere |
+| **Código** | A língua, o sistema de signos compartilhado |
+| **Canal** (contato) | O meio físico e psicológico da comunicação |
+
+## Os seis focos e as seis funções
+Pergunte: **o que está em foco?** O assunto, quem fala, quem ouve, o contato, a forma da mensagem ou a própria língua?
+
+| Elemento em foco | Função | Marcas | Exemplo típico |
+|---|---|---|---|
+| **Contexto** (referente) | **Referencial** (denotativa, informativa) | 3ª pessoa, objetividade, dados | Notícia, relatório, lei, ofício |
+| **Emissor** | **Emotiva** (expressiva) | 1ª pessoa, interjeições, exclamações, avaliações | Diário, desabafo, carta pessoal |
+| **Receptor** | **Conativa** (apelativa) | Imperativo, vocativo, 2ª pessoa | Publicidade, discurso de campanha, sermão |
+| **Canal** | **Fática** | Testar, abrir, manter ou encerrar o contato | "Alô?", "Estão me ouvindo?", "né?", conversa de elevador |
+| **Mensagem** (a forma) | **Poética** | Rima, ritmo, aliteração, trocadilho, figuras | Poema, slogan, provérbio |
+| **Código** | **Metalinguística** | A linguagem falando de si | Dicionário, gramática, poema sobre fazer poema, filme sobre cinema |
+
+> Macete: **E**missor → **E**motiva; **R**eceptor → **C**onativa (chama o receptor a agir); **C**ontexto → **R**eferencial (refere); **C**anal → **F**ática; **M**ensagem → **P**oética; **C**ódigo → **M**etalinguística.
+
+## Como reconhecer rápido
+- **Referencial**: "Quem informa?" → notícias, relatórios, normas. Verbos em 3ª pessoa.
+- **Emotiva**: "Quem sente?" → 1ª pessoa, exclamação, subjetividade.
+- **Conativa**: "Quem convence ou ordena?" → imperativo, vocativo, "você".
+- **Fática**: "Alô? Está me ouvindo?", cumprimentos, "tudo bem?".
+- **Poética**: "Que trabalho com a forma?" → rima, ritmo, jogo sonoro.
+- **Metalinguística**: "A língua explica a língua?" → definição de palavra, gramática, poema sobre poema.
+
+=== Avançado
+## As trocas que a banca faz
+- **Referencial x metalinguística**: texto que **informa sobre a língua** ("o português tem 270 milhões de falantes", ou um artigo comparando Saussure e Bakhtin) é predominantemente **referencial**. Metalinguística é quando o **código explica o próprio código** ("'Parlamentar' significa...").
+- **Emotiva x poética**: nem todo poema é emotivo. Se o que domina é o **trabalho com a forma** (sons, ritmo, imagens), a função é **poética**. Se predomina a **expressão do sentimento**, é **emotiva**. Muitos poemas combinam as duas.
+- **Conativa x fática**: o **vocativo** chama o interlocutor (**conativa**); a fática só testa ou mantém o canal ("Alô? Está me ouvindo?").
+- **Publicidade**: pode ter forma poética (rima, trocadilho), mas a **intenção central** é levar ao consumo: **conativa**.
+- **Textos normativos**: segundo os resumos do curso, o Cebraspe tende a classificar texto legal ou normativo sem imperativo nem vocativo como **referencial**.
+- **Texto informativo com adjetivos**: se o foco é o assunto, é referencial, mesmo com marcas de opinião.
+
+## Mensagens com várias funções
+| Texto | Funções presentes | Predominante |
+|---|---|---|
+| "Vote em mim! Eu sei o que o Brasil precisa." | Conativa, emotiva | Conativa (pede o voto) |
+| "Brasília, 5 de março. O plenário aprovou o projeto por 320 votos." | Referencial | Referencial |
+| "Poeta é aquele que faz poema sobre o fazer poético" | Metalinguística, poética | Metalinguística (o código fala do código) |
+| "Alô, alô, Brasil! Tem alguém aí?" | Fática, conativa | Fática |
+| "Eu te amo tanto que não cabe no verso" | Emotiva, poética | Emotiva (sentimento em foco) |
+| "Sou eu que faço o seu dia" (slogan com rima) | Poética, conativa | Conativa (convence a comprar) |
+
+## Funções e gêneros oficiais
+| Gênero | Função predominante |
+|---|---|
+| **Ofício, relatório, ata, nota técnica** | Referencial |
+| **Lei, decreto, regimento** | Referencial (normativo), por vezes conativa (se há imperativo) |
+| **Discurso de campanha** | Conativa |
+| **Discurso de pesar** | Emotiva |
+| **Texto de dicionário** | Metalinguística |
+| **Poema** | Poética (ou emotiva) |
+| **Mensagem de cumprimento** | Fática |
+
+## Função da linguagem x intenção do autor
+- A função é inferida do **foco do texto**, não do **gênero** automaticamente: uma **propaganda** pode ser referencial (informar um produto) se **só descreve**; mas, com apelo, é conativa.
+- A **intenção** do emissor pode ser **explícita** (pedir o voto) ou **implícita**.
+- **Cuidado**: a mesma frase pode ter **funções diferentes** em contextos diferentes ("Está calor" como informação [referencial] ou como pedido [conativa]).
+
+## Elementos de um texto: roteiro de análise
+1. **Quem fala?** (emissor) Há **1ª pessoa**, exclamações?
+2. **Com quem fala?** (receptor) Há **vocativo, imperativo, 2ª pessoa**?
+3. **Sobre o quê?** (contexto) Há **objetividade**, dados?
+4. **Como está dito?** (mensagem) Há **rima, ritmo, jogo de palavras**?
+5. **O contato está em foco?** (canal) Há **verificação** do canal?
+6. **A língua é o assunto?** (código) Há **definição, explicação** da língua?
+
+=== Pegadinhas
+1. "Por tratar da língua portuguesa, o texto informativo sobre o número de falantes do idioma tem função metalinguística predominante." **Errado.** Informa sobre o mundo; é referencial.
+2. "Todo poema tem função emotiva predominante." **Errado.** Pode ser poética (foco na forma).
+3. "O vocativo é marca da função fática." **Errado.** É marca da conativa.
+4. "Na função referencial, o texto se volta para o emissor." **Errado.** Volta-se para o contexto (o referente).
+5. "Uma propaganda com rimas tem a função poética como predominante." **Errado,** em regra: a forma poética serve ao apelo; predomina a conativa.
+6. "Um texto apresenta uma única função da linguagem." **Errado.** As funções coexistem; pergunta-se pela predominante.
+7. "A função emotiva é aquela voltada para o receptor." **Errado.** É voltada para o emissor.
+8. "A função fática caracteriza-se pela precisão e pela objetividade das informações." **Errado.** Refere-se ao contato; a objetividade e a informação são da referencial.
+
+=== Revisão rápida
+- **Referencial** (contexto), **emotiva** (emissor), **conativa** (receptor), **fática** (canal), **poética** (mensagem), **metalinguística** (código).
+- Referencial: 3ª pessoa, objetividade. Emotiva: 1ª pessoa. Conativa: imperativo e vocativo. Fática: "alô?". Poética: rima e ritmo. Metalinguística: a língua falando de si.
+- **Informar sobre a língua** (dados) = referencial; **explicar o código pelo código** = metalinguística.
+- **Propaganda** com rima = conativa.
+- **Textos normativos** sem imperativo = referencial.

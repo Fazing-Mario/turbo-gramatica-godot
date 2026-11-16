@@ -1,0 +1,96 @@
+=== Básico
+## Retórica: a arte de persuadir
+**Retórica** é a arte de **argumentar para persuadir** um auditório. Nasceu na Grécia antiga e foi sistematizada por Aristóteles, que a definiu como a faculdade de ver, em cada caso, o que há de persuasivo. No cargo 11, a retórica ilumina o **discurso parlamentar**.
+
+## As três provas de Aristóteles
+Os meios de persuasão são **combináveis**, não excludentes.
+
+| Prova | Centrada em | Como aparece |
+|---|---|---|
+| **Ethos** | O **orador** | Credibilidade, caráter, imagem que o orador **constrói no discurso** |
+| **Pathos** | O **auditório** | **Emoções** despertadas: indignação, esperança, medo, compaixão |
+| **Logos** | O **discurso** | **Razão**: dados, exemplos, raciocínio, coerência |
+
+- **Ethos**: "Como relator desta matéria há três anos..." (competência); "Falo como pai de..." (identificação).
+- **Pathos**: "Imaginem uma mãe esperando atendimento por oito horas..."
+- **Logos**: "Os dados do IBGE mostram que o desemprego caiu três pontos."
+- O bom discurso **equilibra** as três provas.
+
+## Os três gêneros retóricos
+| Gênero | Auditório | Tempo | Finalidade | Exemplo |
+|---|---|---|---|---|
+| **Deliberativo** | Assembleia | **Futuro** | **Aconselhar** ou desaconselhar: o útil x o nocivo | Discurso **pró ou contra um projeto de lei** |
+| **Judiciário (forense)** | Juiz, tribunal | **Passado** | **Acusar ou defender**: o justo x o injusto | Sustentação oral, defesa num processo de cassação |
+| **Epidítico (demonstrativo)** | Espectadores | **Presente** | **Elogiar ou censurar**: o belo x o feio | Sessão solene, homenagem, discurso fúnebre |
+
+> O **deliberativo** é o gênero do **Parlamento**: debate sobre o que fazer no futuro.
+
+=== Avançado
+## As cinco etapas de produção do discurso (cânones)
+1. **Invenção** (inventio): **achar** os argumentos.
+2. **Disposição** (dispositio): **ordená-los**.
+3. **Elocução** (elocutio): escolher as **palavras e figuras**.
+4. **Memória** (memoria): fixar o discurso.
+5. **Ação ou pronunciação** (actio): **voz e gesto**.
+
+## Partes do discurso (disposição)
+| Parte | Função |
+|---|---|
+| **Exórdio** | **Introdução**: conquista a **atenção** e a **benevolência** do auditório |
+| **Narração** | **Expõe os fatos** em que a causa se baseia |
+| **Confirmação** (argumentação) | **Provas** e **refutação** |
+| **Peroração** | **Fecho**: **recapitula** e apela às **emoções** |
+
+> Pegadinha: **peroração** é o fecho, não a abertura (que é o exórdio).
+
+## Nova Retórica (Perelman e Olbrechts-Tyteca)
+- Toda argumentação se dirige a um **auditório**. O orador parte de **premissas que o auditório já aceita** (valores, fatos, presunções).
+- **Convencer** visa a **adesão racional**, válida para um **auditório universal** (qualquer pessoa racional).
+- **Persuadir** visa **levar à ação** um **auditório particular**, mobilizando também emoções e valores.
+- A argumentação trabalha com o **plausível**, não com a prova **demonstrativa** (matemática): por isso, argumentos podem ser **mais ou menos fortes**, e não apenas "verdadeiros ou falsos".
+
+## Oratória parlamentar na prática
+- O mesmo deputado **alterna registros**:
+  - **Parecer e voto em comissão**: técnico, impessoal, **logos** dominante.
+  - **Tribuna do plenário**: enfático, **pathos** e **ethos**, figuras de linguagem, vocativos.
+  - **Comunicação com a base**: coloquial, direta.
+- Na tribuna, o orador se dirige **formalmente** ao Presidente e aos pares (vocativos: "Sr. Presidente, Sras. e Srs. Deputados"), mas o **auditório real** inclui eleitores e imprensa. Isso explica o peso do **ethos** e do **pathos**.
+- Formas típicas: **discurso de liderança** (orienta a bancada), **discurso de encaminhamento** de votação, **questão de ordem**, **comunicação de liderança**, **explicação pessoal**, **homenagem** (epidítico).
+- A linguagem parlamentar usa **tratamentos protocolares** ("Vossa Excelência", "nobre Deputado"), **fórmulas** ("peço a palavra", "pela ordem") e **eufemismos** ("Casa", "pares"), que garantem o decoro.
+
+## Ênfase na frase
+- Com **coordenadas adversativas**, o argumento **depois do "mas"** prevalece: "O projeto é caro, **mas** necessário" ≠ "O projeto é necessário, **mas** caro".
+- Na **subordinação** (concessão), a ênfase fica na **oração principal**.
+- A **repetição** (anáfora retórica), a **gradação** e a **ordem** das ideias criam ênfase.
+- **Perífrases** e **antonomásias** ("a Casa do Povo") conferem solenidade.
+
+## Figuras e retórica
+- A **elocução** emprega **figuras**: **anáfora**, **antítese**, **gradação**, **hipérbole**, **apóstrofe**, **pergunta retórica**, **ironia**.
+- A figura só é eficaz se **adequada** ao auditório e ao gênero: a ironia, por exemplo, exige repertório compartilhado.
+- Na elocução, há **três estilos clássicos**: **simples** (ensinar), **médio** (agradar) e **sublime** (comover). A cada finalidade corresponde um estilo.
+
+## Como a banca cobra
+- "O trecho apela ao **pathos**..." → procura emoções.
+- "Constrói o **ethos** do orador..." → procura credibilidade, autoridade, identificação.
+- "O discurso é do gênero **deliberativo**..." → trata do futuro e do útil.
+- "A **peroração**..." → fecho, recapitulação.
+- Distinguir **convencer** de **persuadir** (Perelman).
+
+=== Pegadinhas
+1. "Ethos, pathos e logos são estratégias excludentes." **Errado.** Combinam-se no mesmo discurso.
+2. "O discurso do deputado na tribuna contra um projeto pertence ao gênero epidítico." **Errado.** É deliberativo (aconselha sobre o futuro, o útil x o nocivo); epidítico é elogio ou censura, como numa sessão solene.
+3. "A peroração é a parte inicial do discurso, voltada a conquistar a benevolência do auditório." **Errado.** Isso é o exórdio; a peroração é o fecho.
+4. "Para Perelman, convencer e persuadir são sinônimos." **Errado.** Convencer busca adesão racional (auditório universal); persuadir busca a ação (auditório particular).
+5. "O pathos refere-se à credibilidade do orador." **Errado.** Credibilidade é ethos; pathos é a emoção do auditório.
+6. "O gênero judiciário se ocupa do futuro." **Errado.** Ocupa-se do passado (acusar ou defender).
+7. "Em 'O projeto é necessário, mas caro', a ênfase recai sobre a necessidade." **Errado.** Recai sobre o que vem depois do mas.
+8. "A argumentação retórica busca a demonstração matemática da verdade." **Errado.** Trabalha com o plausível e com a adesão do auditório.
+
+=== Revisão rápida
+- **Ethos** (orador), **pathos** (auditório, emoção), **logos** (razão do discurso).
+- **Deliberativo**: futuro, útil x nocivo, assembleia (Parlamento). **Judiciário**: passado, justo x injusto. **Epidítico**: presente, belo x feio.
+- Cânones: invenção, disposição, elocução, memória, ação.
+- Partes: **exórdio**, narração, confirmação, **peroração** (fecho).
+- **Perelman**: convencer (razão, auditório universal) x persuadir (ação, auditório particular).
+- Na tribuna: ethos e pathos pesam; no parecer: logos.
+- Depois do **mas** prevalece o argumento.

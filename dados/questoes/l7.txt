@@ -1,0 +1,19 @@
+# Módulo l7 — Leitura: explícito, inferido, fato e opinião. Acrescente questões novas sempre no fim.
+CE | C | Em itens que pedem o que o texto afirma, a resposta deve estar explícita no texto. | Comandos como segundo o texto e o texto afirma pedem informação literal.
+CE | C | Em itens que usam depreende-se ou infere-se, a resposta deve decorrer das pistas do texto, sem extrapolação. | A inferência é autorizada pelo texto, não pela opinião do leitor.
+CE | E | A informação que só pode ser deduzida do texto pode ser tratada como informação que o texto afirma. | O verbo afirmar pede resposta explícita.
+CE | C | A extrapolação ocorre quando o item traz informação ou opinião que o texto não autoriza. | É um dos erros clássicos de interpretação.
+CE | C | Tomar uma parte do que o texto diz como se fosse o todo constitui erro de redução. | Redução é restringir o que no texto é mais amplo.
+CE | C | Fato é aquilo que pode ser verificado, ao passo que opinião é juízo do enunciador sobre o fato. | O dado é verificável; o adjetivo avaliativo marca juízo.
+CE | E | A frase O projeto foi, lamentavelmente, aprovado por 320 votos contém apenas fatos. | A aprovação com votos é fato; lamentavelmente exprime opinião do enunciador.
+CE | C | Um dado estatístico pode fundamentar uma opinião sem deixar de ser fato. | O dado é fato; a conclusão tirada dele é opinião.
+CE | E | Uma afirmação falsa deixa de ser fato e passa a ser opinião. | Fato é o verificável; a falsidade se descobre pela verificação.
+CE | E | A expressão um dos principais problemas autoriza concluir que se trata do principal problema. | Um dos não equivale a o maior; seria extrapolação.
+CE | C | A palavra apenas em um item restringe a informação, exigindo que o texto exclua outras possibilidades. | Se o texto menciona outros casos, o item está errado.
+CE | E | O título de um texto sempre resume a tese defendida pelo autor. | Pode ser irônico, enigmático ou apenas atrativo.
+CE | C | O futuro do pretérito, em teria recebido, costuma indicar relato sem endosso do autor. | Marca de distanciamento em textos jornalísticos.
+CE | C | Quando o texto cita um especialista com o verbo alega, o autor se distancia da afirmação citada. | O verbo escolhido revela a posição do autor.
+CE | E | Um texto jornalístico que usa a terceira pessoa é totalmente neutro. | A terceira pessoa cria efeito de objetividade; a seleção de fatos e palavras revela posição.
+AB | Segundo o texto pede resposta... | explícita no texto | deduzida por conhecimento de mundo | Quem pede dedução é infere-se ou depreende-se.
+AB | Fato é... | algo verificável | um juízo do autor | O juízo do autor é opinião.
+AB | O erro de dar ao texto mais do que ele afirma chama-se... | extrapolação | contradição | Contradição afirma o oposto do que o texto diz.

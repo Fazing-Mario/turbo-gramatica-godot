@@ -1,0 +1,197 @@
+=== Básico
+## Fonema, letra e sílaba
+**Fonema** é a menor unidade de som que distingue significados (faca × vaca: /f/ × /v/). **Letra** é o sinal gráfico. Não há correspondência perfeita entre eles:
+- **Dígrafo**: duas letras, um só fonema. Consonantais: ch, lh, nh, rr, ss, sc, sç, xc, gu e qu (quando o u não soa: guerra, queijo). Vocálicos: am, an, em, en, im, in, om, on, um, un (campo, tempo, ombro).
+- **Uma letra, vários sons**: o x vale /ch/ (xícara), /z/ (exame), /ks/ (táxi), /s/ (próximo).
+- **Letra sem som**: o h inicial (hora, hoje).
+- **Uma letra, dois fonemas**: o x de táxi (/ks/).
+> Contagem cobrada: "chuva" tem 5 letras e 4 fonemas; "táxi" tem 4 letras e 5 fonemas; "guerra" tem 6 letras e 4 fonemas.
+
+## Vogais, semivogais e consoantes
+- **Vogal**: núcleo da sílaba; toda sílaba tem uma e só uma vogal.
+- **Semivogal**: i e u (às vezes e/o, como em mãe, pão) que acompanham a vogal na mesma sílaba.
+- **Consoante**: som produzido com obstáculo à passagem do ar.
+
+## Encontros vocálicos
+| Encontro | O que é | Exemplos |
+|---|---|---|
+| Ditongo decrescente | vogal + semivogal na mesma sílaba | pai, céu, muito, mãe |
+| Ditongo crescente | semivogal + vogal na mesma sílaba | quase, série, água, tênue |
+| Tritongo | semivogal + vogal + semivogal | Paraguai, iguais, saguão, enxaguou |
+| Hiato | vogais em sílabas diferentes | sa-ú-de, pa-ís, co-or-de-nar, ra-i-nha |
+
+## Encontros consonantais
+- **Perfeitos (na mesma sílaba)**: consoante + l ou r: pra-to, blo-co, a-tle-ta.
+- **Imperfeitos (sílabas separadas)**: rit-mo, ap-to, ad-vo-ga-do, of-tal-mo-lo-gis-ta.
+
+## Divisão silábica
+- **Separam-se**: vogais de hiato (ca-a-tin-ga, ju-iz), rr e ss (car-ro, pás-sa-ro), sc, sç, xc (nas-cer, des-ça, ex-ce-to), consoantes de encontros imperfeitos (ap-to, ét-ni-co).
+- **Não se separam**: ditongos e tritongos (cau-sa, Pa-ra-guai), ch, lh, nh, gu, qu (cha-ve, quei-jo), encontros perfeitos (a-bra-ço).
+- Consoante inicial não seguida de vogal fica na sílaba seguinte: pneu-mo-ni-a, gno-mo, psi-có-lo-go.
+
+## Sílaba tônica e prosódia
+- **Oxítona**: última sílaba forte (café, ruim, Nobel, condor, ureter, mister).
+- **Paroxítona**: penúltima (rubrica, recorde, avaro, gratuito, fortuito, pudico, filantropo, ibero, maquinaria).
+- **Proparoxítona**: antepenúltima (ínterim, protótipo, aerólito, ômega, álibi).
+> Prosódia (pronúncia correta) cai em prova: rubrica e recorde são paroxítonas; ruim, Nobel e condor são oxítonas; ínterim é proparoxítona.
+
+## As três perguntas da acentuação
+- Onde está a sílaba tônica?
+- Como a palavra termina?
+- Há hiato ou ditongo aberto envolvido?
+
+| Tipo | Leva acento quando termina em | Exemplos |
+|---|---|---|
+| Proparoxítonas | sempre | público, lâmpada, ínterim, álibi |
+| Oxítonas | a(s), e(s), o(s), em, ens | sofá, você, avô, também, parabéns |
+| Paroxítonas | l, n, r, x, ps, ã(s), ão(s), i(s), us, um, uns, ei(s), ditongo oral | útil, hífen, caráter, tórax, bíceps, ímã, órgão, júri, vírus, álbum, vôlei, história |
+| Monossílabos tônicos | a(s), e(s), o(s) | pá, pé, só, três, nós |
+
+> Truque das paroxítonas: elas fazem o contrário das oxítonas. Paroxítona terminada em a, e, o, em, ens NÃO leva acento: item, itens, hifens, polens, jovens.
+
+## Ortografia: os padrões que mais caem
+- **-isar × -izar**: com s quando a palavra de origem já tem s (análise → analisar; pesquisa → pesquisar; paralisia → paralisar); com z quando é sufixo (real → realizar; civil → civilizar; atual → atualizar).
+- **-ês/-esa × -ez/-eza**: -ês/-esa para origem e títulos (português, marquesa, princesa); -ez/-eza para substantivos abstratos tirados de adjetivos (rápido → rapidez; belo → beleza; pobre → pobreza).
+- **x depois de ditongo**: caixa, peixe, frouxo (exceção: recauchutar, guache).
+- **x depois de "en" inicial**: enxada, enxame, enxergar (exceção: encher, encharcar, enchumaçar, que vêm de palavras com ch).
+- **x depois de "me" inicial**: mexer, mexerica, México (exceção: mecha).
+- **g nas terminações -agem, -igem, -ugem**: garagem, vertigem, ferrugem (exceção: pajem, lambujem).
+- **j nos verbos em -jar**: viajar → que eles viajem (verbo) × a viagem (substantivo); encorajar → que encorajem.
+- **j em palavras de origem tupi e africana**: jiboia, pajé, jiló, canjica.
+
+=== Avançado
+## O que mudou com o Acordo Ortográfico de 1990
+| Regra | Como é hoje | Atenção |
+|---|---|---|
+| Ditongos abertos éi, ói em paroxítonas | sem acento: ideia, assembleia, heroico, jiboia, paranoico | em oxítonas e monossílabos o acento fica: herói, papéis, céu, dói, anéis |
+| i e u tônicos em hiato depois de ditongo | paroxítonas perdem o acento: feiura, baiuca, bocaiuva | oxítonas mantêm: Piauí, tuiuiú |
+| Hiatos ee e oo | sem acento: creem, deem, leem, veem, voo, enjoo, perdoo | não confunda com têm e vêm (plural, com circunflexo) |
+| Trema | abolido: linguiça, frequente, tranquilo | fica em nomes próprios estrangeiros e derivados: Müller, mülleriano |
+| Acento diferencial | caiu em para (verbo), pela, pelo (substantivo), polo, pera | fica em pôde (passado) × pode (presente), pôr (verbo) × por (preposição), têm/vêm (plural) × tem/vem; fôrma é facultativo |
+| u tônico em gue, gui, que, qui | sem acento agudo: averigue, apazigue, argui | arguir e redarguir perderam o acento: ele argui |
+
+## Hiatos com i e u tônicos (regra completa)
+Acentuam-se o i e o u tônicos quando formam sílaba sozinhos ou com s: sa-í-da, sa-ú-de, ba-ú, pa-ís, e-go-ís-ta, ba-la-ús-tre.
+**Não** se acentuam quando:
+- vêm seguidos de nh: ra-i-nha, mo-i-nho, ta-i-nha;
+- formam sílaba com l, m, n, r, z (sem vogal depois): Ra-ul, ru-im, ju-iz, ca-ir, con-tri-bu-in-te;
+- são letras repetidas: xi-i-ta, va-di-i-ce;
+- estão em paroxítona depois de ditongo decrescente: fei-u-ra, bai-u-ca.
+> Compare: juiz (sem acento, sílaba com z) × juízes (com acento, i sozinho na sílaba). Raiz × raízes. País × países.
+
+## Acento nos verbos ter, vir e derivados
+| Singular | Plural |
+|---|---|
+| ele tem, ele vem | eles têm, eles vêm |
+| ele contém, ele detém, ele provém | eles contêm, eles detêm, eles provêm |
+| ele lê, ele vê, ele crê, ele dá | eles leem, eles veem, eles creem, que eles deem |
+
+## Hífen com prefixos
+| Situação | Regra | Exemplos |
+|---|---|---|
+| Prefixo termina na mesma vogal que inicia a palavra | com hífen | micro-ondas, anti-inflamatório, contra-ataque, arqui-inimigo |
+| Prefixo termina em vogal diferente | junto | autoescola, antiaéreo, infraestrutura, extraescolar |
+| Palavra começa com h | com hífen | anti-higiênico, super-homem, pré-história, sobre-humano |
+| Prefixo em vogal + palavra com r ou s | junto, dobrando a consoante | antirracismo, antissocial, minissaia, ultrassom, contrarregra |
+| Prefixo termina na mesma consoante | com hífen | inter-regional, sub-bibliotecário, super-resistente, hiper-requintado |
+| Prefixo em consoante diferente | junto | intermunicipal, superpopulação, hipermercado |
+| sub e sob + r | com hífen | sub-reitor, sub-região, sob-roda |
+| circum e pan + vogal, h, m, n | com hífen | circum-navegação, pan-americano, pan-helênico |
+| ex (= anterior), vice, sota, soto | sempre com hífen | ex-diretor, vice-presidente, vice-reitor |
+| pós, pré, pró tônicos | com hífen | pós-graduação, pré-escolar, pró-reitor |
+| além, aquém, recém, sem | com hífen | recém-chegado, sem-terra, além-mar |
+
+**Exceções importantes**:
+- **co** se junta sempre, mesmo diante de o: coobrigação, coordenar, coerdeiro, cooperar.
+- **re, pre, pro** átonos se juntam: reeleição, reescrever, preexistente, promover.
+- **sub + humano** pode ficar junto: subumano (também sub-humano).
+- **mal** leva hífen antes de vogal, h e l: mal-educado, mal-humorado, mal-limpo; mas malcriado, malvisto.
+- **bem** costuma levar hífen: bem-vindo, bem-estar, bem-humorado; mas benfeito, benfeitor, benquerer.
+
+## Hífen nos compostos
+- **Sem elemento de ligação**: com hífen: guarda-chuva, arco-íris, segunda-feira, conta-gotas, decreto-lei.
+- **Com elemento de ligação** (preposição, artigo): sem hífen: pé de moleque, dia a dia, fim de semana, mão de obra, cão de guarda.
+- **Exceções com hífen**: espécies de plantas e animais (bem-te-vi, erva-doce, couve-flor, joão-de-barro) e as consagradas: água-de-colônia, arco-da-velha, cor-de-rosa, mais-que-perfeito, pé-de-meia, ao deus-dará, à queima-roupa.
+- **Perderam a noção de composição**: escrevem-se juntos: girassol, mandachuva, paraquedas, paraquedista, pontapé, passatempo.
+
+## Parônimos e homônimos campeões de prova
+| Par | Diferença |
+|---|---|
+| cessão / sessão / seção | ceder / reunião / divisão |
+| acender / ascender | pôr fogo / subir |
+| concerto / conserto | apresentação musical / reparo |
+| mandado / mandato | ordem judicial / período de exercício |
+| ratificar / retificar | confirmar / corrigir |
+| descriminar / discriminar | deixar de ser crime / distinguir, segregar |
+| eminente / iminente | ilustre / prestes a acontecer |
+| emergir / imergir | vir à tona / mergulhar |
+| flagrante / fragrante | evidente / perfumado |
+| infringir / infligir | violar (lei) / aplicar (pena) |
+| tráfego / tráfico | trânsito / comércio ilegal |
+| deferir / diferir | conceder / adiar, ser diferente |
+| censo / senso | recenseamento / juízo |
+| vultoso / vultuoso | volumoso, grande / com o rosto inchado |
+| comprimento / cumprimento | extensão / saudação, execução |
+| despensa / dispensa | lugar de guardar alimentos / licença |
+| espiar / expiar | olhar / pagar culpa |
+
+## Os porquês
+| Forma | Uso | Exemplo |
+|---|---|---|
+| por que | pergunta; equivale a "pelo qual" ou a "por qual motivo" | Por que você saiu? A rua por que passei. Não sei por que ele saiu. |
+| por quê | no fim da frase ou antes de pausa forte | Você saiu por quê? |
+| porque | causa ou explicação (= pois, uma vez que) | Saí porque estava cansado. |
+| porquê | substantivo (vem com artigo ou determinante) | Ninguém entendeu o porquê da decisão. |
+
+## Outras dúplas que confundem
+- **mal × mau**: mal é o contrário de bem (advérbio ou substantivo); mau é o contrário de bom (adjetivo). Ele age mal; ele é mau.
+- **a cerca de × acerca de × há cerca de**: a cerca de = a aproximadamente (fica a cerca de 2 km); acerca de = sobre (falou acerca do tema); há cerca de = faz aproximadamente (há cerca de dois anos).
+- **afim × a fim de**: afim = semelhante (áreas afins); a fim de = para (saiu a fim de comprar).
+- **senão × se não**: senão = caso contrário, a não ser, mas sim; se não = caso não (se não chover, vou).
+- **demais × de mais**: demais = muito, excessivamente, os outros; de mais = a mais, contrário de "de menos" (nada de mais).
+- **onde × aonde**: onde = lugar em que se está (onde moro); aonde = lugar a que se vai, com verbos de movimento (aonde vamos?).
+- **em vez de × ao invés de**: em vez de = no lugar de (qualquer substituição); ao invés de = ao contrário de (só com ideias opostas: subiu ao invés de descer).
+- **à medida que × na medida em que**: à medida que = proporção (à medida que estudo, aprendo); na medida em que = causa (na medida em que faltou, foi punido).
+
+=== Pegadinhas
+## Armadilhas clássicas da Cebraspe
+- **"Ideia" perdeu o acento, mas "herói" não**: a regra do ditongo aberto vale só para paroxítonas.
+- **"Destróier" e "Méier" mantêm o acento**: são paroxítonas terminadas em r, acentuadas por essa terminação, não pelo ditongo.
+- **"Feiura" não tem acento, "Piauí" tem**: depois de ditongo, só a oxítona conserva o acento no i/u.
+- **"Pôde" e "pôr" continuam acentuados**: são os únicos diferenciais obrigatórios que sobraram, além de têm e vêm.
+- **"Hífen" tem acento, "hifens" não**: o plural vira paroxítona terminada em ens.
+- **"Juiz" sem acento, "juízes" com acento**: no singular o i forma sílaba com z.
+- **"Item" e "itens" nunca têm acento**: paroxítonas terminadas em em/ens.
+- **"Para" (verbo) perdeu o acento**: "Ele para o carro" está correto.
+- **"Autoescola" e "infraestrutura" juntos**: vogais diferentes se juntam.
+- **"Micro-ondas" e "anti-inflamatório" com hífen**: vogais iguais se separam.
+- **"Antissocial" e "contrarregra"**: r e s dobram, sem hífen.
+- **"Coordenar" e "cooperar"**: o prefixo co se junta mesmo antes de o.
+- **"Bem-vindo" com hífen, "benfeito" junto**.
+- **"Pé de moleque" sem hífen, "cor-de-rosa" com hífen** (exceção consagrada).
+- **"Paraquedas" junto**: perdeu a noção de composição.
+
+## Itens no estilo Cebraspe (comentados)
+- "A palavra 'heroico' perdeu o acento gráfico com o Acordo de 1990, embora 'herói' o mantenha." **CERTO**: paroxítona perdeu; oxítona mantém.
+- "As palavras 'saúde' e 'juiz' são acentuadas pela mesma regra." **ERRADO**: juiz não é acentuada (o i forma sílaba com z).
+- "Em 'Eles têm razão', o acento é facultativo." **ERRADO**: o circunflexo de plural é obrigatório.
+- "A grafia 'antiinflamatório' está de acordo com a norma." **ERRADO**: vogais iguais pedem hífen: anti-inflamatório.
+- "Em 'Ninguém sabe por que ele saiu', a forma 'por que' poderia ser substituída por 'porque' sem prejuízo da correção." **ERRADO**: aqui equivale a "por qual motivo".
+- "Na expressão 'há cerca de dez anos', o verbo haver indica tempo decorrido." **CERTO**.
+- "O vocábulo 'rubrica' é proparoxítona." **ERRADO**: é paroxítona (ru-BRI-ca).
+
+=== Revisão rápida
+- Proparoxítonas: todas acentuadas.
+- Oxítonas: a, e, o, em, ens (+ s). Paroxítonas: o contrário (l, n, r, x, ps, ã, ão, i, us, um, ei, ditongo).
+- Ditongo aberto éi/ói: sem acento em paroxítona (ideia), com acento em oxítona (herói).
+- Hiato i/u: acento se sozinho ou com s; sem acento antes de nh e em sílaba com l, m, n, r, z.
+- Depois de ditongo: paroxítona sem acento (feiura), oxítona com acento (Piauí).
+- creem, deem, leem, veem, voo, enjoo: sem acento.
+- têm, vêm, contêm, provêm: com circunflexo no plural.
+- Diferenciais que ficaram: pôde, pôr, têm, vêm. Fôrma é facultativo.
+- Trema: só em nomes estrangeiros.
+- Hífen: vogais iguais separam (micro-ondas); diferentes juntam (autoescola); h separa; r/s dobram (antissocial); co, re, pre, pro juntam.
+- Compostos com preposição: sem hífen (pé de moleque), salvo plantas, animais e consagrados.
+- Por que (pergunta/pelo qual), por quê (fim), porque (causa), porquê (substantivo).
+- Mal (bem) × mau (bom); acerca de (sobre) × há cerca de (tempo); afim (semelhante) × a fim de (finalidade).
+- Cessão (ceder), sessão (reunião), seção (divisão). Ratificar (confirmar) × retificar (corrigir).

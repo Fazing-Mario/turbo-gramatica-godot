@@ -1,0 +1,19 @@
+# Módulo l23 — Variação linguística. Acrescente questões novas sempre no fim.
+CE | C | Para a Linguística, toda língua viva varia, e variar não equivale a errar. | O critério é a adequação ao contexto, ao interlocutor e ao gênero.
+CE | C | A variação diatópica relaciona-se à região geográfica, como mandioca, aipim e macaxeira. | Topos significa lugar.
+CE | E | As gírias de adolescentes são exemplo de variação diatópica. | São diastráticas: ligam-se a grupo social; diatópica é região.
+CE | C | A variação diastrática está ligada a fatores sociais, como escolaridade, idade e profissão. | Estrato indica camada social.
+CE | C | O jargão jurídico é um exemplo de variação ligada a um grupo profissional. | É variação diastrática de caráter profissional.
+CE | C | A variação diafásica depende da situação de uso e do grau de monitoramento. | Exemplo: Me dá uma água? x Poderia fornecer-me um copo d'água?.
+CE | E | A passagem de Vossa Mercê para você ilustra variação diafásica. | É variação diacrônica: mudança no tempo.
+CE | C | O uso de vc e pq em aplicativos de mensagem exemplifica variação diamésica. | Variação ligada ao meio: digital.
+CE | E | Dialeto e registro são termos sinônimos. | Dialeto liga-se ao grupo de falantes; registro, à situação de uso.
+CE | C | Idioleto é o modo individual de falar de cada pessoa. | Inclui muletas, vocabulário preferido e hábitos pessoais.
+CE | C | A mesma pessoa pode alternar entre registros formais e informais ao longo do dia. | Essa alternância é diafásica.
+CE | E | As variedades de prestígio são linguisticamente superiores às demais. | O prestígio é social, não linguístico.
+CE | C | Reconhecer a variação linguística não dispensa o uso da norma-padrão em documentos oficiais. | A adequação ao gênero oficial exige a norma-padrão.
+CE | C | O uso de tu, com ou sem concordância, em diferentes regiões do Brasil é exemplo de variação diatópica. | A variação depende da região.
+CE | E | A estigmatização de variedades populares decorre de deficiências linguísticas dessas variedades. | A estigmatização é social; essas variedades têm regras próprias.
+AB | A variação ligada ao tempo é a... | diacrônica | diamésica | A diamésica relaciona-se ao meio: fala, escrita e digital.
+AB | A variação ligada à região é a... | diatópica | diastrática | A diastrática relaciona-se a grupos sociais.
+AB | O jeito individual de falar é o... | idioleto | dialeto | O dialeto liga-se a um grupo de falantes.

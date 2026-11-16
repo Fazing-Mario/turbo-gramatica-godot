@@ -1,0 +1,19 @@
+# Módulo l29 — Redação oficial: atributos e linguagem. Acrescente questões novas sempre no fim.
+CE | C | Segundo o Manual de Redação da Presidência da República, o que define a redação oficial é a origem pública do documento, e não o destinatário. | Um ofício de empresa privada a um ministério não é redação oficial.
+CE | E | Um ofício enviado por uma empresa privada a um ministério é considerado redação oficial. | A origem deve ser o poder público.
+CE | C | A referência de prova para redação oficial é o Manual de Redação da Presidência da República, 3ª edição, de 2018. | Quando o item não indica o manual, responde-se pelo da Presidência.
+CE | C | Os atributos da redação oficial derivam dos princípios constitucionais do art. 37, como impessoalidade, publicidade e eficiência. | A Constituição é a base dos atributos do Manual.
+CE | C | A clareza e a precisão são consideradas o atributo principal da redação oficial. | Exigem compreensão imediata e ausência de duplo sentido.
+CE | C | A concisão consiste em transmitir o máximo de informação com o mínimo de palavras, sem perder conteúdo. | Cortar informação essencial viola a precisão.
+CE | E | A concisão exige suprimir informações, ainda que essenciais, para reduzir o tamanho do texto. | Concisão não significa perder conteúdo.
+CE | C | A impessoalidade não impede o uso da primeira pessoa em fórmulas como Informo, Encaminho e Solicito. | Quem fala é o órgão, em nome da instituição.
+CE | E | A impessoalidade proíbe o uso da primeira pessoa em qualquer hipótese na redação oficial. | Fórmulas como Solicito são aceitas.
+CE | C | A linguagem técnica pode ser empregada em documentos oficiais quando necessária, devendo ser explicada se o público for amplo. | O que se evita é o jargão burocrático vazio.
+CE | E | A linguagem técnica é vedada em qualquer documento oficial. | É permitida quando necessária, como em pareceres e notas técnicas.
+CE | C | Na primeira menção a uma sigla, deve-se usar o nome por extenso seguido da sigla. | Depois pode-se usar apenas a sigla.
+CE | E | A norma-padrão admite regionalismos e neologismos em ofícios, desde que sejam bem compreendidos. | O vocabulário deve ser comum, evitando-se regionalismos e neologismos.
+CE | C | Expressões como outrossim e destarte, em excesso, caracterizam jargão burocrático que deve ser evitado. | Preferem-se além disso e assim.
+CE | C | O atributo da formalidade e da padronização exige civilidade e formato uniforme. | Evitam-se gírias e intimidade.
+AB | O atributo principal da redação oficial é a... | clareza e precisão | objetividade | A objetividade é um atributo importante, mas não é considerado o principal.
+AB | A referência de prova para redação oficial é o Manual de Redação... | da Presidência da República | da Câmara dos Deputados | Quando o item não indica o manual, responde-se pelo da Presidência.
+AB | Qual forma é aceita pela impessoalidade? | Solicito... | Acho que... | Solicito é fórmula em nome do órgão; acho exprime impressão pessoal.

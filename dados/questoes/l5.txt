@@ -1,0 +1,19 @@
+# Módulo l5 — Relações semânticas entre palavras. Acrescente questões novas sempre no fim.
+CE | E | Existem sinônimos perfeitos, intercambiáveis em qualquer contexto sem alteração de sentido. | A troca vale no contexto e pode mudar força, registro ou valor jurídico.
+CE | C | Substituir recomendação por determinação em um texto normativo altera o sentido original. | As duas palavras diferem na força e no efeito jurídico.
+CE | E | Vivo e morto são antônimos graduais. | São complementares: não há meio-termo e negar um afirma o outro.
+CE | C | Quente, morno e frio ilustram antonímia gradual. | Há pontos intermediários entre os polos.
+CE | C | Credor e devedor são exemplos de antonímia relacional, também chamada de contraposição. | Os papéis são recíprocos: um implica o outro.
+CE | C | Substituir parecer por documento, na retomada de um termo, mantém a coesão e perde precisão. | Documento é hiperônimo de parecer.
+CE | E | Artigo é um hipônimo de lei. | Artigo é parte da lei (meronímia), não um tipo de lei.
+CE | C | Comissão e Câmara estabelecem entre si relação de meronímia. | Parte e todo.
+CE | E | Manga (fruta) e manga (de camisa) ilustram polissemia. | Os sentidos não têm relação entre si: é homonímia.
+CE | C | Na polissemia, os diferentes sentidos de uma palavra mantêm alguma relação entre si. | Por extensão ou metáfora, como o pé da mesa e o pé da pessoa.
+CE | C | Eminente e iminente são parônimos, pois têm formas parecidas e sentidos diferentes. | Notável e prestes a acontecer.
+CE | E | Ratificar e retificar são sinônimos e podem ser trocados livremente. | Ratificar é confirmar; retificar é corrigir.
+CE | C | Sessão, seção e cessão são homófonos, pois se pronunciam do mesmo modo e têm grafias e sentidos distintos. | Homófonos heterógrafos.
+CE | E | Banco, como assento e como instituição financeira, é exemplo de parônimo. | São homônimos perfeitos: mesma grafia e mesmo som, sentidos sem relação.
+CE | C | Trocar o verbo de uma colocação, mesmo por um sinônimo, pode produzir estranheza, como em fazer uma decisão. | A colocação privilegia certas combinações.
+AB | Parte e todo (comissão e Câmara) é relação de... | meronímia | hiponímia | Hiponímia é a relação de tipo (relatório é um tipo de documento).
+AB | Descrição e discrição são... | parônimos | homônimos perfeitos | Têm formas parecidas e sentidos diferentes: relato e reserva.
+AB | Aprovado e reprovado são antônimos... | complementares | graduais | Não há meio-termo; negar um afirma o outro.

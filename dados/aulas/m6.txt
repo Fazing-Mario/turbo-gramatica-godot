@@ -1,0 +1,151 @@
+=== Básico
+## Coordenação × subordinação
+- **Coordenação**: orações sintaticamente independentes, ligadas lado a lado: "Estudei e passei".
+- **Subordinação**: uma oração exerce função sintática na outra (sujeito, objeto, adjunto...): "Espero **que você passe**" (objeto direto de "espero").
+- **Período misto**: tem coordenação e subordinação.
+
+## Orações coordenadas
+| Tipo | Ideia | Exemplos |
+|---|---|---|
+| Assindética | sem conjunção | Cheguei, vi, venci. |
+| Aditiva | soma | Estudou **e** passou. **Não só** estuda **mas também** trabalha. |
+| Adversativa | oposição, quebra de expectativa | Estudou, **mas** não passou. |
+| Alternativa | alternância, exclusão | **Ou** estuda, **ou** trabalha. |
+| Conclusiva | conclusão | Estudou muito; **logo**, passou. |
+| Explicativa | justifica uma afirmação ou ordem | Saia logo, **pois** vai chover. Choveu, **porque** o chão está molhado. |
+
+> **Explicativa × causal**: a explicativa justifica o que foi dito ("Choveu, pois o chão está molhado": o chão molhado não causou a chuva, só explica por que digo isso). A causal dá a causa real ("O chão está molhado porque choveu").
+> **"E" com valor adversativo**: "Estudou muito e não passou". Sintaticamente é aditiva, mas o sentido é de oposição; a troca por "mas" mantém o sentido.
+
+## Orações subordinadas substantivas
+Exercem funções de substantivo. Teste: substitua a oração por "isso".
+| Tipo | Função | Exemplo |
+|---|---|---|
+| Subjetiva | sujeito | É importante **que você estude**. Convém **que saiam cedo**. Sabe-se **que ele mentiu**. |
+| Objetiva direta | objeto direto | Espero **que venha**. Não sei **se ele virá**. Perguntou **quem chegou**. |
+| Objetiva indireta | objeto indireto | Lembre-se **de que haverá prova**. Gosto **de que me elogiem**. |
+| Completiva nominal | complemento nominal | Tenho certeza **de que vencerá**. Estou convicto **de que errei**. |
+| Predicativa | predicativo do sujeito | O problema é **que ninguém estudou**. |
+| Apositiva | aposto | Só quero uma coisa: **que você volte**. |
+
+- **Subjetiva** aparece com: verbo de ligação + predicativo (é bom que, é necessário que, parece que), verbos como convir, importar, constar, ocorrer, acontecer, e na voz passiva (sabe-se que, foi dito que).
+- A preposição antes do "que" na objetiva indireta e na completiva nominal pode ser **omitida** na linguagem corrente, mas a norma culta a exige: "Tenho certeza **de** que", "Lembre-se **de** que".
+
+## Orações subordinadas adjetivas
+Exercem função de adjetivo e são introduzidas por pronome relativo.
+| Tipo | Pontuação | Sentido | Exemplo |
+|---|---|---|---|
+| Restritiva | sem vírgula | delimita, especifica só uma parte | Os alunos **que estudaram** passaram. (só alguns estudaram) |
+| Explicativa | com vírgula | generaliza, acrescenta informação | Os alunos, **que estudaram**, passaram. (todos estudaram) |
+
+> Pôr ou tirar as vírgulas muda o sentido. Item clássico: "A retirada das vírgulas manteria o sentido do texto." Errado, porque a oração deixa de ser explicativa e passa a ser restritiva.
+
+## Orações subordinadas adverbiais
+| Tipo | Conjunções principais | Exemplo |
+|---|---|---|
+| Causal | porque, como (anteposto), já que, visto que, uma vez que | **Como estava cansado**, dormiu. |
+| Consecutiva | (tão, tanto, tal) que, de modo que | Falou tanto **que ficou rouco**. |
+| Condicional | se, caso, desde que, contanto que, a menos que | **Caso chova**, não vou. |
+| Concessiva | embora, ainda que, mesmo que, conquanto, posto que, por mais que | **Embora chovesse**, saiu. |
+| Comparativa | como, (mais) que, (menos) que, tal qual | Ele corre **como um atleta** (corre). |
+| Conformativa | conforme, consoante, segundo, como | Fiz **conforme combinamos**. |
+| Final | para que, a fim de que | Estudo **para que passe**. |
+| Proporcional | à medida que, à proporção que, quanto mais | **À medida que estudava**, aprendia. |
+| Temporal | quando, enquanto, logo que, assim que, mal | **Mal chegou**, saiu. |
+
+## Orações reduzidas
+Sem conjunção, com o verbo no infinitivo, gerúndio ou particípio. Classifica-se pelo sentido, desenvolvendo-a:
+- "**Ao chegar**, avise." → Quando chegar (temporal, reduzida de infinitivo).
+- "**Estudando**, passará." → Se estudar (condicional, reduzida de gerúndio).
+- "**Terminada a reunião**, saímos." → Quando terminou a reunião (temporal, reduzida de particípio).
+- "É importante **estudar**." → que se estude (subjetiva, reduzida de infinitivo).
+- "Apesar de **estar cansado**, trabalhou." → embora estivesse (concessiva).
+
+=== Avançado
+## O pronome relativo tem função sintática
+O relativo retoma um termo da oração anterior e exerce função na oração adjetiva. Para descobrir, substitua o relativo pelo termo retomado:
+| Período | Desdobramento | Função do relativo |
+|---|---|---|
+| O livro **que** comprei é ótimo. | comprei o livro | objeto direto |
+| O livro **que** caiu é meu. | o livro caiu | sujeito |
+| O filme **a que** assisti foi longo. | assisti ao filme | objeto indireto |
+| A cidade **em que** moro é calma. | moro na cidade | adjunto adverbial |
+| O cargo **de que** precisamos foi criado. | precisamos do cargo | objeto indireto |
+| A notícia **de que** tenho medo saiu. | tenho medo da notícia | complemento nominal |
+| O autor **cujo** livro li morreu. | li o livro do autor | adjunto adnominal |
+| A pessoa **com quem** falei saiu. | falei com a pessoa | objeto indireto |
+
+> A preposição vem **antes** do relativo e depende do verbo (ou nome) da oração adjetiva: "O cargo **a** que ele aspira" (aspirar a), "A lei **a** que obedecemos" (obedecer a), "O tema **sobre** o qual discorreu" (discorrer sobre).
+
+## As funções do "que"
+| Classe | Como reconhecer | Exemplo |
+|---|---|---|
+| Pronome relativo | troca por "o qual, a qual" | O livro que (o qual) li. |
+| Conjunção integrante | a oração troca por "isso" | Espero que venha (espero isso). |
+| Conjunção coordenativa explicativa | = pois | Volte, que está tarde. |
+| Conjunção coordenativa aditiva | = e (em expressões fixas) | Fala que fala. |
+| Conjunção subordinativa causal | = porque | Saí cedo, que estava cansado. |
+| Conjunção subordinativa consecutiva | depois de tão, tanto, tal | Corri tanto que cansei. |
+| Conjunção subordinativa comparativa | depois de mais, menos | É mais alto que o pai. |
+| Conjunção subordinativa concessiva | = embora | Por mais que estude, erra. Pouco que seja, ajuda. |
+| Conjunção subordinativa final | = para que (raro) | Fiz sinal que parasse. |
+| Advérbio de intensidade | = quão, muito | Que lindo! Que bem ele fala! |
+| Pronome interrogativo | em perguntas | Que livro você quer? |
+| Pronome indefinido (adjetivo) | em exclamações com substantivo | Que dia! |
+| Preposição | = de, com ter | Tenho que sair. |
+| Substantivo | com determinante, acentuado | Ela tem um quê de mistério. |
+| Interjeição | sozinho, acentuado | Quê! Você aqui? |
+| Partícula expletiva (de realce) | pode ser retirada | Quase que caí. Eu é que sei. |
+
+## As funções do "se" (revisão completa)
+| Classe | Exemplo |
+|---|---|
+| Partícula apassivadora (VTD + se) | Vendem-se casas. |
+| Índice de indeterminação do sujeito (VTI, VI, VL + se) | Precisa-se de ajuda. Vive-se bem. |
+| Pronome reflexivo | Ela se olhou no espelho. |
+| Pronome reflexivo recíproco | Eles se abraçaram. |
+| Parte integrante do verbo | Ele se arrependeu. Queixou-se. |
+| Partícula expletiva | Foi-se embora. |
+| Conjunção integrante | Não sei se vou. Perguntei se viria. |
+| Conjunção condicional | Se chover, fico. |
+| Conjunção causal (rara) | Se você já sabia, por que perguntou? |
+
+## Pontuação no período composto
+- **Adverbial anteposta (deslocada)**: vírgula recomendada: "Quando cheguei, todos saíram".
+- **Adverbial posposta**: vírgula facultativa, salvo as concessivas e algumas causais, em que a vírgula é usual: "Saiu, embora chovesse".
+- **Substantivas**: **sem vírgula** (são sujeito, objeto...): "É necessário que todos votem" (nunca "É necessário, que todos votem"). A apositiva vem depois de dois-pontos ou vírgula.
+- **Adjetivas**: explicativa com vírgula; restritiva sem.
+- **Coordenadas**: vírgula antes de adversativas, conclusivas e explicativas; antes de "e" quando os sujeitos são diferentes ("O pai saiu, e a mãe ficou") ou com valor adversativo.
+
+=== Pegadinhas
+## Armadilhas clássicas
+- **Vírgula em oração adjetiva muda o sentido**: com vírgula, explicativa (todos); sem vírgula, restritiva (só alguns).
+- **"Que" integrante × relativo**: se a oração troca por "isso", é integrante; se troca por "o qual", é relativo.
+- **"Tenho certeza que" é coloquial**; a norma exige "certeza de que".
+- **"O filme que assisti" está errado na norma**: "O filme a que assisti".
+- **"A cidade que moro" está errado**: "A cidade em que moro" ou "onde moro".
+- **"Como" causal só no início**: "Como choveu, ficamos" (causal); "Fiz como mandaram" (conformativo); "Corre como o pai" (comparativo).
+- **Explicativa × causal**: a explicativa justifica o que se diz; a causal explica o fato.
+- **"Por mais que" é concessiva**.
+- **Oração substantiva não leva vírgula** antes do "que".
+- **Reduzida de gerúndio pode ter vários sentidos**: tempo, causa, condição, concessão. Leia o contexto.
+
+## Itens no estilo Cebraspe (comentados)
+- "Em 'Os candidatos que estudaram foram aprovados', a inserção de vírgulas após 'candidatos' e após 'estudaram' manteria o sentido." **ERRADO**: a oração vira explicativa (todos estudaram).
+- "Em 'É fundamental que o servidor conheça a lei', a oração introduzida por 'que' exerce a função de sujeito." **CERTO**: subjetiva.
+- "No período 'Saiu cedo, pois estava cansado', a conjunção 'pois' poderia ser substituída por 'porquanto'." **CERTO**.
+- "Em 'O relatório de que dispomos é antigo', a preposição 'de' é exigida pelo verbo 'dispor'." **CERTO**: dispor de.
+- "No trecho 'Por mais que se esforce, não consegue', a oração destacada expressa causa." **ERRADO**: concessão.
+- "Em 'Concluído o relatório, o servidor o enviou', a primeira oração é reduzida de particípio com valor temporal." **CERTO**.
+
+=== Revisão rápida
+- Coordenadas: aditiva, adversativa, alternativa, conclusiva, explicativa (+ assindética).
+- Explicativa justifica o dito (pois, porque, que); causal explica o fato.
+- Substantivas (troca por "isso"): subjetiva, objetiva direta, objetiva indireta, completiva nominal, predicativa, apositiva. Sem vírgula.
+- Subjetiva: é bom que, convém que, sabe-se que.
+- Certeza de que; lembrar-se de que (preposição exigida).
+- Adjetiva restritiva (sem vírgula, delimita) × explicativa (com vírgula, generaliza).
+- Relativo tem função sintática; a preposição do verbo vem antes dele (a que assisti, em que moro, de que preciso).
+- Adverbiais: causal, consecutiva, condicional, concessiva, comparativa, conformativa, final, proporcional, temporal.
+- Reduzidas: infinitivo, gerúndio, particípio; classifique desenvolvendo.
+- Que integrante = isso; relativo = o qual; "que" de realce pode sair.

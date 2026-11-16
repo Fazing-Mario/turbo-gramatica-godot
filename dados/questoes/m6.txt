@@ -1,0 +1,29 @@
+# Módulo 6 — Período composto, "que" e "se". Acrescente questões novas sempre no fim.
+CE | C | Em "Os alunos que estudaram passaram", a oração adjetiva é restritiva. | Sem vírgulas, delimita: só os que estudaram passaram.
+CE | E | A inclusão de vírgulas em "Os alunos que estudaram passaram", após "alunos" e após "estudaram", manteria o sentido. | A oração passaria a explicativa: todos os alunos estudaram.
+CE | C | Em "É importante que todos votem", a oração introduzida por "que" é subordinada substantiva subjetiva. | Exerce a função de sujeito de "é importante".
+CE | E | Em "Tenho certeza de que vencerá", a oração destacada é objetiva indireta. | Completa o substantivo certeza: completiva nominal.
+CE | C | Em "Lembre-se de que haverá prova", a oração é objetiva indireta. | Completa o verbo lembrar-se, que pede a preposição de.
+CE | C | Em "O problema é que ninguém estudou", a oração é predicativa. | Funciona como predicativo do sujeito "o problema".
+CE | E | Em "Espero que ele venha", o "que" é pronome relativo. | A oração troca por "isso" (espero isso): conjunção integrante.
+CE | C | Em "O livro que comprei é ótimo", o pronome relativo exerce a função de objeto direto. | Comprei o livro: objeto direto.
+CE | E | "O filme que assisti foi ótimo" está de acordo com a norma-padrão. | Assistir (ver) pede "a": "O filme a que assisti".
+CE | C | Em "A cidade em que moro é tranquila", o relativo exerce a função de adjunto adverbial. | Moro na cidade: lugar.
+CE | C | Em "Saia logo, pois vai chover", a oração introduzida por "pois" é coordenada explicativa. | Justifica a ordem dada.
+CE | E | Em "Estudou; terá, pois, sucesso", "pois" tem valor explicativo. | Depois do verbo e entre vírgulas, pois é conclusivo (= portanto).
+CE | C | Em "Estudou muito e não passou", a conjunção "e" tem valor adversativo. | Há quebra de expectativa; a troca por "mas" mantém o sentido.
+CE | E | Em "Por mais que estude, não aprende", a oração destacada é causal. | "Por mais que" é concessivo.
+CE | C | Em "Falou tanto que ficou rouco", a oração introduzida por "que" é consecutiva. | "Tanto... que" indica consequência.
+CE | C | Em "Ao chegar, avise-me", há oração reduzida de infinitivo com valor temporal. | Equivale a "Quando chegar".
+CE | E | Em "Quase que caí", o "que" é conjunção integrante. | É partícula expletiva (de realce) e pode ser retirada.
+CE | C | Em "Não sei se ele virá", o "se" é conjunção integrante. | A oração é objetiva direta de "sei".
+CE | E | Em "É necessário, que todos participem", a vírgula está correta. | Oração subjetiva funciona como sujeito; não se separa do verbo por vírgula.
+CE | C | Em "Terminada a reunião, todos saíram", há oração reduzida de particípio. | Equivale a "Quando terminou a reunião".
+AB | "O cargo ___ ele aspira": | a que | que | Aspirar (desejar) pede "a".
+AB | "A pessoa ___ conversei saiu": | com quem | que | Conversar com alguém: a preposição vem antes do relativo.
+AB | Classe do "que" em "Que lindo!": | advérbio de intensidade | pronome relativo | Equivale a "quão", "muito".
+AB | Classe do "que" em "Tenho que sair": | preposição | conjunção integrante | Equivale a "de" (tenho de sair).
+AB | "Choveu, pois o chão está molhado": a oração com "pois" é: | explicativa | causal | Justifica a afirmação; o chão molhado não causou a chuva.
+AB | Oração em "Só quero isto: que você volte": | apositiva | predicativa | Explica o termo "isto".
+AB | Valor de "conforme" em "Fiz conforme pediram": | conformidade | proporção | = de acordo com o que pediram.
+AB | Valor de "para que": | finalidade | consequência | = a fim de que.

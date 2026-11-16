@@ -1,0 +1,19 @@
+# Módulo l11 — Tipos textuais e gêneros. Acrescente questões novas sempre no fim.
+CE | E | Narração e dissertação são exemplos de gêneros textuais. | São tipos textuais; gêneros são formas sociais como notícia, ofício e ata.
+CE | C | Os tipos textuais são em número limitado, ao passo que os gêneros textuais são praticamente ilimitados. | Tipos: poucas sequências estáveis. Gêneros: formas históricas e sociais.
+CE | E | Os gêneros textuais são formas fixas e imutáveis. | São relativamente estáveis, mas históricos; novos gêneros surgem sempre.
+CE | C | Um mesmo gênero textual pode combinar diferentes tipos textuais, classificando-se pelo tipo predominante. | É a heterogeneidade tipológica.
+CE | E | Um texto que relata fatos de 1964 no pretérito é obrigatoriamente narrativo. | Se explica causas e efeitos, sem enredo nem personagens, é expositivo.
+CE | E | Um texto que apresenta dados estatísticos é, por isso, expositivo. | Se os dados sustentam uma tese, o texto é argumentativo.
+CE | C | O texto expositivo objetiva informar ou explicar, ao passo que o argumentativo busca convencer. | Saber x acreditar: a diferença de finalidade.
+CE | C | O texto injuntivo busca levar o leitor a agir, valendo-se, por exemplo, do imperativo ou de formas como deve-se. | Manuais, editais e regulamentos têm marcas injuntivas.
+CE | E | O uso do imperativo caracteriza sempre ordem. | Pode ser conselho, sugestão ou convite.
+CE | C | O editorial expressa a opinião do veículo e, em regra, não é assinado. | O artigo de opinião é que é assinado pelo autor.
+CE | E | O resumo caracteriza-se por incluir a avaliação crítica da obra pelo autor. | A resenha avalia; o resumo condensa sem opinião.
+CE | C | A ata registra fatos sem avaliá-los. | É um gênero expositivo; opinar é falha.
+CE | C | A notícia tem como estrutura típica a pirâmide invertida, com o lide no primeiro parágrafo. | O lide responde o quê, quem, quando, onde, como e por quê.
+CE | E | Um edital e uma postagem em rede social pertencem ao mesmo gênero por serem textos que informam. | Podem ter tipologia semelhante, mas são gêneros diferentes, de esferas diferentes.
+CE | C | Na discursiva, entregar um gênero diferente do solicitado compromete a adequação do texto. | O gênero pedido é parte do contrato comunicativo.
+AB | O parecer é um... | gênero textual | tipo textual | Tipos são narração, descrição, exposição, argumentação e injunção.
+AB | Qual gênero costuma ser assinado pelo autor? | artigo de opinião | editorial | O editorial expressa a posição do veículo.
+AB | O texto que busca levar o leitor a agir é o... | injuntivo | descritivo | Descritivo caracteriza; injuntivo orienta ou ordena.

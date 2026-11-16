@@ -1,0 +1,86 @@
+=== Básico
+## Modalizadores: a atitude de quem fala
+**Modalização** é a marca que o enunciador deixa na frase para mostrar **como se posiciona** diante do que diz: certeza, dúvida, obrigação, emoção, limite. Modalizadores podem ser advérbios, verbos auxiliares, adjetivos, expressões e até o **tempo e o modo verbal**.
+
+| Tipo | Exprime | Marcas |
+|---|---|---|
+| **Epistêmico asseverativo** | **Certeza** | evidentemente, sem dúvida, é claro, certamente, naturalmente; de forma alguma (certeza negativa) |
+| **Epistêmico quase-asseverativo** | **Possibilidade**, hipótese | talvez, possivelmente, provavelmente, parece que, deve (probabilidade) |
+| **Delimitador** | **Restringe o domínio** da afirmação | do ponto de vista jurídico, quanto à constitucionalidade, eticamente, em tese, a rigor |
+| **Deôntico** | **Obrigação, permissão, proibição** | é preciso, obrigatoriamente, deve, pode, é proibido, é vedado |
+| **Afetivo / atitudinal** | **Avaliação** e emoção | felizmente, infelizmente, surpreendentemente, lamentavelmente |
+
+## "Deve" e "pode" são ambíguos
+- "Ele **deve** chegar às 8h" (**probabilidade**, epistêmico) x "Você **deve** chegar às 8h" (**obrigação**, deôntico).
+- "Ele **pode** estar lá" (possibilidade, epistêmico) x "Você **pode** entrar" (permissão, deôntico).
+- Para decidir: se o sujeito **tem controle** da ação e há uma regra ou uma ordem, tende a ser **deôntico**. Se é uma **hipótese** sobre o mundo, **epistêmico**.
+
+## Escala de força
+- **Certeza**: sem dúvida > certamente > provavelmente > possivelmente > talvez (da mais forte à mais fraca).
+- Trocar "certamente" por "talvez" altera o grau de comprometimento do autor, o que a banca considera **mudança de sentido**.
+- Um **delimitador** ("quanto à constitucionalidade") **não autoriza** conclusão sobre o mérito: "o projeto é constitucional" não equivale a "o projeto é bom".
+
+=== Avançado
+## Mais marcas de modalização
+| Recurso | Exemplo | Efeito |
+|---|---|---|
+| **Verbos de opinião** | acho, creio, parece-me | Atenuam a asserção |
+| **Verbos de atitude** | lamento, reconheço | Marcam posição |
+| **Advérbios de modo** | francamente, sinceramente | Sinalizam a atitude do falante |
+| **Adjetivos avaliativos** | inaceitável, brilhante | Juízo de valor |
+| **Modo verbal** | subjuntivo (dúvida), imperativo (ordem) | Atitude |
+| **Aspas, itálico** | a "reforma" | Distanciamento |
+| **Futuro do pretérito** | teria feito | Relato sem endosso |
+| **Fórmulas de atenuação** | de certa forma, até certo ponto | Reduz a força |
+
+- **Atenuação** (ou "mitigação") suaviza o impacto de uma afirmação: "Talvez fosse melhor rever o prazo". Muito usada em textos oficiais para **polidez**.
+- **Intensificação** reforça: "É absolutamente necessário".
+- **Modalização e polidez**: um **pedido** com "poderia" e "gostaria" é mais polido que um imperativo.
+
+## Falácias: raciocínios que parecem válidos e não são
+| Falácia | Padrão do erro | Exemplo |
+|---|---|---|
+| **Ad hominem** | Ataca a **pessoa**, não a tese | "Não ouçam o relator; ele já foi multado" |
+| **Espantalho** | **Distorce** a tese alheia e ataca a caricatura | "Querem regular as redes, ou seja, querem censura" |
+| **Falso dilema** | Só **duas** opções extremas, ignorando as intermediárias | "Ou aprovamos esta reforma, ou o país quebra" |
+| **Falsa causa** (post hoc) | Sequência ou correlação vira causa | "Depois da lei, o desemprego subiu; logo, a lei o causou" |
+| **Generalização apressada** | Poucos casos viram regra | "Dois servidores faltaram; servidor não trabalha" |
+| **Apelo à autoridade inadequada** | Fama no lugar de expertise | Ator opinando sobre política monetária |
+| **Ad populum** (maioria) | **Popularidade** como prova | "Milhões compartilharam; deve ser verdade" |
+| **Apelo à tradição** | "Sempre foi assim" | "Sempre se fez assim nesta Casa" |
+| **Apelo à ignorância** | **Ausência de prova** como prova | "Ninguém provou que é seguro; logo, é perigoso" |
+| **Apelo à emoção** | Emoção substitui a prova | "Pense nas crianças!" |
+| **Petição de princípio** (círculo) | A **conclusão** já está na premissa | "A lei é justa porque é correta" |
+| **Falsa analogia** | Comparação que ignora diferenças essenciais | "Gerir o país é como gerir a casa" |
+| **Pergunta complexa** | Pergunta que embute um pressuposto | "Você já parou de desviar verbas?" |
+| **Tu quoque** | "Você também faz" | "Quem é você para me criticar?" |
+| **Ladeira escorregadia** | Uma medida levaria, sem prova, a uma cadeia de desastres | "Se permitir isso, em breve vai valer tudo" |
+
+> Atenção: **citar** um especialista **da área** é argumento de autoridade **legítimo**. A falácia é a autoridade **inadequada** (fora da área) ou o apelo à fama.
+
+## Argumentos legítimos que parecem falácias
+- **Ad hominem circunstancial** não é falácia **se** a característica da pessoa é relevante: questionar a fonte de dados de quem ganha com o resultado é razoável (conflito de interesses).
+- **Analogia** é falácia só se ignora diferenças **essenciais**; usada com cuidado, é argumento válido.
+- **Apelo à tradição**: pode ser válido quando a tradição tem **razão** (um costume que protege direitos).
+
+## Modalização e argumentação
+- O autor **modaliza** para **gerenciar o risco**: a asserção forte pede prova; a hipótese não.
+- Textos de opinião usam **asseverativos** para sustentar a tese ("evidentemente"), o que muitas vezes substitui a prova (cuidado: **evidentemente** pode esconder falta de argumento).
+- Textos técnicos tendem à **delimitação**: "no que tange à técnica legislativa".
+
+=== Pegadinhas
+1. "Em 'O projeto deve ser votado amanhã, segundo o calendário', 'deve' tem valor de obrigação." **Errado,** no contexto: indica probabilidade, conforme o calendário (epistêmico).
+2. "Um delimitador como 'quanto à constitucionalidade' autoriza concluir que o projeto é bom." **Errado.** Restringe a afirmação a um domínio.
+3. "Talvez" e "certamente" expressam o mesmo grau de comprometimento." **Errado.** São de graus opostos na escala.
+4. "'Ou aprovamos a reforma, ou o país quebra' é exemplo de silogismo." **Errado.** É falso dilema.
+5. "Citar um especialista da área é sempre falácia por apelar à autoridade." **Errado.** Autoridade pertinente é argumento legítimo.
+6. "Em 'Querem regular as redes, ou seja, querem censura', há argumento válido de causa e consequência." **Errado.** É espantalho: deturpa a tese do adversário.
+7. "'Milhões compartilharam, logo é verdade' é falácia por apelo à maioria." **Certo.** É o ad populum.
+8. "Todo advérbio terminado em -mente é modalizador." **Errado.** Muitos indicam modo ("rapidamente"); só são modalizadores os que expressam a atitude do falante sobre o que diz.
+
+=== Revisão rápida
+- Modalizadores: **asseverativo** (certeza), **quase-asseverativo** (possibilidade), **delimitador** (domínio), **deôntico** (obrigação e permissão), **afetivo** (avaliação).
+- "Deve" e "pode": **epistêmico** (probabilidade, possibilidade) x **deôntico** (obrigação, permissão).
+- Escala: sem dúvida > certamente > provavelmente > possivelmente > talvez.
+- Falácias: ad hominem, espantalho, falso dilema, falsa causa, generalização apressada, autoridade inadequada, ad populum, tradição, ignorância, emoção, petição de princípio, falsa analogia.
+- Autoridade **da área** é legítima.

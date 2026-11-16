@@ -1,0 +1,114 @@
+=== Básico
+## Figuras de construção (sintaxe)
+Alteram a **estrutura** habitual da frase: omitem, repetem, invertem ou rompem a sequência. O efeito é **expressivo**; o erro é a mesma estrutura **sem intenção**.
+
+| Figura | Mecanismo | Exemplo |
+|---|---|---|
+| **Elipse** | **Omissão** de termo facilmente recuperável | "No plenário, silêncio." (havia) |
+| **Zeugma** | Elipse de termo **já dito** | "Ele votou sim; eu, não." (votei) |
+| **Pleonasmo** | **Redundância intencional**, para ênfase (o vicioso é erro) | "Vi com meus próprios olhos" |
+| **Polissíndeto** | **Repetição** de conectivo | "E discursou, e insistiu, e venceu" |
+| **Assíndeto** | **Ausência** de conectivo | "Chegou, discursou, venceu" |
+| **Anáfora** (figura) | **Repetição** da mesma palavra no **início** de frases ou versos | "Queremos saúde. Queremos escola. Queremos emprego." |
+| **Hipérbato / inversão** | **Alteração da ordem** direta | "Ouviram do Ipiranga as margens plácidas..." |
+| **Anacoluto** | **Quebra** da estrutura sintática: um termo fica solto | "Esses deputados, ninguém confia neles." |
+| **Silepse** | Concordância com a **ideia**, não com a forma (gênero, número ou pessoa) | "Os brasileiros **somos** pacientes" (pessoa) |
+
+## Figuras de som
+| Figura | Mecanismo | Exemplo |
+|---|---|---|
+| **Aliteração** | Repetição de **consoantes** | "O **r**ato **r**oeu a **r**oupa do **r**ei de **R**oma" |
+| **Assonância** | Repetição de **vogais** | "Sou o **a**mante da **a**lva" |
+| **Onomatopeia** | **Imitação** de sons | "tic-tac", "zum-zum" |
+| **Paronomásia** | Jogo com **parônimos** | "Quem casa quer casa" |
+
+> **Cuidado com a palavra "anáfora"**: como **figura**, é a repetição no início de frases (recurso retórico muito usado em discursos); como **mecanismo de coesão**, é a retomada de um termo anterior. O contexto do item diz qual é.
+
+=== Avançado
+## Elipse x zeugma
+| | Elipse | Zeugma |
+|---|---|---|
+| Termo omitido | **Não foi dito antes**, mas é recuperável pelo contexto | **Já foi dito** no texto |
+| Exemplo | "(Estamos) Chegando!" | "Ele votou sim; eu, não." (votei) |
+| Efeito | Concisão, dinamismo | Evita repetição, dá concisão |
+
+- "Eu votei a favor; ele, contra" → **zeugma** (o verbo "votou" já aparece).
+- "No plenário, silêncio" → **elipse** (o verbo "havia" não foi dito antes).
+
+## Pleonasmo: enfático x vicioso
+- **Enfático** (recurso): "Vi com meus próprios olhos", "Subiu lá em cima" (ênfase), "Morreu de morte morrida".
+- **Vicioso** (erro): "**subir para cima**", "**elo de ligação**", "**há anos atrás**", "**encarar de frente**", "**hemorragia de sangue**".
+- Em **redação oficial**, o pleonasmo vicioso fere a **concisão**; o enfático pode ser admitido em discursos.
+- **Objeto direto pleonástico** (construção): "**A mim**, nada me assusta", "Aos amigos, **eles** não esquecem".
+
+## Polissíndeto x assíndeto
+| Figura | Efeito |
+|---|---|
+| **Polissíndeto** | **Lentidão**, ênfase, **acumulação** ("E gritou, e correu, e caiu") |
+| **Assíndeto** | **Rapidez**, dinamismo ("Chegou, viu, venceu") |
+
+## Anáfora (figura): efeito retórico
+- A **anáfora** como figura é típica de **discursos**: "**Queremos** saúde. **Queremos** educação. **Queremos** segurança." Cria **ritmo**, **ênfase** e **unidade**.
+- **Epístrofe**: repetição no **fim** das frases. "Quem é culpado? **Todos**. Quem paga? **Todos**."
+- A **repetição** em discursos **não compromete** a coesão: é **recurso retórico** de ênfase.
+
+## Hipérbato, anacoluto e silepse
+- **Hipérbato** (inversão): "**Ouviram** do Ipiranga as margens plácidas" (ordem: As margens plácidas do Ipiranga ouviram...). Efeito: **solenidade**, **ritmo**.
+- **Anacoluto**: **ruptura** da sintaxe; um termo fica "solto": "**Esses deputados**, ninguém confia **neles**." Comum na **oralidade**.
+- **Silepse** (concordância ideológica):
+  - **De gênero**: "**Vossa Excelência** está **atento**" (concordando com o sexo da pessoa).
+  - **De número**: "A multidão **gritaram**" (nome coletivo; a norma-padrão discute o uso).
+  - **De pessoa**: "Os brasileiros **somos** pacientes" (o falante se inclui).
+
+## Silepse de pessoa e "a gente"
+- "**A gente** somos responsáveis" **não** é silepse aceita pela padrão: "a gente" pede verbo na **3ª pessoa do singular** ("A gente é responsável").
+- A silepse clássica de pessoa é "**Os brasileiros somos**" (o falante se inclui).
+- **Vossa Excelência** (3ª pessoa) com **adjetivo** concordando com o **sexo** do tratado: silepse de gênero **prevista** no Manual.
+
+## Pleonasmo vicioso no cotidiano da Câmara
+| Pleonasmo vicioso | Forma correta |
+|---|---|
+| "Há dez anos **atrás**" | "Há dez anos" |
+| "Elo de ligação" | "Elo" |
+| "Subir **para cima**" | "Subir" |
+| "Fato **real**" | "Fato" |
+| "Encarar **de frente**" | "Encarar" |
+| "**Anexo** junto" | "Anexo" |
+| "Detalhes **minuciosos**" | "Detalhes" |
+| "Surpresa **inesperada**" | "Surpresa" |
+| "Conviver **junto**" | "Conviver" |
+
+## Como a banca cobra
+- "'Eu votei a favor; ele, contra' apresenta **zeugma**" (termo omitido já dito).
+- "A repetição de 'Queremos' é **anáfora**, recurso retórico de **ênfase**".
+- "'Esses deputados, ninguém confia neles' é **anacoluto**".
+- "'Os brasileiros somos pacientes' é **silepse de pessoa**".
+- "A **ausência** de conectivos em 'Chegou, discursou, venceu' é **assíndeto**, que dá **rapidez**".
+- "O **polissíndeto** produz **lentidão** e ênfase".
+
+## Quadro: onde o erro é figura e onde é falha
+| Fenômeno | Figura (se intencional) | Falha (se sem propósito) |
+|---|---|---|
+| Repetição de palavras | Anáfora | Repetição pobre |
+| Redundância | Pleonasmo enfático | Pleonasmo vicioso |
+| Quebra de sintaxe | Anacoluto expressivo | Frase mal construída |
+| Omissão de termo | Elipse | Falta de clareza |
+| Inversão da ordem | Hipérbato | Ordem confusa |
+
+=== Pegadinhas
+1. "'Eu votei a favor; ele, contra' apresenta elipse de termo não mencionado." **Errado.** É zeugma (o termo omitido já apareceu).
+2. "Em 'A gente somos responsáveis', há silepse de pessoa aceita pela norma-padrão." **Errado.** 'A gente' pede verbo na 3ª pessoa do singular; a silepse de pessoa clássica é 'Os brasileiros somos'.
+3. "A repetição de 'Queremos' no início de cada frase de um discurso compromete a coesão e deve ser evitada." **Errado.** É anáfora, recurso retórico de ênfase.
+4. "'Subir para cima' é pleonasmo enfático." **Errado.** É vicioso; fere a concisão.
+5. "O assíndeto produz lentidão e acumulação." **Errado.** Produz rapidez; a lentidão é do polissíndeto.
+6. "O anacoluto é a repetição de conectivos." **Errado.** É a quebra da estrutura sintática; a repetição de conectivos é o polissíndeto.
+7. "O hipérbato consiste na omissão de um termo da oração." **Errado.** É a inversão da ordem direta.
+8. "Aliteração é a repetição de vogais." **Errado.** É a de consoantes; a de vogais é assonância.
+
+=== Revisão rápida
+- **Elipse**: omite termo recuperável. **Zeugma**: omite termo já dito.
+- **Pleonasmo**: enfático (figura) x vicioso (erro: "subir para cima").
+- **Polissíndeto**: repete conectivo (lentidão). **Assíndeto**: sem conectivo (rapidez).
+- **Anáfora** (figura): repetição no início das frases; **coesiva**: retomada.
+- **Hipérbato**: inversão. **Anacoluto**: quebra da sintaxe. **Silepse**: concordância ideológica (gênero, número, pessoa).
+- **Aliteração**: consoantes. **Assonância**: vogais. **Onomatopeia**. **Paronomásia**.

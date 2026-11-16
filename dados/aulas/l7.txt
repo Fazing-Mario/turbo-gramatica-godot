@@ -1,0 +1,87 @@
+=== Básico
+## O texto é uma unidade
+Interpretação é o centro da prova: o professor do curso estima em torno de 70% do que o Cebraspe cobra em língua portuguesa. A regra de ouro: **o texto é uma unidade**. Mesmo quando o item recorta um trecho, leia pelo menos o parágrafo e o propósito global do texto.
+
+## O comando do item: literal ou inferido?
+| O item diz... | Então a resposta deve estar... |
+|---|---|
+| "Segundo o texto", "conclui-se do texto", "o texto afirma", "de acordo com o texto" | **Explícita**: dá para sublinhar |
+| "Infere-se", "depreende-se", "pressupõe-se", "sugere-se", "pode-se concluir" | **Implícita**: deduzida de pistas do texto, **sem extrapolar** |
+
+> Regra prática: se o item diz "o texto **afirma** que X" e X só pode ser deduzido, o item está errado. Se diz "**infere-se** que X" e X decorre das pistas, está certo.
+
+## Os três erros clássicos do candidato
+- **Extrapolação**: ir além do texto, trazer informação, opinião ou conhecimento de mundo que ele não autoriza.
+- **Redução**: tomar uma parte pelo todo; o item restringe um dado que no texto é mais amplo.
+- **Contradição**: afirmar o oposto do que o texto diz (o mais fácil de pegar).
+- Variante: **inversão de causa e efeito**, **troca de sujeito** (quem fez a ação) e **troca de intensidade** ("pode" por "deve", "alguns" por "todos").
+
+## Fato x opinião
+| | Fato | Opinião |
+|---|---|---|
+| O que é | Algo **verificável** | **Juízo** do enunciador |
+| Exemplo | "O projeto foi aprovado por 320 votos" | "O projeto foi, lamentavelmente, aprovado" |
+| Marcas | Dados, datas, nomes, números | Adjetivos avaliativos, advérbios de modo, verbos de opinião ("acho", "parece"), modalizadores |
+
+- Um **dado estatístico** pode servir de argumento a uma opinião: o dado continua **fato**; a conclusão tirada dele é **opinião**.
+- Uma afirmação **falsa** ainda pode ser fato (verificável e refutável); o que a distingue da opinião é a possibilidade de checagem, e não a verdade.
+
+=== Avançado
+## Como ler um texto para a prova
+1. **Leia o título e o primeiro parágrafo**: indicam tema e, às vezes, a tese.
+2. **Ache a tese**: no início (tópico frasal), depois dos argumentos ou diluída no conjunto.
+3. **Marque os conectores** e os modalizadores: mostram a organização e a posição do autor.
+4. **Distinga voz do autor e voz de terceiros**: "segundo X", aspas e citações indicam outra voz.
+5. **Leia o item com cuidado** e compare com o trecho exato: palavra por palavra nos itens que usam "apenas", "somente", "sempre", "nunca", "todo".
+
+## Palavras que viram armadilha
+| Palavra do item | Efeito | Como checar |
+|---|---|---|
+| Apenas, somente, exclusivamente | Restringe: exige que o texto exclua o resto | O texto menciona **outros** casos? |
+| Sempre, nunca, todo, nenhum | Universal: um único contraexemplo derruba | O texto admite exceção? |
+| Pode, é possível | Possibilidade: o texto não precisa afirmar | O texto sustenta a hipótese? |
+| Deve, é obrigatório | Obrigação | O texto usa dever? |
+| Causa, consequência | Relação causal | O texto estabelece o nexo, ou só uma sequência? |
+| Principal, maior, um dos | Escala | "Um dos" não autoriza "o maior" |
+
+## Ideia central, ideias secundárias e título
+- **Ideia central** (tema + tese): o que sobra num bom resumo. Os itens que testam o "objetivo do texto" ou o "ponto de vista do autor" querem a tese, não um detalhe.
+- **Ideias secundárias**: exemplos, dados e comentários que sustentam a central.
+- **Título**: costuma antecipar o tema ou a tese, mas pode ser irônico ou enigmático; confirme com o corpo do texto.
+- **Paráfrase correta** repete o conteúdo com outras palavras **sem alterar** informação nem intensidade. **Resumo correto** só **condensa**, sem opinião.
+
+## Pistas de inferência
+- **Escolha lexical**: "conseguiu" x "tentou"; "alegou" x "afirmou".
+- **Ordem das informações**: o que vem por último, em geral, tem mais peso.
+- **Pontuação**: aspas (ironia, citação ou distanciamento), parênteses (comentário), travessões (inserção enfática).
+- **Elementos paratextuais**: título, subtítulo, fonte, data, ilustração e legenda ajudam a situar o texto.
+- **Tempo e modo verbal**: o futuro do pretérito ("teria sido") indica **relato sem endosso** em notícias.
+
+## Intencionalidade e ponto de vista
+- Todo texto tem **intenção**: informar, convencer, divertir, instruir. A intenção é inferida das escolhas do autor.
+- O **ponto de vista** do autor pode ser claro ("é inaceitável") ou **disfarçado** pela seleção de dados e pela ordem da exposição.
+- O texto jornalístico busca neutralidade, mas a **seleção do que noticiar** e dos adjetivos já revela posição.
+
+## Exemplo comentado
+Texto-base (resumo): "Ao longo de 2023, a Câmara aprovou quatro projetos sobre regulação de aplicativos. Parlamentares ligados ao setor criticaram as propostas; especialistas consultados elogiaram a transparência dos textos."
+- "A Câmara aprovou todos os projetos sobre aplicativos em 2023." → **Errado** (redução/extrapolação): o texto diz quatro projetos sobre regulação de aplicativos, não que foram todos os projetos do tema.
+- "Houve críticas e elogios às propostas." → **Certo** (literal).
+- "Os especialistas apoiaram integralmente o conteúdo das propostas." → **Errado**: elogiaram a transparência, não o conteúdo integral.
+
+=== Pegadinhas
+1. "Segundo o texto, o relator é contrário ao projeto", quando o texto só mostra o relator rebatendo pontos da proposta. **Errado** (o texto não afirma isso). Já "infere-se do texto que o relator é contrário" seria **certo**.
+2. "O texto afirma X", sendo X apenas dedutível. **Errado:** "afirma" pede resposta explícita.
+3. "Um dado estatístico é sempre opinião." **Errado.** O dado é fato; a conclusão é opinião.
+4. "Uma informação falsa deixa de ser fato." **Errado.** Fato é o verificável; a falsidade é aferida pela verificação.
+5. "O título sempre resume a tese do texto." **Errado.** Pode ser irônico ou enigmático.
+6. "Se o texto cita um especialista, o autor concorda com ele." **Errado.** É preciso ver se o autor endossa ou se distancia ("alega", "segundo").
+7. "Um dos principais problemas" autoriza concluir que "é o principal problema." **Errado.** Um dos não é o maior.
+8. "O texto narra fatos de 1964 no pretérito, logo é narrativo." **Errado:** a leitura do tipo depende do foco (veja a aula de tipos).
+
+=== Revisão rápida
+- **Explícito** ("segundo o texto") x **implícito** ("infere-se"). A inferência precisa de **pistas**, não de opinião própria.
+- Erros: **extrapolação**, **redução**, **contradição**; atenção a **intensidade** ("pode" x "deve") e **universais** ("sempre", "todo").
+- **Fato** = verificável. **Opinião** = juízo do enunciador.
+- Dado estatístico = fato; conclusão tirada dele = opinião.
+- Ache a **tese**; marque **conectores** e **modalizadores**; distinga **voz do autor** e **voz de terceiros**.
+- "Um dos" ≠ "o maior". "Teria sido" = relato sem endosso.

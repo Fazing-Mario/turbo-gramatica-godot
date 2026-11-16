@@ -1,0 +1,105 @@
+=== Básico
+## Tipo textual × gênero textual
+- **Tipo textual** é a estrutura linguística predominante, um modo de organizar a linguagem. São poucos: narração, descrição, dissertação (exposição e argumentação), injunção e diálogo.
+- **Gênero textual** é a forma concreta e social de comunicação, com função, suporte e público próprios. São inúmeros: notícia, reportagem, editorial, crônica, carta, e-mail, ofício, receita, bula, edital, charge, resenha, artigo de opinião...
+- **Heterogeneidade tipológica**: um gênero mistura tipos. Uma crônica pode narrar, descrever e argumentar; classifica-se pelo tipo **predominante**.
+
+## Os tipos textuais
+| Tipo | Objetivo | Marcas linguísticas |
+|---|---|---|
+| Narração | contar fatos que se sucedem no tempo | verbos de ação no pretérito perfeito, marcadores temporais (depois, então, naquele dia), personagens, narrador, tempo, espaço, enredo |
+| Descrição | caracterizar seres, objetos, lugares | adjetivos, verbos de estado e de ligação, pretérito imperfeito ou presente, simultaneidade (não há progressão temporal) |
+| Dissertação expositiva | informar, explicar, sem defender opinião | presente atemporal, 3ª pessoa, dados, definições, linguagem objetiva |
+| Dissertação argumentativa | defender um ponto de vista (tese) e convencer | tese + argumentos + conclusão; conectivos de causa, oposição, conclusão; modalizadores |
+| Injunção (instrucional) | orientar, ordenar, instruir | imperativo ou infinitivo, sequência de passos (manuais, receitas, editais, regulamentos) |
+| Diálogo (conversacional) | troca de turnos entre interlocutores | discurso direto, marcas de oralidade (entrevistas, conversas) |
+
+## Elementos da narrativa
+- **Narrador**: em 1ª pessoa (personagem ou testemunha) ou em 3ª pessoa (observador, que só relata, ou onisciente, que conhece pensamentos e sentimentos).
+- **Personagens**: protagonista, antagonista, secundários.
+- **Tempo**: cronológico (dos relógios) ou psicológico (da memória, fora de ordem).
+- **Espaço**: onde ocorre a ação.
+- **Enredo**: situação inicial, complicação (conflito), clímax, desfecho.
+- **Discurso direto** (fala da personagem, com travessão ou aspas), **indireto** (o narrador reproduz a fala: disse que...) e **indireto livre** (a fala ou o pensamento da personagem se mistura à voz do narrador, sem marca).
+
+## Estrutura da argumentação
+- **Tese**: a ideia central defendida.
+- **Argumentos**: as razões que sustentam a tese.
+- **Contra-argumentação**: apresenta a objeção e a refuta ("É verdade que..., mas...").
+- **Conclusão**: retoma a tese, propõe solução ou síntese.
+| Tipo de argumento | Como funciona |
+|---|---|
+| De autoridade | cita especialista ou instituição reconhecida |
+| Por exemplificação | usa casos concretos |
+| Por dados e estatísticas | usa números e pesquisas |
+| De causa e consequência | mostra relações de causa e efeito |
+| Por comparação ou analogia | aproxima situações semelhantes |
+| De consenso | parte de ideia aceita por todos |
+| Por contraste | opõe situações |
+
+=== Avançado
+## Gêneros mais cobrados
+| Gênero | Características |
+|---|---|
+| Notícia | relata fato recente e de interesse público; linguagem objetiva, 3ª pessoa; lide no 1º parágrafo (o quê, quem, quando, onde, como, por quê); estrutura em pirâmide invertida (o mais importante primeiro) |
+| Reportagem | aprofunda um tema; entrevistas, dados, contexto, várias fontes; pode ter mais subjetividade que a notícia |
+| Editorial | opinião do próprio veículo; **sem assinatura**; argumentativo; linguagem formal e impessoal |
+| Artigo de opinião | opinião de um autor que **assina**; argumentativo; pode usar 1ª pessoa |
+| Crônica | fato do cotidiano com olhar pessoal; linguagem leve, humor ou lirismo; reflexão a partir do banal; publicada em jornais e revistas |
+| Conto | narrativa curta, poucos personagens, um conflito central, tempo e espaço reduzidos |
+| Resenha | apresenta e **avalia** uma obra (livro, filme): resumo + crítica |
+| Resumo | condensa as ideias principais, **sem opinião** |
+| Ensaio | reflexão aprofundada e pessoal sobre um tema, com argumentação |
+| Carta do leitor | opinião ou reação de leitor a uma publicação |
+| Charge / tira | humor gráfico; a charge critica fatos da atualidade; a tira narra em quadrinhos |
+| Texto de divulgação científica | explica conhecimento científico para leigos; expositivo; dados, exemplos, analogias |
+| Propaganda / anúncio | persuadir o consumidor; função conativa, imperativo, apelo emocional |
+| Edital, regulamento, manual | injuntivos; normas, prazos, instruções |
+
+## Funções da linguagem
+| Função | Foco | Marcas | Gêneros típicos |
+|---|---|---|---|
+| Referencial (denotativa) | o assunto, a informação | 3ª pessoa, objetividade | notícia, texto científico |
+| Emotiva (expressiva) | o emissor | 1ª pessoa, interjeições, subjetividade | diário, poema lírico, carta pessoal |
+| Conativa (apelativa) | o receptor | 2ª pessoa, imperativo, vocativo | propaganda, discurso político |
+| Fática | o canal, o contato | testes de comunicação ("alô", "entendeu?", "né") | conversas, cumprimentos |
+| Metalinguística | o próprio código | a linguagem explicando a linguagem | dicionário, gramática, poema sobre poesia |
+| Poética | a mensagem em si | ritmo, rima, figuras, jogos de palavras | poema, slogan, letra de canção |
+
+## Correspondência oficial (Manual de Redação da Presidência, 3ª edição)
+- **Princípios**: clareza, precisão, objetividade, concisão, coesão e coerência, impessoalidade, formalidade e padronização, uso da norma-padrão.
+- **Padrão ofício**: a 3ª edição unificou aviso, memorando e ofício no documento chamado **ofício**.
+- **Pronomes de tratamento**: Vossa Excelência para altas autoridades (Presidente, ministros, parlamentares, juízes); Vossa Senhoria para as demais autoridades e particulares. O tratamento "Digníssimo" e as formas "Ilustríssimo" (Ilmo.) e "DD" foram abolidos.
+- **Vocativo**: "Excelentíssimo Senhor Presidente da República" só para chefes de Poder; para as demais autoridades, "Senhor" + cargo ("Senhor Ministro").
+- **Fechos**: **Respeitosamente** para autoridades de hierarquia superior (incluindo o Presidente); **Atenciosamente** para autoridades de mesma hierarquia ou inferior.
+- **Concordância** dos pronomes de tratamento na 3ª pessoa: "Vossa Excelência **decidirá** sobre **seu** pedido".
+
+=== Pegadinhas
+## Armadilhas clássicas
+- **Tipo não é gênero**: "narração" é tipo; "conto" é gênero.
+- **Notícia × reportagem**: a notícia relata o fato; a reportagem o aprofunda.
+- **Editorial não tem assinatura** e expressa a opinião do veículo; artigo de opinião é assinado.
+- **Resumo não tem opinião; resenha tem**.
+- **Descrição não tem progressão temporal**: tudo acontece "ao mesmo tempo".
+- **Crônica pode ser narrativa, descritiva ou argumentativa**: classifique pelo predomínio no trecho.
+- **Texto injuntivo não é só receita**: editais e regulamentos também são.
+- **Função poética não é exclusiva da poesia**: slogans e propagandas usam muito.
+- **Função conativa**: centrada no receptor (imperativo, vocativo).
+- **"Ilustríssimo" e "Digníssimo" foram abolidos** na correspondência oficial.
+
+## Itens no estilo Cebraspe (comentados)
+- "O texto, que apresenta tese e argumentos para defendê-la, classifica-se como dissertativo-argumentativo." **CERTO**.
+- "Por narrar um fato, o texto pertence ao gênero narração." **ERRADO**: narração é tipo, não gênero.
+- "O emprego predominante de verbos no imperativo caracteriza o texto como injuntivo." **CERTO**.
+- "O editorial, por expressar a opinião de seu autor, é sempre assinado." **ERRADO**: expressa a opinião do veículo e não é assinado.
+- "Em 'Compre já e economize!', predomina a função conativa da linguagem." **CERTO**.
+- "Em correspondência oficial dirigida a ministro de Estado, o fecho adequado é 'Respeitosamente'." Depende da hierarquia do remetente: **Respeitosamente** se o remetente for de hierarquia inferior; **Atenciosamente** se for de mesma hierarquia.
+
+=== Revisão rápida
+- Tipo = estrutura (narração, descrição, exposição, argumentação, injunção, diálogo); gênero = forma social (notícia, crônica, ofício...).
+- Narração: ação + tempo; descrição: características, simultaneidade; exposição: informa; argumentação: tese + argumentos; injunção: instrui.
+- Narrador: 1ª pessoa (personagem/testemunha) ou 3ª (observador/onisciente). Discurso direto, indireto, indireto livre.
+- Argumentos: autoridade, exemplo, dados, causa e consequência, comparação, consenso.
+- Notícia (fato, lide, pirâmide invertida) × reportagem (aprofunda); editorial (sem assinatura) × artigo (assinado); resumo (sem opinião) × resenha (com avaliação).
+- Funções: referencial (assunto), emotiva (emissor), conativa (receptor), fática (canal), metalinguística (código), poética (mensagem).
+- Redação oficial: padrão ofício; Vossa Excelência / Vossa Senhoria; Respeitosamente (superior), Atenciosamente (mesma hierarquia ou inferior); sem "Ilmo." e "DD".

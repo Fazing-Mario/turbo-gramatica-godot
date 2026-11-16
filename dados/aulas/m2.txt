@@ -1,0 +1,147 @@
+=== Básico
+## Os elementos que formam a palavra
+| Elemento | O que é | Exemplo |
+|---|---|---|
+| Radical | parte que guarda o sentido básico, comum à família de palavras | **terr**a, **terr**eno, **terr**estre, en**terr**ar |
+| Desinência nominal | indica gênero e número dos nomes | menin**a**, menino**s** |
+| Desinência verbal | modo-temporal e número-pessoal dos verbos | cant**á**va**mos**: -va (pretérito imperfeito), -mos (1ª pessoa do plural) |
+| Vogal temática | liga o radical às desinências | cant-**a**-r (1ª conj.), vend-**e**-r (2ª), part-**i**-r (3ª) |
+| Tema | radical + vogal temática | canta-, vende-, parti- |
+| Afixos | prefixos (antes) e sufixos (depois) do radical | **in**feliz, feliz**mente** |
+| Vogal e consoante de ligação | só facilitam a pronúncia | gas**ô**metro, cafe**t**eira, paul**a**da |
+
+- **Cognatas**: palavras do mesmo radical (pedra, pedreiro, pedregulho, apedrejar).
+- **Vogal temática nominal**: a, e, o átonos finais (mesa, dente, livro). Palavras terminadas em vogal tônica (café, sofá) ou consoante (mar) não têm vogal temática.
+- **Desinência × vogal temática**: em "menina", o a é desinência de gênero (há "menino"); em "mesa", o a é vogal temática (não existe "meso").
+- **Alomorfe**: o mesmo morfema com formas diferentes (in-feliz, im-possível, i-legal; o mesmo prefixo negativo).
+
+## Derivação: palavra nova a partir de uma só
+| Processo | Como reconhecer | Exemplos |
+|---|---|---|
+| Prefixal | acrescenta prefixo | infeliz, desfazer, reler, antivírus |
+| Sufixal | acrescenta sufixo | felizmente, pedreiro, folhagem, cafezinho |
+| Prefixal e sufixal | prefixo e sufixo, mas a palavra existe só com um deles | **des**leal**dade** (existem desleal e lealdade), **in**feliz**mente** |
+| Parassintética | prefixo e sufixo **ao mesmo tempo**: sem um deles a palavra não existe | **en**tard**ecer** (não há "entarde" nem "tardecer"), **a**manh**ecer**, **en**riqu**ecer**, **a**podr**ecer**, **em**pobr**ecer**, **des**alm**ado** |
+| Regressiva | retira o final do verbo e cria substantivo de ação (deverbal) | o combate (combater), a ajuda, o ataque, a venda, o choro, a perda, o castigo |
+| Imprópria (conversão) | muda a classe sem mudar a forma | o jantar, um sim, o porquê, o não; "falar alto" (adjetivo virou advérbio) |
+
+> Teste da parassíntese: tire o prefixo e veja se sobra palavra; depois tire o sufixo. Se nenhuma das duas existir, é parassintética. "Infelizmente": infeliz existe → é sufixal (de infeliz) ou prefixal e sufixal, nunca parassintética.
+
+## Composição: junta dois ou mais radicais
+- **Justaposição**: os elementos ficam inteiros, sem perder fonema: girassol, passatempo, guarda-chuva, pontapé, segunda-feira, mandachuva, bem-te-vi.
+- **Aglutinação**: pelo menos um elemento perde fonema ou acento: planalto (plano + alto), aguardente (água + ardente), embora (em + boa + hora), fidalgo (filho + de + algo), vinagre (vinho + acre), pernalta (perna + alta), boquiaberto (boca + aberto), hidrelétrico (hidro + elétrico).
+
+## Outros processos
+- **Hibridismo**: elementos de línguas diferentes: automóvel (grego + latim), sociologia (latim + grego), burocracia (francês + grego), televisão (grego + latim).
+- **Abreviação (redução)**: foto, moto, pneu, cine, metrô, quilo.
+- **Sigla**: ONU, CPF, IBGE; algumas viram palavras e derivam: petista, celetista (de CLT).
+- **Onomatopeia**: imitação de sons: tique-taque, zunzum, cocoricó.
+- **Empréstimo e estrangeirismo**: palavras de outras línguas, adaptadas (futebol, abajur) ou não (show, software).
+- **Neologismo**: palavra nova (deletar, imexível, internetês).
+
+=== Avançado
+## Prefixos que mais aparecem
+| Prefixo | Sentido | Exemplos |
+|---|---|---|
+| a-, an- (grego) | negação, privação | ateu, anarquia, anônimo, analfabeto |
+| anti- | oposição | antiaéreo, antídoto, antítese |
+| hiper- / hipo- | excesso / posição inferior, escassez | hipertensão / hipotensão, hipodérmico |
+| peri- / circum- | em volta | perímetro, periferia / circunferência, circunavegação |
+| sin-, sim- | reunião, simultaneidade | sinfonia, simpatia, sincronia |
+| ab- / ad- | afastamento / aproximação | abster, abjurar / adjunto, advir |
+| bis-, bi- | duas vezes | bisavô, bípede |
+| ex-, e- | para fora; estado anterior | exportar, emigrar; ex-diretor |
+| in-, im-, i- | negação | infeliz, impossível, ilegal |
+| in-, im-, em-, en- | movimento para dentro | ingerir, importar, enterrar |
+| intra- / extra- | dentro / fora | intravenoso / extraordinário |
+| justa- | ao lado | justapor |
+| ob- | oposição, diante de | obstáculo, objeção |
+| per- | através, movimento completo | percorrer, perfurar |
+| pos-, pós- / pre-, pré- | depois / antes | pospor, pós-guerra / prever, pré-escola |
+| re- | repetição, retrocesso | refazer, regredir |
+| retro- | para trás | retroceder, retroativo |
+| semi- / hemi- | metade | semicírculo / hemisfério |
+| sub- / super-, sobre- | abaixo / acima, excesso | subsolo / superpopulação, sobrecarga |
+| trans-, tras- | através, além | transatlântico, traspassar |
+| ultra- | além do limite | ultrapassar, ultrassom |
+| vice-, vis- | no lugar de | vice-presidente, visconde |
+
+> in- tem dois sentidos: negação (incapaz, ilegal) e movimento para dentro (inalar, imigrar). Emigrar = sair do país; imigrar = entrar.
+
+## Sufixos que mais aparecem
+| Sufixo | Forma | Sentido | Exemplos |
+|---|---|---|---|
+| -ção, -mento, -ura | substantivo | ação ou resultado | formação, julgamento, abertura |
+| -dade, -ez, -eza, -ice, -ismo | substantivo | qualidade, estado | bondade, rapidez, beleza, velhice, heroísmo |
+| -ismo / -ista | substantivo | doutrina / adepto, profissão | budismo / budista, dentista |
+| -eiro | substantivo | profissão, árvore, recipiente | pedreiro, laranjeira, açucareiro |
+| -al, -edo, -ada | substantivo | coleção, coletivo | cafezal, arvoredo, boiada |
+| -inho, -zinho / -ão, -aço | substantivo | diminutivo / aumentativo | livrinho, cafezinho / casarão, ricaço |
+| -oso, -udo | adjetivo | abundância | gostoso, barrigudo |
+| -vel | adjetivo | possibilidade | amável, legível |
+| -ico, -ino, -ense, -ano | adjetivo | relação, origem | político, cristalino, paraense, baiano |
+| -ecer, -escer | verbo | início de ação (incoativo) | amanhecer, envelhecer, florescer |
+| -ear, -izar, -ificar | verbo | ação | passear, realizar, purificar |
+| -mente | advérbio | modo | felizmente (formado a partir do feminino: rapidamente) |
+
+## Radicais gregos e latinos úteis
+| Radical | Sentido | Exemplos |
+|---|---|---|
+| -cracia | poder, governo | democracia, burocracia |
+| -logia | estudo | biologia, sociologia |
+| -grafia | escrita, descrição | ortografia, geografia |
+| -fobia / -filia | aversão / afinidade | xenofobia / bibliofilia |
+| -cida | que mata | homicida, inseticida |
+| -voro | que come | carnívoro, herbívoro |
+| -cultura | cultivo | agricultura, piscicultura |
+| -fero | que produz, que leva | aurífero, mamífero |
+| -metro | medida | termômetro, hidrômetro |
+| -poli | cidade | metrópole, Petrópolis |
+| -teca | coleção | biblioteca, discoteca |
+| orto- | correto | ortografia, ortodoxo |
+| poli- | muitos | polissílabo, poliglota |
+| neo- | novo | neologismo, neonatal |
+| homo- / hetero- | igual / diferente | homônimo / heterogêneo |
+| hidro- | água | hidrelétrica, hidratar |
+| antropo- | homem | antropologia, filantropo |
+
+## Derivação regressiva: verbo ou substantivo primeiro?
+- Se o substantivo indica **ação**, ele vem do verbo (regressiva): o **ataque** ← atacar; a **caça** ← caçar; o **debate** ← debater; a **pesca** ← pescar.
+- Se o substantivo indica **objeto ou substância**, o verbo é que vem dele (sufixal): **âncora** → ancorar; **planta** → plantar; **escova** → escovar.
+
+## Estrutura dos verbos (cai em prova)
+- **Radical**: cant-. **Vogal temática**: -a-. **Desinência modo-temporal (DMT)**: -va- (pretérito imperfeito do indicativo da 1ª conjugação), -ria- (futuro do pretérito), -sse- (imperfeito do subjuntivo), -ra- (mais-que-perfeito).
+- **Desinência número-pessoal (DNP)**: -s (tu), -mos (nós), -is (vós), -m (eles).
+- Em "cantássemos": cant (radical) + a (VT) + sse (DMT) + mos (DNP).
+
+=== Pegadinhas
+## Armadilhas clássicas
+- **"Infelizmente" não é parassintética**: "infeliz" existe sozinho. É derivação sufixal (infeliz + -mente).
+- **"Deslealdade" é prefixal e sufixal**, não parassintética: existem "desleal" e "lealdade".
+- **"Entristecer", "emagrecer", "anoitecer", "esfriar" são parassintéticas**.
+- **"Planalto" e "aguardente" são aglutinação**: perdem fonemas. "Girassol" e "passatempo" são justaposição (só se juntam).
+- **"Embora" é aglutinação** de em + boa + hora.
+- **"O jantar" e "o porquê" são derivação imprópria**: só mudou a classe.
+- **"Ataque", "combate", "pesca" são regressivas**; "âncora", "planta" não (o verbo é que vem delas).
+- **"Automóvel" é hibridismo** (auto, grego + móvel, latim).
+- **Vogal temática × desinência**: em "gata", o a é desinência de gênero; em "mesa", é vogal temática.
+- **"Ilegal", "impossível" e "infeliz" têm o mesmo prefixo** (in-, com alomorfes).
+- **"Imigrar" e "emigrar" não são sinônimos**: entrar no país × sair do país.
+
+## Itens no estilo Cebraspe (comentados)
+- "O vocábulo 'entardecer' é formado por parassíntese." **CERTO**: prefixo e sufixo simultâneos.
+- "Em 'desvalorização', ocorre derivação parassintética." **ERRADO**: há "desvalorizar" (des + valorizar) e depois o sufixo -ção.
+- "A palavra 'pernalta' resulta de composição por aglutinação." **CERTO**: perna + alta, com perda de fonema.
+- "O substantivo 'debate' é formado por derivação regressiva do verbo 'debater'." **CERTO**.
+- "Em 'O olhar dela dizia tudo', 'olhar' é um verbo." **ERRADO**: virou substantivo (derivação imprópria), precedido de artigo.
+- "Os vocábulos 'xenofobia' e 'bibliofilia' têm radicais de sentidos opostos." **CERTO**: aversão × afinidade.
+
+=== Revisão rápida
+- Radical = sentido; desinência = flexão (gênero, número, pessoa, tempo); vogal temática liga radical e desinência; tema = radical + VT.
+- Prefixal (infeliz), sufixal (felizmente), prefixal e sufixal (deslealdade), parassintética (entardecer), regressiva (o ataque), imprópria (o jantar).
+- Parassíntese: prefixo e sufixo ao mesmo tempo; sem um deles a palavra não existe.
+- Regressiva: substantivo de ação tirado do verbo.
+- Justaposição (girassol, passatempo) × aglutinação (planalto, aguardente, embora, fidalgo).
+- Hibridismo: automóvel, sociologia, burocracia, televisão.
+- in- = negação ou para dentro; ex- = para fora ou anterior; hiper- excesso, hipo- inferior.
+- -ecer: início de ação (amanhecer). -mente: advérbio formado do feminino.

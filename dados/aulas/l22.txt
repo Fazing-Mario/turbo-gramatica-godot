@@ -1,0 +1,95 @@
+=== Básico
+## As funções no cotidiano do Parlamento
+A mesma Casa produz textos de **funções diferentes** conforme a situação. Reconhecer a função predominante em cada tipo de texto é o que a banca cobra quando os itens usam exemplos do dia a dia do Legislativo.
+
+| Situação | Função predominante | Por quê |
+|---|---|---|
+| "Sr. Presidente, Sras. e Srs. Deputados, peço o voto 'sim'!" | **Conativa** | Vocativo e apelo ao voto |
+| "Está funcionando o microfone? Posso começar?" | **Fática** | Testa o canal |
+| **Relatório** de comissão, **ata**, **nota técnica** | **Referencial** | Informa com objetividade |
+| Discurso de **pesar** pela morte de um colega, em 1ª pessoa | **Emotiva** | Foco no sentimento do orador |
+| "Para os fins deste Regimento, considera-se líder..." | **Metalinguística** (definição de termo) dentro de texto referencial | O texto define o próprio código que usa |
+| **Lema ou slogan** de campanha com rima | **Poética** e **conativa** | Forma trabalhada a serviço do apelo |
+| **Ementa** de projeto de lei | **Referencial** | Resume objetivamente |
+| **Requerimento** de informação | **Conativa** (pede) e referencial | Solicita algo |
+| **Voto em separado** | **Referencial** e **conativa** | Expõe e convence |
+
+## Marcas típicas
+- **Referencial**: 3ª pessoa, verbos no presente ou pretérito, dados e artigos; "O Plenário aprovou".
+- **Emotiva**: "lamento", "com profunda tristeza", exclamações.
+- **Conativa**: "Convido", "Peço", "Votem", vocativos.
+- **Fática**: "Pois não?", "Posso falar?", "Está me ouvindo?", "Bom dia a todos".
+- **Metalinguística**: "entende-se por", "considera-se", "o termo X significa".
+- **Poética**: rima, aliteração, repetição ritmada em slogans.
+
+## Discurso do dia a dia na Câmara
+| Fala | Função |
+|---|---|
+| "Pela ordem, Sr. Presidente!" | **Conativa** (chama a atenção do Presidente) e **fática** (abre o canal) |
+| "Declaro aberta a sessão." | **Performativa** (ato de fala); em termos de função, **referencial/conativa** |
+| "Senhores, quero registrar minha indignação." | **Emotiva** |
+| "O art. 5º do Regimento diz que..." | **Referencial** |
+| "Por 'quórum' entende-se o número mínimo..." | **Metalinguística** |
+
+=== Avançado
+## Armadilhas específicas do contexto legislativo
+- **Lei e regimento** não são conativos só por conterem "deve" e "é proibido": a banca costuma considerá-los **referenciais** (descrevem e normatizam), **desde que** não haja vocativo nem imperativo dirigido ao leitor. Se houver **imperativo direto** ("Aprove-se"), pode aparecer a conativa.
+- **Ofício**: referencial (informa) ou conativa (solicita); depende do foco: "**Informo** que..." (referencial) x "**Solicito** que..." (conativa).
+- **Discurso de pesar**: a emotiva predomina, mas há referencial (dados da vida do falecido) e **poética**.
+- **Moção de aplauso**: emotiva e conativa (convida à homenagem).
+- **Questão de ordem**: conativa (pede decisão), referencial (cita artigos).
+
+## Conativa: três tipos de apelo
+| Apelo | Marca | Exemplo |
+|---|---|---|
+| **Ordem** | Imperativo | "Aprovem o projeto!" |
+| **Pedido ou súplica** | Subjuntivo, "por favor", "peço" | "Peço a Vossas Excelências que considerem..." |
+| **Convite ou sugestão** | "Convido", "vamos" | "Vamos votar juntos pela saúde" |
+
+- Todos são conativos: o **imperativo** é a marca mais evidente, mas **não a única**.
+- Imperativos **atenuados** ("Faça o favor de...") continuam conativos.
+
+## Referencial em discurso de opinião
+- Um discurso com muitos dados pode ser **referencial** na **forma**, mas **conativo** na **intenção**. A banca pede a função **predominante**, que se obtém pela **finalidade central**: se os dados servem para convencer, a conativa predomina.
+- Um **relatório** descreve (referencial); um **voto do relator** convence (referencial e conativa); uma **ata** registra (referencial).
+
+## Metalinguagem na redação legislativa
+- **Definições legais**: "Para os efeitos desta Lei, considera-se..." → **metalinguística**.
+- **Glossários** e **dicionários**: metalinguísticos.
+- **Manual de redação**: referencial (informa sobre práticas) com trechos **metalinguísticos** (define termos).
+- **LC 95/1998**: ao disciplinar como se elaboram as leis, é **referencial/normativa**; ao definir termos ("a lei é...") é **metalinguística**.
+
+## Quadro-resumo de trocas
+| Se o item diz... | A resposta mais provável |
+|---|---|
+| Vocativo e imperativo | Conativa |
+| Primeira pessoa e exclamação | Emotiva |
+| Terceira pessoa, dados, objetividade | Referencial |
+| Rima, ritmo, trocadilho (sem apelo) | Poética |
+| "Alô? Me ouvem?" | Fática |
+| Definição de termo, explicação da língua pela língua | Metalinguística |
+| Propaganda com rima | Conativa (e poética) |
+| Poema sobre poema | Metalinguística (e poética) |
+| Texto informativo sobre a língua | Referencial |
+
+## Funções da linguagem e adequação
+- A **função** acompanha o **gênero**, mas **não é** o gênero: o mesmo gênero (carta) pode ser **emotivo** (pessoal) ou **referencial** (comercial).
+- Em redação oficial, **predominam** a **referencial** (informar) e a **conativa** (solicitar); a emotiva e a poética são **evitadas** (impessoalidade e objetividade).
+
+=== Pegadinhas
+1. "O Regimento Interno, por conter 'deve' e 'é proibido', tem função conativa predominante." **Errado,** em regra: sem imperativo nem vocativo dirigido ao leitor, a banca tende à referencial.
+2. "Em 'Para os fins deste Regimento, considera-se líder...', a função predominante do texto inteiro é a metalinguística." **Errado.** O texto é referencial; o trecho de definição é metalinguístico.
+3. "O discurso de pesar, por ser formal, é referencial." **Errado.** Predomina a emotiva (foco no sentimento do orador).
+4. "'Está funcionando o microfone?' tem função referencial, pois pergunta sobre um objeto." **Errado.** Testa o canal: fática.
+5. "O imperativo é a única marca da função conativa." **Errado.** Há também o vocativo, o pedido e o convite.
+6. "Todo texto com dados é referencial." **Errado.** Se os dados servem para convencer, a conativa pode predominar.
+7. "O relatório de comissão tem função emotiva." **Errado.** É referencial: informa com objetividade.
+8. "O slogan de campanha com rima é poético, e só poético." **Errado.** A forma poética serve ao apelo: conativa.
+
+=== Revisão rápida
+- **Pedir voto** (vocativo e apelo) = conativa. **Testar o microfone** = fática. **Relatório, ata, nota técnica** = referencial.
+- **Discurso de pesar** em 1ª pessoa = emotiva. **Definição de termo** = metalinguística.
+- **Lei e regimento** sem imperativo nem vocativo = referencial (tendência do Cebraspe).
+- **Slogan** = poética a serviço da conativa.
+- **Informo** (referencial) x **Solicito** (conativa).
+- Redação oficial: predominam referencial e conativa.

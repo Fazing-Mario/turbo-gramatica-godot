@@ -1,0 +1,89 @@
+=== Básico
+## Enunciado x enunciação
+- **Enunciado** é o **produto**: a frase, o texto, o que foi dito.
+- **Enunciação** é o **ato** de produzi-lo, por alguém, para alguém, num lugar e num tempo.
+- O mesmo enunciado ("Declaro aberta a sessão") só tem efeito se dito **pela pessoa certa, no lugar certo**. Por isso a Linguística da enunciação pergunta: **quem fala, de onde e com que efeito?**
+
+| | Enunciado | Enunciação |
+|---|---|---|
+| O que é | Produto, resultado | Ato, processo de produção |
+| Exemplo | "A sessão está aberta." | O fato de o presidente dizer isso, naquele momento |
+| Estudo | Estrutura da frase | Situação, sujeitos, tempo e lugar |
+
+## A enunciação instala eu, tu, aqui e agora (Benveniste)
+- Ao falar, o sujeito se coloca como **eu** e define um **tu** (a quem fala); cria um **aqui** e um **agora**. Por isso Benveniste diz que é na linguagem e pela linguagem que o homem se constitui como **sujeito**.
+- As pessoas do discurso são **eu** (quem fala) e **tu** (a quem se fala). A "terceira pessoa" é a **não pessoa**: aquele de quem se fala, fora da interlocução.
+- A **subjetividade** na linguagem aparece em pronomes, tempos verbais e advérbios.
+
+## Dêixis e dêiticos
+**Dêiticos** são palavras que só se interpretam pela **situação de enunciação**.
+
+| Tipo | Exemplos | Pergunta |
+|---|---|---|
+| **Pessoal** | eu, você, nós, meu, seu | Quem? |
+| **Espacial** | aqui, aí, ali, lá, este, esse, aquele | Onde? |
+| **Temporal** | hoje, ontem, amanhã, agora, ainda, atualmente | Quando? |
+| **Social** | Vossa Excelência, doutor | Qual a posição social? |
+| **Discursiva** | "o seguinte", "como vimos acima" | Em que ponto do texto? |
+
+- "Amanhã votaremos aqui" não diz **quando** nem **onde** sem o contexto da fala.
+- No **discurso indireto**, os dêiticos se **ajustam**: hoje → naquele dia; aqui → ali (aula de discurso relatado).
+
+=== Avançado
+## Marcas de subjetividade
+- O enunciador deixa **marcas** no texto: escolhas lexicais, **adjetivos avaliativos**, **modalizadores**, **pessoa verbal**, **tempo verbal**, até a **pauta** (o que escolhe dizer ou calar).
+- **Neutralidade absoluta não existe.** O gênero jornalístico e o ofício a **perseguem** (efeito de objetividade, com **3ª pessoa** e **voz passiva**), mas a **seleção** dos fatos e das palavras revela posição.
+
+| Recurso | Efeito de sentido |
+|---|---|
+| **1ª pessoa** ("Entendo que...") | Subjetividade explícita; assume a responsabilidade |
+| **3ª pessoa e voz passiva** ("Foi decidido...") | Efeito de objetividade e impessoalidade |
+| **Indeterminação do sujeito** ("Dizem que...") | Esvazia a responsabilidade |
+| **Voz passiva sem agente** | Oculta o agente |
+| **Nós inclusivo** (eu + você) / **exclusivo** (eu + eles) | Aproxima ou separa |
+| **Nominalização** ("a demissão de servidores") | Apaga agente e tempo |
+
+> "Foram cometidos erros" **esconde quem errou**. "Cometemos erros" assume a responsabilidade. A banca cobra esse efeito de **diluição da responsabilidade**.
+
+## Tempo da enunciação e tempo do enunciado
+- **Tempo da enunciação**: o momento em que se fala (o "agora" do falante).
+- **Tempo do enunciado**: o momento do fato relatado.
+- **Presente**: coincide (ou aproxima) o momento da enunciação e o do fato. **Passado**: o fato é anterior. **Futuro**: posterior.
+- Em Benveniste, há dois planos: **discurso** (centrado no eu-tu-aqui-agora: presente, pretérito perfeito composto, futuro, 1ª e 2ª pessoas) e **história** (sem marcas do eu: 3ª pessoa, pretérito perfeito simples, "efeito de objetividade").
+
+## Cena enunciativa: ethos discursivo e posição do enunciador
+- **Locutor** é quem fala no texto (o "eu"); **interlocutor** é o "tu".
+- O **auditório** é o conjunto de leitores ou ouvintes que o enunciador **imagina** e para quem constrói o texto. O **enunciador** adapta a linguagem a esse auditório presumido.
+- O **ethos** (imagem de si) é construído **na enunciação**: o tom, o vocabulário e a postura revelam um caráter ("o técnico experiente", "o homem do povo").
+- A **posição social** do enunciador é parte do sentido: o mesmo enunciado "O projeto é inconstitucional" pesa de modo diferente na boca de um deputado, de um ministro do STF e de um estudante.
+
+## Referência no texto: dêixis e anáfora
+- **Dêixis**: aponta para a **situação** (extra-textual): "**este** plenário".
+- **Anáfora**: aponta para o **próprio texto**: "o relator [...] **ele**".
+- Dêiticos **mudam de referente** conforme o falante; anafóricos **mantêm** o referente do texto.
+- Um mesmo pronome pode ter os dois usos: "**Isso** é inaceitável" (apontando para um objeto na sala = dêixis; retomando o que foi dito = anáfora).
+
+## Como a banca cobra
+1. Identificar **dêiticos** e o que muda quando o texto é transcrito ou relatado.
+2. Distinguir **enunciado** de **enunciação**.
+3. Perguntar o efeito de **voz passiva**, **3ª pessoa** e **indeterminação**.
+4. Pedir a **marca de subjetividade** (adjetivo, modalizador, pessoa verbal).
+5. Pedir o **efeito de objetividade** em notícia ou ofício.
+
+=== Pegadinhas
+1. "Enunciado e enunciação são sinônimos." **Errado.** Enunciado é o produto; enunciação, o ato que o produz.
+2. "O texto jornalístico, por usar a 3ª pessoa, é totalmente neutro." **Errado.** A 3ª pessoa cria efeito de objetividade; a seleção de fatos e palavras revela posição.
+3. "Os dêiticos têm referente fixo, independente da situação." **Errado.** O referente muda com a situação de enunciação.
+4. "Em 'Foram cometidos erros', o agente fica explícito." **Errado.** A voz passiva sem agente oculta o responsável.
+5. "Para Benveniste, a terceira pessoa é uma das pessoas do discurso, ao lado do eu e do tu." **Errado.** É a não pessoa: aquele de quem se fala.
+6. "Hoje, aqui e amanhã são palavras com significado fixo." **Errado.** São dêiticos: dependem de quem fala, onde e quando.
+7. "O ethos é a emoção despertada no auditório." **Errado.** É a imagem que o orador constrói de si na enunciação; a emoção do auditório é pathos.
+8. "A impessoalidade da redação oficial elimina qualquer marca de enunciador." **Errado.** Há marcas (escolhas, tratamento, modalização); o que se busca é o apagamento da pessoa, não a ausência de enunciador.
+
+=== Revisão rápida
+- **Enunciado** = produto. **Enunciação** = ato (quem, para quem, onde, quando).
+- Enunciação instala **eu, tu, aqui, agora** (Benveniste). A 3ª pessoa é a **não pessoa**.
+- **Dêiticos**: pessoais, espaciais, temporais, sociais, discursivos; só se interpretam pela situação.
+- Neutralidade absoluta não existe; 3ª pessoa e voz passiva dão **efeito de objetividade**.
+- Voz passiva sem agente e indeterminação **diluem a responsabilidade**.
+- **Dêixis** aponta para a situação; **anáfora**, para o texto.

@@ -1,0 +1,19 @@
+# Módulo l25 — Concepções de gramática e correção x propriedade. Acrescente questões novas sempre no fim.
+CE | C | A gramática normativa prescreve um padrão de uso e julga os desvios como erros. | Atitude prescritiva: como se deve falar e escrever.
+CE | E | A gramática descritiva tem por objetivo julgar o certo e o errado nas variedades da língua. | Descreve o uso de uma variedade, sem julgar.
+CE | C | A gramática internalizada é o conhecimento intuitivo que todo falante nativo tem de sua língua. | Aproxima-se da competência de Chomsky.
+CE | E | A gramática internalizada é a ensinada na escola. | A ensinada na escola é a normativa.
+CE | C | A gramática reflexiva consiste na atividade de refletir sobre os recursos da língua e seus efeitos de sentido. | Base do ensino de uso, segundo Travaglia.
+CE | C | Para a concepção de linguagem como expressão do pensamento, quem fala bem pensa bem. | Associa-se à gramática normativa.
+CE | C | A concepção de linguagem como instrumento de comunicação vê a língua como código que transmite mensagens do emissor ao receptor. | Relaciona-se a Jakobson e ao estruturalismo.
+CE | E | Na concepção de linguagem como forma de interação, a língua é um código transmissor de mensagens. | Essa é a concepção instrumental; a interacionista vê a linguagem como ação entre sujeitos.
+CE | C | A concepção de linguagem como lugar de interação é a adotada pelos documentos oficiais de ensino. | Relaciona-se a Bakhtin e aos atos de fala.
+CE | C | Correção é a conformidade com a norma-padrão, e propriedade é a adequação do uso à situação, ao gênero e ao sentido pretendido. | São critérios diferentes.
+CE | E | Correção e propriedade são termos sinônimos. | Um texto pode ser correto e impróprio.
+CE | C | Uma ata escrita em linguagem rebuscada e opinativa pode ser correta do ponto de vista gramatical e imprópria ao gênero. | Ata registra fatos, sem opinião.
+CE | C | Na redação oficial, exigem-se tanto a correção quanto a propriedade. | A norma-padrão e a adequação ao gênero.
+CE | C | Empregar ratificar quando se quer dizer retificar é impropriedade vocabular. | Ratificar é confirmar; retificar é corrigir.
+CE | E | A Linguística, ao analisar variedades populares, aponta os erros que elas cometem em relação à norma-padrão. | Descreve e avalia a adequação; não classifica variedades como erradas.
+AB | O conhecimento intuitivo de regras que todo falante tem é a gramática... | internalizada | normativa | A normativa prescreve um padrão.
+AB | A adequação do uso ao contexto e ao gênero é a... | propriedade | correção | Correção é conformidade com a norma-padrão.
+AB | A concepção de linguagem como interação associa-se a... | Bakhtin | Skinner | Skinner é o behaviorista criticado por Chomsky.

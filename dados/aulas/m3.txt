@@ -1,0 +1,147 @@
+=== Básico
+## Substantivo
+Nomeia seres, coisas, ações, estados, qualidades e sentimentos.
+- **Comum × próprio**: cidade × Brasília.
+- **Concreto × abstrato**: concreto tem existência própria, real ou imaginária (casa, Deus, fada, alma); abstrato depende de outro ser (beleza, saudade, corrida, beijo, coragem). Nomes de ações, estados, qualidades e sentimentos são abstratos.
+- **Simples × composto**: chuva × guarda-chuva. **Primitivo × derivado**: pedra × pedreiro.
+- **Coletivo**: alcateia (lobos), cardume (peixes), enxame (abelhas), arquipélago (ilhas), constelação (estrelas), elenco (atores), acervo (obras), vara (porcos), récua (bestas de carga), resma (500 folhas), júri (jurados).
+
+## Gênero do substantivo
+| Tipo | O que é | Exemplos |
+|---|---|---|
+| Biforme | forma para cada gênero | menino/menina, leão/leoa |
+| Heterônimo | radicais diferentes | bode/cabra, genro/nora, cavalheiro/dama |
+| Epiceno | um só gênero para animais; diferencia-se com macho/fêmea | a cobra macho, o jacaré fêmea |
+| Sobrecomum | um só gênero para pessoas | a criança, a testemunha, o cônjuge, a vítima, o indivíduo |
+| Comum de dois gêneros | o artigo mostra o gênero | o/a estudante, o/a colega, o/a jovem, o/a gerente |
+
+**Mudam o sentido com o gênero**: o cabeça (líder) × a cabeça; o capital (dinheiro) × a capital (cidade); o rádio (aparelho) × a rádio (emissora); o grama (peso) × a grama (relva); o moral (ânimo) × a moral (ética); o cisma (separação) × a cisma (desconfiança).
+**São masculinos**: o champanha, o dó, o eclipse, o telefonema, o sósia, o guaraná, o formicida, o lança-perfume, o grama (peso), o diabetes (também a diabetes).
+**São femininos**: a alface, a cal, a dinamite, a omoplata, a ênfase, a libido, a gênese, a comichão, a aguardente, a derme, a apendicite, a sentinela.
+
+## Número do substantivo
+- **-ão**: três plurais: -ões (leões, botões), -ães (pães, cães, capitães, alemães), -ãos (mãos, cidadãos, cristãos, irmãos). Alguns admitem mais de um: aldeões/aldeãos, vulcões/vulcãos, anciões/anciãos/anciães.
+- **-al, -el, -ol, -ul**: troca-se l por is: jornais, papéis, anzóis, azuis. Exceções: males (mal), cônsules (cônsul).
+- **-il**: oxítonas → -is (funis, barris); paroxítonas → -eis (fósseis, répteis, projéteis).
+- **-zinho**: plural do primitivo sem o s + -zinhos: pãezinhos, coraçõezinhos, papeizinhos, florezinhas.
+- **Só no plural**: as férias, os óculos, as núpcias, os pêsames, as condolências, as olheiras.
+- **Plural que muda a vogal (metafonia)**: o tijolo (ô) → os tijolos (ó); ovo → ovos (ó); porco → porcos (ó). Mas o bolo → os bolos (ô).
+
+## Plural dos compostos
+| Caso | Regra | Exemplos |
+|---|---|---|
+| verbo + substantivo | só o segundo varia | guarda-chuvas, beija-flores, para-raios |
+| substantivo + adjetivo, adjetivo + substantivo, numeral + substantivo | os dois variam | amores-perfeitos, boas-vidas, segundas-feiras |
+| substantivo + substantivo | os dois variam | couves-flores, cirurgiões-dentistas |
+| o 2º especifica o 1º (tipo, finalidade) | tradição: só o 1º (hoje também os dois) | navios-escola, pombos-correio, bananas-maçã |
+| com preposição | só o 1º | pés de moleque, mulas sem cabeça |
+| onomatopeias e palavras repetidas | só o 2º | tique-taques, reco-recos, pingue-pongues |
+| advérbio + adjetivo | só o 2º | sempre-vivas, abaixo-assinados |
+
+## Artigo
+- **Definido** (o, a, os, as) determina; **indefinido** (um, uma, uns, umas) generaliza.
+- **Substantiva qualquer palavra**: o não, o belo, um sim, o andar.
+- **"Todo" × "todo o"**: todo dia = qualquer dia, cada dia; todo o dia = o dia inteiro. No plural, o artigo é obrigatório: todos os dias.
+- **"Ambos os"**: ambos os lados (com artigo).
+- **Antes de possessivo**: facultativo (meu livro ou o meu livro). Isso explica a crase facultativa antes de "minha".
+- **"Casa" (lar) e "terra" (oposta a bordo)** recusam artigo quando não especificadas: voltei a casa; desceram a terra.
+
+## Adjetivo
+- **Locução adjetiva** e o adjetivo equivalente: de anjo (angelical), de chuva (pluvial), de prata (argênteo), de abelha (apícola), de boi (bovino), de cabelo (capilar), de chumbo (plúmbeo), de estrela (estelar), de fogo (ígneo), de guerra (bélico), de ilha (insular), de lago (lacustre), de leite (lácteo), de olho (ocular), de ouro (áureo), de pedra (pétreo), de rio (fluvial), de sonho (onírico), de velho (senil), de vento (eólico), de vidro (vítreo), de cidade (urbano), de campo (rural), de irmão (fraterno), de pai (paterno).
+- **Superlativo absoluto sintético erudito**: amicíssimo (amigo), dulcíssimo (doce), facílimo (fácil), paupérrimo (pobre), celebérrimo (célebre), fidelíssimo (fiel), nobilíssimo (nobre), antiquíssimo (antigo), crudelíssimo (cruel), sapientíssimo (sábio), libérrimo (livre), íntegro → integérrimo, magro → macérrimo.
+- **Comparativo de superioridade**: bom → melhor, mau → pior, grande → maior, pequeno → menor. "Mais bom", "mais mau", "mais grande" só quando se comparam duas qualidades do mesmo ser: "Ele é mais bom que inteligente".
+- **Posição muda o sentido**: grande homem (importante) × homem grande (alto); pobre homem (infeliz) × homem pobre (sem dinheiro); alto funcionário (de alto cargo) × funcionário alto.
+
+## Numeral
+- Cardinais, ordinais, multiplicativos (dobro, triplo), fracionários (meio, terço).
+- Leitura de ordinais: até décimo, ordinal (Pedro II = segundo; capítulo 9 = nono); depois de décimo, cardinal (Bento XVI = dezesseis; século XXI = vinte e um). Antes do substantivo, sempre ordinal: o vigésimo primeiro capítulo.
+- **"Um" artigo × numeral**: numeral quando se opõe a outros números ("Comprei um livro, não dois").
+
+=== Avançado
+## Pronomes pessoais
+| Pessoa | Reto (sujeito) | Oblíquo átono | Oblíquo tônico (com preposição) |
+|---|---|---|---|
+| 1ª sing. | eu | me | mim, comigo |
+| 2ª sing. | tu | te | ti, contigo |
+| 3ª sing. | ele, ela | o, a, lhe, se | ele, ela, si, consigo |
+| 1ª pl. | nós | nos | nós, conosco |
+| 2ª pl. | vós | vos | vós, convosco |
+| 3ª pl. | eles, elas | os, as, lhes, se | eles, elas, si, consigo |
+
+- **"Para eu" × "para mim"**: antes de infinitivo, quando o pronome é sujeito, usa-se o reto: "Trouxe o livro para eu ler". Sem verbo depois: "para mim". "Para mim, ler é fácil" está correto: aqui "para mim" é adjunto e o sujeito de "é" é "ler".
+- **"Entre mim e ti"**: preposição pede oblíquo tônico (nunca "entre eu e você").
+- **"Com nós" e "com vós"**: corretos quando seguidos de reforço: com nós dois, com nós mesmos, com nós todos. Sem reforço: conosco.
+- **O, a, os, as**: objeto direto (Encontrei-o). **Lhe, lhes**: objeto indireto (Entreguei-lhe a carta). Erro: "Eu lhe vi" (ver é transitivo direto, logo "Eu o vi").
+- **"Lhe" com valor de posse**: "Beijou-lhe a mão" = beijou a sua mão.
+- **Si e consigo** são reflexivos: só se referem ao próprio sujeito ("Ele trouxe a pasta consigo"). "Quero falar consigo" (= com você) é inadequado na norma brasileira.
+- **Após verbo terminado em r, s, z**: o vira lo (fazê-lo, fi-lo, di-lo); após som nasal, vira no (amam-no, põe-no).
+
+## Pronomes de tratamento
+- Concordam na **3ª pessoa**: "Vossa Excelência está cansado?" "Vossa Senhoria trouxe seus documentos?"
+- **Vossa** quando falamos **com** a autoridade; **Sua** quando falamos **sobre** ela: "Sua Excelência, o Ministro, chegou."
+- O adjetivo concorda com o sexo da pessoa: "Vossa Excelência é generoso" (para homem).
+- Vossa Excelência (altas autoridades), Vossa Senhoria (demais autoridades e particulares, em correspondência), Vossa Magnificência (reitores), Vossa Santidade (papa), Vossa Majestade (reis), Vossa Eminência (cardeais). Juízes recebem Vossa Excelência ("Meritíssimo" é só vocativo).
+
+## Possessivos e demonstrativos
+- **Ambiguidade do "seu"**: "O diretor falou com o funcionário sobre seu salário" (salário de quem?). Solução: "sobre o salário dele".
+- **Este, esse, aquele no espaço**: este (perto de quem fala), esse (perto de quem ouve), aquele (longe de ambos).
+- **No tempo**: este (presente: este ano), esse (passado ou futuro próximo), aquele (passado distante).
+- **No texto**: **este** anuncia o que vai ser dito (catáfora: "Meu lema é este: estudar sempre"); **esse** retoma o que já foi dito (anáfora: "Estudar sempre: esse é meu lema").
+- **Retomando dois termos**: "aquele" retoma o primeiro mencionado e "este" o último: "Pedro e Paulo foram aprovados; este em 1º lugar, aquele em 5º" (este = Paulo).
+- **"O" demonstrativo** (= aquilo, isso): "Não sei o que aconteceu"; "Isso é o que todos queriam".
+- **"Mesmo" como pronome pessoal** ("Ao chegar ao elevador, verifique se o mesmo está parado") é condenado pela norma culta: prefira "se ele está parado".
+
+## Indefinidos
+- **"Algum" depois do substantivo** tem valor negativo: "Livro algum foi devolvido" = nenhum livro.
+- **"Todo" sem artigo** = qualquer ("Todo cidadão tem direitos"); com artigo = inteiro ("Toda a cidade parou").
+- **"Cada"** não se usa sem substantivo: "Custam R$ 5 cada um", não "R$ 5 cada" (a norma estrita condena).
+
+## Relativos (os mais cobrados)
+| Relativo | Uso | Exemplo |
+|---|---|---|
+| que | o mais geral, para pessoas e coisas | O livro que li. |
+| o qual, a qual | variável; evita ambiguidade e vem depois de preposições longas | A filha do diretor, a qual chegou ontem. Os temas sobre os quais falamos. |
+| quem | só pessoas, sempre com preposição quando relativo | A pessoa a quem me referi. |
+| cujo, cuja | posse; concorda com a coisa possuída; nunca leva artigo depois | O autor cujo livro li (nunca "cujo o livro"). |
+| onde | lugar físico (= em que) | A cidade onde nasci. |
+| aonde | lugar com verbos de movimento com a | A praia aonde fomos. |
+| quanto, quantos | depois de tudo, todos, tanto | Leve tudo quanto quiser. |
+| como | depois de modo, maneira, forma | O modo como ele age. |
+| quando | depois de palavras de tempo | Na época quando viajei. |
+
+> A preposição exigida pelo verbo da oração adjetiva vem antes do relativo: "O filme **a** que assisti" (assistir a), "O cargo **a** que aspira" (aspirar a), "A obra **de** cuja autoria se duvida" (duvidar de), "A pessoa **com** quem conversei".
+
+=== Pegadinhas
+## Armadilhas clássicas
+- **"Para mim fazer" está errado**: "para eu fazer" (o pronome é sujeito do infinitivo).
+- **"Entre eu e você" está errado**: "entre mim e você".
+- **"Eu lhe vi" está errado**: "Eu o vi" (ver pede objeto direto).
+- **"Cujo o" nunca**: depois de cujo não vem artigo.
+- **"Onde" para tempo ou situação**: "A reunião onde foi decidido" é condenado (prefira "em que", "na qual").
+- **"Vossa Excelência estais" está errado**: tratamento concorda na 3ª pessoa: "está".
+- **"Este" × "esse" no texto**: esse retoma, este anuncia.
+- **"O champanha", "o telefonema", "a alface", "a cal"**: gêneros cobrados.
+- **"Cidadãos" e "cristãos"** (plural em -ãos); **"capitães" e "alemães"** (-ães).
+- **"Fósseis" e "répteis"** (paroxítonas em -il → -eis).
+- **"Pombos-correio" e "navios-escola"**: tradicionalmente só o primeiro varia.
+- **"Mais bom" pode estar certo** quando se comparam qualidades do mesmo ser.
+
+## Itens no estilo Cebraspe (comentados)
+- "Em 'Pediu para eu revisar o texto', o emprego do pronome 'eu' está correto, pois ele é sujeito do verbo 'revisar'." **CERTO**.
+- "No trecho 'O projeto cujo o relator faltou', a correção seria mantida." **ERRADO**: "cujo relator".
+- "Em 'A cidade onde nasci', o vocábulo 'onde' poderia ser substituído por 'em que'." **CERTO**.
+- "A forma 'Vossa Excelência' exige verbo na segunda pessoa do plural." **ERRADO**: 3ª pessoa.
+- "No período 'Ciência e arte: esta exige talento; aquela, método', 'esta' retoma 'arte'." **CERTO**: este retoma o último termo.
+- "O substantivo 'beijo' é concreto." **ERRADO**: nomeia uma ação; é abstrato.
+
+=== Revisão rápida
+- Abstrato = ação, estado, qualidade, sentimento (beijo, saudade); concreto = ser com existência própria (Deus, fada).
+- Epiceno (a cobra macho), sobrecomum (a criança), comum de dois (o/a estudante).
+- o grama (peso), a grama (relva); o capital (dinheiro), a capital (cidade); o champanha, a alface, a cal.
+- Plural de -ão: ões, ães (pães, capitães), ãos (mãos, cidadãos). -zinho: pãezinhos.
+- Composto: verbo + subst. → só o 2º (guarda-chuvas); subst. + adj. → os dois (amores-perfeitos); com preposição → só o 1º (pés de moleque).
+- Superlativos: amicíssimo, paupérrimo, celebérrimo, facílimo, fidelíssimo.
+- Para eu fazer; entre mim e ti; com nós dois; Eu o vi; entreguei-lhe.
+- Tratamento: 3ª pessoa. Vossa (com quem se fala), Sua (de quem se fala).
+- Este anuncia, esse retoma; aquele = primeiro termo, este = último.
+- Cujo: posse, sem artigo depois. Onde: lugar físico. Preposição do verbo antes do relativo (a que assisti).

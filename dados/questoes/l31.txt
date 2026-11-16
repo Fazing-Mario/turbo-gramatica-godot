@@ -1,0 +1,19 @@
+# Módulo l31 — Padrão ofício: estrutura e formatação. Acrescente questões novas sempre no fim.
+CE | C | O padrão ofício, na 3ª edição do Manual de Redação da Presidência, unificou ofício, memorando e aviso. | Memorando e aviso deixaram de existir como modelos próprios no Manual.
+CE | E | Desde 2018, o memorando é o expediente próprio para comunicações internas, segundo o Manual. | O Manual unificou tudo no padrão ofício.
+CE | C | O local e a data devem constar à direita, por extenso, sem zero à esquerda e com ponto final. | Exemplo: Brasília, 2 de fevereiro de 2018.
+CE | E | A data pode ser escrita como Brasília/DF, 02/02/2018. | A forma correta é por extenso, sem sigla da UF e sem zero à esquerda.
+CE | C | O dia primeiro do mês é grafado com o ordinal, como em 1º de março. | Sem zero à esquerda e com o indicador ordinal.
+CE | C | O assunto deve ser grafado em negrito, com maiúscula após os dois-pontos e ponto final. | Exemplo: Assunto: Encaminhamento do relatório.
+CE | E | O assunto é grafado sem destaque e sem ponto final. | O Manual pede negrito e ponto final.
+CE | C | Em ofício com três ou mais parágrafos, eles devem ser numerados. | Vocativo e fecho não são numerados.
+CE | E | Os parágrafos de um ofício de dois parágrafos devem ser numerados. | A numeração se aplica a ofícios com três ou mais parágrafos.
+CE | C | Se o ofício apenas encaminha documento, o primeiro parágrafo deve citar o documento encaminhado. | A introdução já deve informar o que está sendo encaminhado.
+CE | C | A fonte do padrão ofício é Calibri ou Carlito, corpo 12. | As citações recuadas usam corpo 11 e as notas de rodapé, corpo 10.
+CE | E | A fonte padrão do ofício é Times New Roman, corpo 12. | O Manual de 2018 adota Calibri ou Carlito.
+CE | C | As margens do padrão ofício são de 3 cm à esquerda, 1,5 cm à direita e 2 cm nas margens superior e inferior. | O recuo do parágrafo é de 2,5 cm.
+CE | C | O correio eletrônico, para valer como original, requer certificação digital ICP-Brasil. | O e-mail é documento oficial, mas sem certificação não vale como original.
+CE | C | O Presidente da República assina o ofício sem ter nome e cargo digitados abaixo da assinatura. | Para os demais signatários, nome e cargo são identificados.
+AB | A numeração das páginas do ofício começa a partir da... | segunda página | primeira página | Na primeira página, a numeração não aparece.
+AB | O alinhamento do texto do ofício é... | justificado | à esquerda | O Manual adota o texto justificado.
+AB | O dia 1º de um mês, na data do ofício, escreve-se... | 1º | 01 | Sem zero à esquerda e com o ordinal.

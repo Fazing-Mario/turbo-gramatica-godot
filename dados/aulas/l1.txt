@@ -1,0 +1,87 @@
+=== Básico
+## Por que Linguística pesa tanto no cargo 11
+- A Linguística sustenta a prova objetiva, a discursiva (duas questões de 20 linhas e a peça de 50 linhas) e toda a parte de redação oficial.
+- No Cebraspe, o item quase nunca pede a definição seca: ele coloca o conceito **aplicado a um texto** e pergunta se você o reconhece.
+- Primeiro filtro de muitos itens: a Linguística **descreve** o uso real e julga o que é **adequado ou inadequado**; quem julga "certo ou errado" é a gramática normativa.
+
+## Os quatro conceitos-base
+| Conceito | O que é | Natureza |
+|---|---|---|
+| Linguagem | Faculdade humana ampla de comunicar por símbolos: fala, escrita, gestos, imagens, música | Humana, cognitiva e social |
+| Língua (langue) | Sistema de signos e de regras compartilhado por uma comunidade | Social, coletiva, abstrata |
+| Fala (parole) | Uso concreto e individual da língua numa situação | Individual, concreta, variável |
+| Discurso | Sentidos produzidos na interação, com intenção, valores e contexto | Prática social |
+
+- **Linguagem** é o gênero; a **língua** é uma das suas realizações (a verbal). Há linguagem sem língua: sinais de trânsito, dança, pintura, gestos.
+- **Idioma** é a língua de uma nação ou comunidade (português, inglês). **Dialeto** é uma variedade da língua ligada a um grupo de falantes (região, camada social). Todo falante fala um dialeto; não existe "falar sem sotaque".
+- **Linguagem verbal** usa palavras; **não verbal** usa os demais códigos (imagem, gesto, cor, som). Um texto **misto** combina os dois (charge, propaganda, infográfico) e o item pode exigir a leitura conjunta.
+
+## Língua x fala: o par que abre a prova
+- Saussure separa o **social** do **individual**. A língua é o conjunto de convenções que a comunidade impôs; a fala é o ato de cada pessoa que usa essa língua.
+- Um exemplo no Parlamento: a **língua** é o sistema que permite a um deputado e a um jornalista se entenderem; a **fala** é o discurso que o deputado improvisou ontem na tribuna, com as suas pausas, o seu sotaque e as suas escolhas.
+- A língua só existe porque há falas; as falas só são compreendidas porque há uma língua. Uma pressupõe a outra.
+
+## Linguística x gramática normativa
+| | Linguística | Gramática normativa |
+|---|---|---|
+| Atitude | **Descreve** o que os falantes realmente fazem | **Prescreve** o que se deve fazer |
+| Critério | Adequado ou inadequado ao contexto | Certo ou errado em relação à norma-padrão |
+| Objeto | Qualquer variedade, falada ou escrita | A norma-padrão escrita |
+
+> Palavras do enunciado como "efetivamente", "uso real", "adequação" e "contexto" indicam a abordagem linguística. "Deve-se", "o correto é" e "erro" indicam a normativa.
+
+=== Avançado
+## A Linguística como ciência
+- A Linguística moderna nasce com o **Curso de Linguística Geral** (1916), obra póstuma de Ferdinand de Saussure, montada por seus alunos a partir de anotações de aula. Antes dele, o estudo da língua era sobretudo **histórico e comparativo** (a filologia do século XIX).
+- Saussure propõe que a Linguística tenha **objeto próprio**: a **língua**, estudada em si mesma e por si mesma. Ela é o ponto de vista que cria o objeto: o mesmo som (a vibração do ar) pode ser estudado pela física, pela fisiologia ou pela Linguística, e só a última o trata como parte de um sistema de signos.
+- A língua é um **sistema** em que cada elemento vale pela relação com os outros (o **valor** linguístico): "cabeça" significa o que significa também porque não é "cabelo", "chapéu" nem "cabeceira". Palavras e sons se definem **por oposição**.
+
+## Por que a língua, e não a fala, é o objeto
+| Língua | Fala |
+|---|---|
+| Social: ninguém a cria nem a modifica sozinho | Individual: depende da vontade e da inteligência de cada um |
+| Essencial: sem ela não há comunicação | Acessória e mais ou menos acidental |
+| Sistema homogêneo de signos | Heterogênea: muitos fatores (voz, humor, ambiente) |
+| Fixada no "tesouro" coletivo da comunidade | Executa, a cada vez, uma combinação própria |
+| Pode ser estudada de forma sistemática | Escapa a uma descrição única e completa |
+
+- Saussure descreve o **circuito da fala**: um falante forma o conceito no cérebro, o associa a uma imagem acústica, aciona o aparelho fonador; o som viaja até o ouvinte, que percorre o caminho inverso. A parte **psíquica** e social do circuito é a língua; a parte **fisiológica e física** é a fala.
+- **Cuidado:** dizer que a língua é social não é dizer que ela é "estática". A língua muda no tempo (diacronia, tema da próxima aula), mas essa mudança acontece **pelas falas** que, repetidas e aceitas pela comunidade, viram língua.
+
+## Os ramos da Linguística
+| Ramo | Objeto | Exemplo de pergunta |
+|---|---|---|
+| Fonética e fonologia | Sons: como se produzem; como se organizam em sistema | Por que "pato" e "bato" são palavras diferentes? |
+| Morfologia | Estrutura e formação das palavras | Como se forma "inconstitucionalidade"? |
+| Sintaxe | Combinação das palavras em frases | Quem é o sujeito do período? |
+| Semântica | Significado | A troca de uma palavra por outra mantém o sentido? |
+| Pragmática | O sentido em uso: intenção e contexto | "Você pode me passar o processo?" é pergunta ou pedido? |
+| Sociolinguística | Variação e sociedade | Por que a mesma pessoa fala de modo diferente em situações diferentes? |
+| Psicolinguística | Aquisição e processamento mental | Como a criança aprende a falar? |
+| Linguística textual | O texto como unidade | O que faz de um conjunto de frases um texto? |
+| Análise do discurso | Sentido, ideologia e condições de produção | De que posição fala o enunciador? |
+
+- No edital do cargo 11 estão, sobretudo, **semântica, linguística textual, pragmática, análise do discurso, sociolinguística** e a retórica. Fonética, morfologia e sintaxe aparecem na parte de Gramática.
+
+## Discurso: um passo além da língua e da fala
+- **Texto** é o produto verbal concreto (oral ou escrito). **Discurso** é o texto **em situação**: quem diz, a quem, de que lugar social, com que finalidade e com que efeito.
+- O mesmo texto pode produzir discursos distintos: "Declaro encerrada a sessão" dito pelo presidente da Câmara no plenário é um ato oficial; dito por um aluno num jogo de salão, é brincadeira.
+- A Análise do Discurso vê a língua como **prática social**: o sentido não está só nas palavras, está nas **condições em que elas são ditas**.
+
+=== Pegadinhas
+1. "A língua é individual, pois cada falante a usa de um modo." **Errado.** O uso individual é a **fala**; a língua é social.
+2. "A Linguística estabelece o uso correto da língua." **Errado.** Ela é descritiva; quem prescreve é a gramática normativa.
+3. "Linguagem e língua são sinônimos." **Errado.** Linguagem é a faculdade ampla; a língua é o sistema verbal de uma comunidade. Gestos e imagens são linguagem, mas não língua.
+4. "Sotaque é defeito de pronúncia de quem fala o dialeto de uma região." **Errado.** Todos têm sotaque; é traço natural da variedade, não defeito.
+5. "Para Saussure, a fala é o objeto central da Linguística." **Errado.** É a língua, por ser social, sistemática e homogênea.
+6. "Um texto não verbal, como uma charge só com imagem, não é objeto de leitura linguística." **Errado,** no sentido amplo: é linguagem, lida como texto em situação.
+7. "O discurso se resume ao conjunto de frases de um texto." **Errado.** Inclui o contexto, a intenção, a posição social do enunciador e o efeito.
+8. "Dizer que a língua é social significa que ela nunca muda." **Errado.** Ela muda no tempo, pelas falas aceitas pela comunidade.
+
+=== Revisão rápida
+- **Linguagem** = faculdade ampla (verbal e não verbal). **Língua** = sistema social. **Fala** = uso individual. **Discurso** = sentido em situação social.
+- **Linguística** descreve (adequado/inadequado). **Gramática normativa** prescreve (certo/errado).
+- Saussure: o objeto da Linguística é a **língua**; ela é **sistema**, e cada elemento tem **valor** por oposição aos demais.
+- Língua: social, essencial, homogênea. Fala: individual, acessória, heterogênea.
+- Ramos que o edital mais explora: semântica, linguística textual, pragmática, análise do discurso, sociolinguística, retórica.
+- Idioma = língua de uma nação; dialeto = variedade de um grupo; todos têm sotaque.

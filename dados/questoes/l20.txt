@@ -1,0 +1,19 @@
+# Módulo l20 — Implicatura, discurso e ideologia. Acrescente questões novas sempre no fim.
+CE | C | Para Grice, os falantes seguem o princípio da cooperação, desdobrado nas máximas da quantidade, da qualidade, da relação e do modo. | São quatro máximas conversacionais.
+CE | C | A máxima da relação exige que a contribuição do falante seja pertinente. | A do modo exige clareza e ordem; a da qualidade, que não se diga o que se julga falso.
+CE | E | A máxima do modo exige que o falante diga apenas o que for pertinente ao assunto. | Isso é relação; modo é clareza, ordem e ausência de ambiguidade.
+CE | C | Ao responder Ele é muito pontual sobre a competência de um assessor, o falante pode implicar uma avaliação negativa. | A resposta insuficiente viola a quantidade e gera implicatura.
+CE | C | A implicatura conversacional pode ser cancelada pelo falante, ao contrário do pressuposto. | Ex.: Ele é pontual; aliás, é muito competente.
+CE | E | A implicatura conversacional decorre de marcas linguísticas, como advérbios e verbos de mudança de estado. | Isso caracteriza o pressuposto; a implicatura vem do contexto e da cooperação.
+CE | C | A ironia viola a máxima da qualidade, pois o falante diz o que não pensa para ser entendido de modo contrário. | Que belo trabalho! diante de um trabalho ruim.
+CE | C | A expressão Alguns deputados votaram a favor, por implicatura escalar, sugere que nem todos votaram a favor. | Alguns implica não todos.
+CE | E | Alguns deputados votaram a favor implica logicamente que nenhum votou contra. | Implica apenas não todos; nada se diz sobre votos contrários.
+CE | C | Na Análise do Discurso, o sentido depende da posição de quem fala e das condições de produção do discurso. | O contexto institucional e histórico faz parte do sentido.
+CE | E | Ideologia é sinônimo de mentira deliberada. | É o sistema de valores que orienta a leitura da realidade, presente em todo discurso.
+CE | C | A escolha entre invasão e ocupação, mesmo com o mesmo referente, pode revelar posição ideológica do enunciador. | A escolha lexical marca o lugar de quem fala.
+CE | C | O interdiscurso é o conjunto de discursos anteriores que sustentam cada novo dizer. | É o já-dito que atravessa o discurso.
+CE | C | O enquadramento de uma notícia influencia a interpretação do fato pelo leitor. | O modo de apresentar o fato orienta o sentido.
+CE | E | A semântica trata do sentido em uso, e a pragmática, apenas do significado de dicionário. | O inverso: semântica trata do significado; pragmática, do sentido em uso.
+AB | A máxima que pede clareza e ordem é a... | modo | relação | Relação trata da pertinência.
+AB | Qual informação pode ser cancelada pelo falante? | a implicatura | o pressuposto | O pressuposto resiste à negação.
+AB | O conjunto de discursos anteriores que sustentam um dizer é o... | interdiscurso | locutor | O locutor é o responsável pelo enunciado.

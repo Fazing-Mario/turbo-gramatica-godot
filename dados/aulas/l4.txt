@@ -1,0 +1,77 @@
+=== Básico
+## Significado, sentido e referente
+Semântica estuda o significado. No Cebraspe ela aparece quase sempre como **troca de palavras** ("a substituição de X por Y manteria o sentido?") ou como **valor de uma expressão no contexto**.
+
+| Termo | Pergunta-guia | Exemplo |
+|---|---|---|
+| **Significado** (lexical) | O que a palavra quer dizer no sistema, no dicionário? | "Cadeira": móvel para sentar |
+| **Sentido** (contextual) | Que valor ela assume neste enunciado? | "Ocupa uma cadeira no Senado": cargo |
+| **Referente** | A que entidade do mundo ela aponta? | O senador concreto de quem se fala |
+
+- **Significado ≠ referente.** "Unicórnio" e "dragão" têm significado, mas não têm referente no mundo real. Toda palavra de classe aberta tem significado; nem todas têm referente.
+- Uma mesma palavra tem **um significado** de dicionário e **vários sentidos** possíveis, conforme o contexto.
+- **Referência** é a ação de apontar para algo do mundo, feita por um falante, em um enunciado. A mesma expressão pode ter referentes diferentes em enunciados diferentes ("o presidente" em 2010 e em 2023).
+
+## Denotação e conotação
+- **Denotação**: sentido convencional, mais estável, geralmente a primeira acepção do dicionário.
+- **Conotação**: soma de valores, associações e avaliações que dependem do contexto e da cultura. "Brasília", como símbolo do poder; "cobra", como pessoa traiçoeira.
+- Nenhuma é "mais correta": o texto jornalístico tende à denotação; o literário e o publicitário exploram a conotação. Mas **um texto informativo também pode usar conotação** para marcar posição.
+
+=== Avançado
+## O triângulo semântico (Ogden e Richards)
+| Vértice | Também chamado | Exemplo: "cadeira" |
+|---|---|---|
+| **Símbolo** | A palavra, o signo, o significante | A palavra "cadeira" |
+| **Pensamento / referência** | O conceito, o significado | A ideia de móvel com assento |
+| **Referente** | A coisa do mundo | Uma cadeira real |
+
+- A ligação **símbolo–referente** é **indireta**: passa pelo conceito. Não nomeamos as coisas diretamente; nomeamos o que pensamos delas.
+- Isso explica por que duas pessoas podem **discordar sobre a palavra** sem discordar sobre a coisa (e vice-versa).
+
+## Sentido e referência em Frege
+- Frege mostrou que duas expressões podem ter **o mesmo referente e sentidos diferentes**. O clássico: "estrela da manhã" e "estrela da tarde" apontam para o planeta Vênus, mas apresentam o objeto por modos distintos.
+- No Parlamento: "a Casa do povo" e "a Câmara dos Deputados" têm o **mesmo referente**; o primeiro modo de apresentação é mais valorativo.
+- **Correferência**: dois termos que apontam para a mesma entidade no texto. É a base da **coesão referencial**: "O ministro [...] A autoridade [...] Ele".
+- Consequência: trocar uma expressão por outra de mesmo referente **mantém a referência**, mas pode **alterar o sentido**, o tom e a avaliação.
+
+## Ambiguidade e desambiguação
+- **Ambiguidade** é quando a expressão admite mais de uma leitura. Há três tipos mais cobrados:
+  - **Lexical**: a palavra tem mais de um sentido ("A manga estava manchada": fruta ou parte da camisa).
+  - **Estrutural (sintática)**: a organização da frase permite duas análises ("O deputado conversou com o assessor em seu gabinete": de quem é o gabinete?).
+  - **Referencial**: o pronome admite dois antecedentes ("O relator disse ao presidente que ele estava errado").
+- O que **elimina** as leituras incompatíveis: o **contexto**, o **conhecimento de mundo**, a **entonação** (na fala) e o **campo semântico** ativado.
+- Em **redação oficial**, a ambiguidade é defeito grave: fere a clareza e a precisão. Em texto literário ou publicitário, pode ser recurso expressivo.
+
+## Campo lexical e campo semântico
+| | Campo lexical | Campo semântico |
+|---|---|---|
+| Critério | **Forma**: palavras do mesmo radical | **Sentido**: palavras ligadas a um mesmo tema |
+| Exemplo | importante, importância, importar, importante | relator, emenda, plenário, votação, quórum |
+| Cuidado | Mesmo radical **não garante** mesmo sentido: "porto" e "portuário", sim; "importar" (trazer) e "importar" (ter relevância) divergem | O campo depende do texto: "sessão" é do campo do Parlamento numa notícia e do cinema em outra |
+
+- Campos semânticos criam **isotopia**: a repetição de traços de sentido que dá unidade ao texto. Palavras como "ficha", "voto", "urna" e "apuração" sustentam a isotopia eleitoral.
+- **Antônimos argumentativos** aparecem em textos de opinião: "invasão" x "ocupação", "empreendedores" x "trabalhadores precarizados". A escolha entre os rótulos revela o **ponto de vista** do enunciador, mesmo quando o referente é o mesmo.
+
+## Mudança de sentido
+- **Extensão** (o sentido se amplia): "papel", que vem do papiro, passou a nomear qualquer folha de papel. **Restrição** (o sentido se estreita): uma palavra de sentido amplo passa a designar só uma parte do que designava. **Melhoria** e **pejoração**: "ministro" (servo, no latim) ganhou prestígio; "vilão" (morador da vila) ganhou carga negativa.
+- Em textos antigos, o item pode pedir que você **não** aplique o sentido atual de uma palavra.
+
+=== Pegadinhas
+1. "Ao chamar a Câmara de 'aquela Casa de negócios', o autor muda o referente da expressão." **Errado.** Muda a avaliação (conotação); o referente é o mesmo.
+2. "Toda palavra com significado possui um referente no mundo." **Errado.** "Dragão" tem significado e não tem referente real.
+3. "Denotação é o sentido correto; conotação é o sentido errado ou incorreto." **Errado.** Nenhuma é mais correta: a conotação depende do contexto.
+4. "'Importante' e 'importância' pertencem ao mesmo campo semântico em qualquer texto." **Errado.** Pertencem ao mesmo campo **lexical**; o campo semântico depende do tema.
+5. "'Estrela da manhã' e 'estrela da tarde' têm o mesmo sentido porque têm o mesmo referente." **Errado.** Mesmo referente, sentidos diferentes.
+6. "Em 'O relator disse ao presidente que ele estava errado', não há ambiguidade." **Errado.** O pronome 'ele' admite dois antecedentes.
+7. "A ambiguidade é sempre defeito, inclusive em texto literário." **Errado.** Em textos literários e publicitários pode ser recurso expressivo.
+8. "A escolha entre 'invasão' e 'ocupação' é neutra, pois ambas designam o mesmo fato." **Errado.** A escolha marca posição, ainda que o referente seja o mesmo.
+
+=== Revisão rápida
+- **Significado** (sistema) x **sentido** (contexto) x **referente** (coisa do mundo).
+- Significado ≠ referente: "dragão" tem significado sem referente.
+- **Denotação** (convencional) x **conotação** (contextual, avaliativa). Nenhuma é "mais correta".
+- **Triângulo semântico**: símbolo, conceito, referente. A ligação palavra–coisa é indireta.
+- **Frege**: mesmo referente pode ter sentidos diferentes (estrela da manhã e da tarde, Vênus).
+- **Ambiguidade**: lexical, estrutural e referencial. O contexto e o campo semântico desambiguam. Em redação oficial, é defeito.
+- **Campo lexical** = mesmo radical. **Campo semântico** = mesmo tema.
+- **Antônimos argumentativos** revelam ponto de vista (invasão x ocupação).

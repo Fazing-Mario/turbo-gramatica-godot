@@ -1,0 +1,5500 @@
+{
+	"perguntas": [
+		{
+			"id": "m1q0",
+			"modulo": "m1",
+			"tipo": "ce",
+			"enunciado": "As palavras \"heroico\" e \"ideia\" perderam o acento gráfico com o Acordo Ortográfico de 1990, ao passo que \"herói\" e \"papéis\" o conservam, por terem a tônica na última sílaba, em ditongo aberto.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Os ditongos abertos éi/ói perderam o acento só nas paroxítonas. Nas oxítonas (herói, papéis) ele continua."
+		},
+		{
+			"id": "m1q1",
+			"modulo": "m1",
+			"tipo": "ce",
+			"enunciado": "A grafia \"feiúra\" está correta, pois o u tônico forma hiato com a vogal anterior e está sozinho na sílaba.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Em paroxítona, o i ou u tônico que vem depois de ditongo não leva acento: feiura. Em oxítona o acento fica (Piauí)."
+		},
+		{
+			"id": "m1q2",
+			"modulo": "m1",
+			"tipo": "ce",
+			"enunciado": "Mantêm acento diferencial as formas \"pôde\" (pretérito perfeito) e \"pôr\" (verbo), mas não o verbo \"para\", que se confunde graficamente com a preposição.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Esses são os casos de diferencial que sobreviveram. 'Para' (verbo) perdeu o acento."
+		},
+		{
+			"id": "m1q3",
+			"modulo": "m1",
+			"tipo": "ce",
+			"enunciado": "As grafias \"anti-inflamatório\", \"autoescola\", \"contrarregra\" e \"micro-ondas\" estão todas de acordo com a ortografia oficial.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Vogal igual leva hífen (anti-inflamatório, micro-ondas); vogal diferente junta (autoescola); diante de r, junta e dobra (contrarregra)."
+		},
+		{
+			"id": "m1q4",
+			"modulo": "m1",
+			"tipo": "ce",
+			"enunciado": "Em \"Ninguém soube explicar por que a sessão foi suspensa\", o \"por que\" deveria ser grafado junto, pois introduz a causa da suspensão.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "É uma interrogativa indireta (= por qual motivo), por isso fica separado."
+		},
+		{
+			"id": "m1q5",
+			"modulo": "m1",
+			"tipo": "ce",
+			"enunciado": "Em \"eles têm\" e \"eles veem\", o acento circunflexo cumpre a mesma função: distinguir a 3ª pessoa do plural da do singular.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "'Veem' não tem acento desde o Acordo. Só 'têm' e 'vêm' têm o circunflexo de plural."
+		},
+		{
+			"id": "m2q0",
+			"modulo": "m2",
+			"tipo": "ce",
+			"enunciado": "\"Entardecer\" e \"deslealdade\" são formadas por parassíntese, pois ambas apresentam prefixo e sufixo.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "'Entardecer' é parassintética (não existem *entarde nem *tardecer). 'Deslealdade' é prefixal e sufixal, porque 'desleal' e 'lealdade' existem."
+		},
+		{
+			"id": "m2q1",
+			"modulo": "m2",
+			"tipo": "ce",
+			"enunciado": "Os substantivos \"combate\" e \"pesca\" são formados por derivação regressiva, a partir dos verbos correspondentes.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "É a derivação deverbal: a redução do verbo forma um substantivo de ação."
+		},
+		{
+			"id": "m2q2",
+			"modulo": "m2",
+			"tipo": "ce",
+			"enunciado": "Em \"O jantar oferecido pela Mesa agradou aos convidados\", a palavra \"jantar\" exemplifica derivação imprópria.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "O infinitivo foi usado como substantivo, sem mudar de forma: é conversão."
+		},
+		{
+			"id": "m2q3",
+			"modulo": "m2",
+			"tipo": "ce",
+			"enunciado": "\"Planalto\" e \"girassol\" exemplificam, respectivamente, composição por justaposição e por aglutinação.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Está invertido. 'Planalto' é aglutinação (perda de som) e 'girassol' é justaposição."
+		},
+		{
+			"id": "m2q4",
+			"modulo": "m2",
+			"tipo": "ce",
+			"enunciado": "\"Automóvel\" é exemplo de hibridismo, por combinar um elemento grego e um latino.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "auto- (grego) + móvel (latim)."
+		},
+		{
+			"id": "m2q5",
+			"modulo": "m2",
+			"tipo": "ce",
+			"enunciado": "Em \"cantávamos\", \"-a-\" é vogal temática, \"-va-\" é desinência modo-temporal e \"-mos\" é desinência número-pessoal.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Segue a estrutura radical + VT + DMT + DNP."
+		},
+		{
+			"id": "m3q0",
+			"modulo": "m3",
+			"tipo": "ce",
+			"enunciado": "Em correspondência oficial dirigida a um deputado, está correto escrever \"Vossa Excelência está preocupado com seus eleitores\".",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Verbo e possessivo na 3ª pessoa; o adjetivo concorda com o sexo da pessoa."
+		},
+		{
+			"id": "m3q1",
+			"modulo": "m3",
+			"tipo": "ce",
+			"enunciado": "Segundo o Manual de Redação da Presidência da República (2018), o vocativo \"Excelentíssimo Senhor\" é reservado aos chefes de Poder, e as demais autoridades são tratadas por \"Senhor\" seguido do cargo.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Essa é a orientação da 3ª edição do MRPR."
+		},
+		{
+			"id": "m3q2",
+			"modulo": "m3",
+			"tipo": "ce",
+			"enunciado": "Em \"Todo o país protestou\", a expressão \"todo o\" tem valor de \"qualquer\", diferentemente do que ocorre em \"Todo país tem leis\".",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Está invertido. 'Todo o país' = o país inteiro; 'todo país' = qualquer país."
+		},
+		{
+			"id": "m3q3",
+			"modulo": "m3",
+			"tipo": "ce",
+			"enunciado": "No trecho \"Saúde e educação são prioridades; esta exige mais recursos humanos\", o pronome \"esta\" retoma \"saúde\".",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "'Esta' retoma o termo mais próximo: educação."
+		},
+		{
+			"id": "m3q4",
+			"modulo": "m3",
+			"tipo": "ce",
+			"enunciado": "A alteração da posição do adjetivo em \"um homem grande\" e \"um grande homem\" acarreta mudança de sentido.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Uma expressão fala de tamanho, a outra de valor."
+		},
+		{
+			"id": "m3q5",
+			"modulo": "m3",
+			"tipo": "ce",
+			"enunciado": "Em \"O meu primeiro mandato\", o artigo, o pronome possessivo e o numeral exercem a função de adjunto adnominal.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Os três determinam o núcleo 'mandato'."
+		},
+		{
+			"id": "m4q0",
+			"modulo": "m4",
+			"tipo": "ce",
+			"enunciado": "No período \"O ministro teria recebido vantagens indevidas\", o emprego do futuro do pretérito indica que o enunciador assume o fato como certo.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "O futuro do pretérito marca incerteza ou distanciamento: o enunciador não se compromete com o fato."
+		},
+		{
+			"id": "m4q1",
+			"modulo": "m4",
+			"tipo": "ce",
+			"enunciado": "Em \"Queria solicitar a Vossa Excelência um prazo adicional\", o pretérito imperfeito tem valor de polidez, atenuando o pedido.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "É o imperfeito de cortesia."
+		},
+		{
+			"id": "m4q2",
+			"modulo": "m4",
+			"tipo": "ce",
+			"enunciado": "A correlação verbal em \"Se o projeto for aprovado, a Câmara votaria a emenda na semana seguinte\" está de acordo com a norma-padrão.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "A correlação certa é 'for → votará' ou 'fosse → votaria'."
+		},
+		{
+			"id": "m4q3",
+			"modulo": "m4",
+			"tipo": "ce",
+			"enunciado": "As conjunções \"embora\", \"conquanto\" e \"posto que\" podem introduzir orações subordinadas adverbiais concessivas.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Na norma-padrão, 'posto que' é concessiva."
+		},
+		{
+			"id": "m4q4",
+			"modulo": "m4",
+			"tipo": "ce",
+			"enunciado": "Em \"À medida que a sessão avançava, os deputados deixavam o plenário\", a substituição de \"À medida que\" por \"Na medida em que\" preservaria o sentido original.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "'À medida que' é proporção; 'na medida em que' é causa. O sentido muda."
+		},
+		{
+			"id": "m4q5",
+			"modulo": "m4",
+			"tipo": "ce",
+			"enunciado": "Em \"Estude, pois a prova é difícil\", \"pois\" é explicativo; em \"A prova é difícil; estude, pois, com afinco\", \"pois\" é conclusivo.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Antes do verbo, é explicativo; depois do verbo e entre vírgulas, conclusivo."
+		},
+		{
+			"id": "m5q0",
+			"modulo": "m5",
+			"tipo": "ce",
+			"enunciado": "Em \"Vendem-se apartamentos funcionais\", o \"se\" é índice de indeterminação do sujeito, razão por que o verbo poderia ficar no singular.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "'Vender' é VTD, então o 'se' é apassivador. O sujeito é 'apartamentos' e o verbo tem de ir ao plural."
+		},
+		{
+			"id": "m5q1",
+			"modulo": "m5",
+			"tipo": "ce",
+			"enunciado": "Em \"Precisa-se de técnicos legislativos\", o verbo no singular está correto, pois o \"se\" indetermina o sujeito de verbo transitivo indireto.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Com VTI + se, o sujeito é indeterminado e o verbo fica no singular."
+		},
+		{
+			"id": "m5q2",
+			"modulo": "m5",
+			"tipo": "ce",
+			"enunciado": "Em \"A invenção do rádio transformou a comunicação\", o termo \"do rádio\" é complemento nominal.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "O rádio é o que foi inventado (paciente)."
+		},
+		{
+			"id": "m5q3",
+			"modulo": "m5",
+			"tipo": "ce",
+			"enunciado": "Em \"A casa de Pedro foi tombada\", o termo \"de Pedro\" é complemento nominal, por estar preposicionado.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Indica posse, então é adjunto adnominal. Estar preposicionado não basta para ser CN."
+		},
+		{
+			"id": "m5q4",
+			"modulo": "m5",
+			"tipo": "ce",
+			"enunciado": "Em \"Os deputados consideraram a proposta inviável\", \"inviável\" exerce a função de predicativo do objeto.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Qualifica o objeto 'a proposta' por meio do verbo: 'consideraram-na inviável'."
+		},
+		{
+			"id": "m5q5",
+			"modulo": "m5",
+			"tipo": "ce",
+			"enunciado": "Em \"Brasília, capital federal, sedia o Congresso Nacional\", o termo \"capital federal\" é vocativo.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "É aposto explicativo: retoma 'Brasília'. Vocativo é chamamento."
+		},
+		{
+			"id": "m6q0",
+			"modulo": "m6",
+			"tipo": "ce",
+			"enunciado": "Em \"Os servidores, que concluíram o curso, foram promovidos\", a supressão das vírgulas manteria o sentido original do período.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Sem as vírgulas, a oração fica restritiva: só os que concluíram o curso. O sentido muda."
+		},
+		{
+			"id": "m6q1",
+			"modulo": "m6",
+			"tipo": "ce",
+			"enunciado": "O período \"O parecer cujo o relator é o deputado X foi aprovado\" está gramaticalmente correto.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "'Cujo' não admite artigo depois: 'cujo relator'."
+		},
+		{
+			"id": "m6q2",
+			"modulo": "m6",
+			"tipo": "ce",
+			"enunciado": "Em \"Este é o dispositivo a que me referi\", a preposição antes do pronome relativo é exigida pelo verbo \"referir-se\".",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Quem se refere, refere-se a algo. A preposição vai antes do relativo."
+		},
+		{
+			"id": "m6q3",
+			"modulo": "m6",
+			"tipo": "ce",
+			"enunciado": "Em \"É necessário que todos compareçam à votação\", a oração \"que todos compareçam à votação\" é subordinada substantiva subjetiva.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Ela é o sujeito de 'é necessário' (isso é necessário)."
+		},
+		{
+			"id": "m6q4",
+			"modulo": "m6",
+			"tipo": "ce",
+			"enunciado": "Em \"Tenho certeza de que ele votará\", a oração introduzida por \"de que\" é subordinada substantiva objetiva indireta.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Completa o nome 'certeza', então é completiva nominal."
+		},
+		{
+			"id": "m6q5",
+			"modulo": "m6",
+			"tipo": "ce",
+			"enunciado": "Em \"Como chovia muito, a sessão foi adiada\", o vocábulo \"como\" introduz oração adverbial causal.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "'Como' no início do período, antes da principal, é causal."
+		},
+		{
+			"id": "m7q0",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "O período \"Fazem dois anos que o projeto tramita na comissão\" está de acordo com a norma-padrão.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "'Fazer' indicando tempo é impessoal: 'Faz dois anos'."
+		},
+		{
+			"id": "m7q1",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "Em \"Deve haver muitas emendas ao texto\", o verbo \"dever\" deve permanecer no singular.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "O auxiliar acompanha o impessoal 'haver'."
+		},
+		{
+			"id": "m7q2",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "No trecho \"Os documentos seguem anexo ao ofício\", a concordância está correta, pois \"anexo\" é invariável.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "'Anexo' varia: 'seguem anexos'. Quem não varia é 'em anexo'."
+		},
+		{
+			"id": "m7q3",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "\"O cidadão assistiu ao debate\" e \"O médico assistiu o paciente\" estão corretos e apresentam sentidos distintos do verbo \"assistir\".",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Ver é VTI 'a'; ajudar é VTD."
+		},
+		{
+			"id": "m7q4",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "A frase \"A aprovação da medida implica em novos gastos\" segue a regência da norma-padrão.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "'Implicar' no sentido de acarretar é VTD: 'implica novos gastos'."
+		},
+		{
+			"id": "m7q5",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "Em \"Refiro-me àquela proposta\", o acento grave é obrigatório.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "refiro-me a + aquela = àquela."
+		},
+		{
+			"id": "m7q6",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "A redação \"Encaminho à Vossa Excelência o relatório\" está correta quanto ao emprego do acento grave.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Pronome de tratamento não admite artigo, então não há crase."
+		},
+		{
+			"id": "m7q7",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "Em \"Não se sabe quem votou\", a próclise é obrigatória, por causa da palavra negativa.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "'Não' é palavra atrativa."
+		},
+		{
+			"id": "m7q8",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "Em \"Os deputados da comissão especial de reforma tributária, aprovaram o substitutivo\", a vírgula está correta por separar o sujeito extenso do verbo.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Não se separa o sujeito do verbo, por mais longo que ele seja."
+		},
+		{
+			"id": "m7q9",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "Em \"No plenário, os deputados votaram a matéria\", a vírgula após o adjunto adverbial anteposto é facultativa, por se tratar de expressão curta.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Com adjunto adverbial anteposto e curto, a vírgula é facultativa."
+		},
+		{
+			"id": "m8q0",
+			"modulo": "m8",
+			"tipo": "ce",
+			"enunciado": "Em \"O presidente chegou à Câmara. O chefe do Executivo discursou por uma hora\", a expressão \"O chefe do Executivo\" retoma \"O presidente\", em caso de coesão referencial por substituição lexical.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "É retomada por expressão equivalente (sinônimo ou hiperônimo)."
+		},
+		{
+			"id": "m8q1",
+			"modulo": "m8",
+			"tipo": "ce",
+			"enunciado": "Catáfora é o mecanismo coesivo pelo qual um termo retoma referente já mencionado no texto.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Isso é anáfora. A catáfora anuncia o que ainda vem."
+		},
+		{
+			"id": "m8q2",
+			"modulo": "m8",
+			"tipo": "ce",
+			"enunciado": "Reescrever \"Embora a proposta fosse boa, foi rejeitada\" como \"A proposta era boa, porém foi rejeitada\" preserva a correção e os sentidos.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "A concessão vira adversidade, com o modo verbal ajustado ao indicativo."
+		},
+		{
+			"id": "m8q3",
+			"modulo": "m8",
+			"tipo": "ce",
+			"enunciado": "Reescrever \"Caso o prazo vença, o projeto será arquivado\" como \"Desde que o prazo venceu, o projeto é arquivado\" mantém o sentido original.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Com o indicativo, 'desde que' passa a indicar tempo ou causa, e não condição."
+		},
+		{
+			"id": "m8q4",
+			"modulo": "m8",
+			"tipo": "ce",
+			"enunciado": "Polissemia é a relação entre palavras de origens diferentes que apresentam a mesma forma gráfica.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Isso é homonímia. Polissemia é uma palavra com vários sentidos."
+		},
+		{
+			"id": "m8q5",
+			"modulo": "m8",
+			"tipo": "ce",
+			"enunciado": "Em \"Os titulares chegaram cedo; os suplentes, tarde\", a vírgula assinala a omissão do verbo \"chegaram\".",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "É zeugma, e a vírgula marca o verbo elíptico."
+		},
+		{
+			"id": "m9q0",
+			"modulo": "m9",
+			"tipo": "ce",
+			"enunciado": "Um texto é classificado conforme a tipologia predominante, ainda que contenha sequências de outros tipos textuais.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "A classificação segue a função predominante."
+		},
+		{
+			"id": "m9q1",
+			"modulo": "m9",
+			"tipo": "ce",
+			"enunciado": "O editorial é gênero tipicamente dissertativo-expositivo, uma vez que se limita a apresentar fatos, sem buscar convencer o leitor.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "O editorial é argumentativo: defende a posição do veículo."
+		},
+		{
+			"id": "m9q2",
+			"modulo": "m9",
+			"tipo": "ce",
+			"enunciado": "Textos injuntivos caracterizam-se pelo emprego de formas verbais no imperativo ou no infinitivo, com o objetivo de orientar a realização de uma tarefa.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "É o caso de manuais e receitas."
+		},
+		{
+			"id": "m9q3",
+			"modulo": "m9",
+			"tipo": "ce",
+			"enunciado": "No discurso indireto livre, a fala ou o pensamento do personagem mistura-se à voz do narrador, sem verbo de elocução nem travessão.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "É a construção híbrida."
+		},
+		{
+			"id": "m9q4",
+			"modulo": "m9",
+			"tipo": "ce",
+			"enunciado": "O raciocínio indutivo parte de premissas gerais para chegar a conclusões particulares.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Isso é dedução. A indução vai do particular para o geral."
+		},
+		{
+			"id": "m9q5",
+			"modulo": "m9",
+			"tipo": "ce",
+			"enunciado": "Configura falácia ad hominem desqualificar o autor de um argumento em vez de refutar o argumento em si.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "É o ataque à pessoa."
+		},
+		{
+			"id": "m10q0",
+			"modulo": "m10",
+			"tipo": "ce",
+			"enunciado": "Em \"O deputado voltou a faltar às sessões\", pressupõe-se que ele já havia faltado anteriormente.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "'Voltar a' é marcador de pressuposto."
+		},
+		{
+			"id": "m10q1",
+			"modulo": "m10",
+			"tipo": "ce",
+			"enunciado": "Os subentendidos são marcados linguisticamente no enunciado e independem do contexto de comunicação.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Isso descreve o pressuposto. O subentendido depende do contexto."
+		},
+		{
+			"id": "m10q2",
+			"modulo": "m10",
+			"tipo": "ce",
+			"enunciado": "Em itens que pedem inferência, é legítimo assinalar como certa uma conclusão que, embora verdadeira no mundo real, não decorra das informações do texto.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Isso é extrapolação. Vale apenas o que o texto autoriza."
+		},
+		{
+			"id": "m10q3",
+			"modulo": "m10",
+			"tipo": "ce",
+			"enunciado": "O emprego do advérbio \"infelizmente\" em um texto revela modalização e, portanto, marca de subjetividade do enunciador.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "É um modalizador avaliativo."
+		},
+		{
+			"id": "m10q4",
+			"modulo": "m10",
+			"tipo": "ce",
+			"enunciado": "Na função conativa da linguagem, o foco recai sobre o emissor e suas emoções.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "A conativa foca o receptor. A emotiva é que foca o emissor."
+		},
+		{
+			"id": "m10q5",
+			"modulo": "m10",
+			"tipo": "ce",
+			"enunciado": "A variação diafásica está relacionada ao grau de formalidade exigido pela situação de comunicação.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Diafásica é a variação por situação ou registro."
+		},
+		{
+			"id": "m1x0",
+			"modulo": "m1",
+			"tipo": "ce",
+			"enunciado": "Em \"guerra\" há seis letras e quatro fonemas, pois \"gu\" e \"rr\" são dígrafos.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Dígrafo: duas letras para um único som. g-u-e-rr-a tem 6 letras e 4 fonemas."
+		},
+		{
+			"id": "m1x1",
+			"modulo": "m1",
+			"tipo": "ce",
+			"enunciado": "Na palavra \"hotel\", o número de letras é igual ao número de fonemas.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "O h inicial não representa som: são 5 letras e 4 fonemas."
+		},
+		{
+			"id": "m1x2",
+			"modulo": "m1",
+			"tipo": "ce",
+			"enunciado": "\"Saída\" e \"baú\" são acentuadas porque o i e o u tônicos formam hiato com a vogal anterior e ficam sozinhos na sílaba.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Regra do hiato: i/u tônicos sozinhos na sílaba (ou com s) levam acento: sa-í-da, ba-ú, pa-ís."
+		},
+		{
+			"id": "m1x3",
+			"modulo": "m1",
+			"tipo": "ce",
+			"enunciado": "\"Rainha\" e \"moinho\" não recebem acento porque o i tônico do hiato vem antes de nh.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Exceção da regra do hiato: antes de nh não há acento."
+		},
+		{
+			"id": "m1x4",
+			"modulo": "m1",
+			"tipo": "ce",
+			"enunciado": "Segundo o Acordo Ortográfico de 1990, \"creem\", \"leem\" e \"voo\" devem receber acento circunflexo.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Os hiatos ee e oo perderam o acento: creem, deem, leem, veem, voo, enjoo."
+		},
+		{
+			"id": "m1x5",
+			"modulo": "m1",
+			"tipo": "ce",
+			"enunciado": "Em \"Eles têm razão\" e \"Ele tem razão\", o acento circunflexo distingue a 3ª pessoa do plural da 3ª do singular.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Acento diferencial que sobreviveu: têm/vêm (plural) × tem/vem (singular)."
+		},
+		{
+			"id": "m1x6",
+			"modulo": "m1",
+			"tipo": "ce",
+			"enunciado": "\"Micro-ondas\" e \"anti-inflamatório\" têm hífen porque o prefixo termina na mesma vogal que inicia o segundo elemento.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Vogais iguais: com hífen. Vogais diferentes: junta (autoescola)."
+		},
+		{
+			"id": "m1x7",
+			"modulo": "m1",
+			"tipo": "ce",
+			"enunciado": "A grafia \"auto-escola\" atende ao Acordo de 1990, pois prefixo terminado em vogal sempre exige hífen.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Vogais diferentes se juntam: autoescola, infraestrutura, extraoficial."
+		},
+		{
+			"id": "m1x8",
+			"modulo": "m1",
+			"tipo": "ce",
+			"enunciado": "Em \"antirrábico\" e \"ultrassom\", dobra-se a consoante porque o prefixo termina em vogal e o segundo elemento começa por r ou s.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Prefixo terminado em vogal + r/s: junta e dobra (antirrábico, minissaia, contrarregra)."
+		},
+		{
+			"id": "m1x9",
+			"modulo": "m1",
+			"tipo": "ce",
+			"enunciado": "Em \"Não sei porque ele faltou\", a grafia de \"porque\" está correta, por não se tratar de pergunta direta.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "É interrogativa indireta: \"por que\" separado (cabe \"por qual motivo\")."
+		},
+		{
+			"id": "m1x10",
+			"modulo": "m1",
+			"tipo": "ce",
+			"enunciado": "Em \"Ninguém entendeu o porquê da decisão\", o vocábulo \"porquê\" é substantivo e, por isso, vem determinado por artigo.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Porquê = substantivo (o motivo); vem com determinante."
+		},
+		{
+			"id": "m1x11",
+			"modulo": "m1",
+			"tipo": "ce",
+			"enunciado": "As grafias \"sub-reitor\" e \"sub-humano\" estão corretas.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "sub + b, h ou r leva hífen."
+		},
+		{
+			"id": "m1x12",
+			"modulo": "m1",
+			"tipo": "ce",
+			"enunciado": "A palavra \"hifens\", plural de \"hífen\", também deve receber acento gráfico.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Paroxítonas terminadas em -ens não são acentuadas: hifens, itens, jovens. \"Hífen\" leva acento por terminar em n."
+		},
+		{
+			"id": "m1x13",
+			"modulo": "m1",
+			"tipo": "ce",
+			"enunciado": "O trema foi abolido das palavras portuguesas, mas permanece em nomes próprios estrangeiros, como \"Müller\".",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Linguiça, frequente, tranquilo: sem trema. Continua só em nomes próprios estrangeiros e derivados."
+		},
+		{
+			"id": "m1x14",
+			"modulo": "m1",
+			"tipo": "ce",
+			"enunciado": "Os prefixos \"ex-\", \"vice-\", \"pré-\", \"pós-\" e \"recém-\" ligam-se sempre com hífen ao segundo elemento.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Prefixos tônicos: ex-deputado, vice-presidente, pós-graduação, recém-nascido."
+		},
+		{
+			"id": "m1x15",
+			"modulo": "m1",
+			"tipo": "ce",
+			"enunciado": "Em \"Faltou à sessão por quê?\", o acento em \"quê\" justifica-se pela posição no fim da frase.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "\"Por quê\" (separado e com acento) aparece no fim de frase ou antes de pausa."
+		},
+		{
+			"id": "m2x0",
+			"modulo": "m2",
+			"tipo": "ce",
+			"enunciado": "\"Entardecer\" e \"empobrecer\" formam-se por derivação parassintética, pois prefixo e sufixo são acrescentados ao mesmo tempo.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Teste: retirando um dos afixos, a palavra não existe (*entarde, *tardecer)."
+		},
+		{
+			"id": "m2x1",
+			"modulo": "m2",
+			"tipo": "ce",
+			"enunciado": "\"Deslealdade\" é exemplo de derivação parassintética, por apresentar prefixo e sufixo.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "É prefixal e sufixal: \"desleal\" e \"lealdade\" existem separadamente."
+		},
+		{
+			"id": "m2x2",
+			"modulo": "m2",
+			"tipo": "ce",
+			"enunciado": "Em \"o combate à corrupção\", o substantivo \"combate\" forma-se por derivação regressiva a partir do verbo \"combater\".",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Regressiva (deverbal): reduz o verbo e cria substantivo de ação: combate, pesca, ataque."
+		},
+		{
+			"id": "m2x3",
+			"modulo": "m2",
+			"tipo": "ce",
+			"enunciado": "Em \"O jantar foi servido às oito\", \"jantar\" resulta de derivação imprópria.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Imprópria (conversão): muda a classe sem mudar a forma — o infinitivo vira substantivo."
+		},
+		{
+			"id": "m2x4",
+			"modulo": "m2",
+			"tipo": "ce",
+			"enunciado": "\"Planalto\" e \"aguardente\" são compostos por aglutinação.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Aglutinação: os radicais se unem com perda ou alteração de som (plano + alto; água + ardente)."
+		},
+		{
+			"id": "m2x5",
+			"modulo": "m2",
+			"tipo": "ce",
+			"enunciado": "\"Girassol\" e \"passatempo\" são compostos por aglutinação, pois os radicais formam uma única palavra gráfica.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "São justaposição: não há perda de som. Escrever junto ou com hífen não define o processo."
+		},
+		{
+			"id": "m2x6",
+			"modulo": "m2",
+			"tipo": "ce",
+			"enunciado": "\"Sociologia\" e \"automóvel\" são exemplos de hibridismo.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Hibridismo: elementos de línguas diferentes (latim + grego; grego + latim)."
+		},
+		{
+			"id": "m2x7",
+			"modulo": "m2",
+			"tipo": "ce",
+			"enunciado": "A flexão de número em \"meninos\" cria um novo vocábulo, tal como ocorre na derivação.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "A flexão apenas ajusta a palavra (gênero, número, pessoa); só derivação e composição criam palavras."
+		},
+		{
+			"id": "m2x8",
+			"modulo": "m2",
+			"tipo": "ce",
+			"enunciado": "Em \"cantávamos\", \"-va-\" é desinência modo-temporal e \"-mos\", desinência número-pessoal.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "cant- (radical) + -a- (vogal temática) + -va- (modo-tempo) + -mos (número-pessoa)."
+		},
+		{
+			"id": "m2x9",
+			"modulo": "m2",
+			"tipo": "ce",
+			"enunciado": "Em \"cantar\", o tema é \"canta-\", resultado da união do radical com a vogal temática.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Tema = radical + vogal temática."
+		},
+		{
+			"id": "m2x10",
+			"modulo": "m2",
+			"tipo": "ce",
+			"enunciado": "\"Moto\", \"foto\" e \"pneu\" formaram-se por abreviação (redução) vocabular.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Abreviação: redução da palavra até um limite que preserve o sentido."
+		},
+		{
+			"id": "m2x11",
+			"modulo": "m2",
+			"tipo": "ce",
+			"enunciado": "\"Infelizmente\" forma-se por parassíntese, já que apresenta prefixo e sufixo simultâneos.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "\"Infeliz\" e \"felizmente\" existem: é derivação prefixal e sufixal."
+		},
+		{
+			"id": "m2x12",
+			"modulo": "m2",
+			"tipo": "ce",
+			"enunciado": "A vogal temática \"-e-\" em \"vender\" indica verbo da segunda conjugação.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "-a- 1ª conjugação; -e- 2ª; -i- 3ª."
+		},
+		{
+			"id": "m2x13",
+			"modulo": "m2",
+			"tipo": "ce",
+			"enunciado": "A palavra \"embora\" (em + boa + hora) é exemplo de composição por aglutinação.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Houve perda de sons na união: aglutinação."
+		},
+		{
+			"id": "m2x14",
+			"modulo": "m2",
+			"tipo": "ce",
+			"enunciado": "Em \"um não seco\", o advérbio \"não\" foi substantivado por derivação regressiva.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Mudança de classe sem alterar a forma é derivação imprópria. Regressiva reduz verbo (combater → combate)."
+		},
+		{
+			"id": "m3x0",
+			"modulo": "m3",
+			"tipo": "ce",
+			"enunciado": "Advérbio, preposição, conjunção e interjeição são classes invariáveis.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "As variáveis são substantivo, adjetivo, artigo, numeral, pronome e verbo."
+		},
+		{
+			"id": "m3x1",
+			"modulo": "m3",
+			"tipo": "ce",
+			"enunciado": "Em \"Saúde e educação são prioridades; esta exige professores, aquela, hospitais\", o pronome \"esta\" retoma \"saúde\".",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "\"Esta\" retoma o termo mais próximo (educação); \"aquela\", o mais distante (saúde)."
+		},
+		{
+			"id": "m3x2",
+			"modulo": "m3",
+			"tipo": "ce",
+			"enunciado": "A frase \"Vossa Excelência deveis apresentar vosso relatório\" respeita a norma-padrão.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Pronome de tratamento pede 3ª pessoa: \"Vossa Excelência deve apresentar seu relatório\"."
+		},
+		{
+			"id": "m3x3",
+			"modulo": "m3",
+			"tipo": "ce",
+			"enunciado": "\"Todo o plenário aplaudiu\" refere-se ao plenário inteiro, ao passo que \"todo plenário aplaude\" generaliza (qualquer plenário).",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Todo o = inteiro; todo (sem artigo) = qualquer."
+		},
+		{
+			"id": "m3x4",
+			"modulo": "m3",
+			"tipo": "ce",
+			"enunciado": "Em \"O bom servidor cumpre prazos\", \"bom\" é adjetivo quanto à classe e adjunto adnominal quanto à função sintática.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Classe é morfologia; função é sintaxe. A banca costuma trocar uma pela outra."
+		},
+		{
+			"id": "m3x5",
+			"modulo": "m3",
+			"tipo": "ce",
+			"enunciado": "Em \"O problema é este: falta quórum\", o demonstrativo \"este\" tem função catafórica.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "\"Este\" anuncia o que ainda vai ser dito (catáfora)."
+		},
+		{
+			"id": "m3x6",
+			"modulo": "m3",
+			"tipo": "ce",
+			"enunciado": "O artigo exerce sempre a função sintática de adjunto adnominal.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Artigo, adjetivo, numeral e pronome adjetivo acompanham o substantivo como adjuntos adnominais."
+		},
+		{
+			"id": "m3x7",
+			"modulo": "m3",
+			"tipo": "ce",
+			"enunciado": "Preposições e conjunções pertencem às classes abertas, pois recebem palavras novas com frequência.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "São classes fechadas (inventário fixo). Abertas: substantivo, adjetivo, verbo e advérbio em -mente."
+		},
+		{
+			"id": "m3x8",
+			"modulo": "m3",
+			"tipo": "ce",
+			"enunciado": "Em \"A sessão foi adiada. Essa decisão surpreendeu o plenário\", \"essa\" retoma informação já mencionada.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "\"Esse/essa/isso\" retomam o que já foi dito (anáfora)."
+		},
+		{
+			"id": "m3x9",
+			"modulo": "m3",
+			"tipo": "ce",
+			"enunciado": "O vocativo \"Excelentíssimo Senhor\" é empregado para qualquer autoridade tratada por \"Vossa Excelência\".",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "\"Excelentíssimo Senhor\" é reservado aos chefes de Poder; para as demais autoridades usa-se \"Senhor\" + cargo."
+		},
+		{
+			"id": "m3x10",
+			"modulo": "m3",
+			"tipo": "ce",
+			"enunciado": "Usa-se \"Vossa Excelência\" para falar com a autoridade e \"Sua Excelência\" para falar a respeito dela.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Vossa = com quem se fala; Sua = de quem se fala."
+		},
+		{
+			"id": "m3x11",
+			"modulo": "m3",
+			"tipo": "ce",
+			"enunciado": "Em \"O viver é difícil\", o verbo foi substantivado pela presença do artigo.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "O artigo substantiva qualquer palavra que determine."
+		},
+		{
+			"id": "m3x12",
+			"modulo": "m3",
+			"tipo": "ce",
+			"enunciado": "Em \"Meu parecer é este\", \"meu\" é pronome adjetivo e \"este\" é pronome substantivo.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Pronome adjetivo acompanha o nome; pronome substantivo ocupa o lugar dele."
+		},
+		{
+			"id": "m3x13",
+			"modulo": "m3",
+			"tipo": "ce",
+			"enunciado": "Em \"Vossa Senhoria está cansado\", dirigida a um homem, a concordância do adjetivo está correta.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "O adjetivo concorda com o sexo da pessoa a quem o tratamento se refere."
+		},
+		{
+			"id": "m3x14",
+			"modulo": "m3",
+			"tipo": "ce",
+			"enunciado": "Em \"certas pessoas\" e \"pessoas certas\", a palavra \"certas\" pertence à mesma classe e tem o mesmo sentido.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Antes do substantivo é pronome indefinido (algumas); depois, é adjetivo (corretas)."
+		},
+		{
+			"id": "m4x0",
+			"modulo": "m4",
+			"tipo": "ce",
+			"enunciado": "Em \"O ministro teria assinado o decreto ontem\", o futuro do pretérito indica que o enunciador não se compromete com a veracidade do fato.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Em notícias, o futuro do pretérito marca informação não confirmada."
+		},
+		{
+			"id": "m4x1",
+			"modulo": "m4",
+			"tipo": "ce",
+			"enunciado": "Em \"Se o projeto for aprovado, o governo liberaria os recursos\", a correlação verbal está correta.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Correlações: for → liberará; fosse → liberaria."
+		},
+		{
+			"id": "m4x2",
+			"modulo": "m4",
+			"tipo": "ce",
+			"enunciado": "Está correta a forma verbal em \"Quando eu ver o relatório, darei meu parecer\".",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Futuro do subjuntivo de \"ver\": quando eu vir."
+		},
+		{
+			"id": "m4x3",
+			"modulo": "m4",
+			"tipo": "ce",
+			"enunciado": "\"À medida que\" exprime proporção, e \"na medida em que\" exprime causa.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "A troca de uma pela outra muda o sentido."
+		},
+		{
+			"id": "m4x4",
+			"modulo": "m4",
+			"tipo": "ce",
+			"enunciado": "Na norma-padrão, \"posto que\" tem valor causal e equivale a \"porque\".",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "\"Posto que\" é concessiva: equivale a \"embora\"."
+		},
+		{
+			"id": "m4x5",
+			"modulo": "m4",
+			"tipo": "ce",
+			"enunciado": "Em \"Estudou muito; não foi, pois, reprovado\", a conjunção \"pois\" tem valor conclusivo.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "\"Pois\" depois do verbo, entre vírgulas = conclusão (portanto). Antes do verbo = explicação."
+		},
+		{
+			"id": "m4x6",
+			"modulo": "m4",
+			"tipo": "ce",
+			"enunciado": "Em \"Você será aprovado, desde que estude\", a locução \"desde que\" exprime condição.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Com subjuntivo, \"desde que\" é condicional; com indicativo, temporal."
+		},
+		{
+			"id": "m4x7",
+			"modulo": "m4",
+			"tipo": "ce",
+			"enunciado": "As conjunções \"embora\" e \"conquanto\" são concessivas e pedem verbo no subjuntivo.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Embora, conquanto, ainda que, posto que, se bem que: concessão + subjuntivo."
+		},
+		{
+			"id": "m4x8",
+			"modulo": "m4",
+			"tipo": "ce",
+			"enunciado": "Em \"Eu queria um café, por favor\", o pretérito imperfeito é empregado como recurso de polidez.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "O imperfeito atenua o pedido (valor de cortesia)."
+		},
+		{
+			"id": "m4x9",
+			"modulo": "m4",
+			"tipo": "ce",
+			"enunciado": "Em \"Se eu tivesse estudado, teria passado\", a correlação entre os tempos verbais está correta.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Tivesse + particípio → teria + particípio."
+		},
+		{
+			"id": "m4x10",
+			"modulo": "m4",
+			"tipo": "ce",
+			"enunciado": "Em \"Se ele vir a Brasília amanhã, avise-me\", com o verbo \"vir\", a forma verbal está correta.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Futuro do subjuntivo de \"vir\": se ele vier. \"Vir\" é o futuro do subjuntivo de \"ver\"."
+		},
+		{
+			"id": "m4x11",
+			"modulo": "m4",
+			"tipo": "ce",
+			"enunciado": "As conjunções \"porquanto\" e \"conquanto\" são equivalentes, ambas de valor causal.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Porquanto = causa/explicação; conquanto = concessão."
+		},
+		{
+			"id": "m4x12",
+			"modulo": "m4",
+			"tipo": "ce",
+			"enunciado": "Está correta a forma verbal em \"Se o deputado propor a emenda, haverá debate\".",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Derivados de \"pôr\" seguem \"pôr\": se o deputado propuser."
+		},
+		{
+			"id": "m4x13",
+			"modulo": "m4",
+			"tipo": "ce",
+			"enunciado": "A forma \"intervieram\" é a correta para a 3ª pessoa do plural do pretérito perfeito de \"intervir\".",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "\"Intervir\" conjuga-se como \"vir\": eles vieram → intervieram."
+		},
+		{
+			"id": "m4x14",
+			"modulo": "m4",
+			"tipo": "ce",
+			"enunciado": "\"Logo\", \"portanto\" e \"por conseguinte\" são conjunções coordenativas conclusivas.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Introduzem a conclusão do que foi dito antes."
+		},
+		{
+			"id": "m4x15",
+			"modulo": "m4",
+			"tipo": "ce",
+			"enunciado": "Em \"Não só estudou, mas também trabalhou\", o par correlato tem valor aditivo.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "\"Não só... mas também\" soma ideias (adição enfática)."
+		},
+		{
+			"id": "m5x0",
+			"modulo": "m5",
+			"tipo": "ce",
+			"enunciado": "Em \"Alugam-se casas\", o \"se\" é partícula apassivadora e \"casas\" é o sujeito.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "VTD + se = voz passiva sintética: \"Casas são alugadas\". O verbo concorda com o sujeito."
+		},
+		{
+			"id": "m5x1",
+			"modulo": "m5",
+			"tipo": "ce",
+			"enunciado": "Em \"Precisa-se de funcionários\", o sujeito é indeterminado e o verbo deve permanecer no singular.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "VTI + se = índice de indeterminação do sujeito; verbo na 3ª do singular."
+		},
+		{
+			"id": "m5x2",
+			"modulo": "m5",
+			"tipo": "ce",
+			"enunciado": "Em \"Chegou ontem os relatórios\", a concordância está correta, pois o sujeito posposto dispensa a concordância.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Sujeito posposto continua sujeito: \"Chegaram ontem os relatórios\"."
+		},
+		{
+			"id": "m5x3",
+			"modulo": "m5",
+			"tipo": "ce",
+			"enunciado": "Em \"a construção da ponte\", o termo \"da ponte\" é complemento nominal, pois tem valor paciente.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "A ponte é construída (alvo da ação) → complemento nominal."
+		},
+		{
+			"id": "m5x4",
+			"modulo": "m5",
+			"tipo": "ce",
+			"enunciado": "Em \"a resposta do ministro\", o termo \"do ministro\" é adjunto adnominal, pois o ministro é o agente da ação de responder.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Agente ou possuidor → adjunto adnominal; paciente → complemento nominal."
+		},
+		{
+			"id": "m5x5",
+			"modulo": "m5",
+			"tipo": "ce",
+			"enunciado": "Em \"favorável ao projeto\", o termo preposicionado é adjunto adnominal.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Termo preposicionado ligado a adjetivo ou advérbio é sempre complemento nominal."
+		},
+		{
+			"id": "m5x6",
+			"modulo": "m5",
+			"tipo": "ce",
+			"enunciado": "Em \"O relatório foi aprovado pela comissão\", \"pela comissão\" é agente da passiva.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Passiva analítica: ser + particípio; o agente vem com \"por\"."
+		},
+		{
+			"id": "m5x7",
+			"modulo": "m5",
+			"tipo": "ce",
+			"enunciado": "Em \"Senhor Presidente, peço a palavra\", o termo \"Senhor Presidente\" é vocativo e não integra a estrutura sintática da oração.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "O vocativo chama o interlocutor e fica fora da oração; vem separado por vírgula."
+		},
+		{
+			"id": "m5x8",
+			"modulo": "m5",
+			"tipo": "ce",
+			"enunciado": "Em \"Brasília, capital do país, sediou o encontro\", o termo entre vírgulas é aposto explicativo.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "O aposto explica ou resume um termo da própria oração."
+		},
+		{
+			"id": "m5x9",
+			"modulo": "m5",
+			"tipo": "ce",
+			"enunciado": "Em \"Há muitos projetos na pauta\", o termo \"muitos projetos\" é o sujeito da oração.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "\"Haver\" no sentido de existir é impessoal: oração sem sujeito; \"muitos projetos\" é objeto direto."
+		},
+		{
+			"id": "m5x10",
+			"modulo": "m5",
+			"tipo": "ce",
+			"enunciado": "Em \"Os deputados chegaram cansados\", o predicado é verbo-nominal.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Há verbo de ação (chegaram) e predicativo do sujeito (cansados)."
+		},
+		{
+			"id": "m5x11",
+			"modulo": "m5",
+			"tipo": "ce",
+			"enunciado": "Em \"Vive-se bem nesta cidade\", o \"se\" é índice de indeterminação do sujeito.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Verbo intransitivo + se: sujeito indeterminado, verbo no singular."
+		},
+		{
+			"id": "m5x12",
+			"modulo": "m5",
+			"tipo": "ce",
+			"enunciado": "A oração \"Vendem-se casas\" equivale a \"Casas são vendidas\".",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Passiva sintética ↔ passiva analítica."
+		},
+		{
+			"id": "m5x13",
+			"modulo": "m5",
+			"tipo": "ce",
+			"enunciado": "Está correta a construção \"Tratam-se de questões complexas\".",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "\"Tratar de\" é VTI: sujeito indeterminado, verbo no singular — \"Trata-se de questões complexas\"."
+		},
+		{
+			"id": "m5x14",
+			"modulo": "m5",
+			"tipo": "ce",
+			"enunciado": "Em \"O servidor entregou o relatório ao chefe\", \"o relatório\" é objeto direto e \"ao chefe\" é objeto indireto.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Entregar é VTDI: algo (OD) a alguém (OI)."
+		},
+		{
+			"id": "m5x15",
+			"modulo": "m5",
+			"tipo": "ce",
+			"enunciado": "Em \"Faltam três dias para a votação\", o termo \"três dias\" é objeto direto.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "\"Faltar\" é intransitivo aqui; \"três dias\" é sujeito posposto, por isso o verbo vai ao plural."
+		},
+		{
+			"id": "m6x0",
+			"modulo": "m6",
+			"tipo": "ce",
+			"enunciado": "Em \"Os deputados que faltaram serão advertidos\", a oração adjetiva, sem vírgulas, restringe o grupo: apenas os que faltaram serão advertidos.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Sem vírgulas: restritiva. Com vírgulas: explicativa (todos faltaram)."
+		},
+		{
+			"id": "m6x1",
+			"modulo": "m6",
+			"tipo": "ce",
+			"enunciado": "Em \"Os servidores que cumpriram a meta receberão bônus\", a inserção de vírgulas isolando a oração adjetiva preservaria os sentidos do texto.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "A oração passaria de restritiva a explicativa: todos os servidores teriam cumprido a meta."
+		},
+		{
+			"id": "m6x2",
+			"modulo": "m6",
+			"tipo": "ce",
+			"enunciado": "Está correta a construção \"O deputado cujo o projeto foi aprovado discursou\".",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "\"Cujo\" não admite artigo depois: \"cujo projeto\"."
+		},
+		{
+			"id": "m6x3",
+			"modulo": "m6",
+			"tipo": "ce",
+			"enunciado": "Em \"Tenho certeza de que ele virá\", a oração subordinada é substantiva completiva nominal.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Completa o nome \"certeza\"."
+		},
+		{
+			"id": "m6x4",
+			"modulo": "m6",
+			"tipo": "ce",
+			"enunciado": "Em \"Gosto de que me ouçam\", a oração subordinada é substantiva objetiva indireta.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Completa o verbo \"gostar\", que exige a preposição \"de\"."
+		},
+		{
+			"id": "m6x5",
+			"modulo": "m6",
+			"tipo": "ce",
+			"enunciado": "Em \"Como chovia, adiaram a sessão\", a conjunção \"como\" tem valor causal.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "\"Como\" no início do período = causa (já que)."
+		},
+		{
+			"id": "m6x6",
+			"modulo": "m6",
+			"tipo": "ce",
+			"enunciado": "Em \"a época onde vivíamos\", o emprego de \"onde\" atende à norma-padrão.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "\"Onde\" só retoma lugar físico. Para tempo: \"a época em que vivíamos\"."
+		},
+		{
+			"id": "m6x7",
+			"modulo": "m6",
+			"tipo": "ce",
+			"enunciado": "Em \"o projeto a que me referi\", a preposição \"a\" é exigida pela regência de \"referir-se\".",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "A preposição do verbo da oração adjetiva vai antes do pronome relativo."
+		},
+		{
+			"id": "m6x8",
+			"modulo": "m6",
+			"tipo": "ce",
+			"enunciado": "Em \"É necessário que todos votem\", a oração subordinada é substantiva subjetiva.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "\"Isso é necessário\": a oração funciona como sujeito."
+		},
+		{
+			"id": "m6x9",
+			"modulo": "m6",
+			"tipo": "ce",
+			"enunciado": "Em \"Estudou tanto que passou\", a oração subordinada é adverbial consecutiva.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Tão/tanto/tamanho... que = consequência."
+		},
+		{
+			"id": "m6x10",
+			"modulo": "m6",
+			"tipo": "ce",
+			"enunciado": "Em \"Não sei se ele virá\", o \"se\" é conjunção integrante.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Introduz oração substantiva: \"Não sei isso\"."
+		},
+		{
+			"id": "m6x11",
+			"modulo": "m6",
+			"tipo": "ce",
+			"enunciado": "Em \"Se chover, não irei\", o \"se\" é conjunção integrante.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "É conjunção subordinativa condicional."
+		},
+		{
+			"id": "m6x12",
+			"modulo": "m6",
+			"tipo": "ce",
+			"enunciado": "Em \"O relator disse que votaria a favor\", o \"que\" é pronome relativo.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "É conjunção integrante (\"disse isso\"). Relativo retoma um nome e pode ser trocado por \"o qual\"."
+		},
+		{
+			"id": "m6x13",
+			"modulo": "m6",
+			"tipo": "ce",
+			"enunciado": "Em \"Chegando o presidente, iniciou-se a sessão\", há oração reduzida de gerúndio com valor temporal.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Equivale a \"Quando o presidente chegou\"."
+		},
+		{
+			"id": "m6x14",
+			"modulo": "m6",
+			"tipo": "ce",
+			"enunciado": "A construção \"o filme que assisti ontem\" atende à regência da norma-padrão.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Assistir (ver) pede \"a\": \"o filme a que assisti\"."
+		},
+		{
+			"id": "m6x15",
+			"modulo": "m6",
+			"tipo": "ce",
+			"enunciado": "Em \"Meu desejo é que você venha\", a oração subordinada é substantiva predicativa.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Vem depois de verbo de ligação e funciona como predicativo do sujeito."
+		},
+		{
+			"id": "m6x16",
+			"modulo": "m6",
+			"tipo": "ce",
+			"enunciado": "Em \"Estudou, mas não passou\", a segunda oração é coordenada sindética adversativa.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Mas, porém, contudo, todavia, entretanto: oposição."
+		},
+		{
+			"id": "m7x0",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "Está correta a concordância em \"Houveram muitos debates na sessão\".",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "\"Haver\" = existir é impessoal: \"Houve muitos debates\"."
+		},
+		{
+			"id": "m7x1",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "Em \"Faz dois anos que a lei foi aprovada\", o verbo \"fazer\" está corretamente no singular.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "\"Fazer\" indicando tempo decorrido é impessoal."
+		},
+		{
+			"id": "m7x2",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "Está correta a construção \"Devem haver soluções para o impasse\".",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "A impessoalidade passa ao auxiliar: \"Deve haver soluções\"."
+		},
+		{
+			"id": "m7x3",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "Em \"Seguem anexas as planilhas\", a concordância está correta; já a expressão \"em anexo\" é invariável.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "\"Anexo\" é adjetivo e varia; \"em anexo\" não varia."
+		},
+		{
+			"id": "m7x4",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "Em \"Ela está meio cansada\", \"meio\" é advérbio e, por isso, não varia.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Meio = um pouco (advérbio). Como numeral varia: meia hora."
+		},
+		{
+			"id": "m7x5",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "Está correta a frase \"Havia bastantes pessoas no plenário\".",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Antes de substantivo, \"bastante\" é pronome/adjetivo e varia (= muitas)."
+		},
+		{
+			"id": "m7x6",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "A expressão \"menas pessoas\" é aceita pela norma-padrão quando o substantivo é feminino.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "\"Menos\" nunca varia."
+		},
+		{
+			"id": "m7x7",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "Em \"Assistimos ao debate\", a regência de \"assistir\", no sentido de ver, está correta.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Assistir (ver) é VTI e pede \"a\"."
+		},
+		{
+			"id": "m7x8",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "A frase \"A medida implicou em cortes no orçamento\" atende à regência prescrita pela norma-padrão.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Implicar (acarretar) é VTD: \"implicou cortes\"."
+		},
+		{
+			"id": "m7x9",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "Em \"O deputado chegou a Brasília ontem\", a regência do verbo \"chegar\" está correta.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Verbos de movimento pedem \"a\": chegar a, ir a."
+		},
+		{
+			"id": "m7x10",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "Em \"Refiro-me àquele projeto\", a crase resulta da fusão da preposição \"a\" com a vogal inicial de \"aquele\".",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "a + aquele(s), aquela(s), aquilo = àquele, àquela, àquilo."
+		},
+		{
+			"id": "m7x11",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "Está correto o emprego do acento grave em \"Entregou o documento à ela\".",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Não há crase antes de pronome pessoal."
+		},
+		{
+			"id": "m7x12",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "Está correto o emprego do acento grave em \"Começou à falar\".",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Não há crase antes de verbo."
+		},
+		{
+			"id": "m7x13",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "Em \"Não me disseram a verdade\", a próclise é obrigatória por causa da palavra negativa.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Palavras negativas atraem o pronome para antes do verbo."
+		},
+		{
+			"id": "m7x14",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "Na norma-padrão, é correto iniciar período com pronome oblíquo átono, como em \"Me disseram que a sessão acabou\".",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Não se inicia período com pronome átono: \"Disseram-me\"."
+		},
+		{
+			"id": "m7x15",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "Em \"Dir-se-ia que tudo estava resolvido\", a mesóclise está correta, pois o verbo está no futuro do pretérito e não há palavra atrativa.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Mesóclise: futuro do presente ou do pretérito, sem fator de próclise."
+		},
+		{
+			"id": "m7x16",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "Em \"Os deputados da base aliada, votaram o projeto\", a vírgula está corretamente empregada.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Não se separa o sujeito do verbo por vírgula."
+		},
+		{
+			"id": "m7x17",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "Em \"Na sessão de ontem, o plenário aprovou a matéria\", a vírgula isola adjunto adverbial deslocado.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Adjunto adverbial antecipado (sobretudo o longo) vem separado por vírgula."
+		},
+		{
+			"id": "m7x18",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "Em \"A maioria dos deputados votou a favor\", o verbo também poderia estar no plural, concordando com \"deputados\".",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Com expressão partitiva + especificador no plural, o verbo pode ficar no singular ou ir ao plural."
+		},
+		{
+			"id": "m7x19",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "O teste \"volto da / volto de\" mostra que há crase em \"Fui à Bahia\", mas não em \"Fui a Brasília\".",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Volto DA Bahia → crase; volto DE Brasília → sem crase."
+		},
+		{
+			"id": "m7x20",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "Em \"O servidor obedeceu ao regulamento\", a regência do verbo \"obedecer\" está correta.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Obedecer e desobedecer são VTI: pedem \"a\"."
+		},
+		{
+			"id": "m7x21",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "Em \"A proposta visa ao bem comum\", o verbo \"visar\", no sentido de almejar, está corretamente regido.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Visar (almejar) pede \"a\"; visar (mirar, pôr visto) é VTD."
+		},
+		{
+			"id": "m7x22",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "Estão corretas as formas \"É proibido entrada\" e \"É proibida a entrada\".",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Sem determinante, a expressão fica invariável; com artigo, concorda."
+		},
+		{
+			"id": "m7x23",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "Em \"Dirigiu-se a uma servidora\", a ausência de crase está correta.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Não há crase antes de artigo ou pronome indefinido."
+		},
+		{
+			"id": "m7x24",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "É incorreta a colocação pronominal em \"Tinham avisado-nos da reunião\".",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Não se usa ênclise ao particípio: \"Tinham-nos avisado\" ou \"Tinham nos avisado\"."
+		},
+		{
+			"id": "m7x25",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "Em \"Vão fazer dois anos que saí\", o auxiliar está corretamente flexionado no plural para concordar com \"dois anos\".",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "\"Fazer\" (tempo) é impessoal e transmite isso ao auxiliar: \"Vai fazer dois anos\"."
+		},
+		{
+			"id": "m7x26",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "Os dois-pontos podem introduzir enumeração, explicação ou citação.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Ex.: \"A pauta tem três itens: ata, parecer e votação.\""
+		},
+		{
+			"id": "m7x27",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "Em \"O candidato aspira ao cargo\", a regência de \"aspirar\", no sentido de almejar, está correta.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Aspirar (almejar) pede \"a\"; aspirar (sorver) é VTD."
+		},
+		{
+			"id": "m7x28",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "Em \"Quem disse-me isso foi o relator\", a colocação pronominal está correta.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Pronome relativo/interrogativo atrai o pronome: \"Quem me disse isso\"."
+		},
+		{
+			"id": "m7x29",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "Há crase em \"às vezes\", \"à noite\" e \"à medida que\", por serem locuções femininas.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Locuções adverbiais, prepositivas e conjuntivas femininas levam crase."
+		},
+		{
+			"id": "m8x0",
+			"modulo": "m8",
+			"tipo": "ce",
+			"enunciado": "A anáfora retoma um termo já mencionado, e a catáfora antecipa um termo que ainda será dito.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Anáfora olha para trás; catáfora anuncia."
+		},
+		{
+			"id": "m8x1",
+			"modulo": "m8",
+			"tipo": "ce",
+			"enunciado": "\"Ratificar\" significa corrigir, e \"retificar\" significa confirmar.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "É o contrário: ratificar = confirmar; retificar = corrigir."
+		},
+		{
+			"id": "m8x2",
+			"modulo": "m8",
+			"tipo": "ce",
+			"enunciado": "\"Iminente\" significa prestes a acontecer, e \"eminente\" significa ilustre, elevado.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Parônimos clássicos."
+		},
+		{
+			"id": "m8x3",
+			"modulo": "m8",
+			"tipo": "ce",
+			"enunciado": "Há polissemia quando uma mesma palavra apresenta vários sentidos relacionados, como \"cabeça\" em \"cabeça do prego\" e \"cabeça da quadrilha\".",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Polissemia: uma palavra, vários sentidos. Homonímia: palavras diferentes com a mesma forma."
+		},
+		{
+			"id": "m8x4",
+			"modulo": "m8",
+			"tipo": "ce",
+			"enunciado": "A reescrita de \"Embora seja tarde, ficarei\" como \"É tarde, mas ficarei\" preserva o sentido e a correção gramatical.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Concessão ↔ adversidade, com ajuste do modo verbal (seja → é)."
+		},
+		{
+			"id": "m8x5",
+			"modulo": "m8",
+			"tipo": "ce",
+			"enunciado": "\"Só o relator leu o parecer\" e \"O relator só leu o parecer\" têm o mesmo sentido.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Mudou o escopo de \"só\": no primeiro, ninguém mais leu; no segundo, ele não fez outra coisa."
+		},
+		{
+			"id": "m8x6",
+			"modulo": "m8",
+			"tipo": "ce",
+			"enunciado": "A coesão referencial faz-se por pronomes, sinônimos e elipses; a sequencial, por conectores.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Referencial retoma; sequencial conecta e faz o texto progredir."
+		},
+		{
+			"id": "m8x7",
+			"modulo": "m8",
+			"tipo": "ce",
+			"enunciado": "\"Subir para cima\" e \"elo de ligação\" são exemplos de pleonasmo vicioso.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Redundância desnecessária."
+		},
+		{
+			"id": "m8x8",
+			"modulo": "m8",
+			"tipo": "ce",
+			"enunciado": "Em \"O deputado falou com o ministro em seu gabinete\", há ambiguidade, pois não se sabe de quem é o gabinete.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "O possessivo \"seu\" pode se referir a qualquer um dos dois."
+		},
+		{
+			"id": "m8x9",
+			"modulo": "m8",
+			"tipo": "ce",
+			"enunciado": "Em \"Leu Machado de Assis nas férias\", ocorre metonímia (autor pela obra).",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Metonímia: troca por contiguidade."
+		},
+		{
+			"id": "m8x10",
+			"modulo": "m8",
+			"tipo": "ce",
+			"enunciado": "Em \"Ele faltou com a verdade\", ocorre eufemismo.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Eufemismo suaviza uma ideia desagradável (mentiu)."
+		},
+		{
+			"id": "m8x11",
+			"modulo": "m8",
+			"tipo": "ce",
+			"enunciado": "A hipérbole consiste na atenuação intencional de uma ideia.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Hipérbole é exagero. Atenuação é eufemismo."
+		},
+		{
+			"id": "m8x12",
+			"modulo": "m8",
+			"tipo": "ce",
+			"enunciado": "\"Cessão\" é o ato de ceder; \"sessão\", a reunião; \"seção\", a divisão ou o setor.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Homônimos homófonos."
+		},
+		{
+			"id": "m8x13",
+			"modulo": "m8",
+			"tipo": "ce",
+			"enunciado": "A substituição de \"Caso chova\" por \"Se chover\" preserva o sentido, com o ajuste do tempo verbal exigido pelo conectivo.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Caso + presente do subjuntivo; se + futuro do subjuntivo."
+		},
+		{
+			"id": "m8x14",
+			"modulo": "m8",
+			"tipo": "ce",
+			"enunciado": "Um texto pode ser coeso e, ainda assim, incoerente.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Coesão é ligação formal; coerência é lógica de sentido."
+		},
+		{
+			"id": "m8x15",
+			"modulo": "m8",
+			"tipo": "ce",
+			"enunciado": "Em \"O juiz infringiu pena severa ao réu\", o verbo foi empregado adequadamente.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Infligir = aplicar (pena); infringir = desrespeitar (norma)."
+		},
+		{
+			"id": "m8x16",
+			"modulo": "m8",
+			"tipo": "ce",
+			"enunciado": "Recomenda-se o uso de \"o mesmo\" como pronome substituto, como em \"Antes de entrar no elevador, verifique se o mesmo está no andar\".",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "\"O mesmo\" como substituto de pronome deve ser evitado: \"verifique se ele está\"."
+		},
+		{
+			"id": "m8x17",
+			"modulo": "m8",
+			"tipo": "ce",
+			"enunciado": "A antítese aproxima ideias opostas; o paradoxo funde ideias contraditórias na mesma afirmação.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Antítese: \"dia e noite\". Paradoxo: \"dor que desatina sem doer\"."
+		},
+		{
+			"id": "m8x18",
+			"modulo": "m8",
+			"tipo": "ce",
+			"enunciado": "Em \"Os deputados chegaram cedo. Votaram em seguida\", a elipse do sujeito na segunda frase é recurso de coesão.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Elipse: omissão de termo recuperável pelo contexto."
+		},
+		{
+			"id": "m8x19",
+			"modulo": "m8",
+			"tipo": "ce",
+			"enunciado": "Denotação é o emprego da palavra em sentido figurado.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Denotação = sentido literal; conotação = sentido figurado."
+		},
+		{
+			"id": "m8x20",
+			"modulo": "m8",
+			"tipo": "ce",
+			"enunciado": "\"Descriminar\" significa inocentar, e \"discriminar\" significa distinguir, separar.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Parônimos."
+		},
+		{
+			"id": "m8x21",
+			"modulo": "m8",
+			"tipo": "ce",
+			"enunciado": "O deslocamento de \"apenas\" em \"Apenas o governo propôs cortes\" para \"O governo propôs apenas cortes\" mantém o sentido original.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Advérbios de escopo mudam o sentido conforme a posição."
+		},
+		{
+			"id": "m9x0",
+			"modulo": "m9",
+			"tipo": "ce",
+			"enunciado": "Os tipos textuais são poucos e definidos pela estrutura linguística; os gêneros são inúmeros e definidos pela função social.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Tipo: narração, descrição, exposição, argumentação, injunção. Gênero: ata, notícia, e-mail..."
+		},
+		{
+			"id": "m9x1",
+			"modulo": "m9",
+			"tipo": "ce",
+			"enunciado": "O editorial é um gênero predominantemente expositivo, pois se limita a informar.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "O editorial defende a posição do veículo: é argumentativo."
+		},
+		{
+			"id": "m9x2",
+			"modulo": "m9",
+			"tipo": "ce",
+			"enunciado": "A notícia relata o fato; a reportagem o aprofunda e pode trazer análise.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Diferença clássica entre os dois gêneros jornalísticos."
+		},
+		{
+			"id": "m9x3",
+			"modulo": "m9",
+			"tipo": "ce",
+			"enunciado": "Receitas, manuais e regulamentos são textos predominantemente injuntivos, pois orientam o comportamento do leitor.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Injunção: instruir, ordenar; verbos no imperativo ou infinitivo."
+		},
+		{
+			"id": "m9x4",
+			"modulo": "m9",
+			"tipo": "ce",
+			"enunciado": "Na descrição, predominam verbos de estado e adjetivos, sem progressão temporal.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "A descrição \"para o tempo\" para caracterizar."
+		},
+		{
+			"id": "m9x5",
+			"modulo": "m9",
+			"tipo": "ce",
+			"enunciado": "Na narração, há progressão temporal, com predomínio de verbos de ação no pretérito perfeito.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Personagens, tempo, espaço, enredo e narrador."
+		},
+		{
+			"id": "m9x6",
+			"modulo": "m9",
+			"tipo": "ce",
+			"enunciado": "A presença de um trecho narrativo impede a classificação de um texto como argumentativo.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Vale a função predominante: uma narrativa pode servir de exemplo dentro de um texto argumentativo."
+		},
+		{
+			"id": "m9x7",
+			"modulo": "m9",
+			"tipo": "ce",
+			"enunciado": "No discurso indireto, o narrador reproduz a fala da personagem com suas próprias palavras, em oração subordinada.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "\"Ele disse que estava cansado.\""
+		},
+		{
+			"id": "m9x8",
+			"modulo": "m9",
+			"tipo": "ce",
+			"enunciado": "O discurso indireto livre exige verbo de dizer e conjunção integrante.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "No indireto livre, as vozes do narrador e da personagem se misturam, sem verbo de dizer."
+		},
+		{
+			"id": "m9x9",
+			"modulo": "m9",
+			"tipo": "ce",
+			"enunciado": "O raciocínio dedutivo parte do geral para o particular.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Dedução: geral → particular. Indução: particular → geral."
+		},
+		{
+			"id": "m9x10",
+			"modulo": "m9",
+			"tipo": "ce",
+			"enunciado": "O raciocínio indutivo parte de uma premissa geral para chegar a uma conclusão particular.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Isso é dedução. A indução vai de casos particulares à generalização."
+		},
+		{
+			"id": "m9x11",
+			"modulo": "m9",
+			"tipo": "ce",
+			"enunciado": "O texto expositivo informa e explica sem defender tese; o argumentativo defende um ponto de vista.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Expositivo informa; argumentativo convence."
+		},
+		{
+			"id": "m9x12",
+			"modulo": "m9",
+			"tipo": "ce",
+			"enunciado": "A ata é um tipo textual.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Ata é gênero. Tipos são as sequências teóricas (narrativa, descritiva etc.)."
+		},
+		{
+			"id": "m9x13",
+			"modulo": "m9",
+			"tipo": "ce",
+			"enunciado": "O artigo de opinião é um gênero argumentativo, assinado, que expressa a posição do autor.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Difere do editorial, que não é assinado e expressa a posição do veículo."
+		},
+		{
+			"id": "m9x14",
+			"modulo": "m9",
+			"tipo": "ce",
+			"enunciado": "A passagem de \"Ele disse: — Estou cansado\" para \"Ele disse que estava cansado\" converte corretamente o discurso direto em indireto.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Presente → imperfeito; 1ª pessoa → 3ª pessoa; entra a conjunção \"que\"."
+		},
+		{
+			"id": "m9x15",
+			"modulo": "m9",
+			"tipo": "ce",
+			"enunciado": "A citação de um especialista para sustentar uma tese constitui argumento de autoridade.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Estratégia argumentativa comum."
+		},
+		{
+			"id": "m9x16",
+			"modulo": "m9",
+			"tipo": "ce",
+			"enunciado": "O texto dissertativo-argumentativo organiza-se, em geral, em tese, argumentos e conclusão.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Estrutura básica da argumentação."
+		},
+		{
+			"id": "m10x0",
+			"modulo": "m10",
+			"tipo": "ce",
+			"enunciado": "Compreender é identificar o que está explícito no texto; interpretar é concluir a partir do que o texto autoriza.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Comandos como \"infere-se\" e \"depreende-se\" pedem interpretação."
+		},
+		{
+			"id": "m10x1",
+			"modulo": "m10",
+			"tipo": "ce",
+			"enunciado": "O enunciado \"Pedro parou de fumar\" pressupõe que Pedro fumava.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "\"Parar de\" é marca linguística de pressuposto."
+		},
+		{
+			"id": "m10x2",
+			"modulo": "m10",
+			"tipo": "ce",
+			"enunciado": "O subentendido vem marcado linguisticamente no enunciado e, por isso, não pode ser negado pelo enunciador.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Isso é o pressuposto. O subentendido depende do contexto e pode ser negado."
+		},
+		{
+			"id": "m10x3",
+			"modulo": "m10",
+			"tipo": "ce",
+			"enunciado": "Em \"Até o relator votou contra\", a palavra \"até\" indica que o voto do relator era inesperado.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "\"Até\", \"ainda\", \"já\" geram pressupostos."
+		},
+		{
+			"id": "m10x4",
+			"modulo": "m10",
+			"tipo": "ce",
+			"enunciado": "Na função conativa, a mensagem centra-se no receptor, como na publicidade e nos textos com imperativo.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Conativa (apelativa): quer influenciar quem ouve."
+		},
+		{
+			"id": "m10x5",
+			"modulo": "m10",
+			"tipo": "ce",
+			"enunciado": "A função emotiva da linguagem centra-se no receptor da mensagem.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "A emotiva centra-se no emissor (1ª pessoa, opiniões, emoções)."
+		},
+		{
+			"id": "m10x6",
+			"modulo": "m10",
+			"tipo": "ce",
+			"enunciado": "A função metalinguística ocorre quando o código é usado para falar do próprio código, como em um verbete de dicionário.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "A língua explicando a língua."
+		},
+		{
+			"id": "m10x7",
+			"modulo": "m10",
+			"tipo": "ce",
+			"enunciado": "A função referencial privilegia a informação objetiva, como em notícias e textos científicos.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Centra-se no assunto; predomina a 3ª pessoa."
+		},
+		{
+			"id": "m10x8",
+			"modulo": "m10",
+			"tipo": "ce",
+			"enunciado": "A função fática verifica ou mantém o canal de comunicação, como em \"Alô? Está me ouvindo?\".",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Centra-se no canal."
+		},
+		{
+			"id": "m10x9",
+			"modulo": "m10",
+			"tipo": "ce",
+			"enunciado": "Advérbios como \"felizmente\", \"certamente\" e \"talvez\" funcionam como modalizadores, pois revelam a atitude do enunciador.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Modalizadores marcam subjetividade, certeza ou dúvida."
+		},
+		{
+			"id": "m10x10",
+			"modulo": "m10",
+			"tipo": "ce",
+			"enunciado": "A variação diafásica é a que decorre da região geográfica do falante.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Regional = diatópica. Diafásica = grau de formalidade da situação."
+		},
+		{
+			"id": "m10x11",
+			"modulo": "m10",
+			"tipo": "ce",
+			"enunciado": "A variação diastrática relaciona-se ao grupo social, e a diacrônica, à mudança da língua ao longo do tempo.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Diatópica: lugar; diastrática: grupo social; diafásica: situação; diacrônica: tempo."
+		},
+		{
+			"id": "m10x12",
+			"modulo": "m10",
+			"tipo": "ce",
+			"enunciado": "Se o texto afirma que \"muitos parlamentares apoiaram a medida\", é correto inferir que todos a apoiaram.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Generalização indevida: \"muitos\" não é \"todos\"."
+		},
+		{
+			"id": "m10x13",
+			"modulo": "m10",
+			"tipo": "ce",
+			"enunciado": "Extrapolação (ir além do texto), redução (tomar a parte pelo todo) e contradição são erros típicos de interpretação.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "São as três armadilhas clássicas dos itens de interpretação."
+		},
+		{
+			"id": "m10x14",
+			"modulo": "m10",
+			"tipo": "ce",
+			"enunciado": "O enunciado \"Maria voltou a estudar\" pressupõe que Maria já havia estudado antes e tinha parado.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "\"Voltar a\" marca pressuposto."
+		},
+		{
+			"id": "m10x15",
+			"modulo": "m10",
+			"tipo": "ce",
+			"enunciado": "O tema é o assunto de que o texto trata; a tese é a posição que o autor defende sobre ele.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Vários textos podem ter o mesmo tema e teses opostas."
+		},
+		{
+			"id": "m10x16",
+			"modulo": "m10",
+			"tipo": "ce",
+			"enunciado": "Na função poética, a ênfase recai sobre a própria mensagem e sua elaboração formal.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Ritmo, sonoridade, jogos de palavras — não só em poemas."
+		},
+		{
+			"id": "m10x17",
+			"modulo": "m10",
+			"tipo": "ce",
+			"enunciado": "Em itens de inferência, uma afirmação verdadeira no mundo real deve ser marcada como certa, ainda que o texto não a sustente.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Vale só o que o texto autoriza."
+		},
+		{
+			"id": "b0",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "Estão corretas as construções \"das 8h às 12h\" e \"de 8h a 12h\", mas não a construção \"de 8h às 12h\".",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Os pares possíveis são das… às (com artigo) e de… a (sem artigo)."
+		},
+		{
+			"id": "b1",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "Em \"Mais de um parlamentar votou contra o requerimento\", a forma verbal no singular está correta.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "'Mais de um' leva o verbo ao singular, salvo quando há reciprocidade."
+		},
+		{
+			"id": "b2",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "A frase \"Prefiro mais analisar projetos do que redigir atas\" atende à regência prescrita pela norma-padrão.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "O correto é 'Prefiro analisar projetos a redigir atas'."
+		},
+		{
+			"id": "b3",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "Em \"Haja vista os problemas apontados, a votação foi adiada\", a expressão \"haja vista\" está empregada de acordo com a norma-padrão.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "'Haja vista' é invariável."
+		},
+		{
+			"id": "b4",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "Na norma-padrão escrita, iniciar período com pronome oblíquo átono, como em \"Me parece adequado o texto\", é construção inadequada.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "No início do período, usa-se ênclise: 'Parece-me'."
+		},
+		{
+			"id": "b5",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "Em \"Os deputados, porém, rejeitaram o destaque\", as vírgulas que isolam \"porém\" são obrigatórias.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "A conjunção adversativa deslocada fica entre vírgulas."
+		},
+		{
+			"id": "b6",
+			"modulo": "m4",
+			"tipo": "ce",
+			"enunciado": "Em \"Se ele vir o erro, avisará a Mesa\", a forma \"vir\" corresponde ao futuro do subjuntivo do verbo \"ver\".",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "É 'quando eu vir', 'se ele vir' (de ver)."
+		},
+		{
+			"id": "b7",
+			"modulo": "m4",
+			"tipo": "ce",
+			"enunciado": "A frase \"Quando o relator ver o parecer, emitirá o voto\" está de acordo com a norma-padrão.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "O correto é 'Quando o relator vir'."
+		},
+		{
+			"id": "b8",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "Em \"Bastante pessoas compareceram à audiência\", a concordância nominal está correta.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "Antes de substantivo, 'bastante' é adjetivo e varia: 'bastantes pessoas'."
+		},
+		{
+			"id": "b9",
+			"modulo": "m6",
+			"tipo": "ce",
+			"enunciado": "Em registro formal, é recomendável substituir \"onde\" por \"em que\" em \"Trata-se de uma situação onde não há consenso\".",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "'Onde' é reservado a lugar físico."
+		},
+		{
+			"id": "b10",
+			"modulo": "m5",
+			"tipo": "ce",
+			"enunciado": "A reescrita de \"Divulgaram-se os resultados\" como \"Os resultados foram divulgados\" mantém a correção e o sentido, por se tratar de transposição entre passiva sintética e analítica.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "As duas formas são de voz passiva."
+		},
+		{
+			"id": "b11",
+			"modulo": "m8",
+			"tipo": "ce",
+			"enunciado": "Em \"O relatório foi lido; o mesmo será votado amanhã\", o emprego de \"o mesmo\" como elemento de coesão é o recomendado pelo Manual de Redação da Presidência da República.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "O MRPR recomenda evitar 'o mesmo' como pronome substituto; use 'ele'."
+		},
+		{
+			"id": "b12",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "A expressão \"meio-dia e meia\" está de acordo com a norma-padrão.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Subentende-se 'meia hora', por isso o feminino."
+		},
+		{
+			"id": "b13",
+			"modulo": "m1",
+			"tipo": "ce",
+			"enunciado": "As grafias \"sub-humano\" e \"sub-reitor\" estão de acordo com a ortografia oficial.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "sub + h e sub + r levam hífen."
+		},
+		{
+			"id": "b14",
+			"modulo": "m7",
+			"tipo": "ce",
+			"enunciado": "O período \"Houveram muitas reclamações na sessão\" está de acordo com a norma-padrão.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "'Haver' no sentido de existir ou ocorrer é impessoal: 'Houve'."
+		},
+		{
+			"id": "b15",
+			"modulo": "m10",
+			"tipo": "ce",
+			"enunciado": "Em \"Até o relator votou contra o parecer\", o vocábulo \"até\" introduz a ideia de que o voto contrário do relator não era esperado.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "'Até' inclui um elemento inesperado e gera pressuposto."
+		},
+		{
+			"id": "b16",
+			"modulo": "m6",
+			"tipo": "ce",
+			"enunciado": "Em \"Tenho necessidade de que me enviem os autos\", a oração introduzida por \"de que\" é completiva nominal.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 0,
+			"explicacao": "Completa o nome 'necessidade'."
+		},
+		{
+			"id": "b17",
+			"modulo": "m5",
+			"tipo": "ce",
+			"enunciado": "Em \"Encaminhou-se aos gabinetes as minutas\", a concordância está correta, porque o \"se\" indetermina o sujeito.",
+			"opcoes": [
+				"CERTO",
+				"ERRADO"
+			],
+			"certa": 1,
+			"explicacao": "'Encaminhar' é VTD (e VTDI), então o 'se' é apassivador: 'Encaminharam-se as minutas'."
+		},
+		{
+			"id": "m1r0",
+			"modulo": "m1",
+			"tipo": "ab",
+			"enunciado": "Grafia correta:",
+			"opcoes": [
+				"ideia",
+				"idéia"
+			],
+			"certa": 0,
+			"explicacao": "Ditongo aberto em paroxítona perdeu o acento."
+		},
+		{
+			"id": "m1r1",
+			"modulo": "m1",
+			"tipo": "ab",
+			"enunciado": "Grafia correta:",
+			"opcoes": [
+				"herói",
+				"heroi"
+			],
+			"certa": 0,
+			"explicacao": "Em oxítona, o ditongo aberto mantém o acento."
+		},
+		{
+			"id": "m1r2",
+			"modulo": "m1",
+			"tipo": "ab",
+			"enunciado": "Grafia correta:",
+			"opcoes": [
+				"feiura",
+				"feiúra"
+			],
+			"certa": 0,
+			"explicacao": "Paroxítona com u depois de ditongo: sem acento."
+		},
+		{
+			"id": "m1r3",
+			"modulo": "m1",
+			"tipo": "ab",
+			"enunciado": "Grafia correta:",
+			"opcoes": [
+				"micro-ondas",
+				"microondas"
+			],
+			"certa": 0,
+			"explicacao": "Vogais iguais: hífen."
+		},
+		{
+			"id": "m1r4",
+			"modulo": "m1",
+			"tipo": "ab",
+			"enunciado": "Grafia correta:",
+			"opcoes": [
+				"autoescola",
+				"auto-escola"
+			],
+			"certa": 0,
+			"explicacao": "Vogais diferentes: junta."
+		},
+		{
+			"id": "m1r5",
+			"modulo": "m1",
+			"tipo": "ab",
+			"enunciado": "Grafia correta:",
+			"opcoes": [
+				"antissocial",
+				"anti-social"
+			],
+			"certa": 0,
+			"explicacao": "Vogal + s: junta e dobra."
+		},
+		{
+			"id": "m1r6",
+			"modulo": "m1",
+			"tipo": "ab",
+			"enunciado": "Grafia correta:",
+			"opcoes": [
+				"super-homem",
+				"superhomem"
+			],
+			"certa": 0,
+			"explicacao": "Antes de h: hífen."
+		},
+		{
+			"id": "m1r7",
+			"modulo": "m1",
+			"tipo": "ab",
+			"enunciado": "Grafia correta:",
+			"opcoes": [
+				"coautor",
+				"co-autor"
+			],
+			"certa": 0,
+			"explicacao": "Prefixo co- em geral junta."
+		},
+		{
+			"id": "m1r8",
+			"modulo": "m1",
+			"tipo": "ab",
+			"enunciado": "Eles ___ aqui todo dia. (vir)",
+			"opcoes": [
+				"vêm",
+				"veem"
+			],
+			"certa": 0,
+			"explicacao": "Vêm = vir (plural). Veem = ver."
+		},
+		{
+			"id": "m1r9",
+			"modulo": "m1",
+			"tipo": "ab",
+			"enunciado": "Eles ___ o filme. (ver)",
+			"opcoes": [
+				"veem",
+				"vêem"
+			],
+			"certa": 0,
+			"explicacao": "Hiato ee sem acento."
+		},
+		{
+			"id": "m1r10",
+			"modulo": "m1",
+			"tipo": "ab",
+			"enunciado": "Ontem ela não ___ vir.",
+			"opcoes": [
+				"pôde",
+				"pode"
+			],
+			"certa": 0,
+			"explicacao": "Pôde (passado) mantém o acento diferencial."
+		},
+		{
+			"id": "m1r11",
+			"modulo": "m1",
+			"tipo": "ab",
+			"enunciado": "Você faltou ___?",
+			"opcoes": [
+				"por quê",
+				"porque"
+			],
+			"certa": 0,
+			"explicacao": "Fim de frase: separado e com acento."
+		},
+		{
+			"id": "m1r12",
+			"modulo": "m1",
+			"tipo": "ab",
+			"enunciado": "Faltou ___ adoeceu.",
+			"opcoes": [
+				"porque",
+				"por que"
+			],
+			"certa": 0,
+			"explicacao": "Cabe \"pois\": junto."
+		},
+		{
+			"id": "m1r13",
+			"modulo": "m1",
+			"tipo": "ab",
+			"enunciado": "Grafia correta:",
+			"opcoes": [
+				"linguiça",
+				"lingüiça"
+			],
+			"certa": 0,
+			"explicacao": "O trema foi abolido."
+		},
+		{
+			"id": "m1r14",
+			"modulo": "m1",
+			"tipo": "ab",
+			"enunciado": "\"Público\" é:",
+			"opcoes": [
+				"proparoxítona",
+				"paroxítona"
+			],
+			"certa": 0,
+			"explicacao": "Todas as proparoxítonas são acentuadas."
+		},
+		{
+			"id": "m1r15",
+			"modulo": "m1",
+			"tipo": "ab",
+			"enunciado": "Grafia correta:",
+			"opcoes": [
+				"juiz",
+				"juíz"
+			],
+			"certa": 0,
+			"explicacao": "O i forma sílaba com z: sem acento. Já ju-í-zes leva."
+		},
+		{
+			"id": "m1r16",
+			"modulo": "m1",
+			"tipo": "ab",
+			"enunciado": "Grafia correta:",
+			"opcoes": [
+				"contrarregra",
+				"contra-regra"
+			],
+			"certa": 0,
+			"explicacao": "Vogal + r: junta e dobra."
+		},
+		{
+			"id": "m1r17",
+			"modulo": "m1",
+			"tipo": "ab",
+			"enunciado": "Grafia correta:",
+			"opcoes": [
+				"ex-deputado",
+				"exdeputado"
+			],
+			"certa": 0,
+			"explicacao": "Ex- sempre com hífen."
+		},
+		{
+			"id": "m1r18",
+			"modulo": "m1",
+			"tipo": "ab",
+			"enunciado": "Grafia correta:",
+			"opcoes": [
+				"itens",
+				"ítens"
+			],
+			"certa": 0,
+			"explicacao": "Paroxítona em -ens: sem acento."
+		},
+		{
+			"id": "m1r19",
+			"modulo": "m1",
+			"tipo": "ab",
+			"enunciado": "Grafia correta:",
+			"opcoes": [
+				"sub-região",
+				"subregião"
+			],
+			"certa": 0,
+			"explicacao": "sub + r: hífen."
+		},
+		{
+			"id": "m2r0",
+			"modulo": "m2",
+			"tipo": "ab",
+			"enunciado": "\"Entardecer\" é derivação:",
+			"opcoes": [
+				"parassintética",
+				"prefixal e sufixal"
+			],
+			"certa": 0,
+			"explicacao": "Não existe *entarde nem *tardecer."
+		},
+		{
+			"id": "m2r1",
+			"modulo": "m2",
+			"tipo": "ab",
+			"enunciado": "\"Deslealdade\" é derivação:",
+			"opcoes": [
+				"prefixal e sufixal",
+				"parassintética"
+			],
+			"certa": 0,
+			"explicacao": "Desleal e lealdade existem."
+		},
+		{
+			"id": "m2r2",
+			"modulo": "m2",
+			"tipo": "ab",
+			"enunciado": "\"Planalto\" é composição por:",
+			"opcoes": [
+				"aglutinação",
+				"justaposição"
+			],
+			"certa": 0,
+			"explicacao": "Plano + alto: houve perda de som."
+		},
+		{
+			"id": "m2r3",
+			"modulo": "m2",
+			"tipo": "ab",
+			"enunciado": "\"Guarda-chuva\" é composição por:",
+			"opcoes": [
+				"justaposição",
+				"aglutinação"
+			],
+			"certa": 0,
+			"explicacao": "Sem perda de som."
+		},
+		{
+			"id": "m2r4",
+			"modulo": "m2",
+			"tipo": "ab",
+			"enunciado": "\"A pesca\" (de pescar) é derivação:",
+			"opcoes": [
+				"regressiva",
+				"imprópria"
+			],
+			"certa": 0,
+			"explicacao": "Reduz o verbo."
+		},
+		{
+			"id": "m2r5",
+			"modulo": "m2",
+			"tipo": "ab",
+			"enunciado": "\"O porquê\" é derivação:",
+			"opcoes": [
+				"imprópria",
+				"regressiva"
+			],
+			"certa": 0,
+			"explicacao": "Muda a classe, não a forma."
+		},
+		{
+			"id": "m2r6",
+			"modulo": "m2",
+			"tipo": "ab",
+			"enunciado": "\"Reler\" é derivação:",
+			"opcoes": [
+				"prefixal",
+				"sufixal"
+			],
+			"certa": 0,
+			"explicacao": "re- + ler."
+		},
+		{
+			"id": "m2r7",
+			"modulo": "m2",
+			"tipo": "ab",
+			"enunciado": "\"Lealdade\" é derivação:",
+			"opcoes": [
+				"sufixal",
+				"prefixal"
+			],
+			"certa": 0,
+			"explicacao": "leal + -dade."
+		},
+		{
+			"id": "m2r8",
+			"modulo": "m2",
+			"tipo": "ab",
+			"enunciado": "\"Sambódromo\" é:",
+			"opcoes": [
+				"hibridismo",
+				"aglutinação"
+			],
+			"certa": 0,
+			"explicacao": "Elementos de línguas diferentes."
+		},
+		{
+			"id": "m2r9",
+			"modulo": "m2",
+			"tipo": "ab",
+			"enunciado": "\"cant-\" em \"cantávamos\" é:",
+			"opcoes": [
+				"radical",
+				"desinência"
+			],
+			"certa": 0,
+			"explicacao": "Base que recebe os demais morfemas."
+		},
+		{
+			"id": "m2r10",
+			"modulo": "m2",
+			"tipo": "ab",
+			"enunciado": "\"-s\" em \"meninos\" é:",
+			"opcoes": [
+				"desinência",
+				"sufixo"
+			],
+			"certa": 0,
+			"explicacao": "Desinência nominal de número (flexão)."
+		},
+		{
+			"id": "m2r11",
+			"modulo": "m2",
+			"tipo": "ab",
+			"enunciado": "\"Vinagre\" (vinho + acre) é:",
+			"opcoes": [
+				"aglutinação",
+				"justaposição"
+			],
+			"certa": 0,
+			"explicacao": "Perda de sons."
+		},
+		{
+			"id": "m2r12",
+			"modulo": "m2",
+			"tipo": "ab",
+			"enunciado": "\"Pontapé\" é composição por:",
+			"opcoes": [
+				"justaposição",
+				"aglutinação"
+			],
+			"certa": 0,
+			"explicacao": "Ponta + pé, sem perda."
+		},
+		{
+			"id": "m2r13",
+			"modulo": "m2",
+			"tipo": "ab",
+			"enunciado": "\"Anoitecer\" é derivação:",
+			"opcoes": [
+				"parassintética",
+				"sufixal"
+			],
+			"certa": 0,
+			"explicacao": "a- + noite + -ecer ao mesmo tempo."
+		},
+		{
+			"id": "m2r14",
+			"modulo": "m2",
+			"tipo": "ab",
+			"enunciado": "\"Foto\" (de fotografia) é:",
+			"opcoes": [
+				"abreviação",
+				"regressiva"
+			],
+			"certa": 0,
+			"explicacao": "Redução vocabular."
+		},
+		{
+			"id": "m2r15",
+			"modulo": "m2",
+			"tipo": "ab",
+			"enunciado": "\"Meninos\" × \"menino\":",
+			"opcoes": [
+				"flexão",
+				"derivação"
+			],
+			"certa": 0,
+			"explicacao": "Flexão não cria palavra nova."
+		},
+		{
+			"id": "m2r16",
+			"modulo": "m2",
+			"tipo": "ab",
+			"enunciado": "\"Infeliz\" é derivação:",
+			"opcoes": [
+				"prefixal",
+				"parassintética"
+			],
+			"certa": 0,
+			"explicacao": "in- + feliz."
+		},
+		{
+			"id": "m3r0",
+			"modulo": "m3",
+			"tipo": "ab",
+			"enunciado": "Retoma o termo mais PRÓXIMO:",
+			"opcoes": [
+				"este",
+				"aquele"
+			],
+			"certa": 0,
+			"explicacao": "Este = mais próximo; aquele = mais distante."
+		},
+		{
+			"id": "m3r1",
+			"modulo": "m3",
+			"tipo": "ab",
+			"enunciado": "Perto de quem OUVE:",
+			"opcoes": [
+				"esse",
+				"este"
+			],
+			"certa": 0,
+			"explicacao": "Este: perto de quem fala."
+		},
+		{
+			"id": "m3r2",
+			"modulo": "m3",
+			"tipo": "ab",
+			"enunciado": "Vossa Excelência ___ o relatório.",
+			"opcoes": [
+				"recebeu",
+				"recebestes"
+			],
+			"certa": 0,
+			"explicacao": "Tratamento pede 3ª pessoa."
+		},
+		{
+			"id": "m3r3",
+			"modulo": "m3",
+			"tipo": "ab",
+			"enunciado": "Vossa Senhoria e ___ equipe.",
+			"opcoes": [
+				"sua",
+				"vossa"
+			],
+			"certa": 0,
+			"explicacao": "Possessivo de 3ª pessoa."
+		},
+		{
+			"id": "m3r4",
+			"modulo": "m3",
+			"tipo": "ab",
+			"enunciado": "\"Todo o prédio\" significa:",
+			"opcoes": [
+				"o prédio inteiro",
+				"qualquer prédio"
+			],
+			"certa": 0,
+			"explicacao": "Todo o = totalidade."
+		},
+		{
+			"id": "m3r5",
+			"modulo": "m3",
+			"tipo": "ab",
+			"enunciado": "\"Muito\" em \"muito cedo\" é:",
+			"opcoes": [
+				"advérbio",
+				"pronome"
+			],
+			"certa": 0,
+			"explicacao": "Modifica advérbio, não varia."
+		},
+		{
+			"id": "m3r6",
+			"modulo": "m3",
+			"tipo": "ab",
+			"enunciado": "\"Muitos\" em \"muitos votos\" é:",
+			"opcoes": [
+				"pronome indefinido",
+				"advérbio"
+			],
+			"certa": 0,
+			"explicacao": "Acompanha substantivo e varia."
+		},
+		{
+			"id": "m3r7",
+			"modulo": "m3",
+			"tipo": "ab",
+			"enunciado": "Classe invariável:",
+			"opcoes": [
+				"preposição",
+				"numeral"
+			],
+			"certa": 0,
+			"explicacao": "Invariáveis: advérbio, preposição, conjunção, interjeição."
+		},
+		{
+			"id": "m3r8",
+			"modulo": "m3",
+			"tipo": "ab",
+			"enunciado": "\"o\" em \"Não o vi\" é:",
+			"opcoes": [
+				"pronome",
+				"artigo"
+			],
+			"certa": 0,
+			"explicacao": "Substitui um nome (= ele)."
+		},
+		{
+			"id": "m3r9",
+			"modulo": "m3",
+			"tipo": "ab",
+			"enunciado": "Falando SOBRE a autoridade:",
+			"opcoes": [
+				"Sua Excelência",
+				"Vossa Excelência"
+			],
+			"certa": 0,
+			"explicacao": "Vossa: com quem se fala."
+		},
+		{
+			"id": "m3r10",
+			"modulo": "m3",
+			"tipo": "ab",
+			"enunciado": "\"Alguém\" é pronome:",
+			"opcoes": [
+				"indefinido",
+				"demonstrativo"
+			],
+			"certa": 0,
+			"explicacao": "Referência vaga."
+		},
+		{
+			"id": "m3r11",
+			"modulo": "m3",
+			"tipo": "ab",
+			"enunciado": "\"Belo\" em \"O belo comove\" é:",
+			"opcoes": [
+				"substantivo",
+				"adjetivo"
+			],
+			"certa": 0,
+			"explicacao": "Substantivado pelo artigo."
+		},
+		{
+			"id": "m3r12",
+			"modulo": "m3",
+			"tipo": "ab",
+			"enunciado": "Catáfora:",
+			"opcoes": [
+				"anuncia o que vem",
+				"retoma o que passou"
+			],
+			"certa": 0,
+			"explicacao": "Retomar é anáfora."
+		},
+		{
+			"id": "m3r13",
+			"modulo": "m3",
+			"tipo": "ab",
+			"enunciado": "\"Cujo\" é pronome:",
+			"opcoes": [
+				"relativo",
+				"possessivo"
+			],
+			"certa": 0,
+			"explicacao": "Relativo com ideia de posse."
+		},
+		{
+			"id": "m3r14",
+			"modulo": "m3",
+			"tipo": "ab",
+			"enunciado": "\"Excelentíssimo Senhor\" vale para:",
+			"opcoes": [
+				"chefes de Poder",
+				"qualquer autoridade"
+			],
+			"certa": 0,
+			"explicacao": "Demais autoridades: Senhor + cargo."
+		},
+		{
+			"id": "m3r15",
+			"modulo": "m3",
+			"tipo": "ab",
+			"enunciado": "\"Este ano\" refere-se ao tempo:",
+			"opcoes": [
+				"presente",
+				"passado distante"
+			],
+			"certa": 0,
+			"explicacao": "Este: presente; aquele: passado distante."
+		},
+		{
+			"id": "m3r16",
+			"modulo": "m3",
+			"tipo": "ab",
+			"enunciado": "\"Bom\" em \"bom servidor\": função de",
+			"opcoes": [
+				"adjunto adnominal",
+				"predicativo"
+			],
+			"certa": 0,
+			"explicacao": "Ligado direto ao nome, sem verbo."
+		},
+		{
+			"id": "m4r0",
+			"modulo": "m4",
+			"tipo": "ab",
+			"enunciado": "Quando eu ___ o texto... (ver)",
+			"opcoes": [
+				"vir",
+				"ver"
+			],
+			"certa": 0,
+			"explicacao": "Futuro do subjuntivo de ver: vir."
+		},
+		{
+			"id": "m4r1",
+			"modulo": "m4",
+			"tipo": "ab",
+			"enunciado": "Se ele ___ amanhã... (vir)",
+			"opcoes": [
+				"vier",
+				"vir"
+			],
+			"certa": 0,
+			"explicacao": "Futuro do subjuntivo de vir: vier."
+		},
+		{
+			"id": "m4r2",
+			"modulo": "m4",
+			"tipo": "ab",
+			"enunciado": "Se eu ___ tempo, iria.",
+			"opcoes": [
+				"tivesse",
+				"tiver"
+			],
+			"certa": 0,
+			"explicacao": "Tivesse → iria."
+		},
+		{
+			"id": "m4r3",
+			"modulo": "m4",
+			"tipo": "ab",
+			"enunciado": "Se eu ___ tempo, irei.",
+			"opcoes": [
+				"tiver",
+				"tivesse"
+			],
+			"certa": 0,
+			"explicacao": "Tiver → irei."
+		},
+		{
+			"id": "m4r4",
+			"modulo": "m4",
+			"tipo": "ab",
+			"enunciado": "\"À medida que\" indica:",
+			"opcoes": [
+				"proporção",
+				"causa"
+			],
+			"certa": 0,
+			"explicacao": "Causa é \"na medida em que\"."
+		},
+		{
+			"id": "m4r5",
+			"modulo": "m4",
+			"tipo": "ab",
+			"enunciado": "\"Na medida em que\" indica:",
+			"opcoes": [
+				"causa",
+				"proporção"
+			],
+			"certa": 0,
+			"explicacao": "Proporção é \"à medida que\"."
+		},
+		{
+			"id": "m4r6",
+			"modulo": "m4",
+			"tipo": "ab",
+			"enunciado": "\"Posto que\" indica:",
+			"opcoes": [
+				"concessão",
+				"causa"
+			],
+			"certa": 0,
+			"explicacao": "= embora."
+		},
+		{
+			"id": "m4r7",
+			"modulo": "m4",
+			"tipo": "ab",
+			"enunciado": "\"Conquanto\" indica:",
+			"opcoes": [
+				"concessão",
+				"conclusão"
+			],
+			"certa": 0,
+			"explicacao": "= embora."
+		},
+		{
+			"id": "m4r8",
+			"modulo": "m4",
+			"tipo": "ab",
+			"enunciado": "\"Porquanto\" indica:",
+			"opcoes": [
+				"explicação/causa",
+				"concessão"
+			],
+			"certa": 0,
+			"explicacao": "= porque."
+		},
+		{
+			"id": "m4r9",
+			"modulo": "m4",
+			"tipo": "ab",
+			"enunciado": "\"Todavia\" indica:",
+			"opcoes": [
+				"adversidade",
+				"conclusão"
+			],
+			"certa": 0,
+			"explicacao": "= mas."
+		},
+		{
+			"id": "m4r10",
+			"modulo": "m4",
+			"tipo": "ab",
+			"enunciado": "\"Portanto\" indica:",
+			"opcoes": [
+				"conclusão",
+				"explicação"
+			],
+			"certa": 0,
+			"explicacao": "= logo."
+		},
+		{
+			"id": "m4r11",
+			"modulo": "m4",
+			"tipo": "ab",
+			"enunciado": "Eles ___ na discussão.",
+			"opcoes": [
+				"intervieram",
+				"interviram"
+			],
+			"certa": 0,
+			"explicacao": "Intervir segue vir."
+		},
+		{
+			"id": "m4r12",
+			"modulo": "m4",
+			"tipo": "ab",
+			"enunciado": "Se ele ___ a proposta...",
+			"opcoes": [
+				"mantiver",
+				"manter"
+			],
+			"certa": 0,
+			"explicacao": "Manter segue ter: tiver → mantiver."
+		},
+		{
+			"id": "m4r13",
+			"modulo": "m4",
+			"tipo": "ab",
+			"enunciado": "Embora ___ tarde, fico.",
+			"opcoes": [
+				"seja",
+				"é"
+			],
+			"certa": 0,
+			"explicacao": "Concessiva pede subjuntivo."
+		},
+		{
+			"id": "m4r14",
+			"modulo": "m4",
+			"tipo": "ab",
+			"enunciado": "Se o relator ___ a emenda...",
+			"opcoes": [
+				"propuser",
+				"propor"
+			],
+			"certa": 0,
+			"explicacao": "Propor segue pôr: puser."
+		},
+		{
+			"id": "m4r15",
+			"modulo": "m4",
+			"tipo": "ab",
+			"enunciado": "\"A fim de que\" indica:",
+			"opcoes": [
+				"finalidade",
+				"consequência"
+			],
+			"certa": 0,
+			"explicacao": "= para que."
+		},
+		{
+			"id": "m4r16",
+			"modulo": "m4",
+			"tipo": "ab",
+			"enunciado": "\"Teria assinado\", em notícia:",
+			"opcoes": [
+				"fato não confirmado",
+				"fato certo"
+			],
+			"certa": 0,
+			"explicacao": "Futuro do pretérito afasta o enunciador."
+		},
+		{
+			"id": "m4r17",
+			"modulo": "m4",
+			"tipo": "ab",
+			"enunciado": "\"Pois\" DEPOIS do verbo:",
+			"opcoes": [
+				"conclusão",
+				"explicação"
+			],
+			"certa": 0,
+			"explicacao": "Antes do verbo é explicativo."
+		},
+		{
+			"id": "m5r0",
+			"modulo": "m5",
+			"tipo": "ab",
+			"enunciado": "___ casas.",
+			"opcoes": [
+				"Alugam-se",
+				"Aluga-se"
+			],
+			"certa": 0,
+			"explicacao": "VTD + se: verbo concorda com o sujeito."
+		},
+		{
+			"id": "m5r1",
+			"modulo": "m5",
+			"tipo": "ab",
+			"enunciado": "___ de técnicos.",
+			"opcoes": [
+				"Precisa-se",
+				"Precisam-se"
+			],
+			"certa": 0,
+			"explicacao": "VTI + se: singular."
+		},
+		{
+			"id": "m5r2",
+			"modulo": "m5",
+			"tipo": "ab",
+			"enunciado": "\"se\" em \"Vendem-se livros\":",
+			"opcoes": [
+				"apassivador",
+				"indeterminador"
+			],
+			"certa": 0,
+			"explicacao": "Livros são vendidos."
+		},
+		{
+			"id": "m5r3",
+			"modulo": "m5",
+			"tipo": "ab",
+			"enunciado": "\"se\" em \"Vive-se bem\":",
+			"opcoes": [
+				"indeterminador",
+				"apassivador"
+			],
+			"certa": 0,
+			"explicacao": "Verbo intransitivo."
+		},
+		{
+			"id": "m5r4",
+			"modulo": "m5",
+			"tipo": "ab",
+			"enunciado": "\"da cidade\" em \"a destruição da cidade\":",
+			"opcoes": [
+				"complemento nominal",
+				"adjunto adnominal"
+			],
+			"certa": 0,
+			"explicacao": "A cidade é paciente."
+		},
+		{
+			"id": "m5r5",
+			"modulo": "m5",
+			"tipo": "ab",
+			"enunciado": "\"do autor\" em \"o livro do autor\":",
+			"opcoes": [
+				"adjunto adnominal",
+				"complemento nominal"
+			],
+			"certa": 0,
+			"explicacao": "Posse."
+		},
+		{
+			"id": "m5r6",
+			"modulo": "m5",
+			"tipo": "ab",
+			"enunciado": "\"Há vagas\": \"vagas\" é",
+			"opcoes": [
+				"objeto direto",
+				"sujeito"
+			],
+			"certa": 0,
+			"explicacao": "Haver = existir: sem sujeito."
+		},
+		{
+			"id": "m5r7",
+			"modulo": "m5",
+			"tipo": "ab",
+			"enunciado": "\"Faltam vagas\": \"vagas\" é",
+			"opcoes": [
+				"sujeito",
+				"objeto direto"
+			],
+			"certa": 0,
+			"explicacao": "Sujeito posposto."
+		},
+		{
+			"id": "m5r8",
+			"modulo": "m5",
+			"tipo": "ab",
+			"enunciado": "\"Colegas, vamos!\": \"Colegas\" é",
+			"opcoes": [
+				"vocativo",
+				"aposto"
+			],
+			"certa": 0,
+			"explicacao": "Chama o interlocutor."
+		},
+		{
+			"id": "m5r9",
+			"modulo": "m5",
+			"tipo": "ab",
+			"enunciado": "\"pelo relator\" em \"foi lido pelo relator\":",
+			"opcoes": [
+				"agente da passiva",
+				"adjunto adverbial"
+			],
+			"certa": 0,
+			"explicacao": "Quem pratica a ação na passiva."
+		},
+		{
+			"id": "m5r10",
+			"modulo": "m5",
+			"tipo": "ab",
+			"enunciado": "\"A sessão foi longa\": predicado",
+			"opcoes": [
+				"nominal",
+				"verbal"
+			],
+			"certa": 0,
+			"explicacao": "Verbo de ligação + predicativo."
+		},
+		{
+			"id": "m5r11",
+			"modulo": "m5",
+			"tipo": "ab",
+			"enunciado": "\"Choveu.\" O sujeito é:",
+			"opcoes": [
+				"inexistente",
+				"indeterminado"
+			],
+			"certa": 0,
+			"explicacao": "Fenômeno da natureza."
+		},
+		{
+			"id": "m5r12",
+			"modulo": "m5",
+			"tipo": "ab",
+			"enunciado": "\"Bateram à porta.\" O sujeito é:",
+			"opcoes": [
+				"indeterminado",
+				"inexistente"
+			],
+			"certa": 0,
+			"explicacao": "3ª do plural sem referente."
+		},
+		{
+			"id": "m5r13",
+			"modulo": "m5",
+			"tipo": "ab",
+			"enunciado": "___ de casos raros.",
+			"opcoes": [
+				"Trata-se",
+				"Tratam-se"
+			],
+			"certa": 0,
+			"explicacao": "Tratar de: VTI, singular."
+		},
+		{
+			"id": "m5r14",
+			"modulo": "m5",
+			"tipo": "ab",
+			"enunciado": "___ ontem os ofícios.",
+			"opcoes": [
+				"Chegaram",
+				"Chegou"
+			],
+			"certa": 0,
+			"explicacao": "Sujeito posposto no plural."
+		},
+		{
+			"id": "m5r15",
+			"modulo": "m5",
+			"tipo": "ab",
+			"enunciado": "\"à sociedade\" em \"útil à sociedade\":",
+			"opcoes": [
+				"complemento nominal",
+				"objeto indireto"
+			],
+			"certa": 0,
+			"explicacao": "Completa adjetivo."
+		},
+		{
+			"id": "m5r16",
+			"modulo": "m5",
+			"tipo": "ab",
+			"enunciado": "\"Chegaram cansados\": predicado",
+			"opcoes": [
+				"verbo-nominal",
+				"verbal"
+			],
+			"certa": 0,
+			"explicacao": "Ação + predicativo."
+		},
+		{
+			"id": "m6r0",
+			"modulo": "m6",
+			"tipo": "ab",
+			"enunciado": "O livro ___ gosto.",
+			"opcoes": [
+				"de que",
+				"que"
+			],
+			"certa": 0,
+			"explicacao": "Gostar de."
+		},
+		{
+			"id": "m6r1",
+			"modulo": "m6",
+			"tipo": "ab",
+			"enunciado": "A lei ___ me referi.",
+			"opcoes": [
+				"a que",
+				"que"
+			],
+			"certa": 0,
+			"explicacao": "Referir-se a."
+		},
+		{
+			"id": "m6r2",
+			"modulo": "m6",
+			"tipo": "ab",
+			"enunciado": "O autor ___ obra li.",
+			"opcoes": [
+				"cuja",
+				"cuja a"
+			],
+			"certa": 0,
+			"explicacao": "Cujo não aceita artigo."
+		},
+		{
+			"id": "m6r3",
+			"modulo": "m6",
+			"tipo": "ab",
+			"enunciado": "A época ___ vivíamos.",
+			"opcoes": [
+				"em que",
+				"onde"
+			],
+			"certa": 0,
+			"explicacao": "Onde só para lugar."
+		},
+		{
+			"id": "m6r4",
+			"modulo": "m6",
+			"tipo": "ab",
+			"enunciado": "Adjetiva SEM vírgulas é:",
+			"opcoes": [
+				"restritiva",
+				"explicativa"
+			],
+			"certa": 0,
+			"explicacao": "Com vírgulas, explicativa."
+		},
+		{
+			"id": "m6r5",
+			"modulo": "m6",
+			"tipo": "ab",
+			"enunciado": "\"que\" em \"Disse que viria\":",
+			"opcoes": [
+				"conjunção integrante",
+				"pronome relativo"
+			],
+			"certa": 0,
+			"explicacao": "Disse ISSO."
+		},
+		{
+			"id": "m6r6",
+			"modulo": "m6",
+			"tipo": "ab",
+			"enunciado": "\"que\" em \"O texto que li\":",
+			"opcoes": [
+				"pronome relativo",
+				"conjunção integrante"
+			],
+			"certa": 0,
+			"explicacao": "= o qual."
+		},
+		{
+			"id": "m6r7",
+			"modulo": "m6",
+			"tipo": "ab",
+			"enunciado": "\"se\" em \"Não sei se vou\":",
+			"opcoes": [
+				"integrante",
+				"condicional"
+			],
+			"certa": 0,
+			"explicacao": "Não sei ISSO."
+		},
+		{
+			"id": "m6r8",
+			"modulo": "m6",
+			"tipo": "ab",
+			"enunciado": "\"Como estava doente, faltou\":",
+			"opcoes": [
+				"causa",
+				"comparação"
+			],
+			"certa": 0,
+			"explicacao": "Como no início = causal."
+		},
+		{
+			"id": "m6r9",
+			"modulo": "m6",
+			"tipo": "ab",
+			"enunciado": "\"Fez como mandaram\":",
+			"opcoes": [
+				"conformidade",
+				"causa"
+			],
+			"certa": 0,
+			"explicacao": "= conforme."
+		},
+		{
+			"id": "m6r10",
+			"modulo": "m6",
+			"tipo": "ab",
+			"enunciado": "\"É certo que virá\": oração",
+			"opcoes": [
+				"subjetiva",
+				"objetiva direta"
+			],
+			"certa": 0,
+			"explicacao": "ISSO é certo."
+		},
+		{
+			"id": "m6r11",
+			"modulo": "m6",
+			"tipo": "ab",
+			"enunciado": "\"Quero que venha\": oração",
+			"opcoes": [
+				"objetiva direta",
+				"subjetiva"
+			],
+			"certa": 0,
+			"explicacao": "Quero ISSO."
+		},
+		{
+			"id": "m6r12",
+			"modulo": "m6",
+			"tipo": "ab",
+			"enunciado": "\"Falou tanto que cansou\":",
+			"opcoes": [
+				"consequência",
+				"causa"
+			],
+			"certa": 0,
+			"explicacao": "Tanto... que."
+		},
+		{
+			"id": "m6r13",
+			"modulo": "m6",
+			"tipo": "ab",
+			"enunciado": "\"Embora cansado, foi\":",
+			"opcoes": [
+				"concessão",
+				"condição"
+			],
+			"certa": 0,
+			"explicacao": "Embora."
+		},
+		{
+			"id": "m6r14",
+			"modulo": "m6",
+			"tipo": "ab",
+			"enunciado": "\"Estudou, logo passou\":",
+			"opcoes": [
+				"conclusiva",
+				"explicativa"
+			],
+			"certa": 0,
+			"explicacao": "Logo = portanto."
+		},
+		{
+			"id": "m6r15",
+			"modulo": "m6",
+			"tipo": "ab",
+			"enunciado": "\"Tenho medo de que caia\": oração",
+			"opcoes": [
+				"completiva nominal",
+				"objetiva indireta"
+			],
+			"certa": 0,
+			"explicacao": "Completa o nome medo."
+		},
+		{
+			"id": "m6r16",
+			"modulo": "m6",
+			"tipo": "ab",
+			"enunciado": "O filme ___ assisti.",
+			"opcoes": [
+				"a que",
+				"que"
+			],
+			"certa": 0,
+			"explicacao": "Assistir a."
+		},
+		{
+			"id": "m6r17",
+			"modulo": "m6",
+			"tipo": "ab",
+			"enunciado": "\"Venha, que já é tarde\":",
+			"opcoes": [
+				"explicativa",
+				"adversativa"
+			],
+			"certa": 0,
+			"explicacao": "Que = pois."
+		},
+		{
+			"id": "m7r0",
+			"modulo": "m7",
+			"tipo": "ab",
+			"enunciado": "___ muitos erros.",
+			"opcoes": [
+				"Houve",
+				"Houveram"
+			],
+			"certa": 0,
+			"explicacao": "Haver = existir: singular."
+		},
+		{
+			"id": "m7r1",
+			"modulo": "m7",
+			"tipo": "ab",
+			"enunciado": "___ dois anos.",
+			"opcoes": [
+				"Faz",
+				"Fazem"
+			],
+			"certa": 0,
+			"explicacao": "Fazer (tempo): singular."
+		},
+		{
+			"id": "m7r2",
+			"modulo": "m7",
+			"tipo": "ab",
+			"enunciado": "Deve ___ soluções.",
+			"opcoes": [
+				"haver",
+				"haverem"
+			],
+			"certa": 0,
+			"explicacao": "Locução com haver: impessoal."
+		},
+		{
+			"id": "m7r3",
+			"modulo": "m7",
+			"tipo": "ab",
+			"enunciado": "___ pessoas.",
+			"opcoes": [
+				"Menos",
+				"Menas"
+			],
+			"certa": 0,
+			"explicacao": "Menos não varia."
+		},
+		{
+			"id": "m7r4",
+			"modulo": "m7",
+			"tipo": "ab",
+			"enunciado": "Ela está ___ nervosa.",
+			"opcoes": [
+				"meio",
+				"meia"
+			],
+			"certa": 0,
+			"explicacao": "Advérbio não varia."
+		},
+		{
+			"id": "m7r5",
+			"modulo": "m7",
+			"tipo": "ab",
+			"enunciado": "As fotos seguem ___.",
+			"opcoes": [
+				"anexas",
+				"anexo"
+			],
+			"certa": 0,
+			"explicacao": "Anexo concorda."
+		},
+		{
+			"id": "m7r6",
+			"modulo": "m7",
+			"tipo": "ab",
+			"enunciado": "Assisti ___ filme.",
+			"opcoes": [
+				"ao",
+				"o"
+			],
+			"certa": 0,
+			"explicacao": "Assistir (ver) a."
+		},
+		{
+			"id": "m7r7",
+			"modulo": "m7",
+			"tipo": "ab",
+			"enunciado": "Prefiro ler ___ escrever.",
+			"opcoes": [
+				"a",
+				"do que"
+			],
+			"certa": 0,
+			"explicacao": "Preferir X a Y."
+		},
+		{
+			"id": "m7r8",
+			"modulo": "m7",
+			"tipo": "ab",
+			"enunciado": "Isso implica ___.",
+			"opcoes": [
+				"custos",
+				"em custos"
+			],
+			"certa": 0,
+			"explicacao": "Implicar (acarretar): VTD."
+		},
+		{
+			"id": "m7r9",
+			"modulo": "m7",
+			"tipo": "ab",
+			"enunciado": "Cheguei ___ Brasília.",
+			"opcoes": [
+				"a",
+				"em"
+			],
+			"certa": 0,
+			"explicacao": "Chegar a."
+		},
+		{
+			"id": "m7r10",
+			"modulo": "m7",
+			"tipo": "ab",
+			"enunciado": "Fui ___ Bahia.",
+			"opcoes": [
+				"à",
+				"a"
+			],
+			"certa": 0,
+			"explicacao": "Volto DA Bahia."
+		},
+		{
+			"id": "m7r11",
+			"modulo": "m7",
+			"tipo": "ab",
+			"enunciado": "Fui ___ Brasília.",
+			"opcoes": [
+				"a",
+				"à"
+			],
+			"certa": 0,
+			"explicacao": "Volto DE Brasília."
+		},
+		{
+			"id": "m7r12",
+			"modulo": "m7",
+			"tipo": "ab",
+			"enunciado": "Entreguei ___ ela.",
+			"opcoes": [
+				"a",
+				"à"
+			],
+			"certa": 0,
+			"explicacao": "Sem crase antes de pronome pessoal."
+		},
+		{
+			"id": "m7r13",
+			"modulo": "m7",
+			"tipo": "ab",
+			"enunciado": "Refiro-me ___ lei.",
+			"opcoes": [
+				"àquela",
+				"aquela"
+			],
+			"certa": 0,
+			"explicacao": "a + aquela."
+		},
+		{
+			"id": "m7r14",
+			"modulo": "m7",
+			"tipo": "ab",
+			"enunciado": "___ vezes erro.",
+			"opcoes": [
+				"Às",
+				"As"
+			],
+			"certa": 0,
+			"explicacao": "Locução adverbial feminina."
+		},
+		{
+			"id": "m7r15",
+			"modulo": "m7",
+			"tipo": "ab",
+			"enunciado": "Das 8h ___ 12h.",
+			"opcoes": [
+				"às",
+				"as"
+			],
+			"certa": 0,
+			"explicacao": "Das... às."
+		},
+		{
+			"id": "m7r16",
+			"modulo": "m7",
+			"tipo": "ab",
+			"enunciado": "Não ___.",
+			"opcoes": [
+				"me viu",
+				"viu-me"
+			],
+			"certa": 0,
+			"explicacao": "Negação atrai."
+		},
+		{
+			"id": "m7r17",
+			"modulo": "m7",
+			"tipo": "ab",
+			"enunciado": "___ a verdade.",
+			"opcoes": [
+				"Disseram-me",
+				"Me disseram"
+			],
+			"certa": 0,
+			"explicacao": "Não se inicia período com átono."
+		},
+		{
+			"id": "m7r18",
+			"modulo": "m7",
+			"tipo": "ab",
+			"enunciado": "Encaminho ___ Vossa Excelência.",
+			"opcoes": [
+				"a",
+				"à"
+			],
+			"certa": 0,
+			"explicacao": "Sem crase antes de tratamento."
+		},
+		{
+			"id": "m7r19",
+			"modulo": "m7",
+			"tipo": "ab",
+			"enunciado": "___ pessoas vieram.",
+			"opcoes": [
+				"Bastantes",
+				"Bastante"
+			],
+			"certa": 0,
+			"explicacao": "Antes de substantivo, varia."
+		},
+		{
+			"id": "m7r20",
+			"modulo": "m7",
+			"tipo": "ab",
+			"enunciado": "Obedeça ___ regras.",
+			"opcoes": [
+				"às",
+				"as"
+			],
+			"certa": 0,
+			"explicacao": "Obedecer a."
+		},
+		{
+			"id": "m7r21",
+			"modulo": "m7",
+			"tipo": "ab",
+			"enunciado": "É ___ entrada.",
+			"opcoes": [
+				"proibido",
+				"proibida"
+			],
+			"certa": 0,
+			"explicacao": "Sem artigo: invariável."
+		},
+		{
+			"id": "m7r22",
+			"modulo": "m7",
+			"tipo": "ab",
+			"enunciado": "Começou ___ chover.",
+			"opcoes": [
+				"a",
+				"à"
+			],
+			"certa": 0,
+			"explicacao": "Sem crase antes de verbo."
+		},
+		{
+			"id": "m7r23",
+			"modulo": "m7",
+			"tipo": "ab",
+			"enunciado": "Cara ___ cara.",
+			"opcoes": [
+				"a",
+				"à"
+			],
+			"certa": 0,
+			"explicacao": "Palavras repetidas: sem crase."
+		},
+		{
+			"id": "m7r24",
+			"modulo": "m7",
+			"tipo": "ab",
+			"enunciado": "Ninguém ___.",
+			"opcoes": [
+				"se feriu",
+				"feriu-se"
+			],
+			"certa": 0,
+			"explicacao": "Indefinido atrai."
+		},
+		{
+			"id": "m7r25",
+			"modulo": "m7",
+			"tipo": "ab",
+			"enunciado": "Vai ___ dez anos.",
+			"opcoes": [
+				"fazer",
+				"fazerem"
+			],
+			"certa": 0,
+			"explicacao": "Impessoal."
+		},
+		{
+			"id": "m7r26",
+			"modulo": "m7",
+			"tipo": "ab",
+			"enunciado": "Elas ___ fizeram.",
+			"opcoes": [
+				"mesmas",
+				"mesmo"
+			],
+			"certa": 0,
+			"explicacao": "Mesmo concorda."
+		},
+		{
+			"id": "m7r27",
+			"modulo": "m7",
+			"tipo": "ab",
+			"enunciado": "A proposta visa ___ bem comum.",
+			"opcoes": [
+				"ao",
+				"o"
+			],
+			"certa": 0,
+			"explicacao": "Visar (almejar) a."
+		},
+		{
+			"id": "m7r28",
+			"modulo": "m7",
+			"tipo": "ab",
+			"enunciado": "Mais de um deputado ___.",
+			"opcoes": [
+				"votou",
+				"votaram"
+			],
+			"certa": 0,
+			"explicacao": "Mais de um: singular."
+		},
+		{
+			"id": "m7r29",
+			"modulo": "m7",
+			"tipo": "ab",
+			"enunciado": "De 8h ___ 12h.",
+			"opcoes": [
+				"a",
+				"às"
+			],
+			"certa": 0,
+			"explicacao": "De... a (sem artigo)."
+		},
+		{
+			"id": "m8r0",
+			"modulo": "m8",
+			"tipo": "ab",
+			"enunciado": "Confirmar:",
+			"opcoes": [
+				"ratificar",
+				"retificar"
+			],
+			"certa": 0,
+			"explicacao": "Retificar = corrigir."
+		},
+		{
+			"id": "m8r1",
+			"modulo": "m8",
+			"tipo": "ab",
+			"enunciado": "Prestes a acontecer:",
+			"opcoes": [
+				"iminente",
+				"eminente"
+			],
+			"certa": 0,
+			"explicacao": "Eminente = ilustre."
+		},
+		{
+			"id": "m8r2",
+			"modulo": "m8",
+			"tipo": "ab",
+			"enunciado": "Reunião:",
+			"opcoes": [
+				"sessão",
+				"seção"
+			],
+			"certa": 0,
+			"explicacao": "Seção = divisão."
+		},
+		{
+			"id": "m8r3",
+			"modulo": "m8",
+			"tipo": "ab",
+			"enunciado": "Ato de ceder:",
+			"opcoes": [
+				"cessão",
+				"sessão"
+			],
+			"certa": 0,
+			"explicacao": "Ceder → cessão."
+		},
+		{
+			"id": "m8r4",
+			"modulo": "m8",
+			"tipo": "ab",
+			"enunciado": "Inocentar:",
+			"opcoes": [
+				"descriminar",
+				"discriminar"
+			],
+			"certa": 0,
+			"explicacao": "Discriminar = distinguir."
+		},
+		{
+			"id": "m8r5",
+			"modulo": "m8",
+			"tipo": "ab",
+			"enunciado": "Aplicar pena:",
+			"opcoes": [
+				"infligir",
+				"infringir"
+			],
+			"certa": 0,
+			"explicacao": "Infringir = violar."
+		},
+		{
+			"id": "m8r6",
+			"modulo": "m8",
+			"tipo": "ab",
+			"enunciado": "Retoma termo anterior:",
+			"opcoes": [
+				"anáfora",
+				"catáfora"
+			],
+			"certa": 0,
+			"explicacao": "Catáfora anuncia."
+		},
+		{
+			"id": "m8r7",
+			"modulo": "m8",
+			"tipo": "ab",
+			"enunciado": "\"Ler Drummond\":",
+			"opcoes": [
+				"metonímia",
+				"metáfora"
+			],
+			"certa": 0,
+			"explicacao": "Autor pela obra."
+		},
+		{
+			"id": "m8r8",
+			"modulo": "m8",
+			"tipo": "ab",
+			"enunciado": "\"Chorou rios de lágrimas\":",
+			"opcoes": [
+				"hipérbole",
+				"eufemismo"
+			],
+			"certa": 0,
+			"explicacao": "Exagero."
+		},
+		{
+			"id": "m8r9",
+			"modulo": "m8",
+			"tipo": "ab",
+			"enunciado": "\"Passou desta para melhor\":",
+			"opcoes": [
+				"eufemismo",
+				"ironia"
+			],
+			"certa": 0,
+			"explicacao": "Suaviza."
+		},
+		{
+			"id": "m8r10",
+			"modulo": "m8",
+			"tipo": "ab",
+			"enunciado": "\"Elo de ligação\":",
+			"opcoes": [
+				"pleonasmo",
+				"ambiguidade"
+			],
+			"certa": 0,
+			"explicacao": "Redundância."
+		},
+		{
+			"id": "m8r11",
+			"modulo": "m8",
+			"tipo": "ab",
+			"enunciado": "Sentido literal:",
+			"opcoes": [
+				"denotação",
+				"conotação"
+			],
+			"certa": 0,
+			"explicacao": "Conotação = figurado."
+		},
+		{
+			"id": "m8r12",
+			"modulo": "m8",
+			"tipo": "ab",
+			"enunciado": "Ordem judicial:",
+			"opcoes": [
+				"mandado",
+				"mandato"
+			],
+			"certa": 0,
+			"explicacao": "Mandato = período do cargo."
+		},
+		{
+			"id": "m8r13",
+			"modulo": "m8",
+			"tipo": "ab",
+			"enunciado": "Saudação:",
+			"opcoes": [
+				"cumprimento",
+				"comprimento"
+			],
+			"certa": 0,
+			"explicacao": "Comprimento = extensão."
+		},
+		{
+			"id": "m8r14",
+			"modulo": "m8",
+			"tipo": "ab",
+			"enunciado": "___ você vai?",
+			"opcoes": [
+				"Aonde",
+				"Onde"
+			],
+			"certa": 0,
+			"explicacao": "Ir a → aonde."
+		},
+		{
+			"id": "m8r15",
+			"modulo": "m8",
+			"tipo": "ab",
+			"enunciado": "Homem ___.",
+			"opcoes": [
+				"mau",
+				"mal"
+			],
+			"certa": 0,
+			"explicacao": "Mau × bom; mal × bem."
+		},
+		{
+			"id": "m8r16",
+			"modulo": "m8",
+			"tipo": "ab",
+			"enunciado": "Daqui ___ dois dias.",
+			"opcoes": [
+				"a",
+				"há"
+			],
+			"certa": 0,
+			"explicacao": "Futuro: a. Passado: há."
+		},
+		{
+			"id": "m8r17",
+			"modulo": "m8",
+			"tipo": "ab",
+			"enunciado": "\"Acerca de\" significa:",
+			"opcoes": [
+				"sobre",
+				"há cerca de"
+			],
+			"certa": 0,
+			"explicacao": "Há cerca de = tempo."
+		},
+		{
+			"id": "m8r18",
+			"modulo": "m8",
+			"tipo": "ab",
+			"enunciado": "\"Tampouco\" significa:",
+			"opcoes": [
+				"também não",
+				"muito pouco"
+			],
+			"certa": 0,
+			"explicacao": "Tão pouco = muito pouco."
+		},
+		{
+			"id": "m8r19",
+			"modulo": "m8",
+			"tipo": "ab",
+			"enunciado": "Coesão por conectores:",
+			"opcoes": [
+				"sequencial",
+				"referencial"
+			],
+			"certa": 0,
+			"explicacao": "Referencial retoma."
+		},
+		{
+			"id": "m8r20",
+			"modulo": "m8",
+			"tipo": "ab",
+			"enunciado": "\"Vultoso\" significa:",
+			"opcoes": [
+				"volumoso",
+				"inchado"
+			],
+			"certa": 0,
+			"explicacao": "Inchado = vultuoso."
+		},
+		{
+			"id": "m8r21",
+			"modulo": "m8",
+			"tipo": "ab",
+			"enunciado": "Uma palavra, vários sentidos:",
+			"opcoes": [
+				"polissemia",
+				"homonímia"
+			],
+			"certa": 0,
+			"explicacao": "Homonímia: palavras diferentes, mesma forma."
+		},
+		{
+			"id": "m9r0",
+			"modulo": "m9",
+			"tipo": "ab",
+			"enunciado": "Editorial é:",
+			"opcoes": [
+				"argumentativo",
+				"expositivo"
+			],
+			"certa": 0,
+			"explicacao": "Defende a posição do veículo."
+		},
+		{
+			"id": "m9r1",
+			"modulo": "m9",
+			"tipo": "ab",
+			"enunciado": "Receita de bolo é texto:",
+			"opcoes": [
+				"injuntivo",
+				"descritivo"
+			],
+			"certa": 0,
+			"explicacao": "Instrui."
+		},
+		{
+			"id": "m9r2",
+			"modulo": "m9",
+			"tipo": "ab",
+			"enunciado": "Verbete de enciclopédia:",
+			"opcoes": [
+				"expositivo",
+				"argumentativo"
+			],
+			"certa": 0,
+			"explicacao": "Informa."
+		},
+		{
+			"id": "m9r3",
+			"modulo": "m9",
+			"tipo": "ab",
+			"enunciado": "Conto é texto:",
+			"opcoes": [
+				"narrativo",
+				"expositivo"
+			],
+			"certa": 0,
+			"explicacao": "Enredo, personagens, tempo."
+		},
+		{
+			"id": "m9r4",
+			"modulo": "m9",
+			"tipo": "ab",
+			"enunciado": "\"Ata\" é:",
+			"opcoes": [
+				"gênero",
+				"tipo"
+			],
+			"certa": 0,
+			"explicacao": "Forma concreta de texto."
+		},
+		{
+			"id": "m9r5",
+			"modulo": "m9",
+			"tipo": "ab",
+			"enunciado": "\"Narração\" é:",
+			"opcoes": [
+				"tipo",
+				"gênero"
+			],
+			"certa": 0,
+			"explicacao": "Categoria teórica."
+		},
+		{
+			"id": "m9r6",
+			"modulo": "m9",
+			"tipo": "ab",
+			"enunciado": "Do geral ao particular:",
+			"opcoes": [
+				"dedução",
+				"indução"
+			],
+			"certa": 0,
+			"explicacao": "Dedução."
+		},
+		{
+			"id": "m9r7",
+			"modulo": "m9",
+			"tipo": "ab",
+			"enunciado": "Do particular ao geral:",
+			"opcoes": [
+				"indução",
+				"dedução"
+			],
+			"certa": 0,
+			"explicacao": "Indução."
+		},
+		{
+			"id": "m9r8",
+			"modulo": "m9",
+			"tipo": "ab",
+			"enunciado": "Vozes misturadas, sem verbo de dizer:",
+			"opcoes": [
+				"indireto livre",
+				"indireto"
+			],
+			"certa": 0,
+			"explicacao": "Discurso indireto livre."
+		},
+		{
+			"id": "m9r9",
+			"modulo": "m9",
+			"tipo": "ab",
+			"enunciado": "\"Disse que viria\" é discurso:",
+			"opcoes": [
+				"indireto",
+				"direto"
+			],
+			"certa": 0,
+			"explicacao": "Subordinada com \"que\"."
+		},
+		{
+			"id": "m9r10",
+			"modulo": "m9",
+			"tipo": "ab",
+			"enunciado": "Aprofunda e analisa o fato:",
+			"opcoes": [
+				"reportagem",
+				"notícia"
+			],
+			"certa": 0,
+			"explicacao": "Notícia só relata."
+		},
+		{
+			"id": "m9r11",
+			"modulo": "m9",
+			"tipo": "ab",
+			"enunciado": "Manual de instruções:",
+			"opcoes": [
+				"injuntivo",
+				"narrativo"
+			],
+			"certa": 0,
+			"explicacao": "Orienta o leitor."
+		},
+		{
+			"id": "m9r12",
+			"modulo": "m9",
+			"tipo": "ab",
+			"enunciado": "Artigo de opinião:",
+			"opcoes": [
+				"argumentativo",
+				"injuntivo"
+			],
+			"certa": 0,
+			"explicacao": "Defende ponto de vista."
+		},
+		{
+			"id": "m9r13",
+			"modulo": "m9",
+			"tipo": "ab",
+			"enunciado": "Retrato de um lugar, sem ação:",
+			"opcoes": [
+				"descrição",
+				"narração"
+			],
+			"certa": 0,
+			"explicacao": "Sem progressão temporal."
+		},
+		{
+			"id": "m9r14",
+			"modulo": "m9",
+			"tipo": "ab",
+			"enunciado": "Defende uma tese:",
+			"opcoes": [
+				"argumentação",
+				"exposição"
+			],
+			"certa": 0,
+			"explicacao": "Exposição só informa."
+		},
+		{
+			"id": "m9r15",
+			"modulo": "m9",
+			"tipo": "ab",
+			"enunciado": "Imperativo predomina no texto:",
+			"opcoes": [
+				"injuntivo",
+				"expositivo"
+			],
+			"certa": 0,
+			"explicacao": "Ordens e instruções."
+		},
+		{
+			"id": "m9r16",
+			"modulo": "m9",
+			"tipo": "ab",
+			"enunciado": "Citar especialista é argumento de:",
+			"opcoes": [
+				"autoridade",
+				"exemplificação"
+			],
+			"certa": 0,
+			"explicacao": "Argumento de autoridade."
+		},
+		{
+			"id": "m10r0",
+			"modulo": "m10",
+			"tipo": "ab",
+			"enunciado": "\"Parou de fumar\" → \"fumava\" é:",
+			"opcoes": [
+				"pressuposto",
+				"subentendido"
+			],
+			"certa": 0,
+			"explicacao": "Marcado na língua."
+		},
+		{
+			"id": "m10r1",
+			"modulo": "m10",
+			"tipo": "ab",
+			"enunciado": "Depende do contexto e pode ser negado:",
+			"opcoes": [
+				"subentendido",
+				"pressuposto"
+			],
+			"certa": 0,
+			"explicacao": "Subentendido."
+		},
+		{
+			"id": "m10r2",
+			"modulo": "m10",
+			"tipo": "ab",
+			"enunciado": "Foco em quem FALA:",
+			"opcoes": [
+				"emotiva",
+				"conativa"
+			],
+			"certa": 0,
+			"explicacao": "Emotiva = emissor."
+		},
+		{
+			"id": "m10r3",
+			"modulo": "m10",
+			"tipo": "ab",
+			"enunciado": "Foco em quem OUVE:",
+			"opcoes": [
+				"conativa",
+				"emotiva"
+			],
+			"certa": 0,
+			"explicacao": "Conativa = receptor."
+		},
+		{
+			"id": "m10r4",
+			"modulo": "m10",
+			"tipo": "ab",
+			"enunciado": "\"Alô, está me ouvindo?\":",
+			"opcoes": [
+				"fática",
+				"referencial"
+			],
+			"certa": 0,
+			"explicacao": "Testa o canal."
+		},
+		{
+			"id": "m10r5",
+			"modulo": "m10",
+			"tipo": "ab",
+			"enunciado": "Dicionário:",
+			"opcoes": [
+				"metalinguística",
+				"poética"
+			],
+			"certa": 0,
+			"explicacao": "Código fala do código."
+		},
+		{
+			"id": "m10r6",
+			"modulo": "m10",
+			"tipo": "ab",
+			"enunciado": "Notícia objetiva:",
+			"opcoes": [
+				"referencial",
+				"emotiva"
+			],
+			"certa": 0,
+			"explicacao": "Foco na informação."
+		},
+		{
+			"id": "m10r7",
+			"modulo": "m10",
+			"tipo": "ab",
+			"enunciado": "Variação regional:",
+			"opcoes": [
+				"diatópica",
+				"diafásica"
+			],
+			"certa": 0,
+			"explicacao": "Lugar."
+		},
+		{
+			"id": "m10r8",
+			"modulo": "m10",
+			"tipo": "ab",
+			"enunciado": "Variação por formalidade:",
+			"opcoes": [
+				"diafásica",
+				"diastrática"
+			],
+			"certa": 0,
+			"explicacao": "Situação."
+		},
+		{
+			"id": "m10r9",
+			"modulo": "m10",
+			"tipo": "ab",
+			"enunciado": "Variação por grupo social:",
+			"opcoes": [
+				"diastrática",
+				"diatópica"
+			],
+			"certa": 0,
+			"explicacao": "Estrato social."
+		},
+		{
+			"id": "m10r10",
+			"modulo": "m10",
+			"tipo": "ab",
+			"enunciado": "Variação no tempo:",
+			"opcoes": [
+				"diacrônica",
+				"diatópica"
+			],
+			"certa": 0,
+			"explicacao": "História da língua."
+		},
+		{
+			"id": "m10r11",
+			"modulo": "m10",
+			"tipo": "ab",
+			"enunciado": "\"Talvez\" e \"certamente\" são:",
+			"opcoes": [
+				"modalizadores",
+				"conectivos"
+			],
+			"certa": 0,
+			"explicacao": "Atitude do enunciador."
+		},
+		{
+			"id": "m10r12",
+			"modulo": "m10",
+			"tipo": "ab",
+			"enunciado": "Ir além do que o texto diz:",
+			"opcoes": [
+				"extrapolação",
+				"redução"
+			],
+			"certa": 0,
+			"explicacao": "Extrapolar."
+		},
+		{
+			"id": "m10r13",
+			"modulo": "m10",
+			"tipo": "ab",
+			"enunciado": "O que está DITO no texto:",
+			"opcoes": [
+				"compreensão",
+				"interpretação"
+			],
+			"certa": 0,
+			"explicacao": "Interpretar é concluir."
+		},
+		{
+			"id": "m10r14",
+			"modulo": "m10",
+			"tipo": "ab",
+			"enunciado": "\"Compre já!\":",
+			"opcoes": [
+				"conativa",
+				"fática"
+			],
+			"certa": 0,
+			"explicacao": "Apelo ao receptor."
+		},
+		{
+			"id": "m10r15",
+			"modulo": "m10",
+			"tipo": "ab",
+			"enunciado": "Posição defendida pelo autor:",
+			"opcoes": [
+				"tese",
+				"tema"
+			],
+			"certa": 0,
+			"explicacao": "Tema é o assunto."
+		},
+		{
+			"id": "m10r16",
+			"modulo": "m10",
+			"tipo": "ab",
+			"enunciado": "\"Até ele veio\" sugere que:",
+			"opcoes": [
+				"era inesperado",
+				"era certo"
+			],
+			"certa": 0,
+			"explicacao": "Pressuposto de \"até\"."
+		},
+		{
+			"id": "m10r17",
+			"modulo": "m10",
+			"tipo": "ab",
+			"enunciado": "\"Muitos\" permite inferir \"todos\"?",
+			"opcoes": [
+				"não",
+				"sim"
+			],
+			"certa": 0,
+			"explicacao": "Generalização indevida."
+		}
+	]
+}

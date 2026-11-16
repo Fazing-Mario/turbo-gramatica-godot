@@ -1,0 +1,98 @@
+=== Básico
+## Ata, relatório, parecer e certidão
+| Documento | Quem envia → quem recebe | Finalidade e marcas |
+|---|---|---|
+| **Ata** | **Registro** interno de reunião | **Sem destinatário**; **bloco contínuo**, **sem parágrafos nem rasuras**; **números por extenso**; correção com **"digo"** ou **"em tempo"**; **só fatos, sem opinião** |
+| **Relatório** | Para **autoridade superior** | **Narra atividades concluídas**; pode ser só **informativo** ou **analítico** (com recomendações) |
+| **Parecer** | **Especialista** consultado | Resposta **técnica provocada**; **instrui** a decisão, **não decide**. Partes: **ementa/assunto, relatório, análise** (parecer propriamente dito), **conclusão** |
+| **Certidão** | **Autoridade competente**, a pedido | **Atesta fato já registrado** ("certifico que..."); o **certificado**, ao contrário, atesta algo para **criar** o registro |
+
+> Pegadinhas: a **ata registra fatos**, sem avaliar; o **parecer instrui**, **não vincula**; a **certidão** atesta o que **já consta** de registro.
+
+## A ata
+- **Registro fiel** do que ocorreu em reunião, sessão ou assembleia.
+- **Sem destinatário**: não se dirige a ninguém.
+- **Bloco contínuo**, **sem parágrafos**, para **evitar acréscimos** posteriores.
+- **Sem rasuras**: erros corrigidos com **"digo"** (corrige o que acabou de ser escrito: "... aprovou o projeto de lei nº 10, digo, nº 11") ou **"em tempo"** (acrescenta ou corrige depois de concluída a ata: "Em tempo: onde se lê 10, leia-se 11").
+- **Números por extenso** (datas, horários, quantidades), para evitar fraude.
+- **Só fatos**: sem **opinião**, **avaliação** ou **juízo** do secretário.
+- **Elementos**: **dia, hora e local**; **nome de quem presidiu**; **presentes**; **ordem do dia**; **decisões**; **encerramento**; **assinatura** do secretário e do presidente.
+
+=== Avançado
+## Ata: detalhes
+- **Tipos**: ata **de reunião**, de **assembleia**, de **sessão** legislativa, de **comissão**.
+- **Linguagem**: **impessoal**, **3ª pessoa**, **pretérito perfeito** ("Aberta a sessão, o presidente **declarou**...").
+- **Registro de falas**: em **discurso indireto** ("O Senhor Fulano **afirmou que** ..."), com **resumo** do que foi dito; o texto integral fica em **notas taquigráficas** (na Câmara).
+- **Documento oficial** que **prova** o que ocorreu: por isso a **precisão** e a **inviolabilidade**.
+- **Exemplo de abertura**: "Aos cinco dias do mês de março do ano de dois mil e vinte e quatro, às quatorze horas, na sala de reuniões da Comissão..., reuniram-se..."
+
+### "Digo" x "em tempo"
+| Expressão | Quando | Exemplo |
+|---|---|---|
+| **Digo** | Corrige **imediatamente**, dentro do texto da ata | "A votação foi de dez votos, digo, onze votos" |
+| **Em tempo** | Corrige ou acrescenta **depois**, ao **final da ata**, antes das assinaturas | "Em tempo: onde se lê 'dez', leia-se 'onze'" |
+
+## Relatório
+- **Narra atividades concluídas**, para **autoridade superior** ou para **registro**.
+- **Tipos**:
+  - **Informativo**: apenas **descreve** o que foi feito.
+  - **Analítico**: além de descrever, **analisa** e traz **recomendações**.
+- **Estrutura típica**: **identificação**, **introdução** (objetivo e período), **desenvolvimento** (atividades), **conclusão** (resultados e, se for o caso, recomendações).
+- **Linguagem**: **objetiva**, **impessoal**, **dados** e **fatos**.
+- **Relatório de comissão**: parte do **processo legislativo** (o **relator** apresenta o **parecer**).
+
+## Parecer
+- **Resposta técnica** a uma **consulta** (provocada).
+- **Instrui a decisão**; **não decide**. A **autoridade** pode **acolher** ou **afastar**.
+- **Partes**:
+  1. **Ementa** (ou assunto): **resumo** do tema.
+  2. **Relatório**: **descreve** a consulta e os fatos.
+  3. **Análise** (parecer propriamente dito, **fundamentação**): **argumentos** e **base** jurídica ou técnica.
+  4. **Conclusão**: **resposta** ou **recomendação**.
+- **Tipos textuais**: **expositivo** (relatório) e **argumentativo** (análise); **injuntivo** na recomendação.
+- **Na Câmara**: **parecer de comissão** (do relator) e **parecer da CCJC** (constitucionalidade e juridicidade) são **etapas** do processo legislativo.
+- **Cuidado**: o parecer de **comissão** é **peça** do processo e **não** é "parecer administrativo". A banca pode usar o contexto para pedir as **partes** do gênero.
+
+## Certidão x certificado
+| | Certidão | Certificado |
+|---|---|---|
+| **Função** | **Atesta** fato **já registrado** (cópia, consta) | **Atesta** algo para **criar** o registro (conclusão de curso, aprovação) |
+| **Fórmula** | "**Certifico** que **consta**..." | "Certifica-se que **concluiu**..." |
+| **Quem emite** | **Autoridade competente**, **a pedido** | **Entidade** que concede |
+| **Exemplo** | Certidão de nascimento, de tempo de serviço | Certificado de conclusão de curso |
+
+- A **certidão** **reproduz** o que **está** nos **registros**; não **cria** fato novo.
+
+## Comparação rápida dos quatro gêneros
+| | Ata | Relatório | Parecer | Certidão |
+|---|---|---|---|---|
+| **Função** | Registrar a reunião | Narrar atividades | Instruir uma decisão | Atestar fato registrado |
+| **Destinatário** | Nenhum | Autoridade superior | Quem consultou | Quem pediu |
+| **Opinião** | **Não** | Se **analítico**, **sim** (recomendações) | **Sim** (opinião técnica fundamentada) | **Não** |
+| **Tipo predominante** | Expositivo | Expositivo | Expositivo e argumentativo | Expositivo |
+| **Marca** | Bloco contínuo, sem rasura, "digo", "em tempo" | Atividades concluídas | Ementa, relatório, análise, conclusão | "Certifico que..." |
+
+## Como a banca cobra
+- "A **ata** é redigida em **parágrafos**": **Errado** (bloco contínuo).
+- "A **ata** admite **rasuras**": **Errado** (corrige-se com "digo" ou "em tempo").
+- "Os **números** na ata vão em **algarismos**": **Errado** (por extenso).
+- "A ata registra a **avaliação** do secretário": **Errado** (só fatos).
+- "O **parecer vincula** a autoridade": **Errado** (instrui, não decide).
+- "A **certidão** atesta **fato já registrado**": **Certo**.
+- "O **relatório** é resposta técnica **provocada**": **Errado** (essa é a marca do **parecer**).
+
+=== Pegadinhas
+1. "A ata pode registrar a avaliação do secretário sobre a qualidade dos debates." **Errado.** A ata registra fatos, sem opinião.
+2. "A ata é redigida em parágrafos numerados." **Errado.** Bloco contínuo, sem parágrafos nem rasuras.
+3. "Na ata, as quantidades são expressas em algarismos para facilitar a leitura." **Errado.** Os números vão por extenso.
+4. "O parecer vincula a autoridade, que deve decidir conforme suas conclusões." **Errado,** como regra do gênero: o parecer instrui, não decide.
+5. "Certidão e certificado são sinônimos." **Errado.** A certidão atesta fato já registrado; o certificado atesta algo para criar o registro.
+6. "O relatório é, por definição, resposta técnica provocada por consulta." **Errado.** Essa é a marca do parecer; o relatório narra atividades concluídas.
+7. "Erros na ata são corrigidos com rasuras visíveis, para manter transparência." **Errado.** Usa-se 'digo' ou 'em tempo'.
+8. "A ata deve ter destinatário e vocativo." **Errado.** Não tem destinatário.
+
+=== Revisão rápida
+- **Ata**: sem destinatário; bloco contínuo; sem rasuras; números por extenso; "digo" e "em tempo"; só fatos.
+- **Relatório**: narra atividades concluídas; informativo ou analítico (com recomendações).
+- **Parecer**: resposta técnica provocada; instrui, não decide; ementa, relatório, análise, conclusão.
+- **Certidão**: atesta fato já registrado ("certifico que..."). **Certificado**: atesta algo para criar o registro.

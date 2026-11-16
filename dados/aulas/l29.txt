@@ -1,0 +1,106 @@
+=== Básico
+## O que é redação oficial
+**Redação oficial é o modo como o poder público redige comunicações e atos normativos; o que a define é a origem pública, não o destinatário.** Um ofício enviado por uma empresa privada a um ministério **não** é redação oficial; um ofício de um órgão público a um particular, **é**.
+
+- A referência de prova é o **Manual de Redação da Presidência da República**, **3ª edição (2018)**.
+- A **Câmara** tem manual próprio, que em alguns pontos segue a **tradição da Casa** (o resumo do curso cita o vocativo "Excelentíssimo Senhor Presidente da Câmara dos Deputados"). Quando o item **não disser** qual manual, responda **pelo da Presidência**.
+- O fundamento constitucional: **art. 37 da Constituição**: **legalidade, impessoalidade, moralidade, publicidade e eficiência**.
+
+## Os atributos da redação oficial
+Os atributos do Manual derivam dos princípios do art. 37 (impessoalidade, publicidade, eficiência):
+
+| Atributo | O que exige | Erro típico |
+|---|---|---|
+| **Clareza e precisão** | **Compreensão imediata**, sem duplo sentido; é o atributo **principal** | Ordem inversa e intercalações excessivas |
+| **Objetividade** | Ir **direto ao assunto**, ideia principal primeiro | Preâmbulos longos |
+| **Concisão** | **Máximo de informação** com o **mínimo de palavras**, **sem perder conteúdo** | Pleonasmo vicioso; ou cortar informação essencial |
+| **Coesão e coerência** | Partes **ligadas** e **lógicas** | Conector com valor errado |
+| **Impessoalidade** | Fala a **instituição**, não a pessoa | "Eu acho", impressões pessoais |
+| **Formalidade e padronização** | **Civilidade**, formato uniforme | Gíria, intimidade, formato livre |
+| **Norma-padrão** | Gramática normativa, vocabulário **comum** | Regionalismos, neologismos, jargão burocrático |
+
+## Pontos de atenção
+- **Impessoalidade não proíbe a 1ª pessoa**: "Informo", "Encaminho", "Solicito" são aceitos, porque quem fala é o **órgão**.
+- **Linguagem técnica** é permitida **quando necessária** (parecer, nota técnica); se o público for amplo, **explique o termo**. **Jargão burocrático vazio** deve ser evitado **sempre**.
+- **Siglas**: na **primeira menção**, **nome por extenso** seguido da sigla ("Câmara dos Deputados (CD)").
+
+=== Avançado
+## Cada atributo em detalhe
+### Clareza e precisão
+- **Clareza**: o leitor entende **sem esforço**. **Precisão**: a palavra **exata**, sem ambiguidade.
+- Defeitos: **ambiguidade** (pronomes sem antecedente claro), **períodos longos**, **excesso de subordinadas**, **termos vagos** ("providências cabíveis", sem dizer quais).
+- Estratégias: **frases curtas**, **ordem direta**, **uma ideia por parágrafo**, **termos de sentido preciso**.
+
+### Concisão: sem perder conteúdo
+- **Concisão** não é **brevidade a qualquer custo**. É **dizer o essencial**, **sem rodeios**.
+- Evitar: pleonasmos viciosos, **adjetivos desnecessários**, **expressões de enchimento** ("com a finalidade de" em vez de "para").
+- Cuidado: **cortar** informação **essencial** viola a **precisão**.
+
+### Impessoalidade
+- A **instituição** fala: o **signatário** é **porta-voz**. Evitam-se **opiniões pessoais**, **emoção**, **adjetivos subjetivos**.
+- Formas **impessoais**: "Informa-se", "Solicita-se", "Foi aprovado".
+- **Pode** haver 1ª pessoa do singular ("Solicito") **em nome do órgão**.
+
+### Formalidade e padronização
+- **Formalidade**: tratamento **respeitoso**, **sem gírias**, **sem intimidade**.
+- **Padronização**: **formato uniforme** (padrão ofício), com **cabeçalho**, **numeração**, **fecho**.
+
+### Uso da norma-padrão
+- **Norma-padrão**: **concordância**, **regência** e **pontuação** corretas; **ortografia** atualizada.
+- **Vocabulário comum**: **evitar** regionalismos, **neologismos** desnecessários e **jargão** pesado ("outrossim", "destarte", "supramencionado", em excesso).
+- **Estrangeirismos**: evitar quando houver equivalente em português.
+
+## Linguagem oficial: ser claro sem ser pobre
+| Evitar | Preferir |
+|---|---|
+| "Venho por meio desta" | "Informo..." / "Solicito..." |
+| "Outrossim" | "Além disso" |
+| "Destarte" | "Assim" |
+| "Em face do exposto" (em excesso) | "Diante disso" |
+| "Supramencionado" | "citado" |
+| "Faz-se mister" | "É necessário" |
+
+- O Manual **recomenda** **linguagem direta**, **sem arcaísmos** desnecessários.
+
+## Por que impessoalidade e não impessoalismo
+- A **impessoalidade** é **princípio constitucional**: o ato administrativo **não** é do servidor, **é do Estado**. Por isso, o documento **não** deve revelar **simpatias**, **antipatias** ou **interesses pessoais**.
+- Impessoalidade **não** é falta de **cortesia**: é **neutralidade** institucional.
+
+## Siglas e abreviaturas
+- **Primeira menção**: "Tribunal de Contas da União (TCU)". Depois: "TCU".
+- **Siglas conhecidas** (CPI, STF) podem dispensar a explicação em textos do meio.
+- **Abreviaturas** de tratamento: "V. Exa." (no corpo do texto); **vocativo** **não** se abrevia.
+
+## Clareza x erros de redação
+| Erro | Exemplo | Correção |
+|---|---|---|
+| **Ambiguidade** | "O ministro disse ao presidente que ele errou" | "O ministro disse ao presidente que o presidente errou" ou "... que o próprio ministro errou" |
+| **Pleonasmo** | "Subir para cima" | "Subir" |
+| **Prolixidade** | "Em vista de todas as circunstâncias que acabam de ser expostas..." | "Diante disso" |
+| **Jargão** | "Faz-se mister" | "É necessário" |
+| **Pessoalidade** | "Acho que o processo deve ser arquivado" | "Recomenda-se o arquivamento do processo" |
+| **Informalidade** | "A gente precisa dos documentos" | "Necessitamos dos documentos" ou "São necessários os documentos" |
+
+## Como a banca cobra
+- "Os atributos da redação oficial são..." (clareza, objetividade, concisão, impessoalidade, formalidade, padronização, norma-padrão).
+- "A impessoalidade impede o uso da 1ª pessoa": **Errado**.
+- "A concisão exige cortar toda informação acessória": **Errado** (sem perder conteúdo).
+- "Em redação oficial, a **linguagem técnica** é **proibida**": **Errado** (permitida quando necessária).
+- "Uma comunicação enviada por **empresa privada** a um órgão público é redação oficial": **Errado** (a origem deve ser pública).
+
+=== Pegadinhas
+1. "Um ofício enviado por uma empresa privada a um ministério é redação oficial." **Errado.** A origem tem de ser o poder público.
+2. "A impessoalidade proíbe o uso da primeira pessoa em qualquer hipótese." **Errado.** 'Informo', 'Encaminho' e 'Solicito' são aceitos: quem fala é o órgão.
+3. "A concisão exige suprimir informações, ainda que essenciais." **Errado.** Máximo de informação com o mínimo de palavras, sem perder conteúdo.
+4. "A linguagem técnica é vedada em documentos oficiais." **Errado.** É permitida quando necessária; o jargão burocrático vazio é que deve ser evitado.
+5. "Na primeira menção a uma sigla, basta empregá-la." **Errado.** Na primeira menção, nome por extenso seguido da sigla.
+6. "O atributo principal da redação oficial é a objetividade." **Errado.** É a clareza e a precisão.
+7. "O Manual de Redação da Presidência, 3ª edição, é de 2018." **Certo.**
+8. "A norma-padrão admite regionalismos e neologismos em ofícios." **Errado.** Devem ser evitados; vocabulário comum e norma-padrão.
+
+=== Revisão rápida
+- **Origem pública** define a redação oficial. Referência: **Manual da Presidência, 3ª ed., 2018**.
+- Atributos: clareza e precisão (principal), objetividade, concisão, coesão e coerência, impessoalidade, formalidade e padronização, norma-padrão.
+- **Impessoalidade** não proíbe 1ª pessoa ("Informo", "Solicito").
+- **Linguagem técnica** só quando necessária; evitar **jargão burocrático**.
+- **Siglas**: nome por extenso + sigla na 1ª menção.

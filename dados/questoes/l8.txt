@@ -1,0 +1,19 @@
+# Módulo l8 — Textualidade, coesão e coerência. Acrescente questões novas sempre no fim.
+CE | C | Coesão é a ligação formal entre as partes do texto, enquanto coerência diz respeito ao sentido do conjunto. | Coesão: superfície, local. Coerência: sentido, global.
+CE | E | Todo texto coeso é necessariamente coerente. | Um texto pode estar bem amarrado e ser ilógico, por exemplo, com conector de valor errado.
+CE | C | É possível haver texto coerente com poucas marcas explícitas de coesão, pois o leitor infere as relações. | Choveu. Rua alagada. Reunião cancelada.
+CE | E | A coerência se confunde com a veracidade dos fatos relatados. | Uma fábula é coerente sem ser verdadeira.
+CE | C | Dois parágrafos bem articulados que defendem teses opostas prejudicam a coerência global do texto. | A coerência é global, não apenas local.
+CE | C | A intencionalidade diz respeito ao produtor do texto, e a aceitabilidade, ao receptor. | Os dois critérios são centrados nos usuários.
+CE | E | Informatividade é o critério que se refere à correção gramatical do texto. | Refere-se ao grau de novidade ou previsibilidade da informação.
+CE | C | Na catáfora, o termo anuncia um conteúdo que aparecerá depois. | Em Exijo isto: transparência, isto antecipa o que vem a seguir.
+CE | E | Anáfora é o recurso pelo qual um termo antecipa informação ainda não mencionada. | Anáfora retoma o que já foi dito; a antecipação é catáfora.
+CE | C | A elipse só caracteriza recurso coesivo quando o termo omitido pode ser recuperado no próprio texto. | Se não for recuperável, há falha de coesão, não elipse.
+CE | C | Retomar parecer por documento mantém a coesão, mas reduz a precisão. | O hiperônimo é mais geral.
+CE | C | Em Marcos e Pedro votaram; este contra e aquele a favor, este retoma o termo mais próximo. | Este retoma o mais próximo; aquele, o mais distante.
+CE | E | Na progressão linear, o mesmo tema recebe sucessivos remas novos. | Isso é tema constante; na linear, o rema de uma frase vira o tema da seguinte.
+CE | C | Textos que apenas repetem a mesma informação podem ser coesos, mas têm baixa informatividade. | A repetição reduz o grau de novidade.
+CE | C | O conhecimento de mundo do leitor é um fator relevante para a construção da coerência. | O leitor completa o que não está dito.
+AB | Qual critério de textualidade é centrado no receptor? | aceitabilidade | intencionalidade | A intencionalidade está do lado do produtor.
+AB | Em O relator votou a favor; o presidente, contra, o verbo votou omitido no segundo trecho caracteriza... | elipse | catáfora | O termo omitido é recuperável no próprio texto.
+AB | A coerência tem alcance... | global | local | A coesão é local; a coerência envolve o todo do texto.

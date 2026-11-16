@@ -1,0 +1,19 @@
+# Módulo l12 — Discurso relatado e adequação ao gênero. Acrescente questões novas sempre no fim.
+CE | C | O discurso direto reproduz literalmente a fala do outro, geralmente com dois-pontos, travessão ou aspas. | É a forma literal; costuma ter verbo dicendi.
+CE | C | No discurso indireto, o narrador reformula a fala, que passa a ser introduzida por oração subordinada. | Há ajustes de pessoa, de tempo verbal e de dêiticos.
+CE | E | No discurso indireto livre, a fala da personagem vem introduzida por verbo dicendi e dois-pontos. | Isso caracteriza o direto; o indireto livre não tem marcas formais.
+CE | C | O discurso indireto livre dilui a fronteira entre a voz do narrador e a da personagem. | Mistura marcas dos dois: 3ª pessoa do narrador e a subjetividade da personagem.
+CE | C | Na passagem de O relator disse: Votarei amanhã para o discurso indireto, o advérbio amanhã deve ser substituído por no dia seguinte. | Os dêiticos se ajustam.
+CE | E | O discurso indireto mantém os dêiticos de tempo e de lugar da fala original. | Hoje vira naquele dia; aqui vira ali.
+CE | C | Em Disse que votaria no dia seguinte, o futuro do pretérito decorre do ajuste do futuro do presente do discurso direto. | Na passagem para o indireto, o tempo verbal retrocede.
+CE | C | Segundo o ministro, o prazo é inviável é exemplo de modalização em discurso segundo, em que o autor se distancia do conteúdo. | O conteúdo é atribuído a outro.
+CE | C | A ilha textual é o trecho literal entre aspas encaixado na frase do autor. | Exemplo: O relator chamou a proposta de um erro grave de cálculo.
+CE | E | O verbo alegar, em O deputado alegou que o prazo era curto, é neutro e indica endosso do autor. | Alegar costuma sugerir distanciamento.
+CE | C | O verbo dicendi escolhido pelo autor pode qualificar a fala do outro. | Reconhecer, insinuar e esclarecer carregam avaliações diferentes.
+CE | C | Aspas em torno de transparência, em A transparência do processo, podem indicar distanciamento ou ironia. | O autor não assume a palavra.
+CE | E | A correção gramatical de um texto garante sua adequação a qualquer gênero. | Um texto correto pode ser inadequado, como uma ata em tom de manifesto.
+CE | C | A ata deve registrar fatos sem opinião, em linguagem impessoal e precisa. | A adequação ao gênero exige objetividade.
+CE | C | O discurso parlamentar na tribuna admite ênfase, vocativos e figuras de linguagem, ao contrário de uma ata. | Cada gênero tem sua linguagem própria.
+AB | O discurso que não apresenta marcas gráficas nem verbo dicendi e mistura as vozes do narrador e da personagem é o... | indireto livre | direto | O direto traz marcas como dois-pontos, travessão ou aspas.
+AB | Na passagem do direto para o indireto, aqui passa a... | ali | aqui | Os dêiticos de lugar se ajustam à voz do narrador.
+AB | O verbo dicendi que sugere distanciamento do autor é... | alegar | esclarecer | Esclarecer sugere que o conteúdo é verdadeiro.

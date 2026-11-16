@@ -1,0 +1,99 @@
+=== Básico
+## Texto não é só soma de frases
+Um conjunto de frases só vira **texto** quando as partes se ligam e fazem sentido em conjunto, numa situação. A Linguística Textual descreve os critérios que garantem isso. Os sete critérios de textualidade (Beaugrande e Dressler):
+
+| Critério | Centrado em | Pergunta |
+|---|---|---|
+| **Coesão** | Texto (forma) | As partes estão ligadas por marcas linguísticas? |
+| **Coerência** | Texto (sentido) | O todo faz sentido, sem contradição? |
+| **Intencionalidade** | Produtor | Qual a finalidade real do texto? |
+| **Aceitabilidade** | Receptor | O leitor reconhece o texto como relevante e adequado? |
+| **Informatividade** | Conteúdo | O grau de novidade está equilibrado (nem óbvio, nem hermético)? |
+| **Situacionalidade** | Contexto | O texto é adequado à situação? |
+| **Intertextualidade** | Outros textos | Com que textos ele dialoga? |
+
+> Os dois primeiros (coesão e coerência) são **centrados no texto**; os demais, nos **usuários** e no **contexto**. A banca troca os nomes: "a intencionalidade diz respeito ao receptor" é errado (é do produtor).
+
+## Coesão x coerência: o par mais cobrado
+| | Coesão | Coerência |
+|---|---|---|
+| Natureza | **Ligação formal**, na superfície | **Sentido**, lógica, unidade temática |
+| Escopo | **Local**: frase, parágrafo | **Global**: texto + leitor + contexto + conhecimento de mundo |
+| Marcas | Pronomes, conectores, elipse, substituições | Não tem marca própria: depende de interpretação |
+| Pode faltar a outra? | Há texto coeso e incoerente (amarrado, mas ilógico) | Há texto coerente com pouca coesão explícita (o leitor infere) |
+
+- **Coerência não é veracidade.** Uma fábula, um conto de fadas ou o realismo mágico são perfeitamente coerentes.
+- Dois parágrafos impecáveis que defendem **teses opostas** quebram a **coerência global**.
+- Exemplo de texto **coeso e incoerente**: "O deputado votou a favor do projeto, mas ele é um bom projeto, portanto votou contra." Os conectores e o pronome estão corretos, mas a lógica falha.
+- Exemplo de texto **coerente e pouco coeso**: "Choveu. Rua alagada. Reunião cancelada." Sem conectores, o leitor reconstrói as relações de causa.
+
+=== Avançado
+## Mecanismos de coesão (Koch)
+### Coesão referencial (retomar ou antecipar)
+| Recurso | Como funciona | Exemplo |
+|---|---|---|
+| **Anáfora** | Retoma o que veio antes | "O relator apresentou o parecer. **Ele** foi aprovado." |
+| **Catáfora** | Anuncia o que vem depois | "Exijo **isto**: transparência." |
+| **Pronomes** (pessoais, demonstrativos, relativos) | Retomam termos | "Os deputados, **que**..." |
+| **Sinônimo, hiperônimo, nome genérico** | Retomam com outra expressão | "o ministro, **a autoridade**, **o titular da pasta**" |
+| **Repetição** | Retoma pela mesma palavra | Útil quando evita ambiguidade |
+| **Elipse** | Omite termo **recuperável** | "O relator votou a favor; o presidente, (votou) contra." |
+| **Nominalização** | Transforma oração em substantivo e retoma | "O plenário aprovou o projeto. **A aprovação** foi comemorada." |
+| **Encapsulamento** | Resume um trecho inteiro num nome ("isso", "tal medida") | "Cortaram verbas... **Essa decisão**..." |
+
+> **Elipse** só existe se o termo omitido for **recuperável** no próprio texto. Qualquer omissão não recuperável é falha de coesão.
+
+### Coesão sequencial (fazer o texto progredir)
+- **Conectores e operadores** (aula seguinte): ligam orações e blocos de sentido.
+- **Tempos verbais** coerentes (uma sequência narrativa mantém o tempo-base; mudança sem motivo quebra a sequência).
+- **Paralelismo**: estruturas semelhantes para ideias de mesmo nível ("não só X, mas também Y").
+- **Progressão temática** (tema e rema), vista abaixo.
+
+## Demonstrativos na anáfora e na catáfora
+- A gramática tradicional recomenda **este / isto** para o que **vai ser dito** (catáfora) e **esse / isso** para o que **acabou de ser dito** (anáfora).
+- Em referência ao **tempo** presente, **este/esta**: "Neste ano". Ao passado próximo, **esse**: "Naquele dia".
+- Em referência a **dois termos** já citados: **este** retoma o **mais próximo** (o último) e **aquele**, o mais distante: "Marcos e Pedro votaram; este contra, aquele a favor".
+- Muitos gramáticos aceitam variação na anáfora; a banca costuma seguir a recomendação tradicional quando o item **exige** o "correto".
+
+## Progressão temática: tema e rema
+- **Tema** é o dado, o ponto de partida da frase. **Rema** é a informação nova.
+- **Progressão linear**: o rema de uma frase vira o tema da seguinte. "O ministro apresentou **uma proposta**. **A proposta** previa cortes."
+- **Tema constante**: o mesmo tema recebe remas novos. "O relator leu o parecer. Ele destacou os custos. Ele pediu vista."
+- **Temas derivados**: subtemas saem de um tema geral. "A reforma tem três eixos. O primeiro... O segundo... O terceiro..."
+- Textos sem progressão (que repetem a mesma informação) podem ser coesos e **pouco informativos**.
+
+## Os fatores da coerência
+| Fator | Ideia |
+|---|---|
+| **Conhecimento de mundo** | O leitor completa o texto com o que sabe |
+| **Conhecimento compartilhado** | Referências comuns ao produtor e ao receptor |
+| **Inferências** | O leitor deduz o que não está dito |
+| **Contexto e situação** | Quem fala, a quem, onde e quando |
+| **Informatividade** | Equilíbrio entre o dado e o novo |
+| **Focalização** | O foco temático do texto |
+| **Consistência e relevância** | Partes sem contradição e pertinentes ao tema |
+
+- Tipos de coerência: **semântica** (relação entre significados), **sintática** (uso dos recursos sintáticos), **temática** (unidade de tema), **pragmática** (adequação ao ato de fala) e **estilística** (adequação do estilo ao gênero).
+
+## Aceitabilidade e informatividade
+- **Aceitabilidade**: o receptor reconhece o texto como útil e relevante. Um texto técnico demais, para um público leigo, pode falhar.
+- **Informatividade**: o texto muito **previsível** informa pouco ("A Câmara dos Deputados é a Câmara dos Deputados"); o muito **imprevisível** é difícil de interpretar. O ideal está no meio.
+
+=== Pegadinhas
+1. "Por ser coeso, o texto é necessariamente coerente." **Errado.** Um conector mal escolhido destrói a coerência.
+2. "O texto é coerente, logo os fatos narrados são verdadeiros." **Errado.** Coerência não é veracidade.
+3. "A coerência é uma propriedade local, observável nas ligações entre frases." **Errado.** É global; a coesão é local.
+4. "Qualquer omissão de termo constitui elipse." **Errado.** Só há elipse se o termo for recuperável.
+5. "A intencionalidade está centrada no receptor." **Errado.** É do produtor; a aceitabilidade é do receptor.
+6. "A catáfora retoma um termo já citado." **Errado.** Retoma a **anáfora**; catáfora antecipa.
+7. "Para evitar a repetição, o hiperônimo preserva sempre a precisão da retomada." **Errado.** Mantém a coesão, mas perde precisão.
+8. "Um texto com muita repetição de ideias é altamente informativo." **Errado.** A repetição reduz a informatividade.
+
+=== Revisão rápida
+- **Sete critérios**: coesão, coerência, intencionalidade, aceitabilidade, informatividade, situacionalidade, intertextualidade.
+- **Coesão** = ligação formal, local. **Coerência** = sentido, global; ≠ veracidade.
+- **Anáfora** retoma; **catáfora** antecipa. **Elipse** exige termo recuperável.
+- **Este/isto** para o que vem; **esse/isso** para o que passou; **este** = mais próximo, **aquele** = mais distante.
+- **Progressão temática**: linear (rema vira tema), tema constante, temas derivados.
+- Intencionalidade (produtor) x aceitabilidade (receptor).
+- Texto previsível = pouca informatividade.
