@@ -50,7 +50,8 @@ func _icone(pai: Control, id: String, esc: float) -> Control:
 
 func garagem(msg: String, foco := "") -> void:
 	_sub = ""
-	var v := Game.tela(self, "GARAGEM — cada peça passa por uma inspeção de perguntas")
+	var nc: String = Game.CATEGORIAS[Game.s.cat].nome
+	var v := Game.tela(self, "GARAGEM %s — peças só deste carro; cada uma passa por inspeção" % nc.to_upper())
 	if msg != "":
 		Game.rotulo(v, msg, 22, Color("#9dffb8"), true)
 	var duas := HBoxContainer.new()
@@ -127,13 +128,19 @@ func garagem(msg: String, foco := "") -> void:
 			primeiro = b
 	var rod := Game.rodape(v)
 	var deve := int(Game.s.divida)
+	var cats: Array = Game.CATEGORIAS.keys().filter(Game.cat_liberada)
+	var bg := Game.botao(rod, "OUTRA GARAGEM ▶", func():  # passa para a garagem da próxima categoria liberada
+		Game.s.cat = cats[(cats.find(Game.s.cat) + 1) % cats.size()]
+		Game.salvar()
+		garagem("Garagem: %s." % Game.CATEGORIAS[Game.s.cat].nome, "outra"))
+	bg.disabled = cats.size() < 2
 	Game.botao(rod, "♪ OUVIR MOTOR", _ouvir.bind([]))
 	var bb := Game.botao(rod, "QUITAR DÍVIDA ($ %d)" % deve if deve else "BANCO: EMPRÉSTIMO $ %d" % Game.EMPRESTIMO, _quitar if deve else _emprestimo)
 	Game.botao(rod, "◀ MENU", func(): get_tree().change_scene_to_file("res://Main.tscn"))
 	var bcamp := Game.botao(rod, "CAMPEONATO ▶", func():
 		Game.abrir = "campeonato"
 		get_tree().change_scene_to_file("res://Main.tscn"))
-	var alvo: Button = bm if foco == "carro" else bb if foco == "banco" else (bc if bc else (primeiro if primeiro else bcamp))
+	var alvo: Button = bm if foco == "carro" else bb if foco == "banco" else bg if foco == "outra" else (bc if bc else (primeiro if primeiro else bcamp))
 	alvo.call_deferred("grab_focus")
 
 
@@ -233,9 +240,9 @@ func _comprar(k: String, escolha: int) -> void:
 			Game.salvar()
 			return
 		Game.s.moedas -= p
-		var lista: Array = Game.s.up.get(k, [])
+		var lista: Array = Game.up().get(k, [])
 		lista.append(escolha)
-		Game.s.up[k] = lista
+		Game.up()[k] = lista
 		Game.salvar()
 		Som.sfx("moeda")
 		garagem("APROVADO: %s instalado por $ %d." % [nome, p], k))

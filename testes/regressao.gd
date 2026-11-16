@@ -1,6 +1,6 @@
 extends SceneTree
 # Rodar (com janela): Godot_v4.7.2-stable_win64_console.exe --path <projeto> -s testes/regressao.gd --quit-after 6000
-# Passou = aparece "REG FIM" e nenhuma linha "SCRIPT ERROR". Não grava o save (Game.teste).
+# Passou = aparece "REG FIM" e nenhuma linha "SCRIPT ERROR" nem "REG FALHA". Não grava o save (Game.teste).
 # Regressão depois da otimização: telas abrem, corrida roda nos dois modos, conteúdo carrega, tempo de carga.
 
 func _init() -> void:
@@ -14,6 +14,21 @@ func _init() -> void:
 	Q.carregar_perguntas()
 	print("REG carga do conteudo: ", Time.get_ticks_msec() - t, " ms; perguntas=", Q.perguntas.size(), " modulos=", Q.modulos.size())
 	print("REG leve auto=", G.leve(), " nucleos=", OS.get_processor_count(), " SR=", S.SR)
+	# questão AB precisa caber numa linha do painel da corrida (76% de 1280 px, fonte 28/26)
+	var fonte: Font = ThemeDB.fallback_font
+	var lim := 1280.0 * 0.76 - 28.0
+	for it in Q.perguntas:
+		if it.tipo == "ab":
+			var w: float = fonte.get_string_size("[LB]  " + str(it.opcoes[0]), 0, -1, 28).x + fonte.get_string_size(str(it.opcoes[1]) + "  [RB]", 0, -1, 28).x
+			if w > lim or fonte.get_string_size(str(it.enunciado), 0, -1, 26).x > lim:
+				print("REG FALHA questão longa demais para a corrida: ", it.id)
+	# garagem por categoria: save antigo (uma garagem só) vira uma por categoria sem perder peças
+	var velho := {"up": {"motor": [1.0, 0.0], "pneus": 2}, "ups": {}}
+	G._migra_ups(velho)
+	var gar_ok: bool = not velho.has("up") and velho.ups.size() == G.CATEGORIAS.size() and velho.ups.rali.motor == [1.0, 0.0] and velho.ups.gt.pneus == [0, 0]
+	velho.ups.gt.motor.append(1)
+	gar_ok = gar_ok and velho.ups.rali.motor.size() == 2  # comprar no GT não muda o rali
+	print("REG garagens ", "ok" if gar_ok else "FALHA na migração")
 	for qual in ["alta", "leve"]:
 		G.s.qual = qual
 		for caso in [["gt", 0], ["stock", 3], ["rali", 7], ["formula", 11]]:

@@ -182,7 +182,7 @@ func _ready() -> void:
 
 # ------------------------------------------------------------ progresso
 func _carrega() -> Dictionary:
-	var d := {"moedas": 500, "up": {}, "carro": 0, "cor": 0, "cores": [0], "res": {}, "err": {}, "visto": {}, "ac": 0, "tot": 0, "vol": [0.5, 0.7], "manual": false, "divida": 0,
+	var d := {"moedas": 500, "ups": {}, "carro": 0, "cor": 0, "cores": [0], "res": {}, "err": {}, "visto": {}, "ac": 0, "tot": 0, "vol": [0.5, 0.7], "manual": false, "divida": 0,
 		"cat": "gt", "eqres": {}, "equipes": [[0, 1], [2, 3], [4, 5], [6, 7], [8, 9], [10, EU]], "qual": "auto"}
 	if FileAccess.file_exists(SAVE):
 		var lido = JSON.parse_string(FileAccess.get_file_as_string(SAVE))
@@ -192,7 +192,7 @@ func _carrega() -> Dictionary:
 		d.cat = "gt"
 	if not d.qual in ["auto", "alta", "leve"]:
 		d.qual = "auto"
-	_migra_up(d.up)
+	_migra_ups(d)
 	d.res = _migra_res(d.res)
 	d.equipes = d.equipes.map(func(e): return [int(e[0]), int(e[1])])  # o JSON devolve float
 	return d
@@ -204,6 +204,18 @@ static func _migra_res(res: Dictionary) -> Dictionary:
 		if str(k).is_valid_int():
 			return {"gt": res}
 	return res
+
+
+## Cada categoria tem garagem própria (d.ups[cat]). Save antigo tinha uma garagem só (d.up):
+## todas as categorias herdam as peças já compradas, para ninguém perder o que pagou.
+static func _migra_ups(d: Dictionary) -> void:
+	var velho: Dictionary = d.get("up", {})
+	_migra_up(velho)
+	for c in CATEGORIAS:
+		if not d.ups.get(c) is Dictionary:
+			d.ups[c] = velho.duplicate(true)
+		_migra_up(d.ups[c])
+	d.erase("up")
 
 
 ## Save antigo guardava só o nível de cada upgrade: vira a primeira opção de cada nível.
@@ -230,8 +242,13 @@ func apagar() -> void:
 	Som.vol(s.vol[0], s.vol[1])
 
 
+## Peças da garagem da categoria atual: {"motor": [opção do nível 1, ...], ...}.
+func up() -> Dictionary:
+	return s.ups[s.cat]
+
+
 func lv(k: String) -> int:
-	return s.up.get(k, []).size()
+	return up().get(k, []).size()
 
 
 ## Modo leve: pista menos profunda (Race) e som sintetizado a 11 kHz (Som), para PCs fracos.
@@ -243,7 +260,7 @@ func leve() -> bool:
 
 ## Peça instalada no nível n (0..2) da categoria k: [id, nome, descrição, efeitos].
 func peca(k: String, n: int) -> Array:
-	return PECAS[k][n][int(s.up[k][n])]
+	return PECAS[k][n][int(up()[k][n])]
 
 
 ## Asa que aparece no carro: a das peças de carenagem, se houver; senão, a do modelo (ver Car.desenhar).
@@ -272,7 +289,7 @@ func preco(k: String, n: int, i: int) -> int:
 ## Ids de todas as peças instaladas (para o timbre do motor).
 func pecas_ids() -> Array:
 	var ids := []
-	for k in s.up:
+	for k in up():
 		for n in lv(k):
 			ids.append(peca(k, n)[0])
 	return ids
@@ -281,7 +298,7 @@ func pecas_ids() -> Array:
 ## Soma de um efeito em todas as peças instaladas.
 func ef(e: String) -> float:
 	var t := 0.0
-	for k in s.up:
+	for k in up():
 		for n in lv(k):
 			t += float(peca(k, n)[3].get(e, 0.0))
 	return t

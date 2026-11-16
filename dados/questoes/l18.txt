@@ -14,6 +14,6 @@ CE | C | Os gêneros secundários, para Bakhtin, são complexos e surgem em esfe
 CE | E | Os gêneros primários são aqueles surgidos em situações institucionais elaboradas, como o parecer. | Primários são os da comunicação imediata, como a conversa e o bilhete.
 CE | C | Para Bakhtin, o gênero do discurso se caracteriza por conteúdo temático, estilo e construção composicional. | Os três elementos definem o gênero.
 CE | C | O dialogismo é mais amplo que a intertextualidade, que é uma de suas manifestações concretas. | Todo texto é dialógico; nem todo é explicitamente intertextual.
-AB | O fenômeno pelo qual todo enunciado responde a outros e antecipa respostas é o... | dialogismo | monologismo | O dialogismo é constitutivo da linguagem.
+AB | Todo enunciado responde a outros e antecipa respostas: é o... | dialogismo | monologismo | O dialogismo é constitutivo da linguagem.
 AB | Na teoria de Ducrot, o locutor encena... | enunciadores | gêneros primários | Pontos de vista encenados no enunciado.
-AB | O discurso atravessado por outros discursos, mesmo sem marca, revela a heterogeneidade... | constitutiva | mostrada | A mostrada é marcada no texto, por aspas, citação ou outro recurso.
+AB | Outros discursos presentes sem marca: heterogeneidade... | constitutiva | mostrada | A mostrada é marcada no texto, por aspas, citação ou outro recurso.

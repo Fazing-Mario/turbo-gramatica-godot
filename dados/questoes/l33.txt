@@ -14,6 +14,6 @@ CE | C | O parecer pode apresentar ementa, relatório, análise e conclusão. | 
 CE | C | A certidão atesta fato já registrado, com fórmulas como certifico que. | Reproduz o que consta de registro.
 CE | E | Certidão e certificado são termos sinônimos. | A certidão atesta fato já registrado; o certificado atesta algo para criar o registro.
 CE | C | A certidão é emitida por autoridade competente, a pedido do interessado. | Não cria fato novo; reproduz o que já consta.
-AB | A expressão que corrige, dentro da ata, um erro percebido logo após escrito é... | digo | em tempo | Em tempo acrescenta ou corrige depois de concluída a ata.
+AB | Na ata, o que corrige um erro logo após escrito é... | digo | em tempo | Em tempo acrescenta ou corrige depois de concluída a ata.
 AB | O documento que instrui a decisão sem decidir é o... | parecer | relatório | O relatório narra atividades concluídas.
 AB | O documento que atesta fato já registrado é a... | certidão | ata | A ata registra a reunião.

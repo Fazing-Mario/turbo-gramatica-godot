@@ -15,5 +15,5 @@ CE | E | Na progressão linear, o mesmo tema recebe sucessivos remas novos. | Is
 CE | C | Textos que apenas repetem a mesma informação podem ser coesos, mas têm baixa informatividade. | A repetição reduz o grau de novidade.
 CE | C | O conhecimento de mundo do leitor é um fator relevante para a construção da coerência. | O leitor completa o que não está dito.
 AB | Qual critério de textualidade é centrado no receptor? | aceitabilidade | intencionalidade | A intencionalidade está do lado do produtor.
-AB | Em O relator votou a favor; o presidente, contra, o verbo votou omitido no segundo trecho caracteriza... | elipse | catáfora | O termo omitido é recuperável no próprio texto.
+AB | O relator votou a favor; o presidente, contra. A omissão é... | elipse | catáfora | O termo omitido é recuperável no próprio texto.
 AB | A coerência tem alcance... | global | local | A coesão é local; a coerência envolve o todo do texto.

@@ -25,5 +25,5 @@ AB | "___-se de vendedores": | Precisa | Precisam | VTI + se: verbo no singular.
 AB | Em "Choveu muito", o sujeito é: | inexistente | oculto | Fenômeno da natureza: oração sem sujeito.
 AB | Em "Roubaram meu carro" (sem referente no texto), o sujeito é: | indeterminado | oculto | Verbo na 3ª pessoa do plural sem referente.
 AB | Em "favorável ao projeto", "ao projeto" é: | complemento nominal | objeto indireto | Completa um adjetivo.
-AB | Passiva de "Os fiscais estavam vistoriando a obra": | A obra estava sendo vistoriada pelos fiscais | A obra foi vistoriada pelos fiscais | Estavam vistoriando → estava sendo vistoriada.
+AB | Passiva de "Os fiscais estavam vistoriando a obra": | A obra estava sendo vistoriada | A obra foi vistoriada | Estavam vistoriando → estava sendo vistoriada.
 AB | Em "Elegeram-no presidente", "presidente" é: | predicativo do objeto | aposto | Caracteriza o objeto "no".

@@ -14,6 +14,6 @@ CE | C | Aspas em torno de transparência, em A transparência do processo, pode
 CE | E | A correção gramatical de um texto garante sua adequação a qualquer gênero. | Um texto correto pode ser inadequado, como uma ata em tom de manifesto.
 CE | C | A ata deve registrar fatos sem opinião, em linguagem impessoal e precisa. | A adequação ao gênero exige objetividade.
 CE | C | O discurso parlamentar na tribuna admite ênfase, vocativos e figuras de linguagem, ao contrário de uma ata. | Cada gênero tem sua linguagem própria.
-AB | O discurso que não apresenta marcas gráficas nem verbo dicendi e mistura as vozes do narrador e da personagem é o... | indireto livre | direto | O direto traz marcas como dois-pontos, travessão ou aspas.
+AB | Vozes misturadas, sem aspas nem verbo dicendi: discurso... | indireto livre | direto | O direto traz marcas como dois-pontos, travessão ou aspas.
 AB | Na passagem do direto para o indireto, aqui passa a... | ali | aqui | Os dêiticos de lugar se ajustam à voz do narrador.
 AB | O verbo dicendi que sugere distanciamento do autor é... | alegar | esclarecer | Esclarecer sugere que o conteúdo é verdadeiro.

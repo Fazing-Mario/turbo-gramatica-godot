@@ -97,6 +97,7 @@ var rpm := 0.0
 var fuel := 1.0
 var nitro := 1
 var nitro_t := 0.0
+var vac_eu := 0.0  # vácuo do jogador atrás de um rival (calculado no quadro anterior)
 var dist := 0.0
 var pos := 0.0
 var pz_ant := 0.0
@@ -119,6 +120,7 @@ var derr := 0.0
 var fre := false
 var fora := false
 var fum := 0.0
+var terra := false  # rali corre em estrada de terra
 var pos_final := 0
 var fim_t := 0.0
 var pausado: Control = null
@@ -175,6 +177,13 @@ func _ready() -> void:
 	for k in ["ceu0:3", "ceu1:4", "astro:5", "serra1:7", "serra2:8", "g0:10", "g1:11", "p0:12", "p1:13", "z0:14", "z1:15", "folha:16"]:
 		var par: PackedStringArray = k.split(":")
 		C[par[0]] = Color(T[int(par[1])])
+	terra = cat == "rali"
+	if terra:  # estrada de terra: chão batido puxado para a cor do gramado local, bordas de barro e sulcos de pneu
+		C.p0 = Color("#875531").lerp(C.g0, 0.08)
+		C.p1 = Color("#7b4c2c").lerp(C.g0, 0.08)
+		C.z0 = Color("#55361c")
+		C.z1 = C.g1.lerp(Color("#55361c"), 0.6)
+		C.sulco = C.p0.darkened(0.22)
 	for k in 14:
 		_ceu_c.append(C.ceu0.lerp(C.ceu1, k / 13.0))
 	_ent_caixa = _ent("caixa", 0.0, 0)
@@ -380,7 +389,9 @@ func _cria_rivais() -> void:
 		var rt: float = eq[4]  # ritmo da equipe
 		cars.append({"id": id, "z": z, "dist": z, "off": off, "speed": 0.0, "vmax": VMAX * (1 + 0.07 * L) * p[0] * forma[id] * RITMO * rt * cv_[0],
 			"vc": VMAX * sqrt(3.6 / (1 - 0.11 * L)) * p[1] * forma[id] * rt * cv_[1], "ace": VMAX / 6.5 * (1 + 0.1 * L) * cv_[2], "mi": id % 4,
-			"cor": Color(eq[1]), "faixa": Color(eq[2]), "vir": 0, "lado": 0, "j": cars.size()})
+			"cor": Color(eq[1]), "faixa": Color(eq[2]), "vir": 0, "lado": 0, "j": cars.size(),
+			# estratégia: 0 agressivo (ataca e fecha a porta), 1 calculista (guarda tudo para a última volta), 2 conservador (nitro só na reta final)
+			"tipo": id % 3, "base": off * 0.6, "nit": 1 + int(eq[3] >= 4), "nit_t": 0.0})
 	nitro = 1 + int(E.nitro_n)
 
 
@@ -660,7 +671,7 @@ func _atualiza(dt: float) -> void:
 	steer += (dir - steer) * minf(1.0, dt * 12.0)
 	fre = freio > 0.1
 	var nit := nitro_t > 0
-	var vtop: float = VMAX * md.vel * (1 + E.vel) * (1.25 + E.nitro_f if nit else 1.0)
+	var vtop: float = VMAX * md.vel * (1 + E.vel) * (1.25 + E.nitro_f if nit else 1.0) * (1.0 + vac_eu)
 	var lim := vtop * (0.25 if fuel <= 0 else 1.0)
 	var sp := speed / VMAX
 	var ps := int((pos + PZ) / SEG) % N
@@ -723,29 +734,71 @@ func _atualiza(dt: float) -> void:
 	var todos := cars.duplicate()
 	if eu:
 		todos.append(eu)
-	# adversários: aceleram até a própria máxima, freiam antes das curvas e desviam de quem está mais lento
+	# adversários: freiam antes das curvas, tangenciam por dentro, pegam vácuo, ultrapassam pelo lado de dentro
+	# da próxima curva, fecham a porta de quem ataca e usam o nitro conforme a estratégia de cada um
+	vac_eu = 0.0
 	for c in cars:
+		var ultima: bool = c.dist >= comp * (Game.VOLTAS - 1)
 		var si := int(c.z / SEG) % N
 		var cvv := maxf(absf(curva[si]), absf(curva[(si + 18) % N]))
-		var alvo: float = minf(c.vmax, c.vc / sqrt(cvv) if cvv > 0.5 else 1e9)
-		c.speed = minf(alvo, c.speed + c.ace * dt) if c.speed < alvo else maxf(alvo, c.speed - VMAX * 0.8 * dt)
+		var reta: bool = cvv < 0.5 and absf(curva[(si + 36) % N]) < 0.5
 		c.vir = clampi(roundi(curva[si] / 2.5), -2, 2)
 		var lado := 1 if c.dist > dist else -1
 		if c.lado and lado != c.lado and absf(c.off - x) < 1.2:
 			Som.sfx("passa")
 		c.lado = lado
 		var dx2 := 0.0
+		var vac := 0.0
+		var preso := -1.0  # velocidade de quem está colado à frente, sem espaço para passar
+		var frente = null
+		var atras = null
 		for o in todos:
 			if is_same(o, c):
 				continue
 			var d := fposmod(o.z - c.z, comp)
+			if d > SEG * 1.5 and d < SEG * 6 and absf(o.off - c.off) < 0.4:
+				vac = 0.03  # vácuo: o ar já furado pelo carro da frente (colado ou lado a lado, não vale)
 			if d > 0 and d < SEG * 10 and o.speed < c.speed and absf(o.off - c.off) < 0.32:
-				dx2 = 1.0 if c.off >= o.off else -1.0
+				frente = o
+				var dentro := signf(curva[(si + 12) % N])  # passa por dentro da próxima curva; na reta, pelo lado livre
+				dx2 = dentro if dentro != 0.0 else (1.0 if c.off >= o.off else -1.0)
 				if absf(c.off + dx2 * 0.4) > 0.85:
 					dx2 = -dx2
 				if d < SEG * 1.3:
-					c.speed = minf(c.speed, o.speed)
-		c.off = clampf(c.off + dx2 * dt * 1.5, -0.85, 0.85)
+					preso = o.speed
+			elif comp - d < SEG * 5 and o.speed >= c.speed * 0.98:
+				atras = o
+		# nitro: só na reta e na corrida valendo
+		if c.nit > 0 and c.nit_t <= 0.0 and reta and est == "corrida":
+			var usa := false
+			match c.tipo:
+				0: usa = frente != null
+				1: usa = ultima and (frente != null or atras != null)
+				2: usa = comp * Game.VOLTAS - c.dist < comp * 0.3
+			if usa:
+				c.nit -= 1
+				c.nit_t = 2.5
+		c.nit_t -= dt
+		var nt: bool = c.nit_t > 0
+		var alvo: float = minf(c.vmax * (1.0 + vac) * (1.15 if nt else 1.0), c.vc / sqrt(cvv) if cvv > 0.5 else 1e9)
+		var ac: float = c.ace * (1.8 if nt else 1.0)
+		c.speed = minf(alvo, c.speed + ac * dt) if c.speed < alvo else maxf(alvo, c.speed - VMAX * 0.8 * dt)
+		if preso >= 0.0:
+			c.speed = minf(c.speed, preso)
+		if dx2 != 0.0:
+			c.off += dx2 * dt * 1.5
+		else:  # traçado: tangencia a curva que vem; na reta, defende a posição ou volta à sua faixa
+			var linha: float = c.base
+			var cp: float = curva[(si + 8) % N]
+			if absf(cp) > 0.5:
+				linha = clampf(cp * 0.15, -0.55, 0.55)
+			elif atras and (c.tipo == 0 or ultima):
+				linha = clampf(atras.off, -0.7, 0.7)  # fecha a porta
+			c.off = move_toward(c.off, linha, dt * 0.6)
+		c.off = clampf(c.off, -0.85, 0.85)
+		var de := fposmod(c.z - pz, comp)
+		if eu and de > SEG * 1.5 and de < SEG * 6 and absf(c.off - x) < 0.4:
+			vac_eu = 0.03
 		c.z = fmod(c.z + c.speed * dt, comp)
 		c.dist += c.speed * dt
 		# batida: na traseira perde velocidade e é empurrado de lado
@@ -977,6 +1030,11 @@ func _desenha() -> void:
 			for k in 12:
 				if (k + i) % 2:
 					_rq(asx - asw + asw * k / 6.0, asx - asw + asw * (k + 1) / 6.0, bsx - bsw + bsw * (k + 1) / 6.0, bsx - bsw + bsw * k / 6.0, asy, bsy, K_111111)
+		elif terra:  # sulcos de pneu no lugar da pintura
+			for e in [-0.45, -0.3, 0.3, 0.45]:
+				var la: float = asx + asw * e
+				var lb: float = bsx + bsw * e
+				_rq(la - asw * 0.04, la + asw * 0.04, lb + bsw * 0.04, lb - bsw * 0.04, asy, bsy, C.sulco)
 		elif asw > 14.0:  # mais longe que isso as faixas finas têm menos de 1 px: não valem o desenho
 			for e in BORDAS:  # faixas de borda
 				var la: float = asx + asw * e
@@ -1025,9 +1083,9 @@ func _desenha() -> void:
 	var tre := (randi() % 3 - 1) if fora and qv > 0.05 else 0
 	var px := W / 2.0 - 36.0 + (randi() % 2 if fora else 0)
 	var py := H - 44.0 + (randi() % 2 if qv > 0.02 else 0) + tre
-	if fum > 0 and qv > 0.1:
+	if (fum > 0 or terra) and qv > 0.1:  # na terra a poeira sobe sempre
 		for k in 6:
-			var c2: Color = C.g1 if fora else K_d8d8d8
+			var c2: Color = C.g1 if fora else (C.p0.lightened(0.25) if terra else K_d8d8d8)
 			var w := 2 + randi() % 4
 			cv.draw_rect(Rect2(px + 8 + randf() * 10, py + 30 + randf() * 10, w, w), c2)
 			cv.draw_rect(Rect2(px + 52 + randf() * 10, py + 30 + randf() * 10, w, w), c2)
@@ -1156,6 +1214,9 @@ func _rival(c: Dictionary, j: int, X: float, Y: float, kk: float, lim: float) ->
 		_do_atlas(rg, 80.0, 44.0, X, Y + 2.0 * kk, kk, -1.0 if c.vir < 0 else 1.0, lim)
 	else:
 		Car.desenhar(cv, Vector2(X, Y), kk, c.mi, c.cor, c.vir, false, -1, cat, c.faixa)
+	if c.nit_t > 0 and Y - 7.0 * kk < lim:  # chama do nitro, como a do jogador
+		for fx in [-19.0, 14.0]:
+			cv.draw_rect(Rect2(X + fx * kk, Y - 7.0 * kk, 5.0 * kk, (4 + randi() % 7) * kk), K_ff7a1a)
 
 
 ## Cenário em pixel art; (0,0) do desenho = canto superior esquerdo do sprite.

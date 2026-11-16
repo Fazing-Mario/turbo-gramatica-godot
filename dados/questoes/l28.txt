@@ -15,5 +15,5 @@ CE | C | Em Os brasileiros somos pacientes, há silepse de pessoa. | O falante s
 CE | E | Em A gente somos responsáveis, há silepse de pessoa aceita pela norma-padrão. | A gente pede verbo na 3ª pessoa do singular.
 CE | C | A aliteração é a repetição de sons consonantais, e a assonância, de sons vocálicos. | Exemplo de aliteração: O rato roeu a roupa do rei de Roma.
 AB | A figura que consiste na ruptura da estrutura sintática da frase é o... | anacoluto | hipérbato | O hipérbato é a inversão da ordem direta.
-AB | A ausência de conectivos entre elementos de uma enumeração caracteriza o... | assíndeto | polissíndeto | O polissíndeto repete conectivos.
+AB | Enumeração sem conectivos caracteriza o... | assíndeto | polissíndeto | O polissíndeto repete conectivos.
 AB | Quem casa quer casa exemplifica... | paronomásia | aliteração | Jogo com palavras de forma parecida.

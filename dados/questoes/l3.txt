@@ -14,6 +14,6 @@ CE | C | A capacidade de falar do passado, do futuro e do imaginário é chamada
 CE | E | A comunicação das abelhas reúne todas as propriedades da linguagem humana. | Há deslocamento, mas o repertório é fechado, sem produtividade livre.
 CE | C | Falar de conceitos como justiça e democracia exemplifica a propriedade da abstração. | A linguagem humana trata de ideias, não só de objetos presentes.
 CE | C | Na dupla articulação, unidades sem sentido, como os sons, combinam-se para formar unidades com sentido. | Conceito de André Martinet.
-AB | A queda de memória que impede o falante de concluir uma frase longa é problema de... | desempenho | competência | A competência é o saber das regras; a memória afeta o desempenho.
+AB | Esquecer o fim de uma frase longa é falha de... | desempenho | competência | A competência é o saber das regras; a memória afeta o desempenho.
 AB | A teoria que vê a língua como fenômeno mental e inato é o... | gerativismo | estruturalismo | O estruturalismo de Saussure vê a língua como sistema social de signos.
 AB | A capacidade de produzir e entender frases inéditas chama-se... | criatividade | arbitrariedade | Arbitrariedade é a relação imotivada entre significante e significado.

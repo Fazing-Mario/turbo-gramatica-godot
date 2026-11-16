@@ -44,9 +44,11 @@ No menu, use as setas (ou o analógico) para mover e Enter (ou A) para escolher.
 1. Na tela inicial, escolha **CAMPEONATO** e depois uma categoria (GT, Stock, Rali ou Fórmula).
 2. Cada categoria tem 12 corridas. A 12ª é a final, que revisa tudo da categoria.
 3. Antes de cada corrida, leia a aula. Depois, responda as perguntas durante a prova.
-4. Com o dinheiro das corridas, você compra peças na **GARAGEM** (motor, freios, aerodinâmica, etc.).
-5. **TREINO LIVRE** deixa você estudar qualquer módulo sem correr.
-6. **CADERNO DE ERROS** reúne as questões que você errou, para revisar.
+4. Com o dinheiro das corridas, você compra peças na **GARAGEM** (motor, freios, aerodinâmica, etc.). Cada categoria tem sua própria garagem: as peças do Rali não valem na Fórmula. Use **OUTRA GARAGEM** para trocar.
+5. No Rali, as corridas são em estrada de terra.
+6. Os rivais pegam vácuo, defendem a posição e usam nitro, cada um com sua estratégia. Você também ganha vácuo ao andar logo atrás de um carro.
+7. **TREINO LIVRE** deixa você estudar qualquer módulo sem correr.
+8. **CADERNO DE ERROS** reúne as questões que você errou, para revisar.
 
 ## Opções
 

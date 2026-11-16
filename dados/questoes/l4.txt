@@ -14,6 +14,6 @@ CE | C | Os termos invasão e ocupação, ao designarem o mesmo fato, podem reve
 CE | C | Em O deputado conversou com o assessor em seu gabinete, a ambiguidade é de natureza estrutural. | A organização da frase permite duas leituras para o possessivo.
 CE | C | A passagem de ministro como servo para ministro como alta autoridade ilustra melhoria semântica. | Mudança de sentido ao longo do tempo.
 CE | C | O contexto, o conhecimento de mundo e o campo semântico ajudam a eliminar leituras incompatíveis de uma expressão ambígua. | São os recursos de desambiguação.
-AB | Cadeira como cargo no Senado, em ocupa uma cadeira no Senado, é exemplo de... | sentido contextual | referente | O sentido é o valor da palavra no enunciado; o referente é a coisa do mundo.
+AB | Cadeira como cargo, em ocupa uma cadeira no Senado, é... | sentido contextual | referente | O sentido é o valor da palavra no enunciado; o referente é a coisa do mundo.
 AB | O campo semântico de plenário, relator, emenda e votação é... | o Parlamento | o radical comum | Mesmo radical é campo lexical; aqui o critério é o tema.
-AB | Estrela da manhã e estrela da tarde, ambas apontando para Vênus, ilustram... | mesmo referente, sentidos diferentes | mesmo sentido, referentes diferentes | É o exemplo de Frege sobre sentido e referência.
+AB | Estrela da manhã e estrela da tarde (Vênus) têm... | 1 referente, 2 sentidos | 1 sentido, 2 referentes | É o exemplo de Frege sobre sentido e referência.

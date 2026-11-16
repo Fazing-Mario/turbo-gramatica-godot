@@ -15,5 +15,5 @@ CE | E | Na redação oficial, predominam as funções emotiva e poética. | Pre
 CE | C | Uma definição legal, como Para os efeitos desta Lei, considera-se..., exemplifica a função metalinguística. | O texto fala do próprio código.
 CE | C | A função da linguagem acompanha o gênero, mas não se confunde com ele: uma carta pode ser emotiva ou referencial. | A função depende do foco, não só do gênero.
 AB | Qual função predomina em uma ata de reunião? | referencial | emotiva | A ata informa com objetividade.
-AB | Em Por quórum entende-se o número mínimo de presentes, a função predominante é a... | metalinguística | conativa | O texto define um termo do próprio código.
+AB | Por quórum entende-se o mínimo de presentes: função... | metalinguística | conativa | O texto define um termo do próprio código.
 AB | O trecho Pela ordem, Sr. Presidente! apresenta predomínio da função... | conativa | referencial | Chama o interlocutor e busca sua atenção para o pedido.

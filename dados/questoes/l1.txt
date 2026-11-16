@@ -14,6 +14,6 @@ CE | C | Em uma abordagem linguística, a expressão efetivamente usado remete �
 CE | E | A língua, por ser social, é imutável no tempo. | A língua muda, mas pelas falas que a comunidade aceita e repete.
 CE | C | O mesmo enunciado pode constituir discursos diferentes, conforme quem o diz e em que situação. | O sentido depende das condições de produção, não só das palavras.
 CE | C | A semântica e a pragmática distinguem-se porque a primeira trata do significado e a segunda, do sentido em uso, conforme intenção e contexto. | Semântica: significado. Pragmática: sentido em uso.
-AB | Segundo Saussure, a língua é... | um sistema social de signos | um ato individual de cada falante | Língua é social; o ato individual é a fala.
-AB | A atitude da gramática normativa diante da língua é... | prescritiva: indica o que se deve usar | descritiva: apenas registra o que se usa | Descrever é a atitude da Linguística; a normativa prescreve.
-AB | Dialeto é... | variedade ligada a um grupo de falantes | língua de uma nação inteira | A língua de uma nação é o idioma; o dialeto é a variedade de um grupo.
+AB | Segundo Saussure, a língua é... | sistema social de signos | ato individual do falante | Língua é social; o ato individual é a fala.
+AB | A gramática normativa é... | prescritiva: dita o certo | descritiva: registra o uso | Descrever é a atitude da Linguística; a normativa prescreve.
+AB | Dialeto é... | variedade de um grupo | língua de uma nação | A língua de uma nação é o idioma; o dialeto é a variedade de um grupo.
